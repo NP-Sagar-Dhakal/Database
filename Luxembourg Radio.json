@@ -1,0 +1,428 @@
+{
+  "NepalNews": [
+    {
+      "NepaliRadios": [
+        {
+          "stationName": "AIR FM 24",
+          "stationLink": "http://stream.airfm24.lu:8000/airfm24.mp3?1520680245523",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/AIR-FM-24.jpg",
+          "stationDetail": "AirFM24.lu Internet HitRadio",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "CLUB 74",
+          "stationLink": "https://club74.stream.laut.fm/club_74",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/club-74.jpg",
+          "stationDetail": "Rock - Synthiziser - Fusion",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Crazy Poisons Radio",
+          "stationLink": "http://85.25.246.8:20720/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Crazy-Poisons-Radio.jpg",
+          "stationDetail": "IRRE WebRadio",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Dream Stream",
+          "stationLink": "http://listento.dreamstream.mobi/hits.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Dream-Stream.jpg",
+          "stationDetail": "Waalwijk, Luxembourg",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Eldoradio",
+          "stationLink": "http://sc-eldolive.newmedia.lu/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Eldoradio.jpg",
+          "stationDetail": "Luxembourg - 105.0 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Eldoradio 80s",
+          "stationLink": "http://sc-alternative.eldoradio.lu:80/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/Eldoradio-80s-1.jpg",
+          "stationDetail": "Luxembourg - Online",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Eldoradio 90s",
+          "stationLink": "http://sc-eldo90s.newmedia.lu/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Eldoradio-90s.jpg",
+          "stationDetail": "www.eldo.lu",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Eldoradio Alternative",
+          "stationLink": "http://sc-alternative.eldoradio.lu:80/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/eldoradio-alternative-1.jpg",
+          "stationDetail": "www.eldo.lu",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Eldoradio Chill",
+          "stationLink": "http://sc-eldochill.newmedia.lu:80",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/eldoradio-chill-1.jpg",
+          "stationDetail": "www.eldo.lu",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "FRL Free Radio Luxembourg",
+          "stationLink": "https://listen.radioking.com/radio/66160/stream/103807",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/FRL-Free-Radio-Luxembourg.jpg",
+          "stationDetail": "Luxembourg - Online",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Helix Radio",
+          "stationLink": "http://51.255.235.165:5164/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Helix-Radio.jpg",
+          "stationDetail": "Luxembourg - Online",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro",
+          "stationLink": "http://listen.radionomy.com/JamPRO-WelcomeAsia?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Jam-Pro.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Ambiance Lounge",
+          "stationLink": "http://listen.radionomy.com/JamPRO-AmbianceLounge?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Ambiance-Lounge.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Classique",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Classique?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Classique.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Electronica",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Electronica?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Electronica.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Experience",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Experience?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Experience.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Fashion",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Fashion?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Fashion.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Fitness",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Fitness?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Fitness.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Groove and Dance Pop",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Groove-DancePop?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Groove-and-Dance-Pop.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Hot Rock",
+          "stationLink": "http://listen.radionomy.com/JamPRO-HotRock?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Hot-Rock.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Jazz",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Jazz?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Jazz.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Parking",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Parking?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Parking.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Piano Bar",
+          "stationLink": "http://listen.radionomy.com/JamPRO-PianoBar?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Piano-Bar.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Pop Rock",
+          "stationLink": "http://listen.radionomy.com/JamPRO-PopRock?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-Pro-Pop-Rock.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Rhythm",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Rhythm?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Rhythm.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Romantique",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Romantique?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Romantique.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Soleil",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Soleil?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Soleil.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Tour du Monde",
+          "stationLink": "http://listen.radionomy.com/JamPRO-TourduMonde?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Tour-du-Monde.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Trendy Soft",
+          "stationLink": "http://listen.radionomy.com/JamPRO-TrendySoft?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Trendy-Soft.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Jam Pro Zen",
+          "stationLink": "http://listen.radionomy.com/JamPRO-Zen?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Jam-PRO-Zen.jpg",
+          "stationDetail": "Luxembourg - www.radionomy.com",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "JokeFM",
+          "stationLink": "http://fs3.stream24.net:8280/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/JokeFM.jpg",
+          "stationDetail": "www.jokefm.de",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "L essentiel Radio",
+          "stationLink": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/L-essentiel-Radio.jpg",
+          "stationDetail": "Differdange, Luxembourg",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "LNW Entertainment",
+          "stationLink": "mms://213.135.229.13:80",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/lnw-entertainment.jpeg",
+          "stationDetail": "radiolnw.lu",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Lusitana 106.1 FM",
+          "stationLink": "https://10.stmip.net/player_mp3.php?porta=10582",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/lusitana-106.1-fm.jpg",
+          "stationDetail": "Lusitana 106.1 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Ni Haody",
+          "stationLink": "http://nihaody.stream.laut.fm/ni_haody?t302=2018-04-05_11-52-53&uustationDetail=10350c4f-cfb2-42c9-82dd-4d1cbbd58714",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Ni-Haody-1.jpg",
+          "stationDetail": "Luxembourg",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio 100 Komma",
+          "stationLink": "http://streamserver.100komma7.lu:8000/",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-100-komma-1.jpg",
+          "stationDetail": "Luxembourg - Online",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio 100.7",
+          "stationLink": "http://213.166.52.107:8000",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-100.7.jpg",
+          "stationDetail": "Luxembourg - 100.7 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Aktiv",
+          "stationLink": "http://stream.radioaktiv.org:8233/HiFi?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-aktiv.jpeg",
+          "stationDetail": "Echternach - 106.5 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio ARA",
+          "stationLink": "http://rs1.radiostreamer.com:8030",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-ARA.jpg",
+          "stationDetail": "Luxembourg - 103.3 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Classique Bergem",
+          "stationLink": "http://rcb.zapto.org:8000/mp3?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Classique-Bergem.jpg",
+          "stationDetail": "Bergen - 106.0 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Dudelange",
+          "stationLink": "http://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-dudelange-1.jpg",
+          "stationDetail": "Dudelange - 103.6 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Gutt Laun",
+          "stationLink": "http://rgl.selfip.net:8000/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-gutt-laun.jpeg",
+          "stationDetail": "Luxembourg - 106.0 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Latina",
+          "stationLink": "http://broadcast.infomaniak.net:80/start-latina-high.mp3?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-latina-1.jpg",
+          "stationDetail": "radiolatina.lu",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Latina Lu",
+          "stationLink": "https://stream.latinaplayer.wort.lu:9443/stream",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Latina-Lu.jpg",
+          "stationDetail": "radiolatina.lu",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio LNW",
+          "stationLink": "mms://213.135.229.13:80",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-lnw-1.jpg",
+          "stationDetail": "Luxembourg - radiolnw.lu",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio LRB",
+          "stationLink": "http://zeus.lrb.lu:8000/lrb.live?1553151972397",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-LRB.jpg",
+          "stationDetail": "Betterbourg - 103.9 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Lusa",
+          "stationLink": "http://95.217.75.38:9286/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-Lusa.jpg",
+          "stationDetail": "Luxembourg - Online",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Mess",
+          "stationLink": "http://212.83.172.22/radio/25747/stream/58471",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-Mess.jpg",
+          "stationDetail": "Luxembourg - Online",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Northsea",
+          "stationLink": "http://radionorthsea.zapto.org:8008/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-northsea.jpeg",
+          "stationDetail": "radionorthsea.rad.io",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Petange on Air",
+          "stationLink": "http://stream.petangeonair.lu:9000/live",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-Petange-on-Air.jpg",
+          "stationDetail": "Luxembourg - www.peitengonair.lu",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Puls",
+          "stationLink": "http://82.145.43.92:8312/stream?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/Radio-Puls-1.jpg",
+          "stationDetail": "Luxembourg - Online",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Sympa",
+          "stationLink": "http://www.radiocampusparis.org:8000/stream_rcp?type=.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Sympa.jpg",
+          "stationDetail": "Luxembourg -Online",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Radio Tugalux",
+          "stationLink": "http://195.154.176.199:9328/;",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Radio-Tugalux.jpg",
+          "stationDetail": "49812",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "RBV Radio Belle Vallee",
+          "stationLink": "http://radio.rbv.lu:8002/;stream.mp3",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/RBV-Radio-Belle-Vallee.jpg",
+          "stationDetail": "Belvaux - 107.0 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "RemixColor",
+          "stationLink": "http://137.74.193.0:8000/Title1=RemixColorLength1=-1Version=2",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/remixcolor.jpg",
+          "stationDetail": "Luxembourg - 106 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Rom 106 FM",
+          "stationLink": "http://rs1.radiostreamer.com:8270",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/rom-106-fm-1.jpg",
+          "stationDetail": "49773",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "ROM 106.5 FM",
+          "stationLink": "http://rs1.radiostreamer.com:8270",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/ROM-106.5-FM1.jpg",
+          "stationDetail": "Luxembourg - 106.5 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "RTL Radio",
+          "stationLink": "http://rtldtl.hoerradar.de/rtldtl-national-mp3-128",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/RTL-Radio.jpg",
+          "stationDetail": "49779",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "RTL Radio lu",
+          "stationLink": "http://sc-rtllive.newmedia.lu",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/RTL-Radio-lu.jpg",
+          "stationDetail": "Luxembourg - 88.9 FM",
+          "stationLocation": "94"
+        },
+        {
+          "stationName": "Vivacite Luxembourg",
+          "stationLink": "http://vivaciteluxembourg.ice.rtbf.be/vivalux-64.aac",
+          "stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Vivacite-Luxembourg.jpg",
+          "stationDetail": "Marche-en-Famenne - 95.2 FM",
+          "stationLocation": "94"
+        }
+      ]
+    }
+  ]
+}
