@@ -1,0 +1,435 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "CHILLEST",
+					"stationLink": "https://19013.live.streamtheworld.com/SP_R2320766_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/CHILLEST.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "D FM",
+					"stationLink": "http://striiming.trio.ee/dfm.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/D-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DFM 90.2",
+					"stationLink": "http://217.146.71.24:80/dfm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/dfm-90.2.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy FM 93.2",
+					"stationLink": "http://nrj.babahhcdn.com/NRJ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/energy-fm-93.2-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HappyU Radio",
+					"stationLink": "https://radio.streemlion.com:2525/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/happyu-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Klassika Raadio",
+					"stationLink": "http://icecast.err.ee:80/klassikaraadio.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/klassika-raadio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kuma Raadio",
+					"stationLink": "http://sc2.treraadio.ee:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Kuma-Raadio1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Narodnoe Radio",
+					"stationLink": "http://striiming.trio.ee/narodnoe.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/narodnoe-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Neti Raadio",
+					"stationLink": "http://www.netiraadio.ee:8000/kuldsedajad?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Neti-Raadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Eesti loodus",
+					"stationLink": "http://www.netiraadio.ee:8000/eestiloodus",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-eesti-loodus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Jaak Joala",
+					"stationLink": "http://www.netiraadio.ee:8000/jaakjoala",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-jaak-joala.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Jazzi VarvstationDetail",
+					"stationLink": "http://www.netiraadio.ee:8000/jazzivarvstationDetail",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-jazzi-varvstationDetail.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Joulud",
+					"stationLink": "http://www.netiraadio.ee:8000/joulud",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-joulud.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Klubi Biit",
+					"stationLink": "http://www.netiraadio.ee:8000/klubibiit",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-klubi-biit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Lastekanal",
+					"stationLink": "http://www.netiraadio.ee:8000/lastekanal",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-lastekanal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Puhas Traat",
+					"stationLink": "http://www.netiraadio.ee:8000/puhastraat",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-puhas-traat.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Retro",
+					"stationLink": "http://www.netiraadio.ee:8000/retro",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-retro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Sinu Hetked",
+					"stationLink": "http://www.netiraadio.ee:8000/sinuhetked",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-sinu-hetked.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netiraadio Ullata mind",
+					"stationLink": "http://www.netiraadio.ee:8000/yllatamind",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/netiraadio-ullata-mind.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nomme Raadio",
+					"stationLink": "http://149.210.138.12:8000/nommeraadio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/nomme-raadio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NRJ DnB",
+					"stationLink": "http://nrj.babahhcdn.com/NRJdnb",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/NRJ-DnB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NRJ FM Estonia",
+					"stationLink": "http://nrj.babahhcdn.com/NRJ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/NRJ-FM-Estonia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NRJ House",
+					"stationLink": "https://skyplus.babahhcdn.com/NRJ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/NRJ-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Oma Raadio",
+					"stationLink": "http://194.204.33.1:8888/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/oma-raadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Paikeseraadio",
+					"stationLink": "http://icecast.mmm.elion.ee:8080/paikeseraadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Paikeseraadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pereraadio",
+					"stationLink": "http://icecast.mmm.elion.ee:8080/paikeseraadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Pereraadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power Hit Radio Estonia",
+					"stationLink": "http://shout.babahh.com:9000/phr?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Power-Hit-Radio-Estonia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio 2",
+					"stationLink": "http://icecast.err.ee:80/raadio2.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/raadio-2.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio 4",
+					"stationLink": "http://icecast.err.ee:80/raadio4.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/raadio-4-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio Elmar",
+					"stationLink": "http://striiming.trio.ee:8008/elmar.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/raadio-elmar-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio HIT FM",
+					"stationLink": "http://stream.hitfm.ee/HitFM_192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Raadio-HIT-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio Kadi",
+					"stationLink": "http://icecast.mmm.elion.ee:8080/Kadi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Raadio-Kadi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio Kuku",
+					"stationLink": "http://217.146.71.24:80/kuku.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/raadio-kuku-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio Marta",
+					"stationLink": "http://icecast.mmm.elion.ee:8080/MartaFM",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Raadio-Marta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio Star FM",
+					"stationLink": "https://starfm.babahhcdn.com/starfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Raadio-Star-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio Tallinn",
+					"stationLink": "http://icecast.err.ee:80/raadiotallinn.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/raadio-tallinn.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raadio7",
+					"stationLink": "http://icecast.mmm.elion.ee:8080/Raadio7",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Raadio7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Betelgeuse",
+					"stationLink": "http://sat.radio-betelgeuse.com:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Betelgeuse.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MyHits",
+					"stationLink": "https://streamer.eestimeedia.ee/myhits.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-MyHits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Relax FM",
+					"stationLink": "https://stream.relaxfm.ee/relax",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/radio-relax-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sky Plus",
+					"stationLink": "http://sky.babahhcdn.com/SKYPLUS",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-sky-plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Volna 107.1",
+					"stationLink": "https://volna.babahhcdn.com/volna",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Volna-107.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Relax Cafe",
+					"stationLink": "https://stream.relaxfm.ee/cafe",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/relax-cafe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Relax Instrumental",
+					"stationLink": "https://stream.relaxfm.ee/instrumental",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/relax-instrumental.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Relax International",
+					"stationLink": "https://stream.relaxfm.ee/international",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/relax-international.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Relax Russian",
+					"stationLink": "https://stream.relaxfm.ee/vene",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/relax-russian.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro FM Estonia",
+					"stationLink": "http://retro.babahhcdn.com/RETRO",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Retro-FM-Estonia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ring FM",
+					"stationLink": "http://shout.babahh.com:80/ringfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Ring-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Russkoe Radio ee",
+					"stationLink": "http://sky.babahhcdn.com/RR",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/russkoe-radio-ee-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ruut Fm",
+					"stationLink": "http://sc1.treraadio.ee:8010/tre",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/ruut-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sky Plus Fm",
+					"stationLink": "http://sky.babahhcdn.com/SKYPLUS",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/sky-plas-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sky Radio FM",
+					"stationLink": "http://sky.babahhcdn.com/SKY",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/sky-radio-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Spin FM",
+					"stationLink": "http://87.110.219.34:8000/spinmp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/spin-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Star FM Estonia",
+					"stationLink": "https://starfm.babahhcdn.com/starfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/star-fm-estonia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tre Raadio",
+					"stationLink": "http://5.39.16.62:8004/;?sstationDetail=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Tre-Raadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tre Raadio Parnu",
+					"stationLink": "http://sc2.treraadio.ee:8012/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Tre-Raadio-Parnu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tre Raadio Rapla",
+					"stationLink": "http://sc1.treraadio.ee:8002/tre",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Tre-Raadio-Rapla.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Viker Radio",
+					"stationLink": "http://icecast.err.ee:80/vikerraadio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/viker-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vikerraadio",
+					"stationLink": "http://icecast.err.ee/vikerraadiomadal.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Vikerraadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Web Hit radio",
+					"stationLink": "http://sc2.treraadio.ee:8010/tre",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/web-hit-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XLTRAX Estonia",
+					"stationLink": "http://xltrax.com:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/xltrax-estonia-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

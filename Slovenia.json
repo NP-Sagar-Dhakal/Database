@@ -1,0 +1,974 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Alpski val",
+					"stationLink": "http://212.44.99.35:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/alpski-val-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "B Radio 1",
+					"stationLink": "https://freeuk16.listen2myradio.com/live.mp3?typeportmount=s1_13528_stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/b-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Balkan Mix Radio Slovenia",
+					"stationLink": "http://198.154.112.233:8217",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Balkan-Mix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bam Bam Radio",
+					"stationLink": "http://88.200.120.90:8880/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Bam-Bam-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Club Mega Mix Radio",
+					"stationLink": "http://95.154.254.129:15639/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Club-Mega-Mix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Mix Radio",
+					"stationLink": "http://5.133.182.174/records/radiouser1170018/record.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Dance-Mix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Danceland Dj Team Radio",
+					"stationLink": "http://5.133.182.174:12127/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/danceland-dj-team-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ekstrem Classic FM",
+					"stationLink": "http://90.157.222.128:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Ekstrem-Classic-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ekstrem FM",
+					"stationLink": "http://90.157.222.128:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Ekstrem-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ekstrem House FM",
+					"stationLink": "http://50.7.184.106:8123/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Ekstrem-FM-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energie Radio",
+					"stationLink": "http://listen.radionomy.com/monster-energie-radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/03/energie-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Folk Radio Sraka",
+					"stationLink": "http://193.105.67.24:8006/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/folk-radio-sraka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fusion X Radio",
+					"stationLink": "http://balkan.dj.topstream.net:8070",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Fusion-X-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GratefuleD Radio",
+					"stationLink": "http://listen.radionomy.com/gratefuledradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/GratefuleD-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit Radio Master Dj",
+					"stationLink": "http://95.154.196.33:3404/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/hit-radio-master-dj.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Koroski Radio",
+					"stationLink": "http://shoutcast.netsi.net:8300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Koroski-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MGSRadio",
+					"stationLink": "http://78.129.189.182:31690/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/MGSRadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Moj Radio",
+					"stationLink": "http://89.212.21.23:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/moj-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ORF Slovenski Spored",
+					"stationLink": "http://194.232.200.147:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/orf-slovenski-spored-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1",
+					"stationLink": "http://live3.infonetmedia.si:8000/Radio1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-1-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 80s",
+					"stationLink": "http://live.radio1.si/Radio1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-80s.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Dance",
+					"stationLink": "http://live.radio1.si/Radio1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-ribnica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Litija",
+					"stationLink": "http://live.radio1.si/Radio1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-litija.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Ljubljana",
+					"stationLink": "http://live3.infonetmedia.si:8000/Radio1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-ljubljana.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Maribor",
+					"stationLink": "http://live3.infonetmedia.si/Radio1RIB?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-maribor-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Novo Mesto",
+					"stationLink": "http://live.radio1.si/Radio1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-novo-mesto.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Obala",
+					"stationLink": "http://live3.infonetmedia.si:8000/Radio1OB",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-1-obala.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Odeon Crnomelj",
+					"stationLink": "http://live3.infonetmedia.si/Radio1RIB?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-odeon-crnomelj.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Orion",
+					"stationLink": "http://live2.radio1.si/Radio1VR?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-orion-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Ribnica",
+					"stationLink": "http://live3.infonetmedia.si/Radio1RIB?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-ribnica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 SLO",
+					"stationLink": "https://mp3.rtvslo.si/ra1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-1-slo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Vrhnika",
+					"stationLink": "http://live3.infonetmedia.si:8000/Radio1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-1-vrhnika.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 2 Slovenia",
+					"stationLink": "http://live.radio2.si/Radio2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-2-Slovenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 24 SI",
+					"stationLink": "http://212.30.80.195:8064/;type=mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-24-SI.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 94",
+					"stationLink": "http://212.103.156.222:8000/radio94",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/Radio-94-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aktual",
+					"stationLink": "http://195.95.158.131/Aktual",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-aktual-1.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aktual Easy",
+					"stationLink": "http://stream.radioaktual.si/Aktual",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-aktual-easy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aktual Hard Rock",
+					"stationLink": "http://stream.radioaktual.si/AktualDalmacija",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-aktual-hard-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aktual Live",
+					"stationLink": "http://195.95.158.131/Aktual",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-aktual-live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aktual Pop",
+					"stationLink": "http://stream.radioaktual.si/Aktual",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-aktual-slo-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aktual Slo Rock",
+					"stationLink": "http://stream.radioaktual.si/AktualDalmacija",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-aktual-slo-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aktual Yu Rock",
+					"stationLink": "http://stream.radioaktual.si/Aktual",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-aktual-yu-rock.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antena",
+					"stationLink": "http://live2.radioantena.si/Antena-Stajerska",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Antena.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antena Gorenjska",
+					"stationLink": "http://live.radioantena.si:8000/Antena-Stajerska",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-antena-gorenjska-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antena Stajerska",
+					"stationLink": "http://live.radioantena.si:8000/Antena-Stajerska?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-antena-stajerska-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ARS",
+					"stationLink": "http://mp3.rtvslo.si/ars",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-ARS.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Brezice EU",
+					"stationLink": "http://stream.radiojar.com/a62vxp5uvueuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/radio-brezice-eu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Brezje",
+					"stationLink": "http://93.103.175.209:8000/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-brezje-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capodistria",
+					"stationLink": "http://mp3.rtvslo.si/capo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-capodistria.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris",
+					"stationLink": "http://stream01.exit.si:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Capris.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris 90s",
+					"stationLink": "http://stream02.exit.si:8000/90",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/radio-capris-90.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris Capital",
+					"stationLink": "http://stream02.exit.si:8000/ITA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Capris-Capital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris Dalmacija",
+					"stationLink": "http://stream02.exit.si:8000/DALMACIJA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Capris-Dalmacija.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris Ex Yu",
+					"stationLink": "http://stream02.exit.si:8000/EXYU",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Capris-Ex-Yu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris Hits",
+					"stationLink": "http://stream02.exit.si:8000/HITS",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Capris-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris Klasik",
+					"stationLink": "http://stream01.exit.si:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Capris-Klasik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris Rock",
+					"stationLink": "http://stream02.exit.si:8000/ROCK",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Capris-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capris Slo",
+					"stationLink": "http://stream02.exit.si:8000/SLO",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Capris-Slo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Celje",
+					"stationLink": "http://stream.rgl.si/Celje",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-celje-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center",
+					"stationLink": "https://cdn-cms.tunein.com/service/Audio/georestricted.enUS.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Center.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center 80",
+					"stationLink": "http://212.18.63.51:8064/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-80.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center 80s",
+					"stationLink": "http://stream2.radiocenter.si:8064/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-center-80s.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Celje",
+					"stationLink": "http://212.18.63.51:8050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-celje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Hit",
+					"stationLink": "http://stream.radiocenter.si:9020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Center-Hit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Koper",
+					"stationLink": "http://212.18.63.51:8052/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-koper.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Kranj",
+					"stationLink": "http://212.18.63.51:8048/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-kranj.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Krsko",
+					"stationLink": "http://212.18.63.51:8044/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-krsko.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Love",
+					"stationLink": "http://stream3.radiocenter.si:8060/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-love.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Maribor",
+					"stationLink": "http://212.18.63.51:8040/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-maribor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Nova Gorica",
+					"stationLink": "http://212.18.63.51:8038/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-nova-gorica-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Novo Mesto",
+					"stationLink": "http://212.18.63.51:8046/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-novo-mesto.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Pop",
+					"stationLink": "http://stream3.radiocenter.si:8000/center",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-center-novo-mesto-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Center Rock",
+					"stationLink": "http://stream2.radiocenter.si:8000/center",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Center-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City 100.6",
+					"stationLink": "http://82.149.22.34:8000/CityMp364mono.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-city-100.6.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dur",
+					"stationLink": "http://zvok.ragla.si/gr?1491479973880",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-dur.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ekspres",
+					"stationLink": "http://stream2.radioekspres.si:8016/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-ekspres-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Europa 05",
+					"stationLink": "http://live6.infonetmedia.si/Europa05",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-europa-05.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fantasy 87.8",
+					"stationLink": "http://live2.radioantena.si/Antena-Stajerska?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-fantasy-87.8-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gorenc",
+					"stationLink": "http://stream.radiogorenc.si:8000/radiogorenc.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Gorenc.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hit Slovenia",
+					"stationLink": "http://stream03.exit.si:8000/radiohit?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Hit-Slovenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kaos",
+					"stationLink": "http://84.255.240.19:9005/radio_kaos",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Kaos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kranj",
+					"stationLink": "http://live4.infonetmedia.si/Kranj",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Kranj.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Krka",
+					"stationLink": "http://84.52.138.44/Krka",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-krka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kum",
+					"stationLink": "http://195.95.158.131/AktualK",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/Radio-Kum.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Laserr",
+					"stationLink": "http://shoutcast.netsi.net:8100",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Laserr.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Maribor",
+					"stationLink": "http://mp3.rtvslo.si/rmb",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Maribor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mars",
+					"stationLink": "http://frekvenca.eu:8000/radiomars.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Mars.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Maxi",
+					"stationLink": "http://185.85.150.52:8010/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-maxi-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Meteor Si",
+					"stationLink": "http://94.23.36.117:5021/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/radio-meteor-si.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mister Deejay",
+					"stationLink": "http://stream.mister-deejay.com:9010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-Mister-Deejay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Murski Val",
+					"stationLink": "http://89.142.197.238:8000/mv.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Murski-Val.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nagajivcek Bebica",
+					"stationLink": "http://audio-panel.daki-host.com:8016/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Nagajivcek-Bebica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Narodnjak",
+					"stationLink": "http://89.233.121.131:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-Narodnjak.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Net FM",
+					"stationLink": "http://reflector.radionet.si:8000/stream.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-NET-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nula",
+					"stationLink": "http://streaming.radionula.com:8800/classics",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Nula.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Odmev",
+					"stationLink": "http://212.44.99.35:8000/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-odmev-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ognjisce",
+					"stationLink": "http://real.ognjisce.si:8000/ognjisce.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-ognjisce-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Prlek",
+					"stationLink": "http://89.212.242.158:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-prlek-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Prvi",
+					"stationLink": "http://mp3.rtvslo.si/ra1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-Prvi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ptuj",
+					"stationLink": "http://stream.radio-ptuj.si:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-ptuj-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Put Srece",
+					"stationLink": "http://giss.tv:8001/Dj_Merc_Seka.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Radio-Put-Srece.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Robin",
+					"stationLink": "http://live3.infonetmedia.si/Robin?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-robin-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio S Slovenia",
+					"stationLink": "http://live4.infonetmedia.si/radios?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-S-Slovenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Salomon",
+					"stationLink": "http://195.95.158.131:8050",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-salomon-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sevnica",
+					"stationLink": "http://89.233.121.131/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-sevnica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Slo Koper",
+					"stationLink": "http://mp3.rtvslo.si/rakp?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-Slo-Koper.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Slovenija Ars",
+					"stationLink": "http://mp3.rtvslo.si/ars?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-slovenija-ars.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Slovenske gorice",
+					"stationLink": "http://46.105.43.31:8050/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Slovenske-gorice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Slovenskie Gorice",
+					"stationLink": "http://46.105.43.31:8050/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-slovenskie-gorice-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Soft Slovenia",
+					"stationLink": "https://eu9.fastcast4u.com/proxy/djbojko?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-soft-slovenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO SONCEK",
+					"stationLink": "http://91.185.194.102:8020",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/03/radio-soncek.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sora",
+					"stationLink": "http://radio-sora.si:8000/radio-sora.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Sora.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sraka",
+					"stationLink": "http://193.105.67.24:8006/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-sraka-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Stajerski Val",
+					"stationLink": "http://stream.stajerskival.si:8004",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Stajerski-Val.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Star DJ",
+					"stationLink": "http://51.255.235.165:5572/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-Star-DJ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Student Ljubljana",
+					"stationLink": "http://kruljo.radiostudent.si:8000/hiq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-student-ljubljana-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Terminal",
+					"stationLink": "http://live.radioterminal.si/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Radio-Terminal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tomi",
+					"stationLink": "http://93.103.130.12:8080/tomi.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-Tomi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Top 106.8",
+					"stationLink": "http://topfm128.streaming.rs:9280/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Top-106.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Triglav",
+					"stationLink": "http://live4.infonetmedia.si/Triglav",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-triglav.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Urban FM",
+					"stationLink": "http://46.19.224.157:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Urban-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Urnebes",
+					"stationLink": "http://88.198.1.231:9356/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/radio-urnebes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Velenje",
+					"stationLink": "http://212.18.39.42:8000/radiovelenje.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-velenje-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Veseljak",
+					"stationLink": "http://195.95.158.131:80/Veseljak?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-veseljak-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zeleni val",
+					"stationLink": "http://37.187.93.104:8844/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-zeleni-val-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zelenko",
+					"stationLink": "http://radio.slo-podnapisi.net:9090",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-zelenko.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ZMAJ",
+					"stationLink": "http://163.172.213.155:8652/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Radio-Dragon.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Celje",
+					"stationLink": "http://live.rock-celje.si/RockCE?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Rock-Celje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Maribor",
+					"stationLink": "http://live.rockmaribor.si/RockMB?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Rock-Maribor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio SI",
+					"stationLink": "http://stream.radiocenter.si:9034/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Rock-Radio-SI.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shine on Radio",
+					"stationLink": "http://listen.radionomy.com/shineonradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Shine-on-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shining Star Night Club Radio",
+					"stationLink": "http://eu8.fastcast4u.com:5572/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Shining-Star-Night-Club-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Slowhand Radio",
+					"stationLink": "http://listen.radionomy.com/slowhandradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Slowhand-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stajerski val",
+					"stationLink": "http://stream.stajerskival.si:8004",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/stajerski-val-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Val 202",
+					"stationLink": "http://mp3.rtvslo.si/val202?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Val-202.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Voice of Underground",
+					"stationLink": "http://14123.live.streamtheworld.com/SAM08AAC271",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Voice-of-Underground.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yu Poprock Radio",
+					"stationLink": "http://listen.radionomy.com/yugopoprock?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Yu-Poprock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zeleni val",
+					"stationLink": "http://193.77.242.62:8000/kastor",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/zeleni-val-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,4502 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "103 Radio Poland",
+					"stationLink": "http://streaming.radionomy.com/103",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/103-radio-poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "1A GhanaZip.com",
+					"stationLink": "https://listen.openstream.co/4888/audio?ghanazip.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/1a-ghanazip.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "24/7 Dubstep Radio",
+					"stationLink": "http://31.14.131.233:8000/mp3_best",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/dubstep-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Adagio FM",
+					"stationLink": "http://hi5.adagio.fm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/adagio-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Akademickie Radio LUZ",
+					"stationLink": "http://156.17.39.65:8000/luzhifi.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/akademickie-radio-luz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ale Radio",
+					"stationLink": "http://s1.slotex.pl:7230/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/ale-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All Night Classic",
+					"stationLink": "http://usa11.fastcast4u.com:5196/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/All-Night-Classic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alter Nation",
+					"stationLink": "http://radio.alternation.pl:616",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Alter-Nation-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AntyRadio",
+					"stationLink": "http://n-0-9.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Anty-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Ballads",
+					"stationLink": "http://antbal-01.cdn.eurozet.pl:8002",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Ballads.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Classic Rock",
+					"stationLink": "http://antcla-01.cdn.eurozet.pl:8004",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Classic-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Covers",
+					"stationLink": "http://antcov-01.cdn.eurozet.pl:8006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Covers.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Greatest",
+					"stationLink": "http://antgre-01.cdn.eurozet.pl:8008",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Greatest.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Hard",
+					"stationLink": "http://anthar-01.cdn.eurozet.pl:8010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Hard.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Katowice",
+					"stationLink": "http://ant-kat-01.cdn.eurozet.pl:8604",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Katowice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Made in Poland",
+					"stationLink": "http://ant02.cdn.eurozet.pl:8012/ANTPOL.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Made-in-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Makak",
+					"stationLink": "http://antmak-02.cdn.eurozet.pl:8018",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Makak.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antyradio Unplugged",
+					"stationLink": "http://antunp-01.cdn.eurozet.pl:8020",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antyradio-Unplugged.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arcy Radio",
+					"stationLink": "http://sc.ipip.cz:8062",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Arcy-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Art Radio 104.8",
+					"stationLink": "http://s5.radiohost.pl:8274/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Art-Radio-104.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bogdanl Dance Radio",
+					"stationLink": "http://ample-04.radiojar.com:80/ryw1xt6794zuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/bogdanl-dance-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Castle Party",
+					"stationLink": "http://radio.alternation.pl:616/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Castle-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chilli Zet",
+					"stationLink": "http://n-4-16.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/chilli-zet.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Club Party",
+					"stationLink": "http://4stream.pl:18096/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Club-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cmp3.eu",
+					"stationLink": "http://s1.cmp3.eu:8555/;.mp3?type=http&nocache=1555395091",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/cmp3.eu_.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CMTAKOS",
+					"stationLink": "http://s3.slotex.pl:7670/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/cmtakos1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CMTAKOS Radio Muzyka",
+					"stationLink": "http://s3.slotex.pl:7670/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/cmtakos-radio-muzyka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dental Radio",
+					"stationLink": "http://stream4.nadaje.com:8086/dentalradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Dental-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Disco Polo",
+					"stationLink": "http://stream.open.fm/21?type=.aac&user=800079063142&player_group=WWW&user-agent=OpenFM-Chameleon%2F1.103.0007%20(BROWSER%3BChrome%3B61.0.3163.100)%20(OS%3BWindows%3BWindows%20NT%2010.0)",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/03/disco-polo-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Disco Strefa FM",
+					"stationLink": "http://51.255.8.139:8146/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Disco-Strefa-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DiscoPlaneta",
+					"stationLink": "http://s1.slotex.pl:7704/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/DiscoPlaneta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DJ Telesto",
+					"stationLink": "http://46.31.38.113:8000/play",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/dj-telesto.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "eLORMF",
+					"stationLink": "http://31.192.216.5/ELO",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/elormf.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eska Nord",
+					"stationLink": "http://s2.panelradiowy.pl:10036/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Eska-Nord.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ESKA Wroclaw",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t044-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/eska-wroclaw-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GalNet Radio",
+					"stationLink": "http://listen.radionomy.com/galnet",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/GalNet-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gdynia Radio",
+					"stationLink": "http://51.255.8.139:8064/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Gdynia-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HaserFM",
+					"stationLink": "http://audio.haserwolf.com/haserfm-320",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/haserfm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit Radio pl",
+					"stationLink": "http://51.255.8.139:9090/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/hit-radio-pl-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "House of Funk",
+					"stationLink": "http://houseoffunk.eu:166/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/house-of-funk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HouseRadio",
+					"stationLink": "http://176.9.43.50:7818/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/houseradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Index 96 FM",
+					"stationLink": "http://shoutcast2.index.uz.zgora.pl:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Index-96-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Inner State of Trance",
+					"stationLink": "http://178.217.186.36:7328/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Inner-State-of-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ItaloDance Radio",
+					"stationLink": "http://radio.italodance.pl:7694",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/ItaloDance-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Katolickie Radio Zamosc",
+					"stationLink": "http://91.231.120.124/hq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Katolickie-Radio-Zamosc.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Klasyka Muzyki Elektronicznej",
+					"stationLink": "http://stream.open.fm/94",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Klasyka-Muzyki-Elektronicznej.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KRDP Ciechanow",
+					"stationLink": "http://s1.slotex.pl:7762/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/KRDP-Ciechanow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KRDP PLOCK",
+					"stationLink": "http://sc5.24cast.pl:7028",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/KRDP-PLOCK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KRK FM",
+					"stationLink": "http://stream10.radioagora.pl/tuba139-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/KRK-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lem FM",
+					"stationLink": "http://lemfm.radiokitstream.org/lemfm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Lem-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MacRadio",
+					"stationLink": "http://88.198.100.43:9988/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/macradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Made In Poland",
+					"stationLink": "http://plamad-02.cdn.eurozet.pl:8220/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Made-In-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Bay Chillout",
+					"stationLink": "http://212.59.240.74:8000/chill",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Magic-Bay-Chillout.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Bay Chillout",
+					"stationLink": "http://212.59.240.74:8000/chill",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Magic-Bay-Chillout.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Bay Meditation",
+					"stationLink": "http://212.59.240.74:8000/meditation",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Magic-Bay-Meditation.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Bay Oldies",
+					"stationLink": "http://212.59.240.74:8000/oldies",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Magic-Bay-Oldies.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Bay Standards",
+					"stationLink": "http://212.59.240.74:8000/standards",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Magic-Bay-Standards.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MC Radio Poland",
+					"stationLink": "http://gdansk1-3.radio.pionier.net.pl:8000/pl/mcradio.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/MC-Radio-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Metal Live Radio",
+					"stationLink": "http://51.255.8.139:8738/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/metal-live-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Minimal Mix Radio",
+					"stationLink": "http://5.39.71.159:8750/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Minimal-Mix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Moto Radio",
+					"stationLink": "https://motoradio.hosterion.pl/ssl/6969",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/moto-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Muzyczne Radio",
+					"stationLink": "http://stream.muzyczneradio.pl:9900/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Muzyczne-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Muzyczne Radio Hit Planeta",
+					"stationLink": "http://stream3.nadaje.com:9000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Muzyczne-Radio-Hit-Planeta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Muzyka Na Mojej Chmurze",
+					"stationLink": "http://s2.panelradiowy.pl:10022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/muzyka-na-mojej-chmurze.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Najwieksze Przeboje 60 70",
+					"stationLink": "http://stream.polskastacja.pl/ps216",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Najwieksze-Przeboje-60-70.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Najwieksze Przeboje 80 90",
+					"stationLink": "http://stream.polskastacja.pl/ps3_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Najwieksze-Przeboje-80-90.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nasze FM",
+					"stationLink": "http://46.45.86.249:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Nasze-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Niepoprawne Radio PL",
+					"stationLink": "http://87.117.193.10:8060/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Niepoprawne-Radio-PL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nirvana Ambient Radio",
+					"stationLink": "http://radio.108.pl:8006/ambient.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Nirvana-Ambient-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nirvana Radio",
+					"stationLink": "http://radio.108.pl:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Nirvana-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nirvana Relaxation Radio",
+					"stationLink": "http://sc9106.xpx.pl:9106/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Nirvana-Relaxation-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NOISE fm",
+					"stationLink": "http://noisefm.ru:8000/play",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/04/noise-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "OFF Radio Krakow",
+					"stationLink": "http://stream4.nadaje.com:13332/offradiokrakow",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/off-radio-krakow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM",
+					"stationLink": "http://stream.open.fm/66",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Open-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM 00s Hits",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/72?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Open-FM-00s-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Alt Club",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/9?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Alt-Club.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM American Rock",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/40?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-American-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Ballady Wszech Czasow",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/20?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Ballady-Wszech-Czasow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Biesiada Slaska",
+					"stationLink": "http://stream.open.fm/66",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Biesiada-Slaska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Classic Rock",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/32?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Classic-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Dzem",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/15?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Dzem.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Dzien Dobry",
+					"stationLink": "https://stream.open.fm/69?type=.aac&user=800096450277&player_group=WWW&user-agent=OpenFM-Chameleon%2F1.103.0081%20(BROWSER%3BChrome%3B61.0.3163.79%20Safari%2F537.36)%20(OS%3BWindows%3BWindows%20NT%2010.0)",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/open-fm-dzien-dobry.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Fun",
+					"stationLink": "http://stream.open.fm/51",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Open-FM-Fun.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Impreza PL",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/12?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Impreza-PL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM KstationDetails",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/16?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-KstationDetails.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Muzyka Filmowa",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/38?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Muzyka-Filmowa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Muzyka Klasyczna",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/67",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Open-FM-Muzyka-Klasyczna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Po Polsku 80/90",
+					"stationLink": "http://stream.open.fm/79",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/open-fm-po-polsku-8090.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Polish Reggae Stylee",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/22?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Open-FM-Polish-Reggae-Stylee.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Polski Rock",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/29?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Polski-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Praca",
+					"stationLink": "https://stream.open.fm/109?type=.aac&user=800096450277&player_group=WWW&user-agent=OpenFM-Chameleon%2F1.103.0081%20(BROWSER%3BChrome%3B61.0.3163.79%20Safari%2F537.36)%20(OS%3BWindows%3BWindows%20NT%2010.0)",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/open-fm-praca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Praca Rock",
+					"stationLink": "http://stream.open.fm/104",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/open-fm-praca-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Rock Ballady",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/61?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Rock-Ballady.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Summer Classic",
+					"stationLink": "https://stream.open.fm/125?type=.aac&user=800096450277&player_group=WWW&user-agent=OpenFM-Chameleon%2F1.103.0081%20(BROWSER%3BChrome%3B61.0.3163.79%20Safari%2F537.36)%20(OS%3BWindows%3BWindows%20NT%2010.0)",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/open-fm-summer-classic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Szanty",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/28?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Open-FM-Szanty.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM Trance FTB",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/7?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Open-FM-Trance-FTB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open FM We Dwoje",
+					"stationLink": "http://gr-relay-lb.gaduradio.pl/4",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Open-FM-We-Dwoje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Piosenki z Filmow",
+					"stationLink": "http://188.165.23.150:6550",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Piosenki-z-Filmow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Above and Beyond",
+					"stationLink": "http://plaabo-02.cdn.eurozet.pl:8202/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Planeta-Above-and-Beyond.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Above Beyond",
+					"stationLink": "http://plaabo-01.cdn.eurozet.pl:8202",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Above-Beyond.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Alternative",
+					"stationLink": "http://pla01.cdn.eurozet.pl:8700/pla-net.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Alternative.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Chillout",
+					"stationLink": "http://plachi-01.cdn.eurozet.pl:8204",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Chillout.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Clubbing",
+					"stationLink": "http://placlu-02.cdn.eurozet.pl:8222",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Clubbing.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Dubstep",
+					"stationLink": "http://pladub-01.cdn.eurozet.pl:8224",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Dubstep.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta EDM",
+					"stationLink": "http://plaedm-02.cdn.eurozet.pl:8228",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-EDM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta House",
+					"stationLink": "http://plahou-01.cdn.eurozet.pl:8208",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Made in Poland",
+					"stationLink": "http://plamad-02.cdn.eurozet.pl:8220",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Made-in-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Oldsku",
+					"stationLink": "http://plaold-02.cdn.eurozet.pl:8212",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Oldsku.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Progressive House",
+					"stationLink": "http://pla02.cdn.eurozet.pl:8700/pla-net.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Progressive-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta RnB",
+					"stationLink": "http://plarnb-01.cdn.eurozet.pl:8216",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-RnB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planeta Trance",
+					"stationLink": "http://platra-01.cdn.eurozet.pl:8218",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Planeta-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pleroma FM",
+					"stationLink": "http://usa10.fastcast4u.com:6560/;?type=http&nocache=1581413387",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/pleroma-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Plus Radio Legnica",
+					"stationLink": "http://stream.plus.legnica.pl:8000/plusodsluch",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Plus-Radio-Legnica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Poezja Spiewana i nie tylko",
+					"stationLink": "http://stream.polskastacja.pl/ps247",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Poezja-Spiewana-i-nie-tylko.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polska Muzyka Chrzescijanska",
+					"stationLink": "http://178.32.161.114:6750",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Polska-Muzyka-Chrzescijanska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polska Scena Alternatywna",
+					"stationLink": "http://stream.polskastacja.pl/ps271",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Polska-Scena-Alternatywna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polska Stacja",
+					"stationLink": "http://stream.open.fm/111",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/polska-stacja-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polska Stacja Ibiza Hits",
+					"stationLink": "http://stream.polskastacja.pl/ps268",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Polska-Stacja-Ibiza-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja 80 and Italo Disco",
+					"stationLink": "http://stream.open.fm/27",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-80-and-Italo-Disco.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Ballady Rockowe",
+					"stationLink": "http://stream.open.fm/61",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Ballady-Rockowe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Biesiada",
+					"stationLink": "http://stream.open.fm/59",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Biesiada.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Biesiada Slaska",
+					"stationLink": "http://stream.open.fm/66",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Biesiada-Slaska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Blues",
+					"stationLink": "http://stream.polskastacja.pl/ps236",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Blues.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Bollywood",
+					"stationLink": "http://91.121.92.167:4600",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Bollywood.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Boysband And Girslband",
+					"stationLink": "http://178.32.161.112:4750",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Boysband-And-Girslband.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Chillout",
+					"stationLink": "http://stream.open.fm/33",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Chillout.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Club HITS",
+					"stationLink": "http://stream.polskastacja.pl/ps29_mp3?player_group=PS_EXT_MP3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Club-HITS.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Country",
+					"stationLink": "http://91.121.89.153:7350",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Country.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Dance 100",
+					"stationLink": "http://stream.polskastacja.pl/ps77",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Dance-100.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Dancehall",
+					"stationLink": "http://stream.polskastacja.pl/ps61?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Dancehall.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Disco Polo",
+					"stationLink": "http://stream.open.fm/21",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/polskastacja-disco-polo-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja DJ Top 50",
+					"stationLink": "http://stream.polskastacja.pl/ps25_mp3?player_group=PS_EXT_MP3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-DJ-Top-50.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Drum And Bass",
+					"stationLink": "http://stream.polskastacja.pl/ps49",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Drum-And-Bass.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Dubstep",
+					"stationLink": "http://stream.polskastacja.pl/ps85?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Dubstep.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Dzieciom",
+					"stationLink": "http://stream.polskastacja.pl/ps17?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Dzieciom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja EDEN",
+					"stationLink": "http://stream.polskastacja.pl/ps20_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-EDEN.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Electro",
+					"stationLink": "http://stream.polskastacja.pl/ps76_mp3?player_group=PS_EXT_MP3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Electro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Electro House",
+					"stationLink": "http://stream.polskastacja.pl/ps41?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Electro-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Era DISCO",
+					"stationLink": "http://stream.polskastacja.pl/ps33?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Era-DISCO.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Etno POP",
+					"stationLink": "http://stream.polskastacja.pl/ps34_mp3?player_group=PS_EXT_MP3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Etno-POP.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Eurowizja",
+					"stationLink": "http://188.165.20.29:6450",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Eurowizja.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Fashion",
+					"stationLink": "http://188.165.22.29:3050",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Fashion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Fitness",
+					"stationLink": "http://stream.polskastacja.pl/ps86?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Fitness.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja FOLK",
+					"stationLink": "http://stream.polskastacja.pl/ps9_mp3?player_group=PS_EXT_MP3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-FOLK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Funky House",
+					"stationLink": "http://stream.polskastacja.pl/ps66?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Funky-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Gothic",
+					"stationLink": "http://91.121.77.187:2350",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Gothic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Hardstyle",
+					"stationLink": "http://stream.polskastacja.pl/ps50?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Hardstyle.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja HIP HOP",
+					"stationLink": "http://stream.polskastacja.pl/ps13?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-HIP-HOP.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Hot 100",
+					"stationLink": "http://stream.open.fm/162",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Hot-100.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja HOT House",
+					"stationLink": "http://stream.open.fm/5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-HOT-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja House and Dance",
+					"stationLink": "http://stream.polskastacja.pl/ps15?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-House-and-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja House Progressive",
+					"stationLink": "http://stream.polskastacja.pl/ps67?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-House-Progressive.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Ibiza Hits",
+					"stationLink": "http://stream.polskastacja.pl/ps68?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Ibiza-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Indie Rock",
+					"stationLink": "http://stream.polskastacja.pl/ps74?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Indie-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Italia",
+					"stationLink": "http://stream.polskastacja.pl/ps31?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Italia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja JAZZ",
+					"stationLink": "http://stream.polskastacja.pl/ps8?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-JAZZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Klasycznie",
+					"stationLink": "http://stream.open.fm/67",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Klasycznie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Latino",
+					"stationLink": "http://stream.polskastacja.pl/ps19?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Latino.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Mocne Brzmienie Rocka",
+					"stationLink": "http://stream.polskastacja.pl/ps32?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Mocne-Brzmienie-Rocka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Modern ROCK",
+					"stationLink": "http://stream.polskastacja.pl/ps23?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Modern-ROCK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Muzyka Filmowa",
+					"stationLink": "http://stream.polskastacja.pl/ps12?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Muzyka-Filmowa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Muzyka Francuska",
+					"stationLink": "http://stream.polskastacja.pl/ps38_mp3?player_group=PS_EXT_MP3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Muzyka-Francuska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Muzyka Ludowa",
+					"stationLink": "http://stream.open.fm/59",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Muzyka-Ludowa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Muzyka na TOPIE",
+					"stationLink": "http://stream.open.fm/64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Muzyka-na-TOPIE.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Muzyka Niemiecka",
+					"stationLink": "http://178.32.161.113:2850",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Muzyka-Niemiecka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Muzyka Zydowska",
+					"stationLink": "http://91.121.77.187:2650",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Muzyka-Zydowska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Nastolatka",
+					"stationLink": "http://178.32.161.113:2950",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Nastolatka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja New Romantic",
+					"stationLink": "http://91.121.77.187:2550",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-New-Romantic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja PARTY",
+					"stationLink": "http://stream.polskastacja.pl/ps6",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-PARTY.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Przeboje Na Lato",
+					"stationLink": "http://stream.polskastacja.pl/ps75?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Przeboje-Na-Lato.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Przeboje We Dwoje",
+					"stationLink": "http://stream.polskastacja.pl/ps11?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Przeboje-We-Dwoje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Punk",
+					"stationLink": "http://stream.polskastacja.pl/ps72?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Punk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Radio",
+					"stationLink": "http://stream.polskastacja.pl/ps66?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/polskastacja-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja RNB",
+					"stationLink": "http://stream.polskastacja.pl/ps39?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-RNB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Smooth Jazz",
+					"stationLink": "http://stream.polskastacja.pl/ps37",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Smooth-Jazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Soul",
+					"stationLink": "http://stream.polskastacja.pl/ps44?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Soul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Sport",
+					"stationLink": "http://178.32.161.113:2750",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Sport.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Super Przeboje",
+					"stationLink": "http://stream.polskastacja.pl/ps79?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Super-Przeboje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Szanty",
+					"stationLink": "http://stream.polskastacja.pl/ps35?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-Szanty.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Trance Vocal",
+					"stationLink": "http://stream.open.fm/7?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Trance-Vocal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja TRAX",
+					"stationLink": "http://stream.polskastacja.pl/ps7",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-TRAX.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja Tylko ROCK",
+					"stationLink": "http://stream.polskastacja.pl/ps5?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Tylko-ROCK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PolskaStacja W rytmie REGGAE",
+					"stationLink": "http://stream.polskastacja.pl/ps21",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/PolskaStacja-W-rytmie-REGGAE.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polski Hip Hop",
+					"stationLink": "http://stream.polskastacja.pl/ps42?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Polski-Hip-Hop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polski Power Dance",
+					"stationLink": "http://stream.polskastacja.pl/ps58?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Polski-Power-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie DISCO POLO",
+					"stationLink": "http://stream.polskastacja.pl/ps14?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Polskie-DISCO-POLO.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Niezapomniane Przeboje",
+					"stationLink": "http://stream.polskastacja.pl/ps2?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Polskie-Niezapomniane-Przeboje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Bajki samograjki",
+					"stationLink": "http://mp3.polskieradio.pl:8052/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Polskie-Radio-Bajki-samograjki.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Bialystok",
+					"stationLink": "http://stream4.nadaje.com:15476/radiobialystok",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-Bialystok.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Classic Rock",
+					"stationLink": "http://mp3.polskieradio.pl:8060/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Polskie-Radio-Classic-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Czworka",
+					"stationLink": "http://stream3.polskieradio.pl:8906",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Polskie-Radio-Czworka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Dwojka",
+					"stationLink": "http://stream3.polskieradio.pl:8902/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/polskie-radio-dwojka-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Grunge",
+					"stationLink": "http://mp3.polskieradio.pl:8122",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Polskie-Radio-Grunge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Jedynka",
+					"stationLink": "http://stream3.polskieradio.pl:8900/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-Jedynka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Katowice",
+					"stationLink": "http://panel.nadaje.com:9212/radiokatowice?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Polskie-Radio-Katowice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Led Zeppelin",
+					"stationLink": "http://mp3.polskieradio.pl:8068/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-Led-Zeppelin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio London",
+					"stationLink": "http://radio.prl24.net:8096/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Polskie-Radio-London1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Minimax",
+					"stationLink": "http://mp3.polskieradio.pl:8046",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Polskie-Radio-Minimax.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio PiK",
+					"stationLink": "http://stream.radiopik.pl:9004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-PiK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Pink Floyd",
+					"stationLink": "http://mp3.polskieradio.pl:8070/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-Pink-Floyd.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Przeboje PRL",
+					"stationLink": "http://mp3.polskieradio.pl:8066/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-Przeboje-PRL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio RNB",
+					"stationLink": "http://mp3.polskieradio.pl:8032",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Polskie-Radio-RNB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Rzeszow",
+					"stationLink": "http://radiointernetowe.net:9600/live64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-Rzeszow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Senate",
+					"stationLink": "http://stream3.polskieradio.pl:8902/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-Senate.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Sting",
+					"stationLink": "http://mp3.polskieradio.pl:8110",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Polskie-Radio-Sting.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Szanty",
+					"stationLink": "http://mp3.polskieradio.pl:8120/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Polskie-Radio-Szanty.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Radio Zabawy Z Jezykiem",
+					"stationLink": "http://mp3.polskieradio.pl:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Polskie-Radio-Zabawy-Z-Jezykiem.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polskie Reggae",
+					"stationLink": "http://stream.polskastacja.pl/ps57?type=.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Polskie-Reggae.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pop Radio 92.8 FM",
+					"stationLink": "http://stream.radio7.pl:9000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Pop-Radio-92.8-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Portal Radiowy",
+					"stationLink": "http://s1.slotex.pl:7088/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Portal-Radiowy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PR Ballady",
+					"stationLink": "http://mp3.polskieradio.pl:8474/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/PR-Ballady.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PR Genesis",
+					"stationLink": "http://mp3.polskieradio.pl:8574/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/PR-Genesis.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PR Historia Najnowska Polska",
+					"stationLink": "http://mp3.polskieradio.pl:8482/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/PR-Historia-Najnowska-Polska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PR Kosmos",
+					"stationLink": "http://mp3.polskieradio.pl:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/PR-Kosmos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PR Las",
+					"stationLink": "http://mp3.polskieradio.pl:8528/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/PR-Las.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PR R Poland DAB",
+					"stationLink": "http://stream3.polskieradio.pl:8912/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/PR-R-Poland-DAB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PR R Zachod",
+					"stationLink": "http://stream01.zachod.pl:10103/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/pr-r-zachod.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PR Rozrywka Na Wygnaniu",
+					"stationLink": "http://mp3.polskieradio.pl:8526/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/PR-Rozrywka-Na-Wygnaniu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Premiery i Nowosci Muzyczne",
+					"stationLink": "http://91.121.236.254:80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Premiery-i-Nowosci-Muzyczne.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Private Traxx",
+					"stationLink": "http://s1.slotex.pl:7232/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/private-traxx.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pro Radio",
+					"stationLink": "http://radiointernetowe.net:7802/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/pro-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pulsstacja FM",
+					"stationLink": "http://91.232.4.33:7078/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/pulsstacja-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 5",
+					"stationLink": "http://51.254.35.19:8035/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 5 Elk",
+					"stationLink": "http://stream2.nadaje.com:8056/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-5-Elk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 7 Poland",
+					"stationLink": "http://stream.radio7.pl:443/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-7-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 90",
+					"stationLink": "http://streams.radio90.pl:8000/radio90_96kbps_stereo.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-90.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 90 PL",
+					"stationLink": "http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-90-PL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 90 Poland",
+					"stationLink": "http://streams.radio90.pl:8000/radio90_96kbps_stereo.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-90-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 94i4 FM",
+					"stationLink": "http://stream3.nadaje.com:8200/szczecinfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-94i4-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Afera",
+					"stationLink": "http://lodz.radio.pionier.net.pl:8000/pl/afera.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Afera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Akadera",
+					"stationLink": "http://lodz.radio.pionier.net.pl:8000/pl/akadera.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Akadera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aktywne",
+					"stationLink": "http://listen.radioaktywne.pl:8000/ramp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Aktywne.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alex",
+					"stationLink": "http://tachyon.shoutca.st:8426/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-alex-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alex Zakopane",
+					"stationLink": "http://tachyon.shoutca.st:8426/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-alex-zakopane.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Anime 24",
+					"stationLink": "http://91.232.4.33:7028/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Radio-Anime-24.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ASPICJA",
+					"stationLink": "http://s1.slotex.pl:7132/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-ASPICJA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bahary",
+					"stationLink": "http://e-cast.pl:3902",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Radio-Bahary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bajka",
+					"stationLink": "http://91.232.4.24:9768/;stream/1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Bajka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Baobab Poland",
+					"stationLink": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-baobab-poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bayer FM",
+					"stationLink": "http://51.254.35.19:8045/bayerfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Bayer-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bercik Silesia",
+					"stationLink": "http://s3.slotex.pl:7770/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Bercik-Silesia-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Best",
+					"stationLink": "http://stream.radiobest.eu:8000/128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Radio-Best.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bielsko",
+					"stationLink": "http://stream4.nadaje.com:13322/radiobielsko?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Bielsko.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Blue FM",
+					"stationLink": "http://mainstream.radioagora.pl:80/bluefm.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Blue-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bogoria",
+					"stationLink": "http://s6.radiohost.pl:8888",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Bogoria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bon Ton",
+					"stationLink": "http://bonton.streamhost.pl:8092/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Bon-Ton.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio CCM",
+					"stationLink": "http://primary.moodyradiostream.org/radioccm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-CCM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Centre Gliwice",
+					"stationLink": "http://listen.spacial.com/api/listen/?sstationDetail=70937&method=sc?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-Center-1503-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Centrum",
+					"stationLink": "http://shot4.inten.pl:8888",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-centrum-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Centrum 98.2",
+					"stationLink": "http://5.201.13.191/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Centrum-98.2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chill Mix",
+					"stationLink": "http://streaming.radionomy.com/ChillMix?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Chill-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Classical Baroque",
+					"stationLink": "http://streaming.radionomy.com/RadioClassicalBaroque?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Classical-Baroque.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Crazy Hits",
+					"stationLink": "http://sc3.24cast.pl:9414/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Crazy-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Derf",
+					"stationLink": "http://178.19.96.111:8026/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Derf.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio DstationDetailgerstationDetailoo",
+					"stationLink": "http://e-cast.pl:6142",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-DstationDetailgerstationDetailoo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Disco Polo",
+					"stationLink": "http://stream.open.fm/21",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Disco-Polo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Disco Time",
+					"stationLink": "http://streaming.radionomy.com/DiscoTime?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Disco-Time.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Doxa",
+					"stationLink": "http://shot2.inten.pl:10000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Doxa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Easy Time",
+					"stationLink": "http://streaming.radionomy.com/EasyTime?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Easy-Time.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio El Stacja",
+					"stationLink": "http://radio.el-stacja.pl:8000/elstacja.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-el-stacja.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Elektronika",
+					"stationLink": "http://s4.radiohost.pl:8152",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Elektronika.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Elka",
+					"stationLink": "http://live.elka.pl:8000/elka?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Elka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Em",
+					"stationLink": "http://shot2.inten.pl:8784",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Em.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio eM Kielce",
+					"stationLink": "http://78.46.170.230:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Radio-eM-Kielce.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Emaus",
+					"stationLink": "http://51.68.139.236:8000/oggstream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Emaus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio eN",
+					"stationLink": "http://91.121.22.77:80/stream1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-eN.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Enklawa",
+					"stationLink": "http://s2.radioboss.fm:8011/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Enklawa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio eR",
+					"stationLink": "http://bell.radioer.pl:8000/Radio_eR",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-eR.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ESKA",
+					"stationLink": "http://waw01.ic1.scdn.smcloud.net/t042-1.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-eska-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Active",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t096-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Active.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Ballads",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t011-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Ballads.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Cinema",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t024-1.mp3?TYPE=.MP3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Cinema.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Classic Rock",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t013-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Classic-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Club",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t004-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Club.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Dance",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t012-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska ELR Puoteck",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t006-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-ELR-Puoteck.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Global Lista",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t016-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Global-Lista.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Goraca 100",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t039-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Goraca-100.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Goraca 20",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t019-1.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Goraca-20.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Hity Nie Tylko Na Czasie",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t014-1.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Hity-Nie-Tylko-Na-Czasie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Justin Bieber",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t099-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Justin-Bieber.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Love",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t038-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Love.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska One Direction",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t098-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-One-Direction.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Party",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t005-1.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Rap",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t002-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Rap.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska RnB",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t003-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-RnB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Rock 100",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t091-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Rock-100.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Rock Alternative",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t015-1.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Rock-Alternative.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Rock Ballads",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t030-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Rock-Ballads.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Rock Polska",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t008-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Rock-Polska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Rock Reggae",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t021-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Rock-Reggae.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Rock Run",
+					"stationLink": "http://s3.deb1.scdn.smcloud.net/t095-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Rock-Run.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska ROCK W Ciezkim Stanie",
+					"stationLink": "http://s3.deb1.scdn.smcloud.net/t018-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-ROCK-W-Ciezkim-Stanie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska ROCK Xtreme",
+					"stationLink": "http://s3.deb1.scdn.smcloud.net/t001-1.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-ROCK-Xtreme.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eska Summer City",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t010-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Eska-Summer-City.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ESKA Warszawa",
+					"stationLink": "http://waw01.ic1.scdn.smcloud.net/t042-1.mp3?timestamp=1557566528&hash=93d98801edd6bfdfe0ac3a7dfa05989165452e6cee5e5aaa6413f1a27676ff74&rip=180.211.142.204&chstr=72f03d613b9df22115a0e1bc18b29bc0828af1e2a9331d600416e8778565d780",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-ESKA-Warszawa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Express",
+					"stationLink": "http://stream4.nadaje.com:13324/express?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Express.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FaMa Poland",
+					"stationLink": "http://stream2.nadaje.com:8076/;stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-FaMa-Poland1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FAMA Tomaszow",
+					"stationLink": "http://stream2.nadaje.com:8078/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-FAMA-Tomaszow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fest",
+					"stationLink": "http://primary.moodyradiostream.org/radiofest",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Fest.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FIAT",
+					"stationLink": "http://stream2.nadaje.com:8056",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-FIAT.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fonia",
+					"stationLink": "http://31.192.216.10:8000/radiofonia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Fonia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Forever 80s",
+					"stationLink": "http://sirius.shoutca.st:8761/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-Forever-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Forte Cba",
+					"stationLink": "http://s1.slotex.pl:7856/;?1557567446208",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Radio-Forte-Cba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fraszka",
+					"stationLink": "http://81.26.9.138:8000/RadioFraszka",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-fraszka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Freee",
+					"stationLink": "http://94.230.19.202:8000/radiofreee?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Freee.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FTB Club FM",
+					"stationLink": "http://play.radioftb.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-FTB-Club-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FTB Disco Polo",
+					"stationLink": "http://play.radioftb.net:8022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-FTB-Disco-Polo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FTB Flash FM",
+					"stationLink": "http://play.radioftb.net:8888/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-FTB-Flash-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FTB House",
+					"stationLink": "http://play.radioftb.net:8012/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-FTB-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FTB POLSKIE PRZEBOJE",
+					"stationLink": "http://play.radioftb.net:8008",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-FTB-POLSKIE-PRZEBOJE.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FTB Trance",
+					"stationLink": "http://play.radioftb.net:8026",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-FTB-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gdansk",
+					"stationLink": "http://stream.task.gda.pl:8000/rg1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Gdansk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Glos",
+					"stationLink": "http://87.204.92.180:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Glos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gniezno",
+					"stationLink": "http://stream3.nadaje.com:8012",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Gniezno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gorzow",
+					"stationLink": "http://stream01.zachod.pl:10105",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Gorzow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gra FM",
+					"stationLink": "http://217.74.72.4:80/RADIOGRA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Gra-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gra Torun",
+					"stationLink": "http://31.192.216.10:8000/radio_gra",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Radio-Gra-Torun.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Grudziadz",
+					"stationLink": "http://176.9.43.50:8660",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Grudziadz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Heavy Metal Attack",
+					"stationLink": "http://s0.radiohost.pl:9005",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Heavy-Metal-Attack.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hobby",
+					"stationLink": "http://stream4.nadaje.com:13472/test?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Hobby.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Horyzont",
+					"stationLink": "http://radiohoryzont.jgora.pl:9622/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/Radio-Horyzont-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio I",
+					"stationLink": "http://izydor.tv:8888/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-I.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Italo Party",
+					"stationLink": "http://italo.live-streams.nl/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-Italo-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Italo4you",
+					"stationLink": "http://s0.radiohost.pl:8018/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/radio-italo4you-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jard",
+					"stationLink": "http://37.59.2.218:8001/jard1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Jard.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jard 2",
+					"stationLink": "http://37.59.2.218:8001/jard2?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Jard-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jasna Gora",
+					"stationLink": "http://online.radiojasnagora.pl:8000/rjg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-jasna-gora.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jura 93.8",
+					"stationLink": "http://streams.radio90.pl:8000/jura_128kbps_stereo.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Jura-93.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kampus",
+					"stationLink": "http://193.0.98.66:8005/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Kampus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kampus Poland",
+					"stationLink": "http://193.0.98.66:8005/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Kampus-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kaszebe",
+					"stationLink": "http://stream3.nadaje.com:8048/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-kaszebe-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kielce",
+					"stationLink": "http://gra.radio.kielce.pl:8000/rk2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Kielce.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kolobrzeg",
+					"stationLink": "http://graj.radiokolobrzeg.pl:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Kolobrzeg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kolor",
+					"stationLink": "http://stream4.nadaje.com:15358/radiokolor",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Kolor-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Konin",
+					"stationLink": "http://217.74.72.4/RMFMAXXX48",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Konin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Koszalin",
+					"stationLink": "http://mp3.radioslupsk.pl:8240/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Koszalin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Krakow",
+					"stationLink": "http://stream3.nadaje.com:9118/radiokrakow",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Krakow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kultura",
+					"stationLink": "http://radiokultura.q84fh.net:8000/kultura.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Kultura.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio LagoonFM",
+					"stationLink": "http://s1.slotex.pl:7828/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-LagoonFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Leliwa",
+					"stationLink": "http://stream2.nadaje.com:8054/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Leliwa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lodz",
+					"stationLink": "http://217.113.224.171/RadioLodz-2-HQ.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Lodz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lublin",
+					"stationLink": "http://94.230.19.202:8000/64k?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Lublin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lucjana",
+					"stationLink": "http://sc1.24cast.pl:8506/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-Lucjana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Luz 91.6",
+					"stationLink": "http://156.17.39.65:8000/luzhifi.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Luz-91.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Malbork",
+					"stationLink": "http://stream3.nadaje.com:9022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Malbork.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Manhattan",
+					"stationLink": "http://s1.slotex.pl:7780/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Manhattan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Meduza",
+					"stationLink": "http://s1.slotex.pl:7826",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Meduza.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Merkury",
+					"stationLink": "http://poznan5.radio.pionier.net.pl:8000/merkury.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Merkury.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mirage",
+					"stationLink": "http://91.232.4.33:9569/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-Mirage.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mittendrin",
+					"stationLink": "http://178.32.204.100:7592",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Mittendrin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MixMusic pl",
+					"stationLink": "http://s1.slotex.pl:7384/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-MixMusic-pl.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mlode Wilki",
+					"stationLink": "http://s1.slotex.pl:7654/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Mlode-Wilki.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MRS Polska",
+					"stationLink": "http://play.radiomrs.com:7494/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-MRS-Polska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Music Days",
+					"stationLink": "http://s1.slotex.pl:7202/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Music-Days.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Music Max",
+					"stationLink": "http://91.232.4.33:7040/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-Music-Max.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Muzo FM",
+					"stationLink": "http://stream4.nadaje.com/muzo?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Muzo-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Na Codzien",
+					"stationLink": "http://s1.slotex.pl:7526/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Na-Codzien.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nadaje",
+					"stationLink": "http://panel.nadaje.com:9010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Nadaje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nadzieja",
+					"stationLink": "http://s5.radiohost.pl:8600",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Nadzieja.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Naklo",
+					"stationLink": "http://sluchaj.107i5.fm/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/radio-naklo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nedpol",
+					"stationLink": "http://83.149.126.29:8022",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-nedpol-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Neuro Pozytywni",
+					"stationLink": "http://88.198.6.6:7272",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Radio-Neuro-Pozytywni.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Niepokalanow",
+					"stationLink": "http://88.199.169.10:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Niepokalanow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Novosti 104.7",
+					"stationLink": "http://www.radionovosti.rs:443/radionovosti56s.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Novosti-104.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nowinki",
+					"stationLink": "http://nowinki.pk.edu.pl:8000/nowinki",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-Nowinki.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nysa FM",
+					"stationLink": "http://stream2.nadaje.com:8066",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Nysa-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Oko",
+					"stationLink": "http://stream2.nadaje.com:8094",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Untitled.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Oldies Mix",
+					"stationLink": "http://streaming.radionomy.com/OldiesMix?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Oldies-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Olsztyn",
+					"stationLink": "http://213.73.25.178:7055/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Olsztyn.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio One Live",
+					"stationLink": "http://91.232.4.33:8198/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-one-live-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Opole",
+					"stationLink": "http://dab.radio.opole.pl:8035/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-Opole.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Opole 2",
+					"stationLink": "http://dab.radio.opole.pl:8045/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Opole-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Orbit",
+					"stationLink": "http://s1.slotex.pl:7390/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Orbit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ostrowiec",
+					"stationLink": "https://s1.slotex.pl/shoutcast/7050/listen.xtl?sstationDetail=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-ostrowiec.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Parada",
+					"stationLink": "http://stream4.nadaje.com:15274/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Parada.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Park",
+					"stationLink": "http://sluchaj.radiopark.com.pl:8048",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Park-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party",
+					"stationLink": "http://s4.radioparty.pl:8005/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/Radio-Party1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party Energy 2000",
+					"stationLink": "http://energy2000.radioparty.pl:8005/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Party-Energy-2000.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party Kanal Chillout",
+					"stationLink": "http://s2.radioparty.pl:8005/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Party-Kanal-Chillout.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party Kanal Dj Mixes",
+					"stationLink": "http://djmixes.radioparty.pl:8035/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Party-Kanal-Dj-Mixes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party kanal Energy 2000",
+					"stationLink": "http://energy2000.radioparty.pl:8005/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Party-kanal-Energy-2000.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party Kanal Glowny",
+					"stationLink": "http://s2.radioparty.pl:8005/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Party-Kanal-Glowny.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party Kanal House",
+					"stationLink": "http://house.radioparty.pl:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Party-Kanal-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party Kanal Trance",
+					"stationLink": "http://trance.radioparty.pl:8015/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Party-Kanal-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party Kanal Vocal Trance",
+					"stationLink": "http://vocal.trance.radioparty.pl:8025/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Party-Kanal-Vocal-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PASJA chilout",
+					"stationLink": "http://91.232.4.33:8108/stream2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-PASJA-chilout-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PASJA Dance",
+					"stationLink": "http://91.232.4.33:9466/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-PASJA-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PASJA klubowa",
+					"stationLink": "http://91.232.4.33:9460/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-PASJA-klubowa-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PASJA Pop",
+					"stationLink": "http://91.232.4.33:8084/stream2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-PASJA-Pop-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PASJA Relaks",
+					"stationLink": "http://91.232.4.33:8102/stream2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-PASJA-Relaks-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pasja Warszawa",
+					"stationLink": "http://91.232.4.33:8049/stream2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-pasja-warszawa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Patrol",
+					"stationLink": "http://panel.nadaje.com:9052/radiopatrolpl",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Patrol.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Piekary",
+					"stationLink": "http://stream4.nadaje.com:14572/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-Piekary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pin",
+					"stationLink": "http://stream4.nadaje.com/muzo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Pin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO PLOCK FM",
+					"stationLink": "http://radia2.inten.pl:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-plock-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plonsk 93.6 FM",
+					"stationLink": "http://stream.radioplonsk.pl:9360/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-Plonsk-93.6-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PLUS Bydgoszcz",
+					"stationLink": "http://plu-bdg.cdn.eurozet.pl:8302",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-PLUS-Bydgoszcz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Gdansk",
+					"stationLink": "http://plu-gdn.cdn.eurozet.pl:8304",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Gdansk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Glogow",
+					"stationLink": "http://plu-glg.cdn.eurozet.pl:8306",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Glogow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Gniezno",
+					"stationLink": "http://plu-gnz.cdn.eurozet.pl:8308",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Gniezno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Gorzow",
+					"stationLink": "http://plu-grz.cdn.eurozet.pl:8310",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Gorzow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Gryfice",
+					"stationLink": "http://waw.ic.smcdn.pl/t051-1.aac?timestamp=1557657186&hash=43fda0ac14edd39f82c403f1896a25b7360c47d211e77e3ea5bdbb19b836d9a6&rip=180.211.142.159&chstr=a84c375e5f55453df53b9b0df034b342cf4564ee57e38f7ae5ecf5b2d8643d24",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Gryfice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Koszalin",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t083-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Koszalin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Krakow",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t086-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Krakow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Legnica",
+					"stationLink": "http://stream.plus.legnica.pl:8000/plusaacp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Legnica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Lipiany",
+					"stationLink": "http://waw.ic.smcdn.pl/t051-1.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Lipiany.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Lodz",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t082-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Lodz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Lublin",
+					"stationLink": "http://waw02-04.ic.smcdn.pl:8000/t102-1.mp3?timestamp=1570529856&hash=b0f4e4b8913897d260e8bdea5ab72368363fda1732181c51c47964b9e43d7c5b&rip=27.54.150.130&chstr=57263eef96392cb6edf2f51698ded89ccb019c8da56d63c854dd213529111c71",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/radio-plus-lublin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Olsztyn",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t071-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Olsztyn.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Podhale",
+					"stationLink": "http://s3.deb1.scdn.smcloud.net/t084-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Podhale.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Radom",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t051-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Plus-Radom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Szczecin",
+					"stationLink": "http://s3.deb1.scdn.smcloud.net/t085-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Szczecin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Warszawa",
+					"stationLink": "http://plu-waw.cdn.eurozet.pl:8318",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Warszawa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus Zielona Gora",
+					"stationLink": "http://plu-zgr.cdn.eurozet.pl:8320",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Plus-Zielona-Gora.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Podlasie",
+					"stationLink": "http://s1.slotex.pl:7038/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Podlasie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pogoda",
+					"stationLink": "http://stream10.radioagora.pl/tuba38-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Pogoda.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Poland",
+					"stationLink": "http://stream3.polskieradio.pl:8908",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/radio-poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Polo Poland",
+					"stationLink": "http://radiopolo.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-polo-poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Polska Live",
+					"stationLink": "http://radia2.inten.pl:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-polska-live.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Polska Stacja",
+					"stationLink": "http://stream.open.fm/111",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Polska-Stacja.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Power Basse",
+					"stationLink": "http://hubble.shoutca.st:8038/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Radio-Power-Basse.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Praga",
+					"stationLink": "http://4stream.pl:18060/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Praga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Progres",
+					"stationLink": "http://4stream.pl:18000/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Progres.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Przy Kominku",
+					"stationLink": "http://s1.slotex.pl:7210/stream/1/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Przy-Kominku.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Racja",
+					"stationLink": "http://air.racyja.com:8000/racja128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Racja.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Racyja Poland",
+					"stationLink": "http://air.racyja.com:8000/racja48?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Racyja-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Radom",
+					"stationLink": "http://stream6.nadaje.com:15292/radioradompl",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Radom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RAM",
+					"stationLink": "http://stream4.nadaje.com:9220/ram",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-RAM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RDC",
+					"stationLink": "http://stream2.nadaje.com:11140/rdc",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-RDC.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rekord 106.2",
+					"stationLink": "http://stream2.nadaje.com:8108",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Rekord-106.2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Revolta Warsaw",
+					"stationLink": "http://s1.slotex.pl:7080/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Revolta-Warsaw.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rewers",
+					"stationLink": "http://serwery-shoutcast.net:9966",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Rewers.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RM80",
+					"stationLink": "http://91.232.4.33:9011/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-RM80.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rodzina",
+					"stationLink": "http://sluchaj.radiorodzina.pl:8000/RadioRodzinaWroclawLIVE.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Rodzina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Romantykow",
+					"stationLink": "http://91.232.4.33:9061/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Romantykow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RSC",
+					"stationLink": "http://stream.nadaje.com:8054",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-RSC.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio sfera",
+					"stationLink": "http://sfera.live24.gr/sfera4132",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-sfera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Silesia",
+					"stationLink": "http://s1.slotex.pl:7926/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Silesia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Silesia 96.2",
+					"stationLink": "http://streaming.tvs.pl:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Silesia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Slask",
+					"stationLink": "http://s1.slotex.pl:7022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Slask.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sleep Time",
+					"stationLink": "http://streaming.radionomy.com/SleepTime?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Sleep-Time.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Slupsk",
+					"stationLink": "http://91.232.4.33:8240/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Slupsk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sochaczew",
+					"stationLink": "http://37.130.30.166:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Sochaczew.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sok Sulecin",
+					"stationLink": "http://4stream.pl:18174/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Sok-Sulecin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Spioch",
+					"stationLink": "http://s1.slotex.pl:7138/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Radio-Spioch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Studenckie EgstationDetaila",
+					"stationLink": "http://radiointernetowe.net:9950",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Studenckie-EgstationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sud 101.7",
+					"stationLink": "http://stream2.nadaje.com:8012",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Sud-101.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Swinoujscie",
+					"stationLink": "http://37.187.240.242:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Radio-Swinoujscie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sygnaly",
+					"stationLink": "http://radiosygnaly2.uni.opole.pl:8000/rs.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Sygnaly.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sympatyk",
+					"stationLink": "http://sc3.24cast.pl:8120/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Sympatyk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Szczecin",
+					"stationLink": "http://stream4.nadaje.com:11986/prs?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Szczecin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Szczecin Extra",
+					"stationLink": "http://stream3.nadaje.com:8200/szczecinfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Szczecin-Extra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Szczecinek",
+					"stationLink": "https://c5.radioboss.fm:18032/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-szczecinek.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tczew 100.8 FM",
+					"stationLink": "http://195.191.180.5:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-tczew-100.8-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio TekstyFM",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t026-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-TekstyFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio TP",
+					"stationLink": "http://radiotp.pl:8052/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-TP.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Traffic 97.8",
+					"stationLink": "http://stream2.nadaje.com:8978/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Traffic-97.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Uniwersytet",
+					"stationLink": "https://www.radiouniwersytet.pl/ru128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-uniwersytet.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio VIA",
+					"stationLink": "http://62.133.128.18:8040",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-VIA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Victoria Poland",
+					"stationLink": "http://stream.v4.radiovictoria.pl:8176",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Victoria-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox 100",
+					"stationLink": "http://a.scdn.smcloud.net/t093-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Vox-100.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox 80",
+					"stationLink": "http://stm12.conectastm.com:8762/stream?1557737555145",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Vox-80.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox 90",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t090-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Vox-90.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox Ballads",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t033-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Vox-Ballads.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox Best Lista",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t087-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Vox-Best-Lista.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox Marek Sierocki Prezentuje",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t029-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Vox-Marek-Sierocki-Prezentuje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox Party",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t035-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Vox-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox PL",
+					"stationLink": "http://waw.ic.smcdn.pl/t049-1.mp3?timestamp=1517490603&hash=656dd79dbfdcea8ee4e6e97cbe70a6dd",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Vox-PL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Wakai",
+					"stationLink": "http://s1.slotex.pl:7076/stream/1/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-wakai.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Warszawa",
+					"stationLink": "http://streaming01.technologicznie.net:8765/radio_warszawa.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Warszawa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio WAWA",
+					"stationLink": "http://waw01.ic2.scdn.smcloud.net/t050-1.aac?timestamp=1557738134&hash=cb300cf7501bdf033ccb65ad4b37fa9f2567fe0d723a84bd34e11ab6883aa40b&rip=180.211.143.168&chstr=ab716d298702e8340ff06240290df231b24034b1fe852cd61fa13e0b14aa598f",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-WAWA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio WAWA Dedektyw Inwektyw",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t031-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-WAWA-Detektyw-Inwektyw.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio WAWA Party",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t036-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-WAWA-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio WAWA Polskie Hity",
+					"stationLink": "http://s5.deb1.scdn.smcloud.net/t009-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-WAWA-Polskie-Hity.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Weekend FM",
+					"stationLink": "http://stream.weekendfm.pl:8000/weekendfm_najlepsza.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Weekend-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Wesole Slonzoki",
+					"stationLink": "http://s1.radiohost.pl:8126/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-wesole-slonzoki.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio WstationDetailoczek",
+					"stationLink": "http://vpr.streamguys.net/vpr64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-WstationDetailoczek.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio WNET",
+					"stationLink": "http://audio.radiownet.pl:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-WNET.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Wroclaw",
+					"stationLink": "http://stream4.nadaje.com:9240/prw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Wroclaw.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Wydminy",
+					"stationLink": "http://78.129.224.13:15689/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Wydminy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Young Stars",
+					"stationLink": "http://212.7.222.34:8000/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Young-Stars.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zachod",
+					"stationLink": "http://stream01.zachod.pl:10107",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Zachod.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zagan",
+					"stationLink": "http://panel.nadaje.com:11108/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Zagan.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zak",
+					"stationLink": "http://lodz.radio.pionier.net.pl:8000/radiozak.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Zak.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ZakaZ",
+					"stationLink": "http://s1.slotex.pl:7196",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-ZakaZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ZET",
+					"stationLink": "http://zet-net.cdn.eurozet.pl:8400/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/12/radio-zet.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zielona Gora",
+					"stationLink": "http://stream01.zachod.pl:10107",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Zielona-Gora.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ziemi Wielunskiej",
+					"stationLink": "http://stream2.nadaje.com:8022",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Ziemi-Wielunskiej.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Znin FM",
+					"stationLink": "http://stream4.nadaje.com:8052",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Znin-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio17",
+					"stationLink": "http://emisja.radio17.pl:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio17.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radiofonia 100.5 FM",
+					"stationLink": "http://31.192.216.10:8000/radiofonia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radiofonia-100.5-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioJAZZ FM",
+					"stationLink": "http://radiojazzfm.radiokitstream.org/radiojazzfm.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/RadioJAZZ-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioParrot",
+					"stationLink": "https://node-04.zeno.fm/ruv9r0wnfhruv.aac?rj-ttl=5&rj-tok=AAABbtDdV8EAmyLVDM3zvjYtQg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radioparrot.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radiosfera Mix",
+					"stationLink": "http://serv.radiosfera.pl:7086",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radiosfera-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radiosfera Old",
+					"stationLink": "http://serv.radiosfera.pl:7082/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radiosfera-old-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDN Makopolska",
+					"stationLink": "http://rdn.pl:8002/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RDN-Makopolska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDN Nowy Sacz",
+					"stationLink": "http://151.80.24.114:9382/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RDN-Nowy-Sacz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rewind Studio",
+					"stationLink": "http://37.187.90.196:9436/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Rewind-Studio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF 2000",
+					"stationLink": "http://217.74.72.10/2000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-2000-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF 50s",
+					"stationLink": "http://195.150.20.242:8000/rmf_50s",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-50s-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF 60s",
+					"stationLink": "http://31.192.216.5:8000/rmf_60s?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-60s-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF 70s",
+					"stationLink": "http://217.74.72.11:8000/rmf_70s",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-70s.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF 80s",
+					"stationLink": "http://217.74.72.4:8000/rmf_80s",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-80s.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF 90s",
+					"stationLink": "http://217.74.72.4:8000/rmf_90s",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf90s.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF ALTERNATYWA",
+					"stationLink": "http://217.74.72.10:8000/rmf_alternatywa?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-alternatywa.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Audio River",
+					"stationLink": "http://76.72.160.226:9932/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-audio-river-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Baby",
+					"stationLink": "http://195.150.20.242:8000/rmf_baby",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmfbaby.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Beatlemania",
+					"stationLink": "http://195.150.20.5:8000/rmf_beatlemania?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-beatlemania.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Blues",
+					"stationLink": "http://195.150.20.243:8000/rmf_blues",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmfblues.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Bravo",
+					"stationLink": "http://195.150.20.243:8000/rmf_bravo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-bravo-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Celtic",
+					"stationLink": "http://195.150.20.244:8000/rmf_celtic?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-celtic.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Chillout",
+					"stationLink": "http://195.150.20.244:8000/rmf_chillout",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-chillout.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Chopin",
+					"stationLink": "http://195.150.20.5:8000/rmf_chopin",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmfchopin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Classic",
+					"stationLink": "http://31.192.216.7/rmf_classic",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmfclassic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Classic Rock",
+					"stationLink": "http://195.150.20.7:8000/rmf_classic_rock_vt",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-classic-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Club",
+					"stationLink": "http://195.150.20.244:8000/rmf_club",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-club-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Club Breaks",
+					"stationLink": "http://217.74.72.11:8000/rmf_club",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-club-breaks.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Cover",
+					"stationLink": "http://195.150.20.242:8000/rmf_cover?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmfcover.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Cuba",
+					"stationLink": "http://217.74.72.11:8000/rmf_cuba?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-cuba.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Dance",
+					"stationLink": "https://rs8-krk2-cyfronet.rmfstream.pl/DANCE",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmfdance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Depeche Mode",
+					"stationLink": "http://31.192.216.7:8000/rmf_depeche_mode",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-depeche-mode.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Electro Shockwave",
+					"stationLink": "http://217.74.72.11/ELECTROSHOCKWAVE?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-electro-shockwave.jpg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF EXTRA",
+					"stationLink": "http://217.74.72.10:9000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-extra-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Flamenco",
+					"stationLink": "http://217.74.72.11:8000/rmf_flamenco?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmfflamenco.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF FM",
+					"stationLink": "http://31.192.216.8:8000/rmf_fm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmffm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF FM 20",
+					"stationLink": "http://212.98.181.84:8000/novoeradio_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmf-fm-20.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF FMF",
+					"stationLink": "http://195.150.20.242:8000/rmf_fm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/rmffmf.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Hard N Heavy",
+					"stationLink": "http://195.150.20.244:8000/rmf_hard_heavy",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Hard-N-Heavy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Hip Hop",
+					"stationLink": "http://217.74.72.11:8000/rmf_hip_hop?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Hip-Hop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Hot New",
+					"stationLink": "http://217.74.72.4:8000/rmf_hot_new",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/RMF-Hot-New.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Kalinka",
+					"stationLink": "http://195.150.20.243:8000/rmf_kalinka?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Kalinka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Lady Pank",
+					"stationLink": "http://195.150.20.243/LADYPANK",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Lady-Pank.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Love",
+					"stationLink": "http://217.74.72.11:8000/rmf_love?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Love.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Maxxx",
+					"stationLink": "http://195.150.20.244:8000/rmf_maxxx",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/rmf-maxxx-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Muzyka Filmowa",
+					"stationLink": "http://217.74.72.11:8000/rmf_muzyka_filmowa",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Muzyka-Filmowa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Nostalgia",
+					"stationLink": "http://217.74.72.11/NOSTALGIA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Nostalgia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Party",
+					"stationLink": "http://31.192.216.5:8000/rmf_party?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Polski Rock",
+					"stationLink": "http://195.150.20.5:8000/rmf_polski_rock?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Polski-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Polskie Przeboje",
+					"stationLink": "http://31.192.216.8/PPRZEBOJE",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Polskie-Przeboje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Poplista",
+					"stationLink": "http://195.150.20.242:8000/rmf_poplista",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Poplista.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF PRL",
+					"stationLink": "http://31.192.216.5:8000/rmf_prl?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/RMF-PRL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Reggae",
+					"stationLink": "http://217.74.72.11:8000/rmf_reggae",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Reggae.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF RNB",
+					"stationLink": "http://195.150.20.9:8000/rmf_rnb",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-RNB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Rock",
+					"stationLink": "http://31.192.216.7:8000/rmf_rock",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Rumor",
+					"stationLink": "http://195.150.20.4:8000/rmf_rumor?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Rumor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Sloneczne Przeboje",
+					"stationLink": "http://195.150.20.242:8000/rmf_sloneczne_przeboje",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Sloneczne-Przeboje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMF Swieta",
+					"stationLink": "http://195.150.20.243:8000/rmf_swieta?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RMF-Swieta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI 80s Gold",
+					"stationLink": "http://188.165.195.176:8040/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-80s-Gold.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Beach Club Records",
+					"stationLink": "http://188.165.195.176:8046/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Beach-Club-Records.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Disco Fox Maxi Singles 12",
+					"stationLink": "http://188.165.195.176:8087/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Disco-Fox-Maxi-Singles-12.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Euro Disco",
+					"stationLink": "http://188.165.195.176:8034/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Euro-Disco.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Instrumental Version",
+					"stationLink": "http://188.165.195.176:8022/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Instrumental-Version.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Italo Disco Classic",
+					"stationLink": "http://188.165.195.176:8004/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Italo-Disco-Classic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Italo Disco Greatest Hits",
+					"stationLink": "http://188.165.195.176:8046/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Italo-Disco-Greatest-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Italo Disco New Generation",
+					"stationLink": "http://188.165.195.176:8010/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Italo-Disco-New-Generation.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Italo Euro Disco In The Mix",
+					"stationLink": "http://188.165.195.176:8016/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Italo-Euro-Disco-In-The-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RMI Synth Space Music",
+					"stationLink": "http://188.165.195.176:8028/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RMI-Synth-Space-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio Sielsia",
+					"stationLink": "http://46.182.20.10:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Rock-Radio-Sielsia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio Tuba",
+					"stationLink": "http://poznan4-4.radio.pionier.net.pl:8000/tuba8-1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Rock-Radio-Tuba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Serwis FM",
+					"stationLink": "http://radio.rockserwis.fm/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Rock-Serwis-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RWM Radio Wolne Mirko",
+					"stationLink": "http://91.232.4.33:9274/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/RWM-Radio-Wolne-Mirko.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SIM Radio Poland",
+					"stationLink": "http://panel.nadaje.com:11076/torun?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/SIM-Radio-Poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Slaskie Radio",
+					"stationLink": "http://live.slaskieradio.com:8030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Slaskie-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Slonskie Radio Hitmix",
+					"stationLink": "http://s1.slotex.pl:7294/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/slonskie-radio-hitmix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Slonsky Radio",
+					"stationLink": "http://212.112.224.166:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/slonsky-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sluchawa FM",
+					"stationLink": "http://s1.slotex.pl:7768/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Sluchawa-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Smooth Jazz Poland",
+					"stationLink": "http://stream18.shoutcastsolutions.com:8227/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/smooth-jazz-poland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SmoothJazz",
+					"stationLink": "http://stream14.shoutcastsolutions.com:8057/256stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/SmoothJazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sopocki",
+					"stationLink": "http://95.85.45.217:8000/sopocki2.mp3?sstationDetail=3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Sopocki.png",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Strefa FM",
+					"stationLink": "http://play.strefa.fm:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Strefa-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Studenckie Radio Emiter",
+					"stationLink": "http://radioemiter.pl:8000/emiter.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Studenckie-Radio-Emiter.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Studenckie Radio Frycz",
+					"stationLink": "http://s4.radiohost.pl:9468/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Studenckie-Radio-Frycz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Studnia Radio",
+					"stationLink": "http://shot2.inten.pl:8978/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/studnia-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Szczecin Fm",
+					"stationLink": "http://stream3.nadaje.com:8200/szczecinfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Szczecin-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Szpila Radio Heavy Metal",
+					"stationLink": "http://stream.szpila-radio.pl:8600/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Szpila-Radio-Heavy-Metal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tok FM",
+					"stationLink": "https://radiostream.pl/tuba10-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/tok-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Toksyna FM",
+					"stationLink": "http://s01.toksyna.fm:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/toksyna-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Toksyna FM Chillout",
+					"stationLink": "http://178.33.55.220:8050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Toksyna-FM-Chillout.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Toksyna FM DJ",
+					"stationLink": "http://s01.toksyna.fm:8040",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Toksyna-FM-DJ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Toksyna FM Elektronika",
+					"stationLink": "http://s01.toksyna.fm:8010/;786147340436162stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Toksyna-FM-Elektronika.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Toksyna FM New Romantic",
+					"stationLink": "http://s01.toksyna.fm:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Toksyna-FM-New-Romantic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Toksyna FM Psy Trance",
+					"stationLink": "http://s01.toksyna.fm:8030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Toksyna-FM-Psy-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Toksyna FM Punk Rock",
+					"stationLink": "http://s01.toksyna.fm:8070/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Toksyna-FM-Punk-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Top Radio - Open FM",
+					"stationLink": "http://stream.open.fm/95",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/top-radio-open-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TOP80 Radio",
+					"stationLink": "http://radio.top80.pl:9940/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/TOP80-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tuba FM",
+					"stationLink": "http://stream10.radioagora.pl/tuba39-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Tuba-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Twoje Radio 90.3",
+					"stationLink": "http://stream4.nadaje.com:12818/test",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Twoje-Radio-90.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tylko Polskie Przeboje",
+					"stationLink": "http://stream.open.fm/111",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/PolskaStacja-Tylko-Polskie-Przeboje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UWM FM",
+					"stationLink": "http://213.184.18.156:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/UWM-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vanessa FM",
+					"stationLink": "http://sc8010.xpx.pl:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/vanessa-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VOX FM",
+					"stationLink": "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3?timestamp=1558342080&hash=3f80128055717dd2281bb8a15d48c5d0735233c1864fe6846610f52c169b8857&rip=180.211.142.133&chstr=195382e216b16a13bacc34eceffb1c38a660004559596c0ae3e3aa111a0b37b7",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/VOX-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "wRadio.pl",
+					"stationLink": "http://s1.slotex.pl:7470/stream/1/;?type",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/wradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zapiski Ze Wspolczesnosci",
+					"stationLink": "http://mp3.polskieradio.pl:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Zapiski-Ze-Wspolczesnosci.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET 2000",
+					"stationLink": "http://zet200-02.cdn.eurozet.pl:8406",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-2000.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET 80",
+					"stationLink": "http://zet080-01.cdn.eurozet.pl:8402",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-80.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET 90",
+					"stationLink": "http://zet090-02.cdn.eurozet.pl:8404",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-90.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Biega",
+					"stationLink": "https://ch02.cdn.eurozet.pl/CHIRUN.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Chilli-Biega.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Covers",
+					"stationLink": "http://chicov-02.cdn.eurozet.pl:8102/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/ZET-Chilli-Covers.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Deep",
+					"stationLink": "http://chstationDetailep-01.cdn.eurozet.pl:8104",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Chilli-Deep.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Jazz",
+					"stationLink": "http://chijaz-01.cdn.eurozet.pl:8106",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Chilli-Jazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Katowice",
+					"stationLink": "http://chi-kat-01.cdn.eurozet.pl:8902",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Chilli-Katowice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Krakow",
+					"stationLink": "http://chi-net-01.cdn.eurozet.pl:8900",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Chilli-Krakow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Ladies",
+					"stationLink": "http://chilad-02.cdn.eurozet.pl:8108/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/ZET-Chilli-Ladies.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli PL",
+					"stationLink": "http://chipol-02.cdn.eurozet.pl:8110/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/ZET-Chilli-PL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Rafal Bryndal",
+					"stationLink": "http://chijaz-01.cdn.eurozet.pl:8106/;channel.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/ZET-Chilli-Rafal-Bryndal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zet Chilli Soul",
+					"stationLink": "http://chisou-02.cdn.eurozet.pl:8112/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Zet-Chilli-Soul1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Chilli Warszawa",
+					"stationLink": "http://n-6-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx?audio=5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Chilli-Warszawa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Classic Rock",
+					"stationLink": "http://zetcrk-01.cdn.eurozet.pl:8414",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Classic-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Dance",
+					"stationLink": "http://zetdan-01.cdn.eurozet.pl:8416",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Do Biegania",
+					"stationLink": "http://zet02.cdn.eurozet.pl:8452/ZETRUN.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Do-Biegania.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Film",
+					"stationLink": "http://zetfil-01.cdn.eurozet.pl:8418",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Film.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Fitness",
+					"stationLink": "http://zetfit-01.cdn.eurozet.pl:8420",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Fitness.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold 60s",
+					"stationLink": "http://zgl01.cdn.eurozet.pl:8516/ZGL060.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-60s1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold 70s",
+					"stationLink": "http://zgl01.cdn.eurozet.pl:8518/ZGL070.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-70s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold 80s",
+					"stationLink": "http://zgl01.cdn.eurozet.pl:8502/ZGL080.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold 90s",
+					"stationLink": "http://zgl01.cdn.eurozet.pl:8524/ZGL090.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-90s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Ballady",
+					"stationLink": "http://z025932.cdn.eurozet.pl:8526/ZGLBAL.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Ballady.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Beatles",
+					"stationLink": "http://zetlen.cdn.eurozet.pl:8438/;channel.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Beatles.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Disco 70s",
+					"stationLink": "http://zgl070-01.cdn.eurozet.pl:8518",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Disco-70s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Disco 80s",
+					"stationLink": "http://zgl080-01.cdn.eurozet.pl:8502",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Disco-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Film",
+					"stationLink": "https://zt02.cdn.eurozet.pl/ZETFIL.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Film.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Grechuta",
+					"stationLink": "http://zetgre-01.cdn.eurozet.pl:8426",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Grechuta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Hity",
+					"stationLink": "http://zgl01.cdn.eurozet.pl:8506/ZGLHIT.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Hity.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Hity na lato",
+					"stationLink": "http://zgl01.cdn.eurozet.pl:8508/ZGLLAT.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Hity-na-lato1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Italo",
+					"stationLink": "http://z025932.cdn.eurozet.pl:8522/ZGLITA.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Italo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Osiecka",
+					"stationLink": "http://zetosi-02.cdn.eurozet.pl:8442",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Osiecka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Party",
+					"stationLink": "http://z025932.cdn.eurozet.pl:8506/ZGLHIT.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Gold Po Polsku",
+					"stationLink": "http://z025932.cdn.eurozet.pl:8520/ZGLPOL.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Gold-Po-Polsku.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Hits",
+					"stationLink": "http://zethit-01.cdn.eurozet.pl:8428",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Hot",
+					"stationLink": "http://zethot-01.cdn.eurozet.pl:8430",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Hot.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET KstationDetails",
+					"stationLink": "http://zetkstationDetail-01.cdn.eurozet.pl:8434",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-KstationDetails.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Klasyka Pop",
+					"stationLink": "http://zetgol-01.cdn.eurozet.pl:8424",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Klasyka-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Love",
+					"stationLink": "http://zetlov-01.cdn.eurozet.pl:8440",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Love.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Party",
+					"stationLink": "https://zt03.cdn.eurozet.pl/ZETPAR.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET PL",
+					"stationLink": "https://zt03.cdn.eurozet.pl/ZETPAR.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-PL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Rock",
+					"stationLink": "https://zt02.cdn.eurozet.pl/ZETROK.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zet Slow",
+					"stationLink": "http://n-0-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Zet-Slow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET Soul",
+					"stationLink": "https://zt03.cdn.eurozet.pl/ZETSOU.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-Soul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZET SuperGold",
+					"stationLink": "http://zetspg-01.cdn.eurozet.pl:8460",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/ZET-SuperGold.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zlote Przeboje",
+					"stationLink": "http://poznan5-6.radio.pionier.net.pl:8000/tuba9-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/zlote-przeboje-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zlote Przeboje 80",
+					"stationLink": "http://poznan5-6.radio.pionier.net.pl:8000/tuba9-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Zlote-Przeboje-80.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

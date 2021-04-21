@@ -1,0 +1,197 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Aewen Radio",
+					"stationLink": "http://209.58.145.135:8001/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Aewen-Radio1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Aewen Radio K-Drama OSTs",
+					"stationLink": "http://209.58.145.135:8025/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/aewen-radio-k-drama-osts.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Andong MBC",
+					"stationLink": "http://streams3.museter.com:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/andong-mbc-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Big B Radio",
+					"stationLink": "http://64.71.79.181:8040",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/big-b-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Blue FM",
+					"stationLink": "http://mainstream.radioagora.pl/bluefm.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/Blue-FM-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bok Radio 98.9",
+					"stationLink": "http://bokradio.lowquality.radiostream.co.za:80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Bok-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bound FM",
+					"stationLink": "http://eu10.fastcast4u.com:4010/;?type=http&nocache=1570729834",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/bound-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BREEZ",
+					"stationLink": "http://procyon.shoutca.st:8660/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/breez.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dimple Euro Dance",
+					"stationLink": "http://222.122.178.187:1700/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/dimple-euro-dance-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dreamcast",
+					"stationLink": "http://dream.saycast.com",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/dreamcast.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Falling Stars",
+					"stationLink": "http://listen.radionomy.com/korea-station?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/falling-stars-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Happyday Newage Radio",
+					"stationLink": "http://newage.kr:8080",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Happyday-Newage-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "I Feel Music",
+					"stationLink": "http://c1.inlive.co.kr:5940",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/I-Feel-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazz Heart Radio",
+					"stationLink": "http://104.216.175.19:8022/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Jazz-Heart-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazz Lounge",
+					"stationLink": "http://sc10.saycast.com:8010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/jazz-lounge-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KFM 99.9",
+					"stationLink": "http://radio.kfm.co.kr:8000/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/KFM-99.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KM Studio Medan",
+					"stationLink": "http://c9.inlive.co.kr:5140",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/km-studio-medan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KMFM",
+					"stationLink": "http://c9.inlive.co.kr:5140",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/KMFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KMStudio FM",
+					"stationLink": "http://c9.inlive.co.kr:5140",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/KMStudio-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Korea Blind Radio",
+					"stationLink": "http://kbic.info:8880/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Korea-Blind-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kpop Girls Club",
+					"stationLink": "https://streaming.radionomy.com/RadionoMiX",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Kpop-Girls-Club.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KRadio",
+					"stationLink": "http://streaming.radionomy.com/-k-Radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/kradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mukulcast FM",
+					"stationLink": "http://c7.inlive.co.kr:1712/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/mukulcast-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Newage Happyday Radio",
+					"stationLink": "http://newage.kr:8080/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Happyday-Newage-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Free Asia",
+					"stationLink": "http://www.rfa.org/korean/weekly_audio/k090108fe-si.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Free-Asia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio GFM",
+					"stationLink": "http://onair.radiogfm.net:8003",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-GFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yeosu FM",
+					"stationLink": "mms://vod.ysmbc.co.kr/ysfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/yeosu-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

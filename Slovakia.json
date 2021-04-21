@@ -1,0 +1,617 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "100.5 FM Restauracion",
+					"stationLink": "http://cdn-radio.elim.org.sv:8007/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/100.5-FM-Restauracion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "897 FM Dance",
+					"stationLink": "http://88.198.10.229:8108/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/897-FM-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "897 FM POP",
+					"stationLink": "http://88.198.10.229:8007/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/897-fm-pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ah, Yes. Radio Steishn",
+					"stationLink": "https://eu10.fastcast4u.com:6955/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/ah-yes.-radio-steishn.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Aligator Classic Rock Radio",
+					"stationLink": "http://stream.aligator.sk:8000/aligator_192.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Aligator-Classic-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CityLab Radio",
+					"stationLink": "http://citylab.ice.infomaniak.ch/citylab-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/citylab-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dj Zoli Party Mix Radio",
+					"stationLink": "http://streaming.radionomy.com/DjZoliPartyMixRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Dj-Zoli-Party-Mix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dobre Radio",
+					"stationLink": "http://stream.dobreradio.sk:8813/dobreradio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/dobre-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dobre Radio Bratislava",
+					"stationLink": "http://streaming.radionomy.com/A-RADIO-90s-JUICE?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Dobre-Radio-Bratislava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Europa 2",
+					"stationLink": "http://stream.radioservices.sk/europa2.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Europa-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fresh Radio EU",
+					"stationLink": "http://8.38.78.173:8053/;stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/fresh-radio-eu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FUN Radio",
+					"stationLink": "http://stream.funradio.sk:8000/dance128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/fun-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio 80-90 Rocky",
+					"stationLink": "http://stream.funradio.sk:8000/80-90-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-80-90-rocky.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Cafe del Fun",
+					"stationLink": "http://stream.funradio.sk:8000/fun128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-cafe-del-fun.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Czechoslovakia",
+					"stationLink": "http://stream.funradio.sk:8000/cs128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-czechoslovakia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Dance",
+					"stationLink": "http://stream.funradio.sk:8000/dance128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-dance.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Danubius",
+					"stationLink": "http://stream.funradio.sk:8000/fun128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-danubius-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Hip Hop",
+					"stationLink": "http://stream.funradio.sk:8000/fun128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-hip-hop-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Hokej",
+					"stationLink": "http://stream.funradio.sk:8000/fun128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-hokej-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Live",
+					"stationLink": "http://stream.funradio.sk:8000/fun128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Love Songs",
+					"stationLink": "http://stream.funradio.sk:8000/fun128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-love-songs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Novinky",
+					"stationLink": "http://stream.funradio.sk:8000/fun128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/fun-radio-novinky-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Rock",
+					"stationLink": "http://stream.funradio.sk:8000/rock128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio Top 20",
+					"stationLink": "http://stream.funradio.sk:8000/top20128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/fun-radio-top-20.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hornet Radio",
+					"stationLink": "http://stream.radiosport.sk:8000/Sport192.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/hornet-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Janko Hrasko",
+					"stationLink": "http://78.24.9.110:31088/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Janko-Hrasko.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazz Spirit",
+					"stationLink": "https://streaming.radionomy.com/RadionoMiX?lang=en-US%2cen%3bq%3d0.9&ad=radiono5&extReferer=http%3a%2f%2fjazzradio-wixsite-com.filesusr.com%2fhtml%2fab0172_e8acb9f3a0146dc7862b3993ef550ff7.html&appstationName=website",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Jazz-Spirit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jemne Melodie",
+					"stationLink": "http://stream.jemne.sk/jemne-hi.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/01/jemne-melodie-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jemne Melodie FM",
+					"stationLink": "http://stream.jemne.sk/jemne-hi.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/jemne-melodie-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "L Radio Slovakia",
+					"stationLink": "http://shout.alconet.sk/radioliptov?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/l-radio-slovakia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Litera Radio",
+					"stationLink": "http://live.slovakradio.sk:8000/Litera_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/Litera-Radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Melody FM Slovakia",
+					"stationLink": "http://212.96.160.160:8036/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Melody-FM-Slovakia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "New Model Radio",
+					"stationLink": "http://stream.sepia.sk:8000/newmodel128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/New-Model-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NonStop Radio",
+					"stationLink": "http://nonstop.out.airtime.pro:8000/nonstop_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Non-Stop-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One Radio",
+					"stationLink": "http://217.75.92.14:8000/nr160kb",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/one-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 7 SK",
+					"stationLink": "http://play.twr.sk:8000/64?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-7-SK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aligator",
+					"stationLink": "http://stream.aligator.sk:8000/aligator_192.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-aligator-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Best FM",
+					"stationLink": "http://stream.bestfm.sk/128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Best-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Beta",
+					"stationLink": "http://212.37.80.142:8842",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Beta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Blesk",
+					"stationLink": "http://stream.radioblesk.net:7777/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-Blesk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Devin",
+					"stationLink": "http://live.slovakradio.sk:8000/Devin_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-devin-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Duj",
+					"stationLink": "http://stream.dancewave.online:8080/dance.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Radio-Duj.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Expres",
+					"stationLink": "https://stream.expres.sk/128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-expres-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FM",
+					"stationLink": "http://live.slovakradio.sk:8000/FM_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Frontinus",
+					"stationLink": "http://stream.frontinus.sk:8000/frontinus128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Frontinus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio GO DeeJay",
+					"stationLink": "http://209.105.232.220:8518/godj?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-go-deejay-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hey",
+					"stationLink": "http://www.abradio.sk/asx/heysk64.asx",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-hey-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio HIT Slovakia",
+					"stationLink": "http://stream02.exit.si:8000/radiohit?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-HIT-Slovakia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kiss Slovakia",
+					"stationLink": "http://stream.radiokiss.sk:8000/kiss64.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-kiss-slovakia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Klasika",
+					"stationLink": "http://icecast.stv.livebox.sk/klasika_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-klasika-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kosice",
+					"stationLink": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-kosice-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Litera",
+					"stationLink": "http://icecast.stv.livebox.sk/litera_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-litera-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lumen",
+					"stationLink": "http://audio.lumen.sk:8000/live128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Lumen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Max",
+					"stationLink": "http://mp3stream4.abradio.cz:8000/max64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-max.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Muzika",
+					"stationLink": "http://50.7.71.219:11066/live2.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-muzika.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio One Retro",
+					"stationLink": "http://217.75.92.14:8000/retro?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-One-Retro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio One Rock",
+					"stationLink": "http://217.75.92.14:8000/rrock?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-One-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio One SK",
+					"stationLink": "http://217.75.92.14:8000/nr160kb?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-One-SK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Patria",
+					"stationLink": "http://live.slovakradio.sk:8000/Patria_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Patria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Patria Slovakia",
+					"stationLink": "http://live.slovakradio.sk:8000/Patria_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-patria-slovakia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Piestany",
+					"stationLink": "http://live.radiopiestany.sk:8000/live.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-piestany-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Piestany",
+					"stationLink": "http://live.radiopiestany.sk:8000/live.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-piestany.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plus 105.9 FM",
+					"stationLink": "http://stream.sepia.sk:8000/plus128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-Plus-105.9-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Presov",
+					"stationLink": "http://stream.skyradio.sk:8000/sky128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-presov.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rebeca",
+					"stationLink": "http://server1.internetoveradio.sk:8822/mt.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Rebeca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regina",
+					"stationLink": "http://live.slovakradio.sk:8000/Regina_BA_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-regina-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regina Banska Bystrica",
+					"stationLink": "http://live.slovakradio.sk:8000/Regina_BB_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-regina-banska-bystrica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rockova Republika",
+					"stationLink": "http://217.67.31.66:8000/republika128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Rockova-Republika.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sever",
+					"stationLink": "http://stream.sepia.sk:8000/sever128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-sever-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sever",
+					"stationLink": "http://stream.sepia.sk:8000/sever128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-sever-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sity",
+					"stationLink": "http://icecast.radiosity.sk:443/hq.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-sity-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Slovakia International",
+					"stationLink": "http://live.slovakradio.sk:8000/RSI_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-slovakia-international-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Slovensko",
+					"stationLink": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-slovensko-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sport SK",
+					"stationLink": "http://stream.radiosport.sk:8000/Sport128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Sport-SK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tatras International",
+					"stationLink": "http://91.121.195.222:10486/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Tatras-International.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Viva",
+					"stationLink": "http://stream.sepia.sk:8000/viva128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-viva-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vlna",
+					"stationLink": "http://stream.radiovlna.sk/vlna-hi.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Vlna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio WOW",
+					"stationLink": "http://stream.radiowow.sk:8200/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-wow-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Yes",
+					"stationLink": "http://80.242.45.84:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-yes.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rtv Shqiponja 93.0",
+					"stationLink": "http://streaming.radionomy.com/JamendoLounge?lang=en-US",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/rtv-shqiponja-93.0.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTVS Radio Junior",
+					"stationLink": "http://icecast.stv.livebox.sk/junior_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/RTVS-Radio-Junior.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sky Radio Slovakia",
+					"stationLink": "http://stream.skyradio.sk:8000/sky64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Sky-Radio-Slovakia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Slobodny Vysielac",
+					"stationLink": "http://78.47.79.190:8002/start/vysielac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/slobodny-vysielac-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Slovakia Hit FM",
+					"stationLink": "http://stream.funradio.sk:8000/80-90-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/slovakia-hit-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SRo Rozhlasova R",
+					"stationLink": "http://live.slovakradio.sk:8000/Rozhlasova_rada.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/SRo-Rozhlasova-R.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SunBocca House Music Communit",
+					"stationLink": "http://38.107.242.152:8251/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/SunBocca-House-Music-Communit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zahoracke Radio",
+					"stationLink": "http://live.zahorackeradio.sk:8000/zr128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/zahoracke-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

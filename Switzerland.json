@@ -1,0 +1,3956 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "1 FM Cafe Radio",
+					"stationLink": "http://strm112.1.fm/caferadio_mobile_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/1-FM-Cafe-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "105 Classics Radio",
+					"stationLink": "http://radio.netstream.ch/planet105_128k_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/105-classics-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "13 Starz Radio",
+					"stationLink": "http://listen.radionomy.com/13StarzRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/13-Starz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "20 Minuten Radio",
+					"stationLink": "https://20min.dmd2streaming.com/20minuten_radio_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/20-minuten-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "7radio",
+					"stationLink": "http://7radio.stream2net.eu:8190",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/7radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "80ies",
+					"stationLink": "http://stream.radiojar.com/6cbvkaa1mrruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/80ies.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "80s Forever",
+					"stationLink": "http://51.77.124.144:8101/80sforever256",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/03/80s-forever-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "999 FM",
+					"stationLink": "http://listen.radionomy.com/abc-lounge?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/999-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "A Fine Jazz Gumbo Radio",
+					"stationLink": "http://178.209.40.106:9002/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/a-fine-jazz-gumbo-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Active Baladas",
+					"stationLink": "http://ample-zeno-23.radiojar.com/gqdg593nhq5tv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/active-baladas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Active Infantil Junior",
+					"stationLink": "https://node-33.zeno.fm/tae9pn0baveuv?rj-ttl=5&rj-tok=AAABb2_G2-cAkFRy2QACpq1THA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/active-infantil-junior.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Active Salsa",
+					"stationLink": "http://node-16.zeno.fm/x34m84503ueuv?1576576797445=&rj-tok=AAABbxNV8wEA4lst7-63wn0fKQ&rj-ttl=5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/active-salsa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahuga",
+					"stationLink": "https://ahuga.stream.laut.fm/ahuga",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/ahuga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alp Radio",
+					"stationLink": "http://alpradio.stream2net.eu:8050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/alp-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alpe Radio Leysin",
+					"stationLink": "http://184.75.223.178:8094/autodj",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Alpe-Radio-Leysin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Amacup Radio",
+					"stationLink": "https://amacup.stream.laut.fm/amacup",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/amacup-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ambi Nature Radio",
+					"stationLink": "http://94.23.252.14:8067/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Ambi-Nature-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Anticr 3 W",
+					"stationLink": "https://anticr3w.stream.laut.fm/anticr3w?ref=web-app&start_time=1592826655001&t302=2020-06-22_13-50-56&uustationDetail=29e4f199-847e-47c3-b4f3-826bb6c91dae",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/anticr-3-w.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arc Musique",
+					"stationLink": "http://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/arc-musique.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Argovia Classic Rock",
+					"stationLink": "http://icecast.argovia.ch/acr-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Argovia-Classic-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Argovia Hitmix",
+					"stationLink": "http://icecast.argovia.ch/ahm-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Argovia-Hitmix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ARL Alternative Radio Libre",
+					"stationLink": "http://www.darksite.ch/radioalternative/East%20Connection.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/arl-alternative-radio-libre.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Audioasyl",
+					"stationLink": "http://stream.audioasyl.net:8000/audioasyl",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/audioasyl.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Auraton FM",
+					"stationLink": "https://auraton.stream.laut.fm/_a_u_r_a_t_o_n_",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Auraton-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Backstage Radio",
+					"stationLink": "http://streaming.radionomy.com/JamendoLounge",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Backstage-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Banane Frequence",
+					"stationLink": "http://fbpc5.frequencebanane.ch:8001",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/banane-frequence.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Barix Radio",
+					"stationLink": "http://barix.streamguys.net/barix_hi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/barix-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Basspistol Radio",
+					"stationLink": "https://radio.basspistol.com/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Basspistol-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Beach Love House Radio",
+					"stationLink": "http://streamplus20.leonex.de:16054",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Beach-Love-House-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bear Metal Radio",
+					"stationLink": "http://sc6.shoutcaststreaming.us:8048/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Bear-Metal-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BeO",
+					"stationLink": "http://stream11.radiobeo.ch:8000/radiobeo_iphone.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/BeO.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Biboo Radio",
+					"stationLink": "https://listen.radioking.com/radio/264589/stream/309772",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/biboo-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Big Beat",
+					"stationLink": "http://us.bigbeatradio.com:8000/hi-fi.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/big-beat-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Birds Eye Jazz Club",
+					"stationLink": "http://rs33.stream24.org:8610/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Birds-Eye-Jazz-Club.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Black Out System",
+					"stationLink": "http://149.202.74.135:8039/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Black-Out-System.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Blast FM",
+					"stationLink": "http://de1.streamhosting.ch:80/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/blast-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bop Jazz Radio",
+					"stationLink": "https://streaming.smartradio.ch:9503/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/bop-jazz-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Breakz US Radio",
+					"stationLink": "http://radio1.breakz.fm/;stream.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/breakz-us-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Canal3",
+					"stationLink": "http://canal3allemand.ice.infomaniak.ch/canal3allemand-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Canal3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chandru FM Tamil",
+					"stationLink": "http://eu10.fastcast4u.com:6360/;?type=http&nocache=1591311443",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/chandru-fm-tamil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chanteurs Radio",
+					"stationLink": "http://sv1.vestaradio.com:4090/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/chanteurs-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Check Hits HD",
+					"stationLink": "http://www.radiart.eu:8283/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Check-Hits-HD.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Check Twin",
+					"stationLink": "http://www.radiart.eu:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Check-Twin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "COTN Lounge Radio",
+					"stationLink": "http://178.209.40.106:8010/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/COTN-Lounge-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cotn Radio",
+					"stationLink": "http://streaming.smartradio.ch:8010/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/cotn-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Couleur 3 Radio",
+					"stationLink": "http://stream.srg-ssr.ch/m/couleur3/mp3_128\r\n",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/couleur-3-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Country Music",
+					"stationLink": "https://countrymusic.stream.laut.fm/countrymusic?ref=web-app&t302=2019-05-29_10-50-50&uustationDetail=3e14814e-14d3-4830-9da2-831598d0fed0",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/country-music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Country Radio Switzerland",
+					"stationLink": "http://212.48.125.69:9330/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/country-radio-switzerland.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Creatures Of The Night Radio",
+					"stationLink": "https://streaming.smartradio.ch:8510/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/creatures-of-the-night-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DBC Radio",
+					"stationLink": "https://dbc.ice.infomaniak.ch/dbc-96.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/dbc-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Diis Radio",
+					"stationLink": "http://81.201.203.206:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Diis-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DJ Buzz Radio",
+					"stationLink": "http://djbuzz.stream2net.eu:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/DJ-Buzz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DJ Radio",
+					"stationLink": "http://stream01.my105.ch/my105djradio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/DJ-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DJ Radio EDM",
+					"stationLink": "http://streamplus17.leonex.de:17140",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/DJ-Radio-EDM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DJ Radio Lounge",
+					"stationLink": "http://streamplus16.leonex.de:13328",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/DJ-Radio-Lounge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Don Cardo Radio",
+					"stationLink": "http://212.83.172.22/radio/9086/stream/19322?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Don-Cardo-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Doob Radio",
+					"stationLink": "http://d-oo-b.cc:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Doob-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dravens Tales",
+					"stationLink": "https://dravenstales.stream.laut.fm/dravenstales?ref=web-app&t302=2019-05-12_09-35-06&uustationDetail=45313d80-cd12-4082-863f-01c7122fff60",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/dravens-tales.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DRS 2",
+					"stationLink": "http://stream.srg-ssr.ch/m/drs2/mp3_128\r\n",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/drs-2-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DRS 3",
+					"stationLink": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/drs-3-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DRS Musikwelle",
+					"stationLink": "http://stream.srg-ssr.ch/m/drsmw/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/drs-musikwelle-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecoweb Radio",
+					"stationLink": "http://eco-webradio.submusic.ch:8004",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/ecoweb-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Electro FM",
+					"stationLink": "https://stream.electroradio.fm/192k",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/electro-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Electro Radio",
+					"stationLink": "https://stream.electroradio.fm/192k",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/electro-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy 00 FM",
+					"stationLink": "http://broadcast.infomaniak.net:80/energy00s-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/energy-00-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy 90s",
+					"stationLink": "http://energy90s.ice.infomaniak.ch/energy90s-high",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/energy-90s-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy Black",
+					"stationLink": "https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/energy-black-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy Charts",
+					"stationLink": "http://broadcast.infomaniak.net:80/energygerman-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/energy-charts-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy German",
+					"stationLink": "http://broadcast.infomaniak.net:80/energygerman-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/energy-german-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy Girl",
+					"stationLink": "http://energygirl.ice.infomaniak.ch/energygirl-high.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/energy-girl-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy Italy",
+					"stationLink": "http://energyitaly.ice.infomaniak.ch/energyitaly-high.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/energy-italy-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy Latin Radio",
+					"stationLink": "https://energylatin.ice.infomaniak.ch/energylatin-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Energy-Latin-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy Soundtrack",
+					"stationLink": "http://broadcast.infomaniak.net:80/energysoundtrack-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/energy-soundtrack.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy Zurich",
+					"stationLink": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/energy-zurich-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy22",
+					"stationLink": "https://energy22.stream.laut.fm/energy22?ref=web-app&start_time=1592914022117&t302=2020-06-23_14-07-07&uustationDetail=9e7267c3-12e7-4edf-8abb-137c9e47beae",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/energy22.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ERF Plus",
+					"stationLink": "http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-ERF-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eviva FM",
+					"stationLink": "http://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/eviva-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fännis FM",
+					"stationLink": "https://faennisfm.stream.laut.fm/faennisfm?t302=2020-06-22_08-10-57&uustationDetail=56bf1efe-23a8-408a-8c47-ce7d62cfa787",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/fännis-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Flashback Radio Switzerland",
+					"stationLink": "http://stream.laut.fm/flashback?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Flashback-Radio-switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM1 Gold",
+					"stationLink": "http://broadcast.infomaniak.net/fm1gold.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/FM1-Gold.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM1 Hot",
+					"stationLink": "http://broadcast.infomaniak.net/fm1hot.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/FM1-Hot.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM1 Melody",
+					"stationLink": "http://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/FM1-melody.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM1 Sud",
+					"stationLink": "http://fm1sud.ice.infomaniak.ch/fm1sud.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/FM1-Sud.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Framboase FM",
+					"stationLink": "http://broadcast.infomaniak.net:80/framboase-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/framboase-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Freedom Radio",
+					"stationLink": "http://stream.radio-freedom.co.uk:8040",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/freedom-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Frequence Banane",
+					"stationLink": "http://fbpc5.epfl.ch:8000/fb_192?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/frequence-banane.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Friends For House",
+					"stationLink": "http://friendsforhouse.out.airtime.pro:8000/friendsforhouse_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Friends-For-House-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Furry FM Rock",
+					"stationLink": "https://s4.radio.co/sa18a4da89/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Furry-FM-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Garage Rock Radio",
+					"stationLink": "http://listen.radionomy.com/it-stimeforrock-nroll",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Garage-Rock-Radio1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GDS FM",
+					"stationLink": "http://gdsfm.out.airtime.pro:8000/gdsfm_a?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/GDS-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Generation FM",
+					"stationLink": "http://generation.ice.infomaniak.ch/generationfm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/generation-fm-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Generation FM Suisse",
+					"stationLink": "http://generation.ice.infomaniak.ch/generationfm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/generation-fm-suisse-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Geneva Live Radio",
+					"stationLink": "http://listen.radioking.com/radio/1917/stream/6062",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/geneva-live-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GetDeep",
+					"stationLink": "https://getdeep.stream.laut.fm/getdeep?ref=web-app&t302=2019-08-05_11-22-41&uustationDetail=005b02a0-1046-4ac5-a01c-7117437da1a6",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/getdeep.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ghost Avenue",
+					"stationLink": "http://streaming.radionomy.com/GHOST-AVENUE",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Ghost-Avenue.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ghost Avenue Radio",
+					"stationLink": "http://listen.radionomy.com/ghost-avenue?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Ghost-Avenue-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Global FM",
+					"stationLink": "http://live7.avf.ch:8000/globalfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/global-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Globull Radio Dance",
+					"stationLink": "http://webradioglobull.ice.infomaniak.ch/webradioglobull-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/globull-radio-dance-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gnie Suisse",
+					"stationLink": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/03/gnie-suisse-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Golton Art Radio",
+					"stationLink": "http://philae.shoutca.st:8414/1;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Golton-Art-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Groovenite Radio",
+					"stationLink": "https://groovenite.stream.laut.fm/groovenite?ref=web-app&t302=2019-05-29_08-42-07&uustationDetail=fd3bbfc7-2e15-4a3a-8c74-a2c4c155c71d",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/groovenite-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Grrif",
+					"stationLink": "http://grrif.ice.infomaniak.ch/grrif-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Grrif.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GV FM",
+					"stationLink": "https://gvfm.ice.infomaniak.ch/gvfm-64.mp3?type=.flv&ua=Infomaniak%20Flash%20Player%20v2&",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/GV-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "H1 Radio",
+					"stationLink": "http://webradio.h1radio.ch:8340/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/H1-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Halb Tanz Halb Schlaf",
+					"stationLink": "https://eu3.fastcast4u.com/proxy/jsackman?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/halb-tanz-halb-schlaf.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hits 24 Radio",
+					"stationLink": "http://listen.radionomy.com/hits-24",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Hits-24-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "House Delights",
+					"stationLink": "https://housedelights.stream.laut.fm/housedelights?ref=web-app&t302=2019-05-19_11-30-31&uustationDetail=0e6defd7-7ea8-444b-a0d6-952d2f937429",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/house-delightshouse-delights.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HYXE FM",
+					"stationLink": "https://hyxe.stream.laut.fm/hyxe?ref=web-app&t302=2019-04-29_11-41-54&uustationDetail=ad77934f-aec3-4340-bb60-eb014ec4bb62",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/hyxe-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Iischers Radio",
+					"stationLink": "http://stream.iischers.ch:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Iischers-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Impul Station",
+					"stationLink": "http://62.210.247.11/radio/2624",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Impul-Station.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "IP music",
+					"stationLink": "http://live7.avf.ch:8000/ipmusic256",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/IP-music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "IP music FM",
+					"stationLink": "http://live7.avf.ch:8000/ipmusic256",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/IP-music-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "IP music Slow",
+					"stationLink": "http://live7.avf.ch:8000/ipmusicslow256",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/ip-music-slow.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ITR FM",
+					"stationLink": "http://s4.voscast.com:8360",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/ITR-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jam On Radio",
+					"stationLink": "https://jam-on.ice.infomaniak.ch/jam-on-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/jam-on-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JazzAscona Radio",
+					"stationLink": "http://178.209.40.106:9002/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/JazzAscona-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Julie FM",
+					"stationLink": "http://julieplayout.out.airtime.pro:8000/julieplayout_a?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Julie-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kanal 8610",
+					"stationLink": "http://kanal8610.ice.infomaniak.ch/kanal8610-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Kanal-8610.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kanal K",
+					"stationLink": "http://stream.kanalk.ch:8050/kanalk.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/kanal-k-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "King Vibes",
+					"stationLink": "https://kingvibes.stream.laut.fm/king_vibes",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/king-vibes-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kollektive Klangwelt FM",
+					"stationLink": "http://87.98.217.63:23626/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Kollektive-Klangwelt-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KTFM FM",
+					"stationLink": "http://broadcast.infomaniak.net:80/ktfm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/ktfm-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Fabrik",
+					"stationLink": "http://stream.lafabrik.ch/lafabrik",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/La-Fabrik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Radio De Titi",
+					"stationLink": "http://titi.stream2net.eu:8500/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/La-Radio-De-Titi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latin Pop Baladas",
+					"stationLink": "http://node-24.zeno.fm/n9pergyv5ueuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/latin-pop-baladas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latina Hits Mix",
+					"stationLink": "http://node-21.zeno.fm/2yeqq4y7grquv?1570262537022=&rj-token=AAABbZr5_4-J2FEvrBb_uAdgTJEW8isXUj_Z0od77lW19wsi3XTRwA&rj-ttl=5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/latina-hits-mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latriperie Radio",
+					"stationLink": "http://stream.laut.fm/latriperie",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Latriperie-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Leman Bouge",
+					"stationLink": "http://tachyon.shoutca.st:9045/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Leman-Bouge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "LFM",
+					"stationLink": "http://broadcast.infomaniak.net/lausannefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/LFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lounge Radio",
+					"stationLink": "http://fr1.streamhosting.ch:8030/lounge-radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/lounge-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lucerne School of Music Jazz Radio",
+					"stationLink": "http://musicradio.hslu.ch:8000/channel1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Lucerne-School-of-Music-Jazz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lune Radio",
+					"stationLink": "http://lune.ice.infomaniak.ch/lune-high",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/lune-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Radio",
+					"stationLink": "http://magicradio.ice.infomaniak.ch/magicradio-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/magic-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Radio ch",
+					"stationLink": "http://magicradio.ice.infomaniak.ch/magicradio-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/magic-radio-ch-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Majestic Webcast",
+					"stationLink": "http://streaming.radio.co/s4e07d94ea/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Majestic-Webcast.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MakeNoise",
+					"stationLink": "https://makenoisech.stream.laut.fm/makenoisech",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/makenoise.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Malki Radio World Music",
+					"stationLink": "https://via.vulstream.com/radio/8230/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/malki-radio-world-music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mandjou Radio",
+					"stationLink": "http://50.22.223.16:8426/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Mandjou-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Maxxima",
+					"stationLink": "http://maxxima.mine.nu:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/maxxima.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Meteonews FM",
+					"stationLink": "http://stream.ndwave.ch:8000/meteonews?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/meteonews-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Meyrin FM",
+					"stationLink": "http://live.meyrinfm.ch:8006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Meyrin-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mnm Hits",
+					"stationLink": "http://icecast.vrtcdn.be/mnm_hits-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Mnm-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Monstraudio Radio",
+					"stationLink": "https://monstraudio.stream.laut.fm/monstraudio?t302=2020-06-22_13-59-49&uustationDetail=2636e865-7b52-4171-bf93-ae03f752f14d",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/monstraudio-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Montecristo Radio",
+					"stationLink": "http://audio.questreaming.com:20150/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/montecristo-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MOUNTAIN RADIO VERBIER",
+					"stationLink": "http://mountainradioverbier.stream2net.eu:8270",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/mountain-radio-verbier.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Musiq Radio",
+					"stationLink": "http://94.130.40.246:9300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Musiq-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "My 105 FM",
+					"stationLink": "http://stream01.my105.ch/my105original.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/my-105-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "my105 Afrojack",
+					"stationLink": "http://stream01.my105.ch/my105afrojack.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/my105-afrojack.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "My105 All The Hits",
+					"stationLink": "http://stream01.my105.ch/my105allthehits-aac.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/my105-All-The-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "My105 Chill",
+					"stationLink": "http://stream01.my105.ch/my105love.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/my105-Chill.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "my105 Dance",
+					"stationLink": "http://stream01.my105.ch/my105dance.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/my105-dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "My105 Deluxe",
+					"stationLink": "http://stream01.my105.ch/my105deluxe-aac.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/my105-Deluxe-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "my105 Dj Radio",
+					"stationLink": "http://stream01.my105.ch/my105djradio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/my105-dj-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "my105 Dreist",
+					"stationLink": "http://stream01.my105.ch/my105dreist.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/my105-dreist.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "My105 Fresh",
+					"stationLink": "http://stream01.my105.ch/my105fresh.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/My105-Fresh.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "my105 Martin Garrix",
+					"stationLink": "http://stream01.my105.ch/my105martingarrix.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/my105-martin-garrix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "My105 Mashup",
+					"stationLink": "http://stream01.my105.ch/my105mashup-aac.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/my105-Mashup.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "my105 Nightbeats Deluxe",
+					"stationLink": "http://stream01.my105.ch/my105deluxe.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/my105-nightbeats-deluxe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "my105 Oldschool",
+					"stationLink": "http://stream01.my105.ch/my105oldschool.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/my105-oldschool.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "My105 The Battle",
+					"stationLink": "http://stream01.my105.ch/my105thebattle-aac.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/my105-The-Battle.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NAS Radio CIRIH",
+					"stationLink": "http://eu4.fastcast4u.com:5056/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/nas-radio-cirih.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ND Wave Radio",
+					"stationLink": "http://stream.ndwave.ch:8000/ndwave",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/ND-Wave-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Neo zwei",
+					"stationLink": "http://live-two.dmd2.ch:8080/radiotell.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/neo-zwei-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Neo1 Radio",
+					"stationLink": "http://stream-02.neo1.ch/neo1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Neo1-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Neufeld Radio",
+					"stationLink": "http://stream.laut.fm/neufeld?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Neufeld-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "New Clear Radio Switzerland",
+					"stationLink": "http://live.newclearradio.net/128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/New-Clear-Radio-Switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NRJ Basel",
+					"stationLink": "http://energybasel.ice.infomaniak.ch/energybasel-high.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/NRJ-Basel1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NRJ Energy Bern",
+					"stationLink": "http://broadcast.infomaniak.net/energybern-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/NRJ-Energy-Bern.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NRJ Leman",
+					"stationLink": "http://185.52.127.155/ch/50001/aac_64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/NRJ-Leman.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Oldiefans.ch",
+					"stationLink": "https://server4.streamserver24.com:61440/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/oldiefans.ch_.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One Caprices Radio",
+					"stationLink": "http://onefm.ice.infomaniak.ch/onefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/One-Caprices-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One FM",
+					"stationLink": "http://broadcast.infomaniak.net/onefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/One-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One FM ch",
+					"stationLink": "http://onefm.ice.infomaniak.ch/onefm-high.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/One-FM-ch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One Generation",
+					"stationLink": "http://onefm.ice.infomaniak.ch/onefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/One-Generation.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One Swiss Talent",
+					"stationLink": "http://onefm.ice.infomaniak.ch/onefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/One-Swiss-Talent.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One US",
+					"stationLink": "http://onefm.ice.infomaniak.ch/onefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/One-US.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One Vintage",
+					"stationLink": "http://onefm.ice.infomaniak.ch/onefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/One-Vintage.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open Broadcast",
+					"stationLink": "http://stream2.openbroadcast.ch:80/openbroadcast",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Open-Broadcast1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open Classics Radio",
+					"stationLink": "http://stream.laut.fm/openclassics",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Open-Classics-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Orbital FM",
+					"stationLink": "http://s1.orbitalfm.ch:8000/orbital.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/orbital-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PHARE FM Romandie",
+					"stationLink": "http://pharefmromandie.ice.infomaniak.ch/pharefmromandie-96.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/PHARE-FM-Romandie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pineapple Juice",
+					"stationLink": "http://stream.laut.fm/pineapplejuice",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Pineapple-Juice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pink Radio SAT",
+					"stationLink": "http://pink.exyuserver.com:80/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Pink-Radio-SAT.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pinoyofw FM101 Radio",
+					"stationLink": "http://node-34.zeno.fm/r1fnuzqscseuv?rj-ttl=5&rj-tok=AAABcuUfuNwA3NbGmp6RVYkMaQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/pinoyofw-fm101-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Piraten Radio",
+					"stationLink": "http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Piraten-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Piratenradio CH",
+					"stationLink": "http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Piratenradio-CH.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PixelTecRadio",
+					"stationLink": "https://pixeltelev.stream.laut.fm/pixeltelev",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/pixeltecradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planet 105",
+					"stationLink": "http://radio.netstream.ch/planet105_128k_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Planet-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planet Ambi HD Radio",
+					"stationLink": "http://philae.shoutca.st:9019",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Planet-Ambi-HD-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planet Unity",
+					"stationLink": "http://stream.planet-unity.eu:80/high.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/Planet-Unity-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Playhits",
+					"stationLink": "https://playhits.stream.laut.fm/playhits?t302=2020-06-22_13-43-04&uustationDetail=c2e86bab-3122-4db2-907a-c1936443072d",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/playhits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Plug and Play Radio",
+					"stationLink": "http://listen.radionomy.com/Plug-and-Play-RADIO",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Plug-and-Play-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ponmaalai FM",
+					"stationLink": "http://148.72.151.143:8004/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/ponmaalai-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pop Latino 90 2010",
+					"stationLink": "https://node-31.zeno.fm/r2w78rxz3ueuv.aac?rj-ttl=5&rj-tok=AAABceR3z48Aqdj6FnHz26GsdA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/pop-latino-90-2010.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power Up Radio",
+					"stationLink": "https://powerupradio.ice.infomaniak.ch/powerupradio-192.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/power-up-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Public Domain Classical",
+					"stationLink": "http://relay.publicdomainproject.org/classical.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Public-Domain-Classical.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Public Domain Jazz",
+					"stationLink": "http://relay.publicdomainproject.org/jazz_swing.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Public-Domain-Jazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "R102",
+					"stationLink": "http://94.23.66.155:9334/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/r102.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Switzerland",
+					"stationLink": "http://radio.nello.tv/128k",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-1-Switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1291 Alternative Rock",
+					"stationLink": "http://listen.radionomy.com/1291alternativerock",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-1291-Alternative-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1291 Hits",
+					"stationLink": "http://listen.radionomy.com/radio1291",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-1291-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1291 Seventies N Eighties",
+					"stationLink": "http://listen.radionomy.com/1291seventies-n-eighties",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-1291-Seventies-N-Eighties.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 15 Ch",
+					"stationLink": "http://radio15.ice.infomaniak.ch/radio15-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/radio-15-ch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 24 102.8",
+					"stationLink": "http://icecastgreen.radio24.ch/radio24-rc-96-aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-24-102.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 24 Pop",
+					"stationLink": "http://icecast.radio24.ch/radio24pop\r\n",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-24-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 24 Rock",
+					"stationLink": "http://icecastgreen.radio24.ch/24r-mp3-srp?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-24-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 24 Shape",
+					"stationLink": "http://icecastgreen.radio24.ch/24s-mp3-srp?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-24-Shape.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 32",
+					"stationLink": "http://stream.radio32.ch/radio32",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-32-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 32 Goldies",
+					"stationLink": "http://stream.radio32.ch/radio32?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-32-goldies-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 3D",
+					"stationLink": "https://radio3d.stream.laut.fm/radio3d?ref=web-app&start_time=1592912850700&t302=2020-06-23_13-47-32&uustationDetail=d230a0ed-5c99-4449-bedc-677633b44f66",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-3d.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 3FACH",
+					"stationLink": "http://46.22.26.60:8001/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-3fach-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 3i",
+					"stationLink": "http://radio3i.ice.infomaniak.ch/radio3i-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-3i.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 3iii",
+					"stationLink": "http://radio3i.ice.infomaniak.ch/radio3i-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-3iii-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 4 Extra",
+					"stationLink": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-4-Extra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 4 You CH",
+					"stationLink": "http://centauri.shoutca.st:8656",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-4-you-ch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 7 Days",
+					"stationLink": "http://89.163.144.59:4418/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Radio-7-Days.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Actif",
+					"stationLink": "http://listen.radionomy.com/radioactif?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-actif-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alma Lusa",
+					"stationLink": "http://box9.rapstationDetailenet.ca:5542/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-alma-lusa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alperose",
+					"stationLink": "http://54.36.135.248:5350/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-alperose.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Argovia",
+					"stationLink": "http://icecastgreen.argovia.ch/argovia-rc-96-aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-argovia-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Argovia 80er",
+					"stationLink": "http://icecast.argovia.ch/a80-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Argovia-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Argovia 90er",
+					"stationLink": "http://icecast.argovia.ch/a90-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Argovia-90er.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Argovia Countdown",
+					"stationLink": "http://icecast.argovia.ch/actd-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Argovia-Countdown.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Argovia Lounge",
+					"stationLink": "http://icecast.argovia.ch/alounge-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Argovia-Lounge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Argovia Party",
+					"stationLink": "http://icecast.argovia.ch/aparty-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Argovia-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Argovia Pop",
+					"stationLink": "http://icecast.argovia.ch/apop-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Argovia-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Argovia Season",
+					"stationLink": "http://icecast.argovia.ch/aseason-mp3-srp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Argovia-Season.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Basel",
+					"stationLink": "http://ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-128-0.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-basel.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio BaselEins",
+					"stationLink": "https://radiosounds.stream.laut.fm/radiosounds?t302=2020-06-23_14-11-54&uustationDetail=b59ffedc-76ba-4c21-adb6-750fd8b59668",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-baseleins.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Basilisk",
+					"stationLink": "http://ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-128-0.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-basilisk-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Beatkolektif",
+					"stationLink": "http://188.40.32.140:8266",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Beatkolektif.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Beo",
+					"stationLink": "http://stream11.radiobeo.ch:8000/radiobeo.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-beo-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bern1",
+					"stationLink": "http://www.radiobern1.ch/webstream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-bern1-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bus",
+					"stationLink": "http://radiobus.ice.infomaniak.ch:80/radiobus-high",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-bus-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Canal 3",
+					"stationLink": "http://radio.upstream-cloud.ch/canal3allemand-192.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Canal-3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central ch",
+					"stationLink": "http://radiocentral.ice.infomaniak.ch/radiocentral-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Central-ch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Charts",
+					"stationLink": "http://centralcharts.bcast.infomaniak.ch/centralcharts-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Charts.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Country",
+					"stationLink": "http://centralcountry.ice.infomaniak.ch/centralcountry-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Country.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Dance",
+					"stationLink": "http://centraldance.ice.infomaniak.ch/centraldance-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Funk",
+					"stationLink": "http://centralfunk.ice.infomaniak.ch/centralfunk-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Funk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Hip Hop",
+					"stationLink": "http://centralhiphop.ice.infomaniak.ch/centralhiphop-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Hip-Hop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Jazz",
+					"stationLink": "http://centraljazz.ice.infomaniak.ch/centraljazz-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Jazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Rock",
+					"stationLink": "http://centralrock.ice.infomaniak.ch/centralrock-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Schlager",
+					"stationLink": "http://centralschlager.ice.infomaniak.ch/centralschlager-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Schlager.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Special",
+					"stationLink": "http://centralspezial.ice.infomaniak.ch/centralspezial-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Special.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Central Swiss",
+					"stationLink": "http://centralswiss.ice.infomaniak.ch/centralswiss-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Central-Swiss.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chablais",
+					"stationLink": "http://broadcast.infomaniak.net:80/radiochablais-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Chablais.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chanteurs",
+					"stationLink": "http://sv1.vestaradio.com:4090/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-chanteurs-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cinema Switzerland",
+					"stationLink": "http://hosting-serv.com:9070",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Cinema-Switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cite Geneve",
+					"stationLink": "http://broadcast.infomaniak.net/radiocite-highest.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cite-Geneve.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cmok",
+					"stationLink": "http://www.yutref.com:7700",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Cmok.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Deep",
+					"stationLink": "https://s2.radio.co/s098f4886e/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-deep.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Del Mar Switzerland",
+					"stationLink": "http://radiodelmar.ice.infomaniak.ch/radiodelmar-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/radio-del-mar-switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Diabrete",
+					"stationLink": "http://144.76.58.102:9626/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-diabrete.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO DISCOUNT",
+					"stationLink": "https://streamingv2.shoutcast.com/RADIODISCOunt",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/RADIO-DISCOUNT.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Doctor Web",
+					"stationLink": "http://ice02.flustationDetailstream.net/flustationDetail013.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Radio-Doctor-Web.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Drachenblut",
+					"stationLink": "http://radio-drachenblut.ch:8000/listen.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Drachenblut.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dreigestirn",
+					"stationLink": "http://radiodreigestirn.ch:10480",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-dreigestirn-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Du Bord De L'eau",
+					"stationLink": "https://listen.radioking.com/radio/181657/stream/223426",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-du-bord-de-leau.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Energy Love",
+					"stationLink": "http://broadcast.infomaniak.net:80/energylove-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-energy-love-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Engiadina",
+					"stationLink": "http://streaming.swisstxt.ch/m/grischa/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-engiadina-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Enzian",
+					"stationLink": "http://62.113.206.180:9540/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-enzian.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eviva",
+					"stationLink": "http://radioeviva.ice.infomaniak.ch/radioeviva-64.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-eviva-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Festnoz",
+					"stationLink": "http://sv2.vestaradio.com/DjFestnozfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Radio-Festnoz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ficko",
+					"stationLink": "http://80.237.210.23:19522",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/radio-ficko-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fiume Ticino",
+					"stationLink": "http://178.209.40.106:8002/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Fiume-Ticino.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fiume Ticino Charme",
+					"stationLink": "http://178.209.40.106:8004/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Fiume-Ticino-Charme.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fiume Ticino Gold",
+					"stationLink": "http://178.209.40.106:8014/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Fiume-Ticino-Gold.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fiume Ticino Pop",
+					"stationLink": "http://178.209.40.106:8001/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Fiume-Ticino-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FM1",
+					"stationLink": "http://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/FM11.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FM1 Buchs",
+					"stationLink": "http://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-FM1-Buchs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Freakpants",
+					"stationLink": "http://stream.laut.fm/freakpants?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Radio-Freakpants.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Freiburg",
+					"stationLink": "http://radiofreiburg.ice.infomaniak.ch:80/radiofreiburg-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Freiburg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Frequence Jura",
+					"stationLink": "http://broadcast.infomaniak.net/rfj-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Frequence-Jura.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fribourg",
+					"stationLink": "http://broadcast.infomaniak.net:80/radiofribourg-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/Radio-Fribourg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Grischa",
+					"stationLink": "http://streaming.swisstxt.ch/m/grischa/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-grischa-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gugelhopf",
+					"stationLink": "http://uk3.internet-radio.com:8113/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/radio-gugelhopf.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gwendalyn",
+					"stationLink": "http://stream.radiogwen.ch:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-gwendalyn.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hellvetia",
+					"stationLink": "http://62.146.98.104:8730/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Hellvetia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ice Age",
+					"stationLink": "http://37.187.146.140:8635/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Ice-Age.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio iischers",
+					"stationLink": "http://stream.iischers.ch:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-iischers.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Industrie",
+					"stationLink": "https://jam-on.ice.infomaniak.ch/jam-on-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Industrie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio InsstationDetaile Dab",
+					"stationLink": "https://radioinsstationDetaile.ice.infomaniak.ch/radioinsstationDetaile-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Radio-InsstationDetaile-Dab.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio James FM",
+					"stationLink": "https://jamesfm.ice.infomaniak.ch/jamesfm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-james-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jazz",
+					"stationLink": "http://151.80.38.142:7006/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Jazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jazz International",
+					"stationLink": "http://broadcast.infomaniak.ch/radiojazz-high.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Jazz-International.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio JungleCiani",
+					"stationLink": "https://stream.radiogwen.ch/radiojungleciani",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-jungleciani.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kaiseregg",
+					"stationLink": "http://kaiseregg.ice.infomaniak.ch/stream128k.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Kaiseregg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kizomba Soul",
+					"stationLink": "https://listen.radioking.com/radio/6858/stream/16034",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Kizomba-Soul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Fabrik",
+					"stationLink": "http://stream.lafabrik.ch/lafabrik",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-La-Fabrik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lac Switzerland",
+					"stationLink": "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Lac-Switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Latina FM",
+					"stationLink": "http://start-latina.ice.infomaniak.ch/start-latina-high.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Latina-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lavaux",
+					"stationLink": "http://wwwradio-lavauxch.ice.infomaniak.ch/wwwradio-lavauxch-64.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Radio-Lavaux.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Leysin",
+					"stationLink": "http://streaming.radionomy.com/RadioLeysin?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Leysin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Liechtenstein",
+					"stationLink": "http://85.31.153.69:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Liechtenstein.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Life Channel",
+					"stationLink": "http://mp3.lifechannel.ch/LC128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Life-Channel1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lime",
+					"stationLink": "https://stream.radiogwen.ch:8443/radiolime",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-lime.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lom Schweiz",
+					"stationLink": "http://stm7.esrerver.com:11880/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/radio-lom-schweiz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio LoRa 97.5",
+					"stationLink": "http://lora.ice.infomaniak.ch/lora.mp3?type=.mp4",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-LoRa-97.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lugano",
+					"stationLink": "http://streaming.ticino.com:8040",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-lugano-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lune",
+					"stationLink": "http://broadcaster.infomaniak.ch/lune-low.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Lune.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Luso Mix",
+					"stationLink": "http://s4.stmip.eu:7000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Luso-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Melody Switzerland",
+					"stationLink": "http://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Melody-Chili.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Meltdown",
+					"stationLink": "http://193.183.99.212:8000/radio-meltdown_192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Meltdown.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Merak",
+					"stationLink": "http://79.143.187.96:8092/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-merak.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Metal Kultur",
+					"stationLink": "https://radio-metalkultur.stream.laut.fm/radio-metalkultur?ref=web-app&t302=2019-05-27_10-13-01&uustationDetail=662d6d57-2077-4694-9995-8a33ea5fc807",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/radio-metal-kultur.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mix24 FM",
+					"stationLink": "http://live9.avf.ch:8000/ipmusic128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Mix24-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Morcote International",
+					"stationLink": "http://streaming.radiomorcoteinternational.com:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-morcote-international.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Munot",
+					"stationLink": "http://streaming.swisstxt.ch/m/radiomunot/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Munot.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Muzički Snovi",
+					"stationLink": "http://streaming.4-p.org:8192/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-muzički-snovi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Net Plus",
+					"stationLink": "http://netplus.stream2net.eu:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Net-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Niesen",
+					"stationLink": "https://server31677.streamplus.de/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-niesen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Novi Grad",
+					"stationLink": "http://mediahosting025.com:8585",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Novi-Grad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ostschweiz",
+					"stationLink": "http://shout.igacs.de:19008/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-ostschweiz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ouest",
+					"stationLink": "http://streaming.tendanceouest.com/tomanche.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-ouest.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ouistiti",
+					"stationLink": "http://ouistiti.stream2net.eu:8090/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Ouistiti.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio People",
+					"stationLink": "http://broadcast.radio-people.ch:8000/radio-people",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-People.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Phoenix Live",
+					"stationLink": "https://radio-phoenix.stream.laut.fm/radio-phoenix?t302=2020-06-22_13-06-16&uustationDetail=56616934-a3d3-40f9-af04-9f7c39e8ef60",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-phoenix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Phoenix Superhits",
+					"stationLink": "https://phoenix-superhits.stream.laut.fm/phoenix-superhits",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-phoenix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pilatus",
+					"stationLink": "http://radiopilatus.bcast.infomaniak.ch/pilatus64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-pilatus.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Planet FM",
+					"stationLink": "http://91.121.104.139:8100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Planet-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pop Lusa",
+					"stationLink": "http://node-23.zeno.fm/c6cpwp17n0quv?rj-ttl=5&rj-tok=AAABctbF4lkAJc5dOhksT35ddw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-pop-lusa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Powersound",
+					"stationLink": "https://radio-powersound.stream.laut.fm/radio-powersound",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-powersound.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rabe",
+					"stationLink": "http://stream.rabe.ch:8000/livestream/rabe-mstationDetail.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-rabe.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Radius",
+					"stationLink": "http://relay.radio.ethz.ch/sender.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Radius.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ramce",
+					"stationLink": "http://46.4.28.213:8048/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/radio-ramce-i-maca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rasa",
+					"stationLink": "http://s11.pop-stream.de:11120",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/radio-rasa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Redcastle",
+					"stationLink": "https://radioredcastle.stream.laut.fm/radioredcastle?t302=2020-06-21_13-59-45&uustationDetail=e266afc7-e8b0-4921-baf5-394ec56d3a32",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-redcastle.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RFJ",
+					"stationLink": "http://broadcast.infomaniak.net/rfj-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-rfj-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Riviera Montreux",
+					"stationLink": "https://radio6.pro-fhi.net/radio/9073/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/radio-riviera-montreux-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rotblau",
+					"stationLink": "http://116.202.174.106:8100/music",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-rotblau.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rottu",
+					"stationLink": "http://streams.rro.ch/rro.mp3?usstationDetail=0-0-H-M-A-02",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-rottu-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rottu Oberwallis",
+					"stationLink": "http://streams.rro.ch/rro.mp3?usstationDetail=0-0-H-M-A-01",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Rottu-Oberwallis1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RTN",
+					"stationLink": "http://broadcast.infomaniak.net/rtn-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-RaBe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio San Snova",
+					"stationLink": "http://streaming.4-p.org:8160/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-San-Snova.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sans Chaine",
+					"stationLink": "http://radio-sans-chaine.ice.infomaniak.ch/radiosanschaine.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Sans-Chaine.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sense Düdingen",
+					"stationLink": "http://radio-sense.ice.infomaniak.ch:8000/radio-sense-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-sense-düdingen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SstationDetaili",
+					"stationLink": "https://radiosstationDetaili.stream.laut.fm/radiosstationDetaili?t302=2020-06-21_13-42-05&uustationDetail=dd835b34-d449-47ad-8dc2-46b87b22bab4",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-sstationDetaili.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Smash Hip-Hop",
+					"stationLink": "http://server1.cityedv.at:8099/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Smash-Hip-Hop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Smash Latino",
+					"stationLink": "http://server1.cityedv.at:8099/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Smash-Latino.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Smash Multikulti",
+					"stationLink": "http://51.255.104.137:8175/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Smash-Multikulti.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Smash Original",
+					"stationLink": "http://server1.cityedv.at:8099/livestream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Smash-Original.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Smash Rockabilly",
+					"stationLink": "http://server1.cityedv.at:8181/livestream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Smash-Rockabilly.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Smash Schlager",
+					"stationLink": "http://server1.cityedv.at:8223/livestream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Smash-Schlager.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Smash Swiss",
+					"stationLink": "http://server1.cityedv.at:8123/livestream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Smash-Swiss.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Spoon",
+					"stationLink": "http://spoonradio.ice.infomaniak.ch:80/spoonradio-high?.wma",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-spoon-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Spotlight",
+					"stationLink": "https://spotlight.stream.laut.fm/spotlight?t302=2020-06-22_13-14-23&uustationDetail=5aab7d9d-b8ac-456c-9515-a6e55bf08b0d",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-spotlight.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Stadtfilter",
+					"stationLink": "http://stream.stadtfilter.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Stadtfilter.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Stop FM",
+					"stationLink": "http://radiostopfm.ice.infomaniak.ch/radiostopfm-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Stop-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sudostschweiz",
+					"stationLink": "http://streaming.swisstxt.ch/m/grischa/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Sudostschweiz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Suisse Classique",
+					"stationLink": "http://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-suisse-classique.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Summernight",
+					"stationLink": "https://stream.laut.fm/radiosummernight",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Summernight.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sunshine 88.0FM",
+					"stationLink": "http://sunshineradio.ice.infomaniak.ch/sunshineradio-64.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Sunshine-88.0FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sunshine ch",
+					"stationLink": "http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-sunshine-ch-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Svizzera Classica",
+					"stationLink": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-svizzera-classica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Swiss Classic",
+					"stationLink": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-swiss-classic-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Swiss Jazz",
+					"stationLink": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-swiss-jazz-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Swiss Pop",
+					"stationLink": "http://stream.srg-ssr.ch/m/rsp/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Swiss-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Swissitalia",
+					"stationLink": "http://onair7.xdevel.com:7038/1/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-swissitalia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SwissJu",
+					"stationLink": "http://87.98.217.63:23446/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-SwissJu-3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tell",
+					"stationLink": "http://stream.radiotell.ch/radiotell.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/Radio-Tell.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ticino",
+					"stationLink": "http://radioticino.ice.infomaniak.ch/radioticino-48.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-ticino.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tonic FM",
+					"stationLink": "http://icepe14.infomaniak.ch/radiotonic-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-tonic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Top",
+					"stationLink": "http://icecast.radiotop.ch/radiotop_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Top.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Top Two",
+					"stationLink": "http://icecast.radiotop.ch/toptwo_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-top-two-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tropic",
+					"stationLink": "http://stream.radio1.ch:8000/128k",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Tropic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vaanam",
+					"stationLink": "http://hyades.shoutca.st:8717/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Vaanam-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Verbier",
+					"stationLink": "http://radioverbier.ice.infomaniak.ch/radioverbier.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-Verbier.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vesela Druzina",
+					"stationLink": "http://radio.yub-host.com:9943/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-vesela-druzina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vostok",
+					"stationLink": "http://radiovostok.ice.infomaniak.ch/radiovostok.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Vostok.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Webcastle",
+					"stationLink": "http://178.83.43.119:9010/;?1474537810693.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Radio-Webcastle.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Wrzlvibe",
+					"stationLink": "http://stream.laut.fm/wrzlvibe?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Radio-Wrzlvibe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio X",
+					"stationLink": "http://mp3.radiox.ch:8000/standard.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-x-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Yacht",
+					"stationLink": "https://radioyachtcapri.newradio.it/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-yacht.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zuerich Nord",
+					"stationLink": "http://93.174.187.35/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Zuerich-Nord.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zurisee",
+					"stationLink": "http://mp3.radio.ch:80/radiozuerisee128k",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/radio-zurisee-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio-Nevermind",
+					"stationLink": "https://www.tunefm.de:2000/stream/radio-nevermind",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-nevermind.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio-Star",
+					"stationLink": "http://manager2.creativradio.com:3060/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-star.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio10 Live",
+					"stationLink": "http://91.121.38.100:8240/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio10-live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "radiobit.ch",
+					"stationLink": "https://s2.radio.co/sd2ba30c08/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-bit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioChico Schweiz",
+					"stationLink": "http://radiochico.sdreamland.ch/radiochico.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radiochico-schweiz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radiologisch",
+					"stationLink": "http://82.220.3.107:8000/stream/2/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radiologisch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioNova",
+					"stationLink": "https://radionova.stream.laut.fm/radionova?ref=web-app&start_time=1592904167448&t302=2020-06-23_11-22-50&uustationDetail=f75f7b95-266a-4662-ab6e-70f7aeff7760",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radionova.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rap Beats Radio",
+					"stationLink": "https://s3.radio.co/s295f3cf65/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/rap-beats-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Real Vybz Radio",
+					"stationLink": "http://www.radioking.com/play/real-vybz",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Real-Vybz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RedLine Radio",
+					"stationLink": "https://listen.radioking.com/radio/81865/stream/161119",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/RedLine-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFJ FM",
+					"stationLink": "http://broadcast.infomaniak.net/rfj-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rfj-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFJ Radio",
+					"stationLink": "http://broadcast.infomaniak.net/rfj-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/RFJ-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFT Diretta",
+					"stationLink": "http://178.209.40.106:8001/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RFT-Diretta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFT Made In Italy",
+					"stationLink": "http://178.209.40.106:8002/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RFT-Made-In-Italy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFT MovstationDetaila",
+					"stationLink": "http://178.209.40.106:8005/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RFT-MovstationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFT Music Club",
+					"stationLink": "http://178.209.40.106:8006/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RFT-Music-Club.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFT Rap Style",
+					"stationLink": "http://178.209.40.106:8011/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RFT-Rap-Style.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFT Rock",
+					"stationLink": "http://178.209.40.106:8007/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RFT-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rhone FM",
+					"stationLink": "http://broadcast.infomaniak.net:80/rhonefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rhone-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RJB",
+					"stationLink": "http://broadcast.infomaniak.net/rjb-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/RJB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RL1 Radio",
+					"stationLink": "https://radio-lemanone.ice.infomaniak.ch/radio-lemanone-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/RL1-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RNV Radio Nord Vaudois",
+					"stationLink": "http://listen.radioking.com/radio/5374/stream/13835",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/RNV-Radio-Nord-Vaudois.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock and Roll Radio",
+					"stationLink": "http://stream1.laut.fm/rockandrollradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Rock-and-Roll-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock N Rave",
+					"stationLink": "https://rock-n-rave.stream.laut.fm/rock-n-rave?ref=web-app&t302=2019-05-15_11-23-17&uustationDetail=77e834d4-44f2-4f5a-89c7-27a08ad31f25",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/rock-n-rave.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Nation Radio",
+					"stationLink": "http://giss.tv:8001/radioskalafm.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rock-nation-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock The Blues",
+					"stationLink": "http://stream.laut.fm/rock-the-blues?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Rock-The-Blues.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ROCKSTATION",
+					"stationLink": "http://rs11.stream24.org:8130/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/ROCKSTATION.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge 70s",
+					"stationLink": "http://rouge-70s.ice.infomaniak.ch/rouge-70s-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-70s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge 80s",
+					"stationLink": "http://rouge-80s.ice.infomaniak.ch/rouge-80s-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge 90s",
+					"stationLink": "http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rouge-90s-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Alternative",
+					"stationLink": "http://rouge-alternative.ice.infomaniak.ch/rouge-alternative-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Alternative.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge BPM",
+					"stationLink": "http://rouge-bpm.ice.infomaniak.ch/rouge-bpm-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-BPM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Dance",
+					"stationLink": "http://rouge-metal.ice.infomaniak.ch/rouge-dance-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rouge-dance-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Disco",
+					"stationLink": "http://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Disco.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge FM",
+					"stationLink": "http://broadcast.infomaniak.net/rougefm-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Rouge-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge FM 106.5",
+					"stationLink": "http://rougefm.ice.infomaniak.ch/rougefm-high.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Rouge-FM-106.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge France",
+					"stationLink": "http://rouge-metal.ice.infomaniak.ch/rouge-madeinfrance-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rouge-france-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Funk",
+					"stationLink": "http://rouge-funk.ice.infomaniak.ch/rouge-funk-64.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/rouge-funk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Hip Hop",
+					"stationLink": "http://rouge-hiphop.ice.infomaniak.ch/rouge-hiphop-64.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Hip-Hop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Hot 100",
+					"stationLink": "http://rouge-metal.ice.infomaniak.ch/rouge-hot100-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rouge-hot-100.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge In Love",
+					"stationLink": "http://rouge-metal.ice.infomaniak.ch/rouge-inlove-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rouge-in-love-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Italia",
+					"stationLink": "http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Italia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Latino",
+					"stationLink": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Latino.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Lounge",
+					"stationLink": "http://rouge-metal.ice.infomaniak.ch/rouge-lounge-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/rouge-lounge-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Metal",
+					"stationLink": "http://rouge-metal.ice.infomaniak.ch/rouge-metal-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rouge-metal-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Night",
+					"stationLink": "http://rouge-night.ice.infomaniak.ch/rouge-night-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Rouge-Night.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Platine",
+					"stationLink": "http://rougeplatine.ice.infomaniak.ch/rougeplatine-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Platine.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Reggae",
+					"stationLink": "http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Reggae.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge RnB",
+					"stationLink": "http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-RnB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Rock",
+					"stationLink": "http://rouge-rockpop.ice.infomaniak.ch/rouge-rockpop-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rouge Soundtrack",
+					"stationLink": "http://rouge-soundtrack.ice.infomaniak.ch/rouge-soundtrack-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rouge-Soundtrack.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RPS Dancehall Radio",
+					"stationLink": "http://edge2-b.exa.live365.net/a48868",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/RPS-Dancehall-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RRO Freakuency",
+					"stationLink": "http://streams.rro.ch/freakuency.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RRO-Freakuency.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RRO Muesig Pur",
+					"stationLink": "http://streams.rro.ch/muesigpur.mp3?usstationDetail=0-0-H-M-D-06",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RRO-Muesig-Pur.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RRO Swiss Melody",
+					"stationLink": "http://streams.rro.ch/swissmelody.mp3?usstationDetail=0-0-H-M-G-75",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/RRO-Swiss-Melody.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RS Dance Station",
+					"stationLink": "http://stream.radiojar.com/exqtsg93krruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/rs-dance-station-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RSI Rete Due",
+					"stationLink": "http://stream.srg-ssr.ch/m/retedue/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/RSI-Rete-Due.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RSI Rete Tre",
+					"stationLink": "http://stream.srg-ssr.ch/m/retetre/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/RSI-Rete-Tre.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RSI Rete Uno",
+					"stationLink": "http://stream.srg-ssr.ch/m/reteuno/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/RSI-Rete-Uno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RSR 1ere FM",
+					"stationLink": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rsr-1ere-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RSR Couleur 3",
+					"stationLink": "http://stream.srg-ssr.ch/m/couleur3/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/rsr-couleur-3-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTS Couleur 3",
+					"stationLink": "http://stream.srg-ssr.ch/m/couleur3/mp3_128\r\n",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/RTS-Couleur-3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTS Espace 2",
+					"stationLink": "http://stream.srg-ssr.ch/m/espace-2/aacp_96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/RTS-Espace-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTS La Premiere",
+					"stationLink": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/RTS-La-Premiere.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTS Option Musique",
+					"stationLink": "http://stream.srg-ssr.ch/m/option-musique/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/RTS-Option-Musique.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTS Option Musique Radio",
+					"stationLink": "http://stream.srg-ssr.ch/m/option-musique/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/rts-option-musique-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rund Funk FM",
+					"stationLink": "http://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Rund-Funk-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ruschfunk FM",
+					"stationLink": "http://91.121.155.140:19552/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/ruschfunk-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Schaf Und Schnucke",
+					"stationLink": "https://schafundschnucke.stream.laut.fm/schafundschnucke",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/schaf-und-schnucke.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Schlager Radio Switzerland",
+					"stationLink": "https://schlagerradio.ice.infomaniak.ch/schlagerradio-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/schlager-radio-switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Scoutlounge House Radio",
+					"stationLink": "http://proxima.shoutca.st:8118/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/scoutlounge-house-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SIRFLY Radio",
+					"stationLink": "http://stream.laut.fm/sirfly",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/sirfly-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Skull FM",
+					"stationLink": "http://stream.skullfm.ch:8000/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/skull-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SolstationDetailarity FM",
+					"stationLink": "http://stream.solstationDetailarity.fm/s5e194df9a/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/SolstationDetailarity-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sonata Hellvetica Rock Radio",
+					"stationLink": "http://91.121.59.45:8091/autodj?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Sonata-Hellvetica-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Spitalradio LuZ",
+					"stationLink": "http://radioluz.mp3.green.ch/radioluz.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/spitalradio-luz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Spoon Radio",
+					"stationLink": "http://ic2527.c972.fast-serv.com/spoonradio_aacp_96?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/spoon-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Springsteen FM",
+					"stationLink": "http://stream.springsteenfm.com/springsteenfm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Springsteen-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SRF 1",
+					"stationLink": "http://stream.srg-ssr.ch/m/drs1/mp3_128\r\n",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/SRF-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SRF 1 Zentralschweiz",
+					"stationLink": "http://stream.srg-ssr.ch/m/regi_zentr/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/SRF-1-Zentralschweiz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SRF 2 Kultur",
+					"stationLink": "http://stream.srg-ssr.ch/m/drs2/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/SRF-2-Kultur.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SRF 3",
+					"stationLink": "http://stream.srg-ssr.ch/m/drs3/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/SRF-3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SRF 4 News",
+					"stationLink": "http://stream.srg-ssr.ch/m/drs4news/mp3_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/SRF-4-News.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SRF Musikwelle",
+					"stationLink": "http://stream.srg-ssr.ch/m/drsmw/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/SRF-Musikwelle.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SRF Virus",
+					"stationLink": "http://stream.srg-ssr.ch/m/drsvirus/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/SRF-Virus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Starbit",
+					"stationLink": "http://206.190.136.141:4739/Live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Starbit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Starbit 2 Solo Musica",
+					"stationLink": "http://soho.wavestreamer.com:9364/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Starbit-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Starbit 3 International",
+					"stationLink": "http://shoutcast.citrus3.com:8492/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Starbit-3-International.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Starfrosch Radio",
+					"stationLink": "http://radio.starfrosch.ch:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/starfrosch-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Starfrosch Radio 2",
+					"stationLink": "http://radio.starfrosch.com:8443/stream2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/starfrosch-radio-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Starfrosch Radio 3",
+					"stationLink": "http://radio.starfrosch.com:8443/stream3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/starfrosch-radio-3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Starsrain Radio",
+					"stationLink": "http://173.192.105.231:3806/Live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Starsrain-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stream Radio",
+					"stationLink": "http://streamradio.cloud.tilaa.com:8000/stream-48",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/stream-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sublimusic",
+					"stationLink": "http://hilton-wa-emirates.mysublimusic.com/radio/8020/nyc-day.mp3?1505553069",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Sublimusic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sunradio",
+					"stationLink": "http://87.237.169.24:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/sunradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swiss Biker Week Radio",
+					"stationLink": "http://94.23.41.123:8030",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Swiss-Biker-Week-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swiss Groove",
+					"stationLink": "http://184.154.201.211:80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/swiss-groove-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swiss Radio",
+					"stationLink": "http://friends-of-radius.ethz.ch:80/radiocrazy-jazz.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/swiss-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swiss Radio 80s Pop",
+					"stationLink": "http://77.109.141.148/pop1980.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Swiss-Radio-80s-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swiss Radio Classical",
+					"stationLink": "http://streaming.swisstxt.ch/m/rsc_de/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Swiss-Radio-Classical.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swiss Radio Jazz Swing",
+					"stationLink": "http://relay.publicdomainproject.org/jazz_swing.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Swiss-Radio-Jazz-Swing.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swiss Radio Modern Jazz",
+					"stationLink": "http://relay.publicdomainproject.org:8000/modern_jazz.mp3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Swiss-Radio-Modern-Jazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swiss Radio Opera",
+					"stationLink": "http://relay.publicdomainproject.org:8000/opera.mp3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Swiss-Radio-Opera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swissradio Opera",
+					"stationLink": "http://relay.publicdomainproject.org:8000/opera.mp3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/swissradio-opera-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamil Swiss Radio",
+					"stationLink": "https://c4.radioboss.fm:18036/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/tamil-swiss-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TamilOne Radio CH",
+					"stationLink": "http://www.tamilone.ch:8000/stream_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/TamilOne-Radio-CH.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Team Pool Radio",
+					"stationLink": "http://www.radioking.com/play/the-team-pool-radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/The-Team-Pool-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Thrash or Die",
+					"stationLink": "https://thrashordie.stream.laut.fm/thrashordie?ref=web-app&t302=2019-05-12_10-40-58&uustationDetail=1f1bf262-3288-4ab2-a81a-c9afab2775b9",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/thrash-or-die.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Top Club Music Radio",
+					"stationLink": "http://uk5.internet-radio.com:8298/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/top-club-music-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Toxic FM",
+					"stationLink": "http://toxicfm.ice.infomaniak.ch/toxicfm-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/toxic-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Trance Radio",
+					"stationLink": "http://tranceradioch.ice.infomaniak.ch/128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/trance-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Ambient",
+					"stationLink": "http://traxx011.ice.infomaniak.ch/traxx011-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Ambient.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Classic",
+					"stationLink": "http://traxx012.ice.infomaniak.ch/traxx012-low.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Classic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Cool Jam",
+					"stationLink": "https://traxx005.ice.infomaniak.ch/traxx005-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Cool-Jam.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Deep",
+					"stationLink": "http://broadcast.infomaniak.net:80/traxx013-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/traxx-fm-deep-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Deluxe",
+					"stationLink": "http://traxx001.ice.infomaniak.ch/traxx001-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Deluxe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Electro",
+					"stationLink": "http://broadcast.infomaniak.net:80/traxx003-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/traxx-fm-electro.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM France",
+					"stationLink": "http://traxx025.ice.infomaniak.ch/traxx025-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-France.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Funk",
+					"stationLink": "http://traxx016.ice.infomaniak.ch/traxx016-low.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Funk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Gold Hits 70 to 80",
+					"stationLink": "http://traxx017.ice.infomaniak.ch/traxx017-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Gold-Hits-70-to-80.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Gold Hits 90",
+					"stationLink": "https://traxx024.ice.infomaniak.ch/traxx024-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Gold-Hits-90.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Golden Oldies",
+					"stationLink": "http://traxx023.ice.infomaniak.ch/traxx023-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Golden-Oldies.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Hits",
+					"stationLink": "http://traxx010.ice.infomaniak.ch/traxx010-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM House",
+					"stationLink": "http://traxx002.ice.infomaniak.ch/traxx002-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Italia",
+					"stationLink": "http://traxx021.ice.infomaniak.ch/traxx021-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Italia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Jazz",
+					"stationLink": "http://traxx014.ice.infomaniak.ch/traxx014-low.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Jazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Latino",
+					"stationLink": "http://traxx008.ice.infomaniak.ch/traxx008-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Latino.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Latino Pop",
+					"stationLink": "http://traxx022.ice.infomaniak.ch/traxx022-1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Latino-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Lounge",
+					"stationLink": "http://traxx004.ice.infomaniak.ch/traxx004-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Lounge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Pop",
+					"stationLink": "http://broadcast.infomaniak.net:80/traxx009-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/traxx-fm-pop.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Rap",
+					"stationLink": "http://broadcast.infomaniak.net/traxx015-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Rap.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM RnB",
+					"stationLink": "http://traxx007.ice.infomaniak.ch/traxx007-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-RnB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Rock",
+					"stationLink": "http://traxx019.ice.infomaniak.ch/traxx019-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Soul",
+					"stationLink": "http://traxx006.ice.infomaniak.ch/traxx006-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Soul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Tech Minimal",
+					"stationLink": "http://traxx020.ice.infomaniak.ch/traxx020-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Tech-Minimal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traxx FM Trance",
+					"stationLink": "http://traxx018.ice.infomaniak.ch/traxx018-low.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Traxx-FM-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tropical DJ",
+					"stationLink": "http://62.210.193.211:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Tropical-DJ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Truehouse Chill",
+					"stationLink": "http://stream.truehouse.net:8000/chill",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Truehouse-Chill.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Truehouse Radio",
+					"stationLink": "http://stream.truehouse.net:8000/house",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Truehouse-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Update Fitness Radio",
+					"stationLink": "http://radio.update-fitness.ch:8000/update",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/update-fitness-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Urban Fiesta Latina",
+					"stationLink": "http://node-11.zeno.fm/zbxtmbzv5ueuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/urban-fiesta-latina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UZIC Radio",
+					"stationLink": "http://jabba.dasource.ch:9010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/12/uzic-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UZIC Techno",
+					"stationLink": "http://stream.uzic.ch:9010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/uzic-techno-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UZIC Techno",
+					"stationLink": "http://stream.uzic.ch:9010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/uzic-techno-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UZIC Techno FM",
+					"stationLink": "http://stream.uzic.ch:9010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/uzic-techno-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vertical Radio",
+					"stationLink": "http://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Vertical-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibracion Latina",
+					"stationLink": "http://91.121.38.100:8410",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Vibracion-Latina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VIBRATION 108 FM",
+					"stationLink": "http://vibration.stream2net.eu:8130/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/vibration-108-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibration Chanson Francaise",
+					"stationLink": "http://vibration.stream2net.eu:8510",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Vibration-Chanson-Francaise.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibration Poprock",
+					"stationLink": "http://vibrationpoprock.stream2net.eu:8260/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/vibration-poprock-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibration Soft Hits",
+					"stationLink": "http://vibration.stream2net.eu:8350",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Vibration-Soft-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibration Vintage",
+					"stationLink": "http://vibrationvintage-high.ice.infomaniak.ch/vibration-vintage.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Vibration-Vintage.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibration Zen Relax",
+					"stationLink": "http://vibration.stream2net.eu:8220",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Vibration-Zen-Relax.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vintage Radio (Switzerland)",
+					"stationLink": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/vintage-radio-switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vinyl 107",
+					"stationLink": "http://edge-bauersefm-05-gos1.sharp-stream.com/vinylfm_instream_se_mp3?",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Vinyl-107.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Volksmusik Net",
+					"stationLink": "http://volksmusiknetradio.ice.infomaniak.ch/volksmusiknetradio-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/volksmusik-net-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Voxinox 2 Fm",
+					"stationLink": "http://94.23.41.123:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/08/voxinox-2-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Walts Welt",
+					"stationLink": "http://waltswelt.out.airtime.pro:8000/waltswelt_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Walts-Welt.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Web Radio 58",
+					"stationLink": "http://176.9.43.216:8455/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/web-radio-58.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "World Radio Switzerland",
+					"stationLink": "http://21303.live.streamtheworld.com/WRS_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/World-Radio-Switzerland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WR2H",
+					"stationLink": "http://streaming.radionomy.com/wr2h2?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/WR2H.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WSER Global Radio",
+					"stationLink": "https://whatsoeverrecords.out.airtime.pro/whatsoeverrecords_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/wser-global-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WWMC Radio",
+					"stationLink": "http://178.32.138.88:8076/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/WWMC-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM 70s",
+					"stationLink": "http://rouge-70s.ice.infomaniak.ch/rouge-70s-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-70s-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM 80s",
+					"stationLink": "http://rouge-80s.ice.infomaniak.ch/rouge-80s-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-80s-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM 90s",
+					"stationLink": "http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-90s-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Alternative",
+					"stationLink": "http://rouge-alternative.ice.infomaniak.ch/rouge-alternative-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Alternative-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM BPM",
+					"stationLink": "http://rouge-bpm.ice.infomaniak.ch/rouge-bpm-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-BPM-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM ch",
+					"stationLink": "http://yesfm.ice.infomaniak.ch/yesfm-high.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Yes-FM-ch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Dance",
+					"stationLink": "http://rouge-dance.ice.infomaniak.ch/rouge-dance-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Dance-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Disco",
+					"stationLink": "http://rouge-disco.ice.infomaniak.ch/rouge-disco-64.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Disco-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM France",
+					"stationLink": "http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-France-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Hip Hop",
+					"stationLink": "http://rouge-hiphop.ice.infomaniak.ch/rouge-hiphop-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Hip-Hop-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Hot 100",
+					"stationLink": "http://rouge-hot100.ice.infomaniak.ch/rouge-hot100-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Hot-100-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM In Love",
+					"stationLink": "http://rouge-inlove.ice.infomaniak.ch/rouge-inlove-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-In-Love-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Italia",
+					"stationLink": "http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Italia-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Latino",
+					"stationLink": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Latino-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Lounge",
+					"stationLink": "http://rouge-lounge.ice.infomaniak.ch/rouge-lounge-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Lounge-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Metal",
+					"stationLink": "http://rouge-metal.ice.infomaniak.ch/rouge-metal-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Metal-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Platine",
+					"stationLink": "http://rougeplatine.ice.infomaniak.ch/rougeplatine-low.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Platine-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Reggae",
+					"stationLink": "http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Reggae-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM RnB",
+					"stationLink": "http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-RnB-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM Rock",
+					"stationLink": "http://rouge-rockpop.ice.infomaniak.ch/rouge-rockpop-high.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-Rock-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yes FM SOUNDTRACK",
+					"stationLink": "http://rouge-soundtrack.ice.infomaniak.ch/rouge-soundtrack-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Yes-FM-SOUNDTRACK-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZaM Balkan Radio",
+					"stationLink": "http://zam.zamradio.com:8022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/zam-balkan-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zic Radio",
+					"stationLink": "http://streaming.radionomy.com/Zic-Radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Zic-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zone Radio CH",
+					"stationLink": "https://zone.stream.laut.fm/zone?t302=2020-06-23_08-29-36&uustationDetail=f42bfe89-e776-4d48-8afc-a0a7e765661a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/zone-radio-ch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zoo Radio Live",
+					"stationLink": "https://zoo-radio.stream.laut.fm/zoo-radio?t302=2020-06-23_08-52-24&uustationDetail=71af1c89-2329-402f-b380-e662b1f7a692",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/zoo-radio-live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

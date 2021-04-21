@@ -1,0 +1,2633 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Ruslan FM - 95.2 MHz",
+					"stationDetail": "Kathmandu - From: 6:00 To: 22:00",
+					"stationimage": "https://2.bp.blogspot.com/-GiYePWMGMi4/Xi-REZPnD7I/AAAAAAAABHQ/IdiKTN7J0ioDw9FAPHzLZta3RawKgvGjwCLcBGAsYHQ/s1600/ruslanfm.jpg",
+					"stationLink": "http://live.itechnepal.com:9539/stream?type=.mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Ujyaalo Radio Network",
+					"stationDetail": "90.0 MHz | Lalitpur, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-Qacxx3iTQq8/Xi6e68BSPTI/AAAAAAAAAtI/cJs2x5aoIT8cadOYjnTuCV--_EWgyXJUwCLcBGAsYHQ/s1600/UjyaaloRadioNetwork.jpg",
+					"stationLink": "http://stream.zenolive.com/wtuvp08xq1duv",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Kantipur",
+					"stationDetail": "96.1 MHz | Lalitpur, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-yYxjSvzLFYc/Xi6e6aiSFRI/AAAAAAAAAtE/TzBdjmr3Y60zLnfeADwWGeJwSTkUFdJrwCLcBGAsYHQ/s1600/RadioKantipur.jpg",
+					"stationLink": "http://kantipur-stream.softnep.com:7248/;stream.nsv&type=mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Kalika FM",
+					"stationDetail": "95.2 MHz | Chitwan, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-QL7_xHA6TlQ/Xi6fNmi54SI/AAAAAAAAAxg/a6OoAhCzKiI3tlKNeJCaM0elZqdySFBqQCLcBGAsYHQ/s1600/kalikafm.jpg",
+					"stationLink": "http://kalika-stream.softnep.com:7740",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Khozee Radio",
+					"stationDetail": "Online | Kathmandu, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-bnwkpBntkpY/Xi6fO5oNHfI/AAAAAAAAAx0/I1Cgn1GfnTwjf0ai1mfo1M8_KOBdPo_wACLcBGAsYHQ/s1600/khozeeradio.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8060/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Image News",
+					"stationDetail": "103.6 MHz | Kathmandu, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-gphIRSmF7Eg/Xi6fL5af6MI/AAAAAAAAAxI/IbGGVMkaXJUP_1fH9nWkZn9DnqTBP344wCLcBGAsYHQ/s1600/imagenews.png",
+					"stationLink": "http://streaming.hamropatro.com:8633",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "BBC Nepali 103 MHz",
+					"stationDetail": "MHz | BBC Nepali Sewa,Kathmandu",
+					"stationimage": "https://4.bp.blogspot.com/-7OiIvzRfEJg/Xi6e9HJ0htI/AAAAAAAAAto/Vn8QjcY6xk0zIS0_HM3oKiBffbilgKcuQCLcBGAsYHQ/s1600/bbcnepali.jpg",
+					"stationLink": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-nepla_backup",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Nepal",
+					"stationDetail": "100.0 MHz | Singha Durbar, Kathmandu, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-4nGnmthXydI/Xi6f820R-7I/AAAAAAAAA8o/ujf1o1ecrhQCJ1rSsNdSuaLrJJS5Cc34ACLcBGAsYHQ/s1600/radionepal.jpg",
+					"stationLink": "http://www.radionepal.gov.np:40100/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Synergy FM",
+					"stationDetail": "91.6 MHz | Bharatpur - 10, Chitwan",
+					"stationimage": "https://4.bp.blogspot.com/-7cjvMrZnQqQ/Xi6gei8hBjI/AAAAAAAABEg/HDDaj1RiqAs9VH7v-KFkpdtmPikqH_7SACLcBGAsYHQ/s1600/synergyfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8399",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Nepali Sanchar Radio",
+					"stationDetail": "Melbourne, VIC, Australia",
+					"stationimage": "https://3.bp.blogspot.com/-mXkrwBaeWa4/Xi6fWOr9qNI/AAAAAAAAAzk/xmiTRn1pKZ4IrEgeV_EExq9Q_z78O2cxgCLcBGAsYHQ/s1600/nepalisanchar.jpg",
+					"stationLink": "http://148.66.135.69:9982/listen.mp3",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Radio Sagarmatha",
+					"stationDetail": "102.4 MHz | Lalitpur, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-fl_8Usx56SU/Xi6gF2jywZI/AAAAAAAAA-w/eWqnM6Z8yPs10K_qdLjgOzs0nt1OJSyvwCLcBGAsYHQ/s1600/radiosagarmatha.png",
+					"stationLink": "http://143.95.89.54:9322",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Hits FM",
+					"stationDetail": "91.2 MHz | Kathmandu, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-wjYrOOXNQcc/Xi6fLClZz2I/AAAAAAAAAxA/0UIpw1UgkMEE1gbRcq2cMYXhDJsoSP6FQCLcBGAsYHQ/s1600/hitsfm.jpg",
+					"stationLink": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Image FM",
+					"stationDetail": "97.9 MHz | Kathmandu, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-pkDVOL9YrLE/Xi6fL4dNIbI/AAAAAAAAAxM/Xql80j6721Q5NQVIs1FW27adw1bLAFvSACLcBGAsYHQ/s1600/imagefm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8631",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Audio",
+					"stationDetail": "106.3 MHz | New Baneshwor, Kathmandu",
+					"stationimage": "https://1.bp.blogspot.com/-79wfj4ccrqc/Xi6feFMIlNI/AAAAAAAAA1c/HhYGAfxqS-4S0SUptFfrC7hk03P87fllQCLcBGAsYHQ/s1600/radioaudio.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8631",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Swadesh FM",
+					"stationDetail": "93.2 MHz | Basantapur Madi Chitwan (Nepal)",
+					"stationimage": "https://1.bp.blogspot.com/-IPaBA-Cm30A/Xi6geht-1vI/AAAAAAAABEc/k-8aH1McsiIjrohYzy4u0LgqELxjHD3qACLcBGAsYHQ/s1600/swadeshfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8653",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Annapurna Nepal",
+					"stationDetail": "94 MHz | Maharajgunj, Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-IYDEzP828BI/Xi6fdCH5msI/AAAAAAAAA1M/PA-to04n4x4okw4aIHbIGMxpFX5gydAGwCLcBGAsYHQ/s1600/radioannapurna.jpg",
+					"stationLink": "http://streaming.softnep.net:8091/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Vijaya FM",
+					"stationDetail": "101.6 MHz | Gaindakot-8, Nawalparasi",
+					"stationimage": "https://3.bp.blogspot.com/-1zRLC-x0b4w/Xi6gggNXKII/AAAAAAAABFA/duCEwCt86EEwZx1X7vp3xhjbZ19OahLnQCLcBGAsYHQ/s1600/vijayafm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8383/",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Mithila",
+					"stationDetail": "100.8 MHz | Janakpurdham, Dhanusa",
+					"stationimage": "https://1.bp.blogspot.com/-YsmUh6q2SrE/Xi6f6x0Nn2I/AAAAAAAAA8I/YGaOh-_neAQuSSzrLIRXBke3BMBdsnHmwCLcBGAsYHQ/s1600/radiomithla.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8244/",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Ramaroshan",
+					"stationDetail": "92.0 MHz | Thulasen",
+					"stationimage": "https://4.bp.blogspot.com/-jh4LQ6l3C64/Xi6gC4ONb4I/AAAAAAAAA-I/AB-1ykSU710ZJV2MEZuf8J546GUP5Ne_ACLcBGAsYHQ/s1600/radioramroshan.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8010",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Vijayapur FM",
+					"stationDetail": "98.8 MHz | Dharan, Sunsari",
+					"stationimage": "https://2.bp.blogspot.com/-kGMPrZEbmdo/Xi6ggwMFgYI/AAAAAAAABFE/xKTViC6oJvkMsenvjQHsebDR5jqEr7v3ACLcBGAsYHQ/s1600/vijayapurfm.jpg",
+					"stationLink": "http://live.itech.host:9479/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "BODHI FM",
+					"stationDetail": "Online | Texas, USA",
+					"stationimage": "https://1.bp.blogspot.com/-AS7fhZk30fk/Xi6fAscp0zI/AAAAAAAAAuc/chobOuFjoa8D1M7NucYD59_O8JkyI3IlACLcBGAsYHQ/s1600/bodhifm.jpg",
+					"stationLink": "http://216.55.141.189:8721",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Dinesh FM",
+					"stationDetail": "93.8 MHz | Kailali, Dhangadhi",
+					"stationimage": "https://4.bp.blogspot.com/-OqO3QVFBQEQ/Xi6fFBtnX-I/AAAAAAAAAvc/ipnEtmDArVoNySa4_G_JNkTCmULjq8euACLcBGAsYHQ/s1600/dineshfm.png",
+					"stationLink": "http://streaming.hamropatro.com:8280",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Amurta",
+					"stationDetail": "91.6 MHz | Gaighat , Udayapur",
+					"stationimage": "https://4.bp.blogspot.com/-Yzdel8UGyog/Xi6fccrWMxI/AAAAAAAAA1E/P0GaVLCMkTwv9XWYZHrDk5yERO0qt4jkgCLcBGAsYHQ/s1600/radioamurta.jpg",
+					"stationLink": "http://148.66.135.69:9974/",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Music City",
+					"stationDetail": "Online | Kathmandu, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-ypIFwYkMFDs/Xi6fTYcGVKI/AAAAAAAAAy4/AFYiRbzyfccW7w-dkpWJY6fzVVVMMx9kQCLcBGAsYHQ/s1600/musiccityonline.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8739",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "BFM",
+					"stationDetail": "91.2 MHz | Biratnagar-7, Morang",
+					"stationimage": "https://2.bp.blogspot.com/-AzEAaXMsIAs/Xi6e98J8RAI/AAAAAAAAAt0/t9aIiiSIIdwnF8tXH6ry_ZMuwj9WaA6KQCLcBGAsYHQ/s1600/bfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8124",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Saptakoshi FM",
+					"stationDetail": "90 MHz | Ithari-8, Sunsari",
+					"stationimage": "https://4.bp.blogspot.com/-MqaO_MjOG_E/Xi6gYu0dfJI/AAAAAAAABDQ/ifrCzL0KPko41zkt4iBzzhrJfd8e6btswCLcBGAsYHQ/s1600/saptakoshi.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8214",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio City",
+					"stationDetail": "98.8 MHz | Gahanapokhari, Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-Ye3BEgnK4ZY/Xi6fmFYCiAI/AAAAAAAAA3M/nWZ_yc9th04ht1OVKkFlz4D3eDuI_nhegCLcBGAsYHQ/s1600/radiocity.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8006",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Birgunj",
+					"stationDetail": "99.00 MHz | Birgunj-15, Parsa",
+					"stationimage": "https://4.bp.blogspot.com/-7Y-6C6sMMjQ/Xi6fia_uz1I/AAAAAAAAA2c/nUIsBTQNPzks3nXRnNoOJl7-aS-VH9L3gCLcBGAsYHQ/s1600/radiobirjung.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8294",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Radio Bheri",
+					"stationDetail": "98.6 MHz | Birendranagar-8, Surkhet",
+					"stationimage": "https://2.bp.blogspot.com/-lyKcY_HLx3s/Xi6fg4YncVI/AAAAAAAAA2M/8lR867UMI04yiF0kQ3vADDsYOMLfYuPxQCLcBGAsYHQ/s1600/radiobheri.png",
+					"stationLink": "http://streaming.hamropatro.com:8313/;",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Radio Buddha Awaaz",
+					"stationDetail": "89.6 MHz | Kapilvastu",
+					"stationimage": "https://4.bp.blogspot.com/-Owp1WuNuKo4/Xi6fi-zmsZI/AAAAAAAAA2k/9JbzQzr2DegA6HCFhDUP4cFYF_JGXa1vACLcBGAsYHQ/s1600/radiobuddhaawaz.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8349/",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Nepal FM Network",
+					"stationDetail": "91.8 MHz | Kathmandu",
+					"stationimage": "https://4.bp.blogspot.com/-mXrICbwXq9U/Xi6fVA3jAUI/AAAAAAAAAzU/BZmxNOh9n4A42uZqzIGtJ_-MLVz37WcDACLcBGAsYHQ/s1600/nepalfmnetwork.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8230/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Deshantar",
+					"stationDetail": "100.3 MHz | Anamnagar, Kathmandu",
+					"stationimage": "https://4.bp.blogspot.com/-h4E_-Ff3AwA/Xi6fmwNIfBI/AAAAAAAAA3c/94KbioPI8kIrvXfPk2ikjARkkt34OSCJQCLcBGAsYHQ/s1600/radiodeshantar.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8587",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Nepalgunj FM",
+					"stationDetail": "104.8 MHz | Nepalgunj, Banke",
+					"stationimage": "https://3.bp.blogspot.com/-K5BRkgdA-wQ/Xi6fWogNX4I/AAAAAAAAAzo/Sop4HmEWtowfe13N2dWy_fYADTExTdZXgCLcBGAsYHQ/s1600/nepaljungfm.jpg",
+					"stationLink": "http://107.150.32.26:9300/listen.mp3",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Pathivara FM",
+					"stationDetail": "93.6 MHz | Damak, Jhapa",
+					"stationimage": "https://2.bp.blogspot.com/-e6TqYomu2Zg/Xi6fYyVZp1I/AAAAAAAAA0M/jaV5Sdm3zaEhJhD4rDHitSR5JtZckhiyACLcBGAsYHQ/s1600/pathivarafm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8339",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Today",
+					"stationDetail": "91 MHz | Janakpur",
+					"stationimage": "https://2.bp.blogspot.com/-aKwl7dVixD8/Xi6gUtyhfaI/AAAAAAAABCQ/SNEcfxg3Ks89ZjiYNZzZx-31UfDIMfeAACLcBGAsYHQ/s1600/radiotoday91.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8228/",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Nepalbani",
+					"stationDetail": "94.9 MHz | Mala Path - 2, Ilam",
+					"stationimage": "https://1.bp.blogspot.com/-jPB6ZOr_2qM/Xi6f84iTnZI/AAAAAAAAA8s/9MF6LVacIL4S951Mgq7dtGxbQfJnPNo0gCLcBGAsYHQ/s1600/radionepalbani.jpg",
+					"stationLink": "http://live.itechnepal.com:8676/stream?type=.mp3",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Safalta",
+					"stationDetail": "103.4 MHz | Masbar-7, Pokhara",
+					"stationimage": "https://4.bp.blogspot.com/-3rayK9wS8XA/Xi6gGGvcrkI/AAAAAAAAA-4/LvriMWhQuRQQVwgBolUh9j6sLAPQlel_gCLcBGAsYHQ/s1600/radiosafalta.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8252",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Bhojpuriya FM",
+					"stationDetail": "92.8 MHz | Pragatinagar-3, Birgunj, Parsa",
+					"stationimage": "https://4.bp.blogspot.com/-98WnFhzxW8s/Xi6e_MXaVqI/AAAAAAAAAuE/YU8x5OXXRIc6b98sd2SW6xaSSGSJdzRBgCLcBGAsYHQ/s1600/bhojpuriyafm.jpg",
+					"stationLink": "http://streaming.softnep.net:8143/stream.mp3",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Solu FM",
+					"stationDetail": "101.2 MHz | salleri, solukhumbu",
+					"stationimage": "https://2.bp.blogspot.com/-WYwz3he-IVA/Xi6gdJpbNgI/AAAAAAAABEA/IeLiLvOCPz0aL5Kf1QLdvXflx6D2XCQmwCLcBGAsYHQ/s1600/solufm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8198/",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "24 Online Radio",
+					"stationDetail": "Online | Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-prh6vRPYRyc/Xi6e5ljR_lI/AAAAAAAAAs4/l4pAp16IP98ANPYiPLZRkvzveObATcmRwCLcBGAsYHQ/s1600/24onlineradioonline.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8553",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Vision",
+					"stationDetail": "91.6 MHz | Bhadrapur Road, Birtamod, Jhapa",
+					"stationimage": "https://2.bp.blogspot.com/-3_jBNN38F58/Xi6gVwExFVI/AAAAAAAABCk/dUKEdgtwwbAunK_fj07M4fyhSsYve5_DgCLcBGAsYHQ/s1600/radiovision.png",
+					"stationLink": "http://148.66.135.69:9348/;",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Khandbari FM",
+					"stationDetail": "105.8 MHz | Sankhuwasava",
+					"stationimage": "https://1.bp.blogspot.com/-fA3LhMso1GI/Xi6fOxDfeGI/AAAAAAAAAxw/BDOIhI03mlkhwf9FaplYV5oxmaXbFyTKgCLcBGAsYHQ/s1600/khandbarifm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8445",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Mirmire",
+					"stationDetail": "89.4 MHz | Anamnagar, Kathmandu",
+					"stationimage": "https://4.bp.blogspot.com/-Ir_cV1by7W0/Xi6f5leJnlI/AAAAAAAAA78/WFTGvYstID88QHEB2_EOaIcmLGVbV-XTwCLcBGAsYHQ/s1600/radiomirmire.jpg",
+					"stationLink": "http://live.itechnepal.com:9138/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio PMC Nepal",
+					"stationDetail": "Online | Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-m3NE0KjKogk/Xi6gAat_qZI/AAAAAAAAA9k/CE0X2cPMXxgF4LnfqDIo_I4fysPhRpOjwCLcBGAsYHQ/s1600/radiopmcnepalonline.jpg",
+					"stationLink": "http://s8.voscast.com:8654",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Capital FM",
+					"stationDetail": "92.4 MHz | Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-_dViptcpAXA/Xi6fBnfayXI/AAAAAAAAAus/7FX7mHiQTUA3vVwqK5utnuR4acIv8hpfQCLcBGAsYHQ/s1600/capitalfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8037/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Nepal Networks",
+					"stationDetail": "Online | Kathmandu, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-VY-TcRZTKGE/Xi6fWuVOTPI/AAAAAAAAAzs/w2twy-6jKnUXd-0aHkfQT8fnL-KKkjE9gCLcBGAsYHQ/s1600/nepalnetworkonline.png",
+					"stationLink": "http://streaming.hamropatro.com:8621",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Himalayan",
+					"stationDetail": "99.7 MHz | Bhaktapur, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-SEsnYDurZgg/Xi6fsntm1iI/AAAAAAAAA4w/bdWlgb6L1b4Mfik2M0nhrVlCJmh9VFgyQCLcBGAsYHQ/s1600/radiohimalayan.png",
+					"stationLink": "http://37.59.42.207:8062/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Butwal FM",
+					"stationDetail": "94.4 MHz | Butwal-12, Kalikanager",
+					"stationimage": "https://3.bp.blogspot.com/-45gXW0WJU7Q/Xi6fAh9kJZI/AAAAAAAAAug/bj1M8dlMQo05J3qHjaV3f-FqZC60KLYBwCLcBGAsYHQ/s1600/butwalfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8003/;",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Choice FM",
+					"stationDetail": "90.4 MHz | Gorkha",
+					"stationimage": "https://4.bp.blogspot.com/-BTX0iJ1II4M/Xi6fCK6f3wI/AAAAAAAAAu0/vgxKnaOejigUWumk8XVn56BPC0zKv6RtQCLcBGAsYHQ/s1600/choice.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8256",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Lumbini",
+					"stationDetail": "96.8 MHz | Manigram, Ruphandehi",
+					"stationimage": "https://2.bp.blogspot.com/-ubi0nHaHMIo/Xi6f0O43BCI/AAAAAAAAA6s/qUIgcJyW9rE2EMsUJmMmEHQ07zoCiD-nACLcBGAsYHQ/s1600/radiolumbini.jpg",
+					"stationLink": "http://streaming.softnep.net:8085/;",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Hamro Malika FM",
+					"stationDetail": "99.0 MHz | Lamki, Kailali",
+					"stationimage": "https://2.bp.blogspot.com/-y64dXCYcBRc/Xi6fJizrilI/AAAAAAAAAwk/7Lwuvj0F4N0xY6jX4eyWhXyNQUQeB19MACLcBGAsYHQ/s1600/hamromalika.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8112/",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Citizen FM",
+					"stationDetail": "MHz | Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-iR4jeq9_h4U/Xi6fCf7AflI/AAAAAAAAAu4/xy-8EaffzTodEvakKzUe2WWCxpwmo_CoQCLcBGAsYHQ/s1600/citizenfm.jpg",
+					"stationLink": "http://144.76.110.138:9870",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Rolpa",
+					"stationDetail": "93.8 MHz | Liwang-6, Rolpa",
+					"stationimage": "https://1.bp.blogspot.com/-b0BmzGRrZiY/Xi6gFLZOfrI/AAAAAAAAA-k/C9kguKmgvc4Ky6Pj9fyUCy6ocYVWWaN2QCLcBGAsYHQ/s1600/radiorolpa.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8150",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "QN Radio",
+					"stationDetail": "Online | Doha, Qatar",
+					"stationimage": "https://2.bp.blogspot.com/-3_P1VkpTYKU/Xi6fZ95n_TI/AAAAAAAAA0g/UTgGu5kK4f49yKWWdNxxhHkBkXAPbGfAgCLcBGAsYHQ/s1600/qnradionepal.jpg",
+					"stationLink": "http://188.165.232.7:8612",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "NepalBani Network",
+					"stationDetail": "Online | Kathmandu",
+					"stationimage": "https://1.bp.blogspot.com/-jPB6ZOr_2qM/Xi6f84iTnZI/AAAAAAAAA8s/9MF6LVacIL4S951Mgq7dtGxbQfJnPNo0gCLcBGAsYHQ/s1600/radionepalbani.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8146/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Jagaran FM",
+					"stationDetail": "90.8 MHz | Birendranagar,Surkhet",
+					"stationimage": "https://2.bp.blogspot.com/-Glv4lg8bjqY/Xi6fNC0wrcI/AAAAAAAAAxY/pjXvCWrItngH7dXOEMf3om-jlwcK5UU1ACLcBGAsYHQ/s1600/jagaranfm.png",
+					"stationLink": "http://144.76.110.138:9340/stream",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Radio Sarangi",
+					"stationDetail": "93.8 MHz | Mahendrapul, Pokhara",
+					"stationimage": "https://3.bp.blogspot.com/-liyMS3-zB1A/Xi6gL8u5J4I/AAAAAAAABAA/VJ43JmM_Bf4GOLFCzEvHGlwOY1dDLro3ACLcBGAsYHQ/s1600/radiosarangi93.8.jpg",
+					"stationLink": "http://streaming.softnep.net:8107",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "FM Adhyatma Jyoti",
+					"stationDetail": "MHz | Kathmandu",
+					"stationimage": "https://4.bp.blogspot.com/-GcP_NLSPv8c/Xi6fG9a1OlI/AAAAAAAAAv8/7F0UCO2dcTQUuEopzrb9wCHgnBZiHItNQCLcBGAsYHQ/s1600/fmadhyatma.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8074/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Yugbani Media Network",
+					"stationDetail": "Online | Tripureswor, Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-zUhXPC-0PRc/Xi6ghmglMcI/AAAAAAAABFQ/C2oEJz8Mcbc1QGM3ptPU1icikCYKrCAUwCLcBGAsYHQ/s1600/yugbanimedianetwork.jpg",
+					"stationLink": "http://yugbani.online.org.np:9992",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Bishesh Digital",
+					"stationDetail": "Online | Anamnagar, Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-4IMb73F0Np4/Xi6e_mIhBzI/AAAAAAAAAuM/zX0cyq9tCbMKObKl3yEH_2bnlFnSNr90QCLcBGAsYHQ/s1600/bisheshdigitalonline.jpg",
+					"stationLink": "http://streaming.softnep.net:8113",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Saipal Post",
+					"stationDetail": "Online | Chainpur, Bajhang",
+					"stationimage": "https://4.bp.blogspot.com/-H0J_iXU5R8s/Xi6gXn4scGI/AAAAAAAABDA/2hQCBdlgm14b32EoXilp78eqdJHWJ2B0ACLcBGAsYHQ/s1600/saipalpost.jpg",
+					"stationLink": "http://streaming.softnep.net:8165",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Barahi",
+					"stationDetail": "99.2 MHz | Kaski",
+					"stationimage": "https://1.bp.blogspot.com/-UvWAoToUVo4/Xi6ffAD7uvI/AAAAAAAAA1w/NWTHFy-QVy4KprQav1LhCSldmZru9sGKACLcBGAsYHQ/s1600/radiobarahi.jpg",
+					"stationLink": "http://streaming.softnep.net:8083",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Ninglasaini",
+					"stationDetail": "Online | Baitadi",
+					"stationimage": "https://1.bp.blogspot.com/-KibWOaPmfKQ/Xi6f9R62yiI/AAAAAAAAA84/l0OqRhGfvrc74beqh_DGMfaKzGOgM26xgCLcBGAsYHQ/s1600/radioninglasaini.jpg",
+					"stationLink": "http://streaming.softnep.net:8179",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Anmol",
+					"stationDetail": "90 MHz | Makwanpur",
+					"stationimage": "https://2.bp.blogspot.com/-ShuSc5P3uOM/Xi6fcxdZGXI/AAAAAAAAA1I/hknRqeV1rEI_3uPeLWBI0lbplFDXyQFWwCLcBGAsYHQ/s1600/radioanmol.png",
+					"stationLink": "http://streaming.hamropatro.com:8751",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Dhaulagiri FM",
+					"stationDetail": "98.6 MHz | Awaroad-2, Baglung",
+					"stationimage": "https://4.bp.blogspot.com/-YQtKNSZ1rP0/Xi6fEtIyuYI/AAAAAAAAAvY/o5LFZe4TH5MoABANoUl0v4PDs2Ihy2kfACLcBGAsYHQ/s1600/dhaulagirifm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8535",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Triveni",
+					"stationDetail": "100.6 MHz | Bharatpur, Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-PfFyW2VEV4c/Xi6fYcbX5VI/AAAAAAAAA0A/DezzSudp468rGLgm91nXS5QovWeUWG4CACLcBGAsYHQ/s1600/onlineradiotribeni.jpg",
+					"stationLink": "http://streaming.softnep.net:8031/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Makawanpur",
+					"stationDetail": "101.3 MHz | Hetauda-4, Makawanpur",
+					"stationimage": "https://1.bp.blogspot.com/-UI2_RzQBoyA/Xi6f3Ng-IoI/AAAAAAAAA7Q/_alqjFGcP0kYsKfAy_an0uITfmMnG9wiwCLcBGAsYHQ/s1600/radiomakawanpur.jpg",
+					"stationLink": "http://streaming.softnep.net:8057",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Lamjung",
+					"stationDetail": "91.8 MHz | Lamjung",
+					"stationimage": "https://1.bp.blogspot.com/-5sPI_YZe-08/Xi6fy6Yhb2I/AAAAAAAAA6c/RUTNnXbbI3IY7ydhvtGqM8xgDRF0NhDCQCLcBGAsYHQ/s1600/radiolamjung.jpg",
+					"stationLink": "http://live.itechnepal.com:8946/stream?type=.mp3",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Daily Mail",
+					"stationDetail": "94.6 MHz | Kailali",
+					"stationimage": "https://3.bp.blogspot.com/-ST4ogI8hN5M/Xi6fmXIvXFI/AAAAAAAAA3Q/gk1qhIkMCgM-at6FwvgjYSoXW-v6q8G5ACLcBGAsYHQ/s1600/radiodailymail.jpg",
+					"stationLink": "http://streaming.softnep.net:8055",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Star FM",
+					"stationDetail": "95.2 MHz | Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-V43ZyWTF4Do/Xi6gdeOHPEI/AAAAAAAABEE/t9kbuUTJAzEHzsRpOojic_UJGEpdc0pVgCLcBGAsYHQ/s1600/starfm.jpg",
+					"stationLink": "http://live.itechnepal.com:9539/stream?type=.mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Jaljala",
+					"stationDetail": "96.4 MHz | Rolpa",
+					"stationimage": "https://2.bp.blogspot.com/-7aTS951oa_Y/Xi6ft6bUC7I/AAAAAAAAA5E/7G2s4NcX8hU63kZu8cwmaxXJRqTodsbhgCLcBGAsYHQ/s1600/radiojaljala.jpg",
+					"stationLink": "http://live.itechnepal.com:8144/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "BFBS Gurkha Radio",
+					"stationDetail": "Online | UK",
+					"stationimage": "https://4.bp.blogspot.com/-7QHgH5bYxq8/Xi6e9qmvGjI/AAAAAAAAAtw/Xb66pe6wAHgAvbSiY2fVqKnZC_YJsdv8gCLcBGAsYHQ/s1600/bfbsgurkharadio.jpg",
+					"stationLink": "http://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs3.aac",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Kool FM",
+					"stationDetail": "90.3 MHz | Kathmandu, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-LHpS6O7b7AI/Xi6fQnjyGtI/AAAAAAAAAyM/aJtfxcblaMkXHWzQqOoFfLpnJbhR4M1FgCLcBGAsYHQ/s1600/koolfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8059",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Biz FM",
+					"stationDetail": "94.9 MHz | Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-i3Psh2wpx5U/Xi6e_5geKRI/AAAAAAAAAuQ/bf0BNhtYunwp64aibhs-qI5g8yMq9CUtACLcBGAsYHQ/s1600/bizfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8607",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Arpan",
+					"stationDetail": "104.5 MHz | Chitwan, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-1sgd47KnbEo/Xi6fdrB97zI/AAAAAAAAA1U/xWn2jbH1ycoN3fjqF2XwFj1pSG7CYqzewCLcBGAsYHQ/s1600/radioarpan104.5.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8138",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Prakriti",
+					"stationDetail": "93.4 MHz | Tulsipur-5, Dang",
+					"stationimage": "https://2.bp.blogspot.com/-dCpwUe5UAmY/Xi6gBOBxZEI/AAAAAAAAA9w/ZBYDOsH9JHgdORvrAnMMfkwm6MXmHH4GgCLcBGAsYHQ/s1600/radioprakriti.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8276",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Menchhyayem",
+					"stationDetail": "102.6 MHz | Terahathum, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-eSjCZp5JYfU/Xi6f5fu_nCI/AAAAAAAAA70/wHiG8D6ApAg66xCx03m4ihiD6OCWgHr9wCLcBGAsYHQ/s1600/radiomenchhyayem.jpg",
+					"stationLink": "http://live.itechnepal.com:9090/stream?type=.mp3",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Damauli FM",
+					"stationDetail": "94.2 MHz | Damauli",
+					"stationimage": "https://3.bp.blogspot.com/-ZISvG9OloFE/Xi6fEFE2pII/AAAAAAAAAvM/k4Tn-tTq1bEk2hC6oKVrEdjedGEY7iGPgCLcBGAsYHQ/s1600/damaulifm94.2.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8529/",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Amargadhi",
+					"stationDetail": "97.4 MHz | Amargadhi 5, Dadeldhura",
+					"stationimage": "https://2.bp.blogspot.com/-Y-G4sUcmXCg/Xi6fccm-yqI/AAAAAAAAA1A/yC6z6VA58uMYX5c8SWQcs1u6vl_vurZVgCLcBGAsYHQ/s1600/radioamargadhi.jpg",
+					"stationLink": "http://live.itechnepal.com:8922/live",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Hetauda FM",
+					"stationDetail": "Online | Hetauda-4, Makwanpur",
+					"stationimage": "https://1.bp.blogspot.com/-ws4AbTRzjWI/Xi6fKBGGnWI/AAAAAAAAAww/IMB4bITJY_cjnq48jed5W7tNLaPHseXzQCLcBGAsYHQ/s1600/hetaudafmonline.jpg",
+					"stationLink": "http://radio.hetaudaonline.com:9340/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Ekata Online Radio",
+					"stationDetail": "92.4 MHz | Online Radio",
+					"stationimage": "https://3.bp.blogspot.com/-DtzxITmaqnk/Xi6fGJkVlCI/AAAAAAAAAvs/QQqAxTgKsrI9ci6VJBnKhllFLSaAkxTnwCLcBGAsYHQ/s1600/ekataonlineradio.jpg",
+					"stationLink": "http://ekataonline.com:8059/",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Tinjure Online",
+					"stationDetail": "Online | Terhathum",
+					"stationimage": "https://2.bp.blogspot.com/-L7_PMZKGG0E/Xi6gfnP_GjI/AAAAAAAABEw/qULp7innbdUTzMYpJAYDlzv_Istm80PQwCLcBGAsYHQ/s1600/tinjureonlne.png",
+					"stationLink": "http://streaming.hamropatro.com:8455",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "ACORAB",
+					"stationDetail": "MHz | Chakupat, Lalitpur",
+					"stationimage": "https://2.bp.blogspot.com/-cRrE1OVCbnY/Xi6e7zsbs0I/AAAAAAAAAtU/93S6CfVqjyQT10lgO-o-kh3JVjmIM3lvACLcBGAsYHQ/s1600/acorab.jpg",
+					"stationLink": "http://streaming.softnep.net:8009",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Melamchi",
+					"stationDetail": "107.2 MHz | Sindhupalchok, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-xBmHrwkRY5A/Xi6f5Da_7GI/AAAAAAAAA7w/th3Jq_5ph4cQy5pEV9-OKbupzdGzYTYjACLcBGAsYHQ/s1600/radiomelamchi.jpg",
+					"stationLink": "http://streaming.softnep.net:8051/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Grace FM",
+					"stationDetail": "107.6 MHz | Bhaktapur",
+					"stationimage": "https://2.bp.blogspot.com/-NyN0HKALA_I/Xi6fIGlo9fI/AAAAAAAAAwM/TAjbiP1eV9AqM5knd2EhCKwIU9G2QQ9ZQCLcBGAsYHQ/s1600/gracefm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8639/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Highway",
+					"stationDetail": "103.5 MHz | Deukhuri",
+					"stationimage": "https://4.bp.blogspot.com/-pTFxeFVV_Lw/Xi6fsExlZ6I/AAAAAAAAA4o/Nrgth_vHglABazB_ra_iTr9JJA0re-z7wCLcBGAsYHQ/s1600/radiohighway.png",
+					"stationLink": "http://streaming.hamropatro.com:8014",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "United FM",
+					"stationDetail": "92.4 MHz | Bandipur-1, Tanahun",
+					"stationimage": "https://3.bp.blogspot.com/-QYgzFWJcUSQ/Xi6ggGAui9I/AAAAAAAABE4/Ml3zvFtRKu8F9Ek4TMqvsN5Rw4hq6D6eQCLcBGAsYHQ/s1600/unitedfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8192",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Machhapuchhre FM",
+					"stationDetail": "Online | Kaski, Pokhara",
+					"stationimage": "https://1.bp.blogspot.com/-AFmHIp-X5jk/Xi6fRvowLKI/AAAAAAAAAyY/bY0TDYwz0lQfe8nDnFCTjEAn6Xg5fouWQCLcBGAsYHQ/s1600/machapuchhre.png",
+					"stationLink": "http://live.itech.host:2670/stream?mp3",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Tinau FM",
+					"stationDetail": "98.2 MHz | Butwal",
+					"stationimage": "https://4.bp.blogspot.com/-aAmakzZyu9g/Xi6gfA9BRRI/AAAAAAAABEs/4AZgQInvj2Q6Bosc1_oESOx6PfkSDVj7ACLcBGAsYHQ/s1600/tinaufm.jpg",
+					"stationLink": "http://streaming.softnep.net:8293",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Sumhatlung FM",
+					"stationDetail": "104.2 MHz | Phidim-1, Panchthar",
+					"stationimage": "https://1.bp.blogspot.com/-9RTh4pzpO2Q/Xi6gdwdGRlI/AAAAAAAABEQ/91qnzO4YApk_HFnNkpn5eaJ-zeFEjqs1ACLcBGAsYHQ/s1600/sumhatlung.jpg",
+					"stationLink": "http://streaming.softnep.net:8095",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Tiger",
+					"stationDetail": "99.2 MHz | Bardiya",
+					"stationimage": "https://4.bp.blogspot.com/-hMhT-Sbg8wQ/Xi6gSu97lwI/AAAAAAAABB0/hJCY1F6kl4kE33TLo9fod407aTKwDhQggCLcBGAsYHQ/s1600/radiotiger.png",
+					"stationLink": "http://streaming.hamropatro.com:8637",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Gurbaba F.M",
+					"stationDetail": "106.4 MHz | Bardiya",
+					"stationimage": "https://3.bp.blogspot.com/-XJQ-83Vv4O0/Xi6fqwklJaI/AAAAAAAAA4Y/Wd2VwPgwSn0Gq-J6yLjCc7E6zZ7E41mtACLcBGAsYHQ/s1600/radiogurbaba.jpg",
+					"stationLink": "http://live.itechnepal.com:8658/stream?type=.mp3",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Gurbaba",
+					"stationDetail": "89.7 MHz | Bansgadhi",
+					"stationimage": "http://radiogurbaba.org.np/assets/images/891.png",
+					"stationLink": "http://live.itech.host:8658/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Parasi",
+					"stationDetail": "90.2 MHz | Nawalparasi",
+					"stationimage": "https://4.bp.blogspot.com/-d9m1xOjw6nU/Xi6f-wTfeTI/AAAAAAAAA9M/uL0wFPqXETEV0bvMBrJb3JJrS1VnHqQ7gCLcBGAsYHQ/s1600/radioparasi.jpg",
+					"stationLink": "http://streaming.softnep.net:8129",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Chhahari",
+					"stationDetail": "Online | Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-H2u4RzYOnhE/Xi6flesEvwI/AAAAAAAAA3A/qfCojARW4VU0nwyKOyOuz1zbrMP-oVg3gCLcBGAsYHQ/s1600/radiochhahari.jpg",
+					"stationLink": "http://162.241.236.81:9300",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Aaha",
+					"stationDetail": "Online | Kathmandu, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-hvHNCKfE3DI/Xi6farfQ-DI/AAAAAAAAA0o/cZ2ypx_jmmka5hpyErKtu4wFvhW5787gwCLcBGAsYHQ/s1600/radioaahaonline.jpg",
+					"stationLink": "http://live.itech.host:1530/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Paribartan",
+					"stationDetail": "91.0 MHz | Burtibang, Baglung",
+					"stationimage": "https://1.bp.blogspot.com/-AiKU0ArRATY/Xi6f_GpdIdI/AAAAAAAAA9Q/Uo_BIHNzZH0fdvojG3Q8RB-wfe4nAvqiACLcBGAsYHQ/s1600/radioparibartan.jpg",
+					"stationLink": "http://streaming.softnep.net:8163",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Afno FM",
+					"stationDetail": "104.8 MHz | Okhaldhunga",
+					"stationimage": "https://2.bp.blogspot.com/-Da2j3PlRiiU/Xi6e8IQG2zI/AAAAAAAAAtY/4_EndOwDMvUihiFql3HMqqMlmb4OzGFvQCLcBGAsYHQ/s1600/afnofm.jpg",
+					"stationLink": "http://streaming.softnep.net:8103",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Bhaktapur FM",
+					"stationDetail": "Online | Itachhen, Bhaktapur",
+					"stationimage": "https://2.bp.blogspot.com/-IAjM2WRTnfM/Xi6e-YP9ebI/AAAAAAAAAt4/BuIwgpX26agbockKPOG6JJIhmwYn8S4sgCLcBGAsYHQ/s1600/bhaktapurfmonline.jpg",
+					"stationLink": "http://49.236.212.220:88/broadwave.mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Community Radio Sky FM",
+					"stationDetail": "90.4 MHz | Tamghas, Gulmi",
+					"stationimage": "https://4.bp.blogspot.com/-SfvJjJLeqZA/Xi6fDG_t3aI/AAAAAAAAAvE/ZCcj28d6zsI67VR8ggfYiwg0ZxXgZcNKQCLcBGAsYHQ/s1600/communityradiosky.png",
+					"stationLink": "http://streaming.hamropatro.com:8421/",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Nepal Online Radios",
+					"stationDetail": "Online | Kathmandu",
+					"stationimage": "https://4.bp.blogspot.com/-_MLkmHL6mmc/Xi6fXI0xSdI/AAAAAAAAAzw/6AWZ6ndyjbkruyo0MqPWsqAUFapsL5m2QCLcBGAsYHQ/s1600/nepalonlineradio.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8635",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Paryabaran",
+					"stationDetail": "104.2 MHz | Lalitpur",
+					"stationimage": "https://1.bp.blogspot.com/-85qC2n8sN9Y/Xi6f_nXM4mI/AAAAAAAAA9Y/LYkbRaEQajkpf69jV42UwaCkjuXlA5sSACLcBGAsYHQ/s1600/radioparyabaran.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8733",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Vision FM",
+					"stationDetail": "90.5 MHz | Okhaldhunga",
+					"stationimage": "https://2.bp.blogspot.com/-3_jBNN38F58/Xi6gVwExFVI/AAAAAAAABCk/dUKEdgtwwbAunK_fj07M4fyhSsYve5_DgCLcBGAsYHQ/s1600/radiovision.png",
+					"stationLink": "http://148.66.135.69:9348",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Hamro Paila FM",
+					"stationDetail": "91.6 MHz | Khalanga, Jajarkot",
+					"stationimage": "https://3.bp.blogspot.com/-KfqMo5RZBWg/Xi6gWVZACxI/AAAAAAAABCs/uSJKRBmNWvMcgpy8xJLES08vSMHKp5tWQCLcBGAsYHQ/s1600/raidohamropaila.jpg",
+					"stationLink": "http://live.itech.host:8714/stream",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Radio Manakamana",
+					"stationDetail": "Online | Kurintar, Chitwan",
+					"stationimage": "https://4.bp.blogspot.com/-pA2Uk5aNouc/Xi6f4DjSt7I/AAAAAAAAA7g/0-dUifLzjfY3FyRBibyQUOyWIsmxRbS-wCLcBGAsYHQ/s1600/radiomanakamanaonline.jpg",
+					"stationLink": "http://live.itechnepal.com:1745/stream?type=.mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Jana Sanchar",
+					"stationDetail": "Online | Bhaktapur, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-h7XvBU2cQxY/Xi6fvFrkVFI/AAAAAAAAA5Y/u6v9GRRoHB4jeI3095rRArW7XtPoN2NSQCLcBGAsYHQ/s1600/radiojanasanchar.jpg",
+					"stationLink": "http://jfm.online.org.np:5998",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Udaypur",
+					"stationDetail": "102.4 MHz | Udayapur",
+					"stationimage": "https://2.bp.blogspot.com/-3GvFXBpS3HE/Xi6gWQ2RkQI/AAAAAAAABCw/h3VroHl0-LkO78st1bD4q5onROEMI3HlACLcBGAsYHQ/s1600/raidoudaypur.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8240/",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Sindhu",
+					"stationDetail": "105 MHz | Sindhupalchok, Chautara",
+					"stationimage": "https://1.bp.blogspot.com/-HSiI7vbr5Xs/Xi6gPAAVB7I/AAAAAAAABA4/66beOJIqRRUrOIfiXb2dS2I3nS-xs7R8gCLcBGAsYHQ/s1600/radiosindhu.jpg",
+					"stationLink": "http://streaming.softnep.net:8041/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Himalaya Fm Network",
+					"stationDetail": "106.0 MHz | Old Baneshwor, Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-SEsnYDurZgg/Xi6fsntm1iI/AAAAAAAAA4w/bdWlgb6L1b4Mfik2M0nhrVlCJmh9VFgyQCLcBGAsYHQ/s1600/radiohimalayan.png",
+					"stationLink": "http://streaming.hamropatro.com:8034/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Doti",
+					"stationDetail": "98.05 MHz | Silgadhi-1, Doti",
+					"stationimage": "https://4.bp.blogspot.com/-n8A0z7Oem0k/Xi6fof3Bj6I/AAAAAAAAA38/LQwLCGWiv_QuFyux8iZSxNKPjiN9u1S9gCLcBGAsYHQ/s1600/radiodoti.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8050/",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Tribeni",
+					"stationDetail": "94.4 MHz | Dipayal, Doti",
+					"stationimage": "https://3.bp.blogspot.com/-PfFyW2VEV4c/Xi6fYcbX5VI/AAAAAAAAA0A/DezzSudp468rGLgm91nXS5QovWeUWG4CACLcBGAsYHQ/s1600/onlineradiotribeni.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8343",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Smile",
+					"stationDetail": "Online | Sotang-4, Solukhumbu",
+					"stationimage": "https://3.bp.blogspot.com/-80FKB3jDMU4/Xi6gPkStOVI/AAAAAAAABBA/E80zouPoM8sa3fpIu4-k1_bO_BKMFwrIwCLcBGAsYHQ/s1600/radiosmile.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8357",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Hamro Radio",
+					"stationDetail": "103.4 MHz | Charikot, Dolakha",
+					"stationimage": "https://2.bp.blogspot.com/-q-LzsIAKmXw/Xi6fJwU07-I/AAAAAAAAAwo/BoX-6dqOcp4-EVdthUkZ6isEia7G1TFYACLcBGAsYHQ/s1600/hamroradio.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8337",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Madhesh Masla",
+					"stationDetail": "Online | Bairiya -7, Rautahat",
+					"stationimage": "https://3.bp.blogspot.com/-btUJSEfyrYY/Xi6f1M8pR8I/AAAAAAAAA60/HK0I8RFCHJoMf9VTFfi9Dz8KIm4y8In7gCLcBGAsYHQ/s1600/radiomadeshmasla.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8347",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Samarpan",
+					"stationDetail": "98.2 MHz | Simara, Bara",
+					"stationimage": "https://2.bp.blogspot.com/-hQRMX9J4r2A/Xi6gIRVIqKI/AAAAAAAAA_Q/wFZn0g3QOeM2NMpiLHvHJQ_7Llhee3mcwCLcBGAsYHQ/s1600/radiosamarpan.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8345",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Republic",
+					"stationDetail": "88.2 MHz | Butwal, Rupandehi",
+					"stationimage": "https://3.bp.blogspot.com/-CYI8ZXe1jdE/Xi6gETq7sBI/AAAAAAAAA-Y/dSrw4rKcpcslee0T5FKwv2J9CtCEyyPhgCLcBGAsYHQ/s1600/radiorepublic.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8359",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Upatyaka",
+					"stationDetail": "87.6 MHz | Kathmandu, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-wc64XoZ0W7M/Xi6gVtDNnTI/AAAAAAAABCg/DJXTKlP0tukUxIP6UdxbaU5D5b2YLX5wQCLcBGAsYHQ/s1600/radioupatyaka.jpg",
+					"stationLink": "http://ufm.online.org.np:5428",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Shivashakti",
+					"stationDetail": "98.3 MHz | Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-oGOnS3XqgzU/Xi6gNm8wUmI/AAAAAAAABAk/ywq_YE6xAlE--ZaHEOQShzt0xsGDb5J7wCLcBGAsYHQ/s1600/radioshivashakti.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8643",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Namaste FM",
+					"stationDetail": "107.2 MHz | Sunsari",
+					"stationimage": "https://4.bp.blogspot.com/-lEi-WPl4O1M/Xi6fT_QUlYI/AAAAAAAAAzA/FkHZhAGxYwki0gPHda7seOvm5GhaABe-gCLcBGAsYHQ/s1600/namastefm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8675",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Agrata",
+					"stationDetail": "102.1 MHz | Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-q02aUmkNHlk/Xi6fbEI0fyI/AAAAAAAAA00/aCeDamdM4gACunRLwcThNAOPBFgj9IOqACLcBGAsYHQ/s1600/radioagrata.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8459",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Chankheli",
+					"stationDetail": "98.8 MHz | Kalikot",
+					"stationimage": "https://3.bp.blogspot.com/-2anlB4Hg7wg/Xi6fj--8NWI/AAAAAAAAA20/cirubKIdArg15PE_DlzXC0vx04ph3zlBACLcBGAsYHQ/s1600/radiochankheli.jpg",
+					"stationLink": "http://streaming.softnep.net:8071",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Radio Nagarik",
+					"stationDetail": "90.8 MHz | Simara, Bara",
+					"stationimage": "https://4.bp.blogspot.com/-ThYhK8Yeljc/Xi6f73O7b1I/AAAAAAAAA8c/Vjov91PSWAsK1i4J8vWCH4j_ML9EgMXSACLcBGAsYHQ/s1600/radionagarik.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8176",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Sangeet",
+					"stationDetail": "92.4 MHz | Amarpath, Butwal-7",
+					"stationimage": "https://4.bp.blogspot.com/-d9BKSzcGteg/Xi6gKwdOEaI/AAAAAAAAA_s/MakAZSS7Rf4lQpkGLWav3MoXbg4Lhao3QCLcBGAsYHQ/s1600/radiosangeet.jpg",
+					"stationLink": "http://streaming.softnep.net:8047/",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Sanket",
+					"stationDetail": "93.0 MHz | Gaindakot-5, Nawalparasi",
+					"stationimage": "https://4.bp.blogspot.com/-RM_EHKTH-HI/Xi6gK4OXb2I/AAAAAAAAA_w/UXTRje3tzRs3HVes5Nup5NNfgt8AY960gCLcBGAsYHQ/s1600/radiosanket.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8523/",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Miteree",
+					"stationDetail": "98.2 MHz | Panchthar",
+					"stationimage": "https://2.bp.blogspot.com/-a5maBQxVZMI/Xi6f6MwopLI/AAAAAAAAA8A/JV4Ytjamv2IlY-vBM6oQYhw7fVOvFre_gCLcBGAsYHQ/s1600/radiomiteree.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8517",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Kathmandu",
+					"stationDetail": "92.1 MHz | Kathmandu",
+					"stationimage": "https://1.bp.blogspot.com/-g3bdXp8siwc/Xi6fxdMNtoI/AAAAAAAAA6E/qdpwJVtOhN4YaY8cKR9VSIsY4Y1URq2uQCLcBGAsYHQ/s1600/radiokathmandu.jpg",
+					"stationLink": "http://144.76.110.138:9700/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "FM Plus",
+					"stationDetail": "89.1 MHz | Gauradaha, Jhapa",
+					"stationimage": "https://1.bp.blogspot.com/-Y6CDZylvyRQ/Xi6fG6jsfqI/AAAAAAAAAv4/FBnCC-U2qq4PWUDaS9zpSwBZLF7Z7xgtgCLcBGAsYHQ/s1600/fmplus.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8499",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Online Radio Tribeni",
+					"stationDetail": "Online | Rolpa",
+					"stationimage": "https://3.bp.blogspot.com/-PfFyW2VEV4c/Xi6fYcbX5VI/AAAAAAAAA0A/DezzSudp468rGLgm91nXS5QovWeUWG4CACLcBGAsYHQ/s1600/onlineradiotribeni.jpg",
+					"stationLink": "http://144.76.110.138:9310/listen.mp3",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Janata Media Network",
+					"stationDetail": "102.7 MHz | Sundhara, Kathmandu",
+					"stationimage": "https://4.bp.blogspot.com/-259kmKf2Kw4/Xi6fNJS_PMI/AAAAAAAAAxc/FH5-Sy_KyLMi3PO9fJL1HRM2kpJaLAmvwCLcBGAsYHQ/s1600/janatamedianetwork.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8551",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Himshikhar",
+					"stationDetail": "103.3 MHz | Damak, Jhapa",
+					"stationimage": "https://2.bp.blogspot.com/-6ankkkH1210/Xi6fs_d5ynI/AAAAAAAAA44/sjuzPgOIwe0vWE3o66lRd-UoXKN4jnwQgCLcBGAsYHQ/s1600/radiohimshikhar.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8575/",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Sadvab",
+					"stationDetail": "91.2 MHz | Nepalgunj, Banke",
+					"stationimage": "https://1.bp.blogspot.com/-_puCEddxhVs/Xi6gFWaj4TI/AAAAAAAAA-s/GPNngbJzlOAphwqVWJtNU-QpcWqDty4IgCLcBGAsYHQ/s1600/radiosadvab.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8577",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Unnati",
+					"stationDetail": "92.9 MHz | Bhojpur",
+					"stationimage": "https://4.bp.blogspot.com/-sYI5_f-nh3Q/Xi6gVfBYgWI/AAAAAAAABCY/AZS8IfeB0fUp4ZTF4nVXxGcPXxh8ogu1gCLcBGAsYHQ/s1600/radiounnati.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8579",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Harpal",
+					"stationDetail": "90.9 MHz | Tokha, Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-9TJXRYQP0J4/Xi6fsFerD8I/AAAAAAAAA4k/qpM6UyMQpH0JWUGkEqBhf0TQm7GZO1pmACLcBGAsYHQ/s1600/radioharpal.jpg",
+					"stationLink": "http://radio.online.org.np:9090/;stream.mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Bishwas FM",
+					"stationDetail": "93.6 MHz | Kalaiya, Bara",
+					"stationimage": "https://3.bp.blogspot.com/-ZTjhx4UUeis/Xi6e_xfAFwI/AAAAAAAAAuU/mF7CfWTfV_0gVeUtv8mOiCh42l89oRIkQCLcBGAsYHQ/s1600/bishwasfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8093",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio BSC Nepal",
+					"stationDetail": "91.8 MHz | Phidim, Paanchthar",
+					"stationimage": "https://4.bp.blogspot.com/-qLMbksAdb18/Xi6fiiPf11I/AAAAAAAAA2g/Sbv4yIR9Bl4wbRITAHiKHvX4gHhVUppMACLcBGAsYHQ/s1600/radiobscnepal.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8591",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Bihani",
+					"stationDetail": "89.0 MHz | Baglung, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-eWns0-FazEk/Xi6fhhPOLjI/AAAAAAAAA2Y/cor5LGkU_EwCS9zAurmqaruyeHr9KzXAwCLcBGAsYHQ/s1600/radiobihani97.6.png",
+					"stationLink": "http://live.itechnepal.com:9108/stream?type=.mp3",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Chhimkeshwory",
+					"stationDetail": "106.2 MHz | Bandipur, Tanahun",
+					"stationimage": "https://1.bp.blogspot.com/-vX6rdn_x0gw/Xi6flij3fFI/AAAAAAAAA3E/Jr6IYgTdKZMjA4A7S9h-lViAyrnb3az6ACLcBGAsYHQ/s1600/radiochhimkeshwory.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8619",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Byas FM",
+					"stationDetail": "92.0 MHz | Tanahun, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-OKYvnpf4jFs/Xi6fBUUJx5I/AAAAAAAAAuk/4ggm7EOhZlMwCb8u_yEH4_uACVoixfs6ACLcBGAsYHQ/s1600/byasfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8623",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Jhapa",
+					"stationDetail": "100.7 MHz | Damak, Jhapa",
+					"stationimage": "https://1.bp.blogspot.com/-c5DqmN4Akm4/Xi6fvjjSwvI/AAAAAAAAA5g/hAgJspto66Ip2oO4Kmt4Gld7smEY79g-gCLcBGAsYHQ/s1600/radiojhapa.jpg",
+					"stationLink": "http://live.websoftitnepal.com:9600",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Holeri FM",
+					"stationDetail": "102.5 MHz | Rungtigadhi, Rolpa",
+					"stationimage": "https://3.bp.blogspot.com/-q2jmzZjGNcQ/Xi6ftcPRqDI/AAAAAAAAA48/Zt01UyfpZMoxUHJsDoyRo8xEDMLy8YwegCLcBGAsYHQ/s1600/radioholeri.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8659",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Madi Aawaj",
+					"stationDetail": "98.6 MHz | Madi-2, Rolpa",
+					"stationimage": "https://1.bp.blogspot.com/-E2R4t3lvjec/Xi6f2qyt0jI/AAAAAAAAA7E/aci6xjzrfXINGS9o3A52PrpT55FvrrLQACLcBGAsYHQ/s1600/radiomadiaawj.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8629",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Tiphadee",
+					"stationDetail": "99.1 MHz | Manthali, Ramechhap",
+					"stationimage": "https://3.bp.blogspot.com/-Ul97wzCg52w/Xi6gTowmBjI/AAAAAAAABCE/ZdiS8aKMQzk9IFyaz4oBZvcSlSPspujjQCLcBGAsYHQ/s1600/radiotiphadee.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8627",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Kiss FM",
+					"stationDetail": "89.3 MHz | Rupandehi",
+					"stationimage": "https://1.bp.blogspot.com/-QJnvzmvYao8/Xi6fPlKLXmI/AAAAAAAAAx8/iK1hfQlaakslQblQxEMorhQyTCxf6wECgCLcBGAsYHQ/s1600/kissfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8649",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Bharosa",
+					"stationDetail": "MHz | Makawanpur, Hetauda",
+					"stationimage": "https://1.bp.blogspot.com/-oRvTsoGBnt4/Xi6fg3AtIOI/AAAAAAAAA2I/rBycquY7CponDOlAQdErZdYlH3ofh4BUQCLcBGAsYHQ/s1600/radiobharosa.jpg",
+					"stationLink": "http://143.95.89.54:9302",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Sankhuwasabha",
+					"stationDetail": "95.5 MHz | Khandbari",
+					"stationimage": "https://3.bp.blogspot.com/-T2sw9EecrUA/Xi6gLJTac-I/AAAAAAAAA_0/rvKHOxoX5V8dbTSk9Ub7SMWHdBuhXpJ4gCLcBGAsYHQ/s1600/radiosankhuwsabha.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8647",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Madhesh",
+					"stationDetail": "89.3 MHz | Sarlahi",
+					"stationimage": "https://2.bp.blogspot.com/-Jt1HjdFEdKQ/Xi6f0U8oKHI/AAAAAAAAA6w/13ZnysokP_4KbxXvDahQSRmAahyIG3b5wCLcBGAsYHQ/s1600/radiomadesh.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8417",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Dautari FM",
+					"stationDetail": "105.8 MHz | Nawalparasi",
+					"stationimage": "https://4.bp.blogspot.com/-GLLA_NSjOhU/Xi6fEiJHe2I/AAAAAAAAAvU/kBC5sP4q2Z0iwOiO2l0k8vdPbaRxXMmmACLcBGAsYHQ/s1600/dautarifm.jpg",
+					"stationLink": "http://live.itechnepal.com:7042/stream?type=.mp3",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Newa FM",
+					"stationDetail": "106.6 MHz | Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-3f5wQ4InFnI/Xi6fXQ1sVGI/AAAAAAAAAz0/i_cEo55zSbkvVzuWLvkxv6mCaY1IeOOgwCLcBGAsYHQ/s1600/newafm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8683",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Sandhikharka FM",
+					"stationDetail": "89.8 MHz | Arghakhachi",
+					"stationimage": "https://4.bp.blogspot.com/-LZgMNeEXBsw/Xi6gX5lWgpI/AAAAAAAABDI/In5NeLjhOiYn3KdlLmDcc-bhqg0g8nscwCLcBGAsYHQ/s1600/sandhikharka.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8691",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Marsyangdi",
+					"stationDetail": "95 MHz | lamjung",
+					"stationimage": "http://www.radiomarsyangdi.org/assets/images/logo.png",
+					"stationLink": "http://live.itech.host:9120/stream",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Kanchanjungha Fm",
+					"stationDetail": "92.6 MHz | Birtamod",
+					"stationimage": "http://www.kanchanjunghafm.org/assets/images/logo.png",
+					"stationLink": "http://live.itechnepal.com:8420/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Kanchan",
+					"stationDetail": "95.8 MHz | Rupandehi",
+					"stationimage": "https://3.bp.blogspot.com/-9SVDpQI6Rx4/Xi6fw9gyWZI/AAAAAAAAA54/VJpxoxghsVsm3UPocOWOwzU5iZzdonl9wCLcBGAsYHQ/s1600/radiokanchan.jpg",
+					"stationLink": "http://streaming.softnep.net:8181",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Kamala",
+					"stationDetail": "MHz | Dhanusa",
+					"stationimage": "https://3.bp.blogspot.com/-_ItqLgDK_gs/Xi6fwjLnWJI/AAAAAAAAA50/8nPVXYdV7mox8XFDFT13aS4mzpisPZfmACLcBGAsYHQ/s1600/radiokamala.jpg",
+					"stationLink": "http://radio.itech.host:7106/stream.mp3",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Aafno FM",
+					"stationDetail": "90.4 MHz | Rukum",
+					"stationimage": "https://3.bp.blogspot.com/-8mphEDm60JU/Xi6faL9UmDI/AAAAAAAAA0k/9JVp41WLzzE2sZGzx8mZp5uzAEH4e5a8QCLcBGAsYHQ/s1600/radioaafno.jpg",
+					"stationLink": "http://streaming.softnep.net:8063/;",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Navajyoti FM",
+					"stationDetail": "88.2 MHz | Kathmandu",
+					"stationimage": "https://1.bp.blogspot.com/-HrUeNtYWfD8/Xi6fUbxXHzI/AAAAAAAAAzE/x013Htnqyng2h1re9JkAgT9P0IhcuIkPACLcBGAsYHQ/s1600/navajyotifm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8681",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Sauryadaya",
+					"stationDetail": "92.4 MHz | Mugu",
+					"stationimage": "https://4.bp.blogspot.com/-P1oyiGkdWJw/Xi6gNPtTobI/AAAAAAAABAY/13ZtyHsHcQkgZY4CtNnfIMix_xb1YI72ACLcBGAsYHQ/s1600/radiosauryadaya.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8000",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Prime FM",
+					"stationDetail": "105.2 MHz | Morang",
+					"stationimage": "https://4.bp.blogspot.com/-Wy_Jkv5hwjw/Xi6fZkktZaI/AAAAAAAAA0Y/NQQDuh8frIQvwrCsqqyZGENtY7sZpNFmgCLcBGAsYHQ/s1600/primefm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8453",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Barathawa",
+					"stationDetail": "101.1 MHz | Sarlahi",
+					"stationimage": "https://1.bp.blogspot.com/-tC8lLwIPl9w/Xi6ffWLfauI/AAAAAAAAA10/aIcqM--GQP8gry3oXJPAp1u2f8Gu2_AtgCLcBGAsYHQ/s1600/radiobarathawa.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8597",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Burtibang",
+					"stationDetail": "95.6 MHz | Baglung, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-CtOXcVlHIwY/Xi6fjRTSy-I/AAAAAAAAA2w/fGn-MV9Z1cohIQ1RtMpW0c4l4VDZc_34gCLcBGAsYHQ/s1600/radioburtibang.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8016/",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Bardibas",
+					"stationDetail": "94.0 MHz | Mahottari",
+					"stationimage": "https://1.bp.blogspot.com/-IXcnB2cQcw4/Xi6ffxEVYlI/AAAAAAAAA14/1fU7egHlXhMwIZ0owyW232oxoq8sPb5_wCLcBGAsYHQ/s1600/radiobardibas.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8689",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Kalaiya",
+					"stationDetail": "106.6 MHz | Bara",
+					"stationimage": "https://3.bp.blogspot.com/-RyMcjGOqW3U/Xi6fwDIXgpI/AAAAAAAAA5s/1rqIiPpsyPkGi7k40D1VoxsEMuRj1NoywCLcBGAsYHQ/s1600/radiokalaiya.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8687",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Gurash",
+					"stationDetail": "107.7 MHz | Morang",
+					"stationimage": "https://2.bp.blogspot.com/--B-bvI1nCx0/Xi6fq90cMVI/AAAAAAAAA4U/GDlHrzel1PcrsK8BteAsE_nlPTPgWjzPwCLcBGAsYHQ/s1600/radiogurash.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8703",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Sathi",
+					"stationDetail": "98.6 MHz | Jhapa",
+					"stationimage": "https://3.bp.blogspot.com/-6ll6LDP8a9U/Xi6gMziWeXI/AAAAAAAABAQ/WU6B93krHoEDDWG5vp_IjUvVSvWq2UPuACLcBGAsYHQ/s1600/radiosathi.jpg",
+					"stationLink": "http://streaming.softnep.net:8271",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Sirish FM",
+					"stationDetail": "92.8 MHz | Morang",
+					"stationimage": "https://2.bp.blogspot.com/-5FWJELHld3Y/Xi6gcmI6VXI/AAAAAAAABD4/i41OIUkw9y4rBRnMP5Azogzz1-yhYHViwCLcBGAsYHQ/s1600/sirishfm.jpg",
+					"stationLink": "http://radio.websoftitnepal.com:9318/",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Aawaj FM",
+					"stationDetail": "88.0 MHz | Parsa",
+					"stationimage": "https://3.bp.blogspot.com/-fsyHZldFUl8/Xi6e7vWi1AI/AAAAAAAAAtQ/rySgdV0VnhUBpR_7kv5u-SErualzbGo0QCLcBGAsYHQ/s1600/aawajfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8701",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Top Town",
+					"stationDetail": "107.0 MHz | Bhaktapur",
+					"stationimage": "https://3.bp.blogspot.com/-INkpFGvQJEw/Xi6gU--70gI/AAAAAAAABCU/y7M3ZBWfLZMszoDQg9C3QII0VQpb_dEwACLcBGAsYHQ/s1600/radiotopdown.jpg",
+					"stationLink": "http://streaming.softnep.net:8159",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Nepali",
+					"stationDetail": "MHz | Rautahat",
+					"stationimage": "https://1.bp.blogspot.com/-Rh_uc7jhvV4/Xi6f9H6QrQI/AAAAAAAAA8w/kb7H6LXCkcU49ZB5y6sCe_SmqUiNn1B0ACLcBGAsYHQ/s1600/radionepali.jpg",
+					"stationLink": "http://streaming.softnep.net:8169/",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Samagra Madhesh",
+					"stationDetail": "90.4 MHz | Parsa",
+					"stationimage": "https://4.bp.blogspot.com/-GuDmmTxErxk/Xi6gIN5iHaI/AAAAAAAAA_M/7dvFnsgLpiAIMZpWbROpjPgdQeklSA8cACLcBGAsYHQ/s1600/radiosamagramadhesh.jpg",
+					"stationLink": "http://streaming.softnep.net:8151/",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Sainamaina",
+					"stationDetail": "91.0 MHz | Rupandehi",
+					"stationimage": "https://3.bp.blogspot.com/-WUtzlTMi8to/Xi6gG4EFL1I/AAAAAAAAA-8/naLmwF7mXIENC1tYg56S2mGaCxZRb5QGACLcBGAsYHQ/s1600/radiosainamaina.jpg",
+					"stationLink": "http://streaming.softnep.net:8157",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Bajura",
+					"stationDetail": "104 MHz | Bajura",
+					"stationimage": "https://4.bp.blogspot.com/-OZjBWk5IWQ0/Xi6fe1qRXeI/AAAAAAAAA1o/xv1e3gWnn24AFWXwEWexJ6qwDup7iUGiQCLcBGAsYHQ/s1600/radiobajura.jpg",
+					"stationLink": "http://streaming.softnep.net:8105",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Simana",
+					"stationDetail": "106.9 MHz | Jhapa",
+					"stationimage": "https://4.bp.blogspot.com/-s9vkCtYYnI8/Xi6gOcz5YTI/AAAAAAAABAs/JtfMWzypHk0_lJhkzuipa-MI5eoPyICQgCLcBGAsYHQ/s1600/radiosimana.jpg",
+					"stationLink": "http://streaming.softnep.net:8127/",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Janamukhi",
+					"stationDetail": "97.0 MHz | Bajhang",
+					"stationimage": "https://2.bp.blogspot.com/-4aT20PO7hrk/Xi6fuaAihgI/AAAAAAAAA5M/DICxtjNcxl0XBWrKrGbyWKCeekSk0qi1wCLcBGAsYHQ/s1600/radiojanamukhi.jpg",
+					"stationLink": "http://streaming.softnep.net:8153/",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Kaski",
+					"stationDetail": "96.5 MHz | Pokhara",
+					"stationimage": "https://3.bp.blogspot.com/-JHrDawdrSnA/Xi6fxBk1GdI/AAAAAAAAA6A/BDreWzi-o-wnzSilFPw_Z4D-p0iRNDWswCLcBGAsYHQ/s1600/radiokaski.jpg",
+					"stationLink": "http://37.59.42.207:8140",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Seven Star",
+					"stationDetail": "92.2 MHz | Baitadi",
+					"stationimage": "https://1.bp.blogspot.com/-0B3x2MTbHFs/Xi6gNqalkCI/AAAAAAAABAg/7ZsZ4n5NGpgXwlyk-LXxcBHxvb-R0aE3wCLcBGAsYHQ/s1600/radiosevenstar.jpg",
+					"stationLink": "http://streaming.softnep.net:8177",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Bharatpur",
+					"stationDetail": "105.2 MHz | Bharatpur-7, Chitwan",
+					"stationimage": "https://2.bp.blogspot.com/-zmsIukzHYj0/Xi6fgmVOUpI/AAAAAAAAA2E/5RaS090ykQkED4yPipLbeQ5AKi3zwES2wCLcBGAsYHQ/s1600/radiobharatpur.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8325",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "3 Angels Community Radio",
+					"stationDetail": "94.6 MHz | Pokhara, Kaski",
+					"stationimage": "https://2.bp.blogspot.com/-CQ1EIkgAC1w/Xi6e5mD_xxI/AAAAAAAAAtA/I5PBh-u0bxoXn6uZLVIjnrxDQg0h9C2mACLcBGAsYHQ/s1600/3angelscommunity.jpg",
+					"stationLink": "https://streaming.hamropatro.com:8234",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Nation",
+					"stationDetail": "103.9 MHz | Ekantakuna, Lalitpur",
+					"stationimage": "https://2.bp.blogspot.com/-Fb0gTmdk89U/Xi6f8ljJ2uI/AAAAAAAAA8k/x6darzCVUQkuc99nG8V1ZJhvWkYImn-RgCLcBGAsYHQ/s1600/radionation.jpg",
+					"stationLink": "http://live.itech.host:1440/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "RADIO BUDHINANDA FM",
+					"stationDetail": "96.5 MHz | Kolti, Bajura",
+					"stationimage": "https://4.bp.blogspot.com/-ltkDZjlUx-I/Xi6fjLkaGII/AAAAAAAAA2o/Y5sjqQh0X289x1JfK5sioN3Aqo3Vxi6dwCLcBGAsYHQ/s1600/radiobudhinanda.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8749",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Eagle FM",
+					"stationDetail": "99.4 MHz | Phidim 1, Panchthar",
+					"stationimage": "https://1.bp.blogspot.com/-4RPS9i3LxuM/Xi6fFrWVkNI/AAAAAAAAAvo/nWePIRVEcy8Le3kW1Kuz65bkh5h1fod9ACLcBGAsYHQ/s1600/eaglefm.jpg",
+					"stationLink": "http://live.itechnepal.com:9048/stream?type=.mp3",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Aagan FM",
+					"stationDetail": "89.6 MHz | Birtamod, Jhapa",
+					"stationimage": "https://4.bp.blogspot.com/-JziBAiRcOsU/Xi6e7axyrfI/AAAAAAAAAtM/Rm6cdd3Z0cYTi7WYPZsc9ASg-pS3Yc5HgCLcBGAsYHQ/s1600/aaganfm.jpg",
+					"stationLink": "http://live.itech.host:8274/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Madanpokhara FM",
+					"stationDetail": "106.9 MHz | Madanpokhara, Palpa",
+					"stationimage": "https://4.bp.blogspot.com/--qxE6G6WoV8/Xi6f0OtkdQI/AAAAAAAAA6o/-MfmuSskg4MCeHmEBI-0AGy8OW9U4GDAACLcBGAsYHQ/s1600/radiomadanpokhara.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8236/",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Damauli FM",
+					"stationDetail": "MHz | Damauli, Tanahun",
+					"stationimage": "https://3.bp.blogspot.com/-2x23ftwChIM/Xi6fDbK9wFI/AAAAAAAAAvI/bSjjX0QRK1YtLMqUwJhFfkZfYmQ2KgJEwCLcBGAsYHQ/s1600/damaulifm.jpg",
+					"stationLink": "http://live.itechnepal.com:8786/stream",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio All Star Online",
+					"stationDetail": "MHz | Udaypur",
+					"stationimage": "https://3.bp.blogspot.com/-o2ubrYdlics/Xi6fcD1xkWI/AAAAAAAAA08/K_vcwvfKPYgUP39kKdeyUqLW17lRjI00wCLcBGAsYHQ/s1600/radioallstaronline.jpg",
+					"stationLink": "http://live.itechnepal.com:7039/stream?type=.mp3",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Shubheksha FM",
+					"stationDetail": "96.6 MHz | Baglung, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-cizxyB2Zibk/Xi6gbTZu2rI/AAAAAAAABDk/-BCpQzaLQ0o4SE0W0yRy1z48R1xJL1LzgCLcBGAsYHQ/s1600/shubheksha.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8475",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Janata",
+					"stationDetail": "89.1 MHz | Kathmandu, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-yhnSvMnsEhw/Xi6fvsnCIlI/AAAAAAAAA5c/x6APLYRZB-gnbctEoPma3roZXVuRHnY7gCLcBGAsYHQ/s1600/radiojanata.jpg",
+					"stationLink": "http://144.76.110.138:9610/listen.mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Kohalpur FM",
+					"stationDetail": "101.2 MHz | Kohalpur-11, Sajhachowk, Banke",
+					"stationimage": "https://2.bp.blogspot.com/-qxCkwAyZN2M/Xi6fQI2ZArI/AAAAAAAAAyI/3iv8FSat3QsfF7aVpWifDmxiaXg1W5MzgCLcBGAsYHQ/s1600/kohalpurfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8265",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Roshi",
+					"stationDetail": "101.6 MHz | Roshi, Kavreplanchok",
+					"stationimage": "https://1.bp.blogspot.com/-8M2W8MpnCAo/Xi6gFRVEY7I/AAAAAAAAA-o/yiJeUTI3LV87kfG-dBiDzWHOCnqsj3hBgCLcBGAsYHQ/s1600/radioroshi.jpg",
+					"stationLink": "http://37.59.42.207:8095",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Netrajyot",
+					"stationDetail": "106.6 MHz | Barabise, Sindhupalchok",
+					"stationimage": "https://2.bp.blogspot.com/-iC7wqlkmH6w/Xi6f9errd4I/AAAAAAAAA80/9haQLqRKiLEgbTC-v8fbZOQ25AR8HDCNQCLcBGAsYHQ/s1600/radionetrajyot.jpg",
+					"stationLink": "http://streaming.softnep.net:8227/",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio One",
+					"stationDetail": "92.3 MHz | mainapokhari, Dolakha",
+					"stationimage": "https://2.bp.blogspot.com/-ifi7Cl39g1M/Xi6f-G9ZDPI/AAAAAAAAA88/4jBUM6YkFGsCdcGMDzkq-S85UMEK71oqgCLcBGAsYHQ/s1600/radioone.png",
+					"stationLink": "http://37.59.42.207:8095",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Pradesh Seven",
+					"stationDetail": "Online | Kailali, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-_ZfxA0KJAI0/Xi6gA6bhV4I/AAAAAAAAA9s/03mFuLa5mbcaUfCgSJ0mAsMhUtixToRVwCLcBGAsYHQ/s1600/radiopradeshseven.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8757/",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Gorkha FM",
+					"stationDetail": "93 MHz | Kathmandu",
+					"stationimage": "https://1.bp.blogspot.com/-PS8qYp7jPOY/Xi6fIIeIxKI/AAAAAAAAAwI/YRia55IXHDIJKZ3saOoWKJ8DCCpDZLmogCLcBGAsYHQ/s1600/gorkhafm.jpg",
+					"stationLink": "http://38.107.242.90:8198/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Chitwan Online Radio",
+					"stationDetail": "Online | Chitwan, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/--NSNF89rH0I/Xi6fBt-XH0I/AAAAAAAAAuo/s-5sNvyEIkM8ehWIilh-cbz7iwpIHvfSQCLcBGAsYHQ/s1600/chitwanonlineradio.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8603",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Achham",
+					"stationDetail": "94.4 MHz | Achham, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-3nSB4q3fl60/Xi6fa3FzYiI/AAAAAAAAA0s/Jk7qF1i8blspfzCSF24BqtwP7bCxOaOVgCLcBGAsYHQ/s1600/radioachham.jpg",
+					"stationLink": "http://live.itechnepal.com:8880/stream?type=.mp3",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Dreams FM",
+					"stationDetail": "89.8 MHz | Chitwan",
+					"stationimage": "https://1.bp.blogspot.com/-UgcmvYyC86A/Xi6fFnbNd9I/AAAAAAAAAvg/k408vrOcwMw8-zZyUzeQ6oumw-SMYiK3gCLcBGAsYHQ/s1600/dreamsfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8731",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Nepaliko Radio",
+					"stationDetail": "88.8 MHz | Koteshwar, Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-59CSLfxGq8c/Xi6fVe8nZjI/AAAAAAAAAzY/ot_frznPv-wxTNdAUA2_vqzSlMvXQUcAwCLcBGAsYHQ/s1600/nepalikoradio.jpg",
+					"stationLink": "http://144.76.110.138:9888",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Himalaya",
+					"stationDetail": "MHz | Kathmandu, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-oo-KcdAAq7I/Xi6fsZbq_1I/AAAAAAAAA4s/sJjrZP1uKSkPGXCr5hCMaxkWRrtMhveJQCLcBGAsYHQ/s1600/radiohimalaya.jpg",
+					"stationLink": "http://core.itech.host:8541",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Langtang",
+					"stationDetail": "90.3 MHz | Laharepauwa-8, Syaubari, Rasuwa",
+					"stationimage": "https://3.bp.blogspot.com/-BHaxO_nEVmw/Xi6fzDjT8hI/AAAAAAAAA6g/SPa1wnZO4s4NDumzLSW6CNh0Z9Dl34P2gCLcBGAsYHQ/s1600/radiolangtang.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8032",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Malangwa",
+					"stationDetail": "95.6 MHz | Sarlahi",
+					"stationimage": "https://3.bp.blogspot.com/-y1f1-spZL0k/Xi6f3mwsuzI/AAAAAAAAA7U/IQxh9oQ3pDI-DsAFV_4N-QcRQAVx1u-2wCLcBGAsYHQ/s1600/radiomalangwa.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8711",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Madi",
+					"stationDetail": "107.6 MHz | Madi, Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-izRfpyFdN9A/Xi6f11N3P8I/AAAAAAAAA7A/V8LUL29Aekg-GrxGQkXDwkg_fmwRNxAvgCLcBGAsYHQ/s1600/radiomadi.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8715",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Shuklaphanta FM",
+					"stationDetail": "99.4 MHz | Bhansi",
+					"stationimage": "https://4.bp.blogspot.com/-FUOA_nNp3Hw/Xi6gb_YztuI/AAAAAAAABDs/rJCbsyB7nR414XCaeBlbepWjwo8Hj7-JwCLcBGAsYHQ/s1600/shuklaphanta.png",
+					"stationLink": "http://198.27.80.37:5340/;",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Gunjan FM",
+					"stationDetail": "Online | Chandranigapur, Rautahat",
+					"stationimage": "https://2.bp.blogspot.com/-XVUm8xZBfbo/XmhbIVFvOwI/AAAAAAAABHo/0aTQXIlZiwQsvSsDp4JuN3dcPnOcU7QvgCLcBGAsYHQ/s1600/Gunjan%2BFm.png",
+					"stationLink": "http://live.itechnepal.com:9437/stream",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Hajurko Radio",
+					"stationDetail": "Online | Ramechhap, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-rjfXfr6rHeA/Xi6fJJhurvI/AAAAAAAAAwc/TpppN8PcBMgqYfhzGxmmt6MH1miA4sMgACLcBGAsYHQ/s1600/hajurkoradioonline.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8258",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Prabhav",
+					"stationDetail": "92.4 MHz | Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-SoX8pz-HDcM/Xi6gApoiiOI/AAAAAAAAA9o/mNNsFS88OoQnSCyDJGOC5SPSgt2sgBqBACLcBGAsYHQ/s1600/radioprabhav.jpg",
+					"stationLink": "http://37.59.42.207:8629",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Shuklagandaki FM",
+					"stationDetail": "97.6 MHz | Tanahun",
+					"stationimage": "https://4.bp.blogspot.com/-yqlacDIIpg8/Xi6gbS4qR-I/AAAAAAAABDo/uWmruumllYUNrckhoN-ND3ROUqmKDgDGwCLcBGAsYHQ/s1600/shuklagandaki.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8657",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Dhurbatara FM",
+					"stationDetail": "89.8 MHz | Dailekh",
+					"stationimage": "https://4.bp.blogspot.com/-hy78lkYlnfo/Xi6foZ8lX8I/AAAAAAAAA34/bmuzPtJDzYcbeAsypI_NmeC97zI3KljRwCLcBGAsYHQ/s1600/radiodhurbatara.jpg",
+					"stationLink": "http://live.itechnepal.com:8834/stream",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Radio Sarobar",
+					"stationDetail": "92.5 MHz | Hetauda, Makawanpur",
+					"stationimage": "https://2.bp.blogspot.com/-53S6MjG54is/Xi6gMF1pIkI/AAAAAAAABAI/vuZbLv75k5MI7lvTtQSyaGIuZDiEozd7QCLcBGAsYHQ/s1600/radiosarobar.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8437",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Metro Traffic FM",
+					"stationDetail": "MHz | Ramshahpath, Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-53S6MjG54is/Xi6gMF1pIkI/AAAAAAAABAI/vuZbLv75k5MI7lvTtQSyaGIuZDiEozd7QCLcBGAsYHQ/s1600/radiosarobar.jpg",
+					"stationLink": "http://37.59.42.207:8074/stream.mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Music Joy Radio",
+					"stationDetail": "MHz | Kuleshwor, Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-xs0aCtUXkRs/Xi6fTDeAxtI/AAAAAAAAAy0/SZ4Lkf2nd68uLySkySR-APA2phrY91imACLcBGAsYHQ/s1600/musicjoynepal.jpg",
+					"stationLink": "http://192.190.84.25:9990",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "News Diary Online Radio",
+					"stationDetail": "Online | Israel",
+					"stationimage": "https://3.bp.blogspot.com/-pi61tuPAQdw/Xi6geClxcqI/AAAAAAAABEU/f8vWEs5TSBIVxJYUfUNs6e6y-9sfD_q3ACLcBGAsYHQ/s1600/sunakhariradionline.jpg",
+					"stationLink": "http://192.190.84.25:9994",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Ichchhakamana FM",
+					"stationDetail": "102.4 MHz | Chitwan",
+					"stationimage": "https://2.bp.blogspot.com/-Okz7YXT115A/Xi6fQ6-XT7I/AAAAAAAAAyQ/VgnF2NDr0RYR-oDHvZCrVEIj_02vl7c0wCLcBGAsYHQ/s1600/lchchhakamanafm.jpg",
+					"stationLink": "http://streaming.softnep.net:8139",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Janani",
+					"stationDetail": "90.6 MHz | Sirjana Chowk - 8, Pokhara",
+					"stationimage": "https://2.bp.blogspot.com/-4JbJV-BQQaE/Xi6fup_-wmI/AAAAAAAAA5Q/Vx6EHOrOkEUVTQgrIM8IPnnhvkWd8cJ0QCLcBGAsYHQ/s1600/radiojanani.jpg",
+					"stationLink": "http://live.itechnepal.com:8768/stream?type=.mp3",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Mandavi FM",
+					"stationDetail": "MHz | Khalanga, Pyuthan",
+					"stationimage": "https://3.bp.blogspot.com/-K9mzDTQ6tow/Xi6f4Yd3RzI/AAAAAAAAA7k/d_fJMLWaVGYy63d_iqA9r0HTiaQKl4qxQCLcBGAsYHQ/s1600/radiomandavi.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8477",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Mukti",
+					"stationDetail": "95.5 MHz | Butwal, Rupandehi",
+					"stationimage": "https://3.bp.blogspot.com/-btfKIkSB0cs/Xi6f7BYUB8I/AAAAAAAAA8M/-BLF6boY6kIu3e5s4ezdPcN9yT2Du443QCLcBGAsYHQ/s1600/radiomukti.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8593",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Paschim Awaj",
+					"stationDetail": "104.7 MHz | Lamki Chuha Municipality-2,Kailali",
+					"stationimage": "https://3.bp.blogspot.com/-fS-OuQjW4zk/Xi6f_6AQs5I/AAAAAAAAA9c/X-iRtvVN3jwPCn1qAcPDtooqMRJpGz55gCLcBGAsYHQ/s1600/radiopaschimawaj.jpg",
+					"stationLink": "http://radio.itechnepal.net:8080/",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Ramechhap",
+					"stationDetail": "Online | Manthali-4, Ramechhap",
+					"stationimage": "https://3.bp.blogspot.com/-TH3ImTFIWnE/Xi6gCpsnEeI/AAAAAAAAA-A/mLMFkSQuu1oGxzMD1HByiJeiYt4ffYv-wCLcBGAsYHQ/s1600/radioramechhaponline.png",
+					"stationLink": "http://streaming.hamropatro.com:8028",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Sakhi",
+					"stationDetail": "95.8 MHz | Josipur VDC 7, Kailali",
+					"stationimage": "https://1.bp.blogspot.com/-qVFnlNcjKk4/Xi6gHkrG3JI/AAAAAAAAA_I/diTJjVAZUC0eh3ZGepmzpq-bn6NmarF-gCLcBGAsYHQ/s1600/radiosakhi.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8573",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Saugat FM",
+					"stationDetail": "103.6 MHz | Baitadi",
+					"stationimage": "http://www.saugaatfmbaitadi.org/images/logo.png",
+					"stationLink": "http://live.itechnepal.com:9659/stream?type=.mp3",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Saugat",
+					"stationDetail": "88.1 MHz | Lahan",
+					"stationimage": "https://2.bp.blogspot.com/-RdQSd93fHBM/Xi6gMz4sZYI/AAAAAAAABAU/Zbmv-RdahbsT-YFSGBfGDZcV1ZI7b-BdACLcBGAsYHQ/s1600/radiosaugat.jpg",
+					"stationLink": "http://streaming.softnep.net:8045/",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Society FM",
+					"stationDetail": "89 MHz | Mangalsen, Achham",
+					"stationimage": "https://1.bp.blogspot.com/-vEQI-VeC-Ls/Xi6gPoYBnYI/AAAAAAAABBE/rMFWftCwPyIkmt29_qlsvbRaWbw9ov5JgCLcBGAsYHQ/s1600/radiosociety.jpg",
+					"stationLink": "http://live.itech.host:1680/stream",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Sunrise",
+					"stationDetail": "90.2 MHz | Birtamod, Jhapa",
+					"stationimage": "https://2.bp.blogspot.com/-xEhyZSD_Ox0/Xi6gQsq0maI/AAAAAAAABBQ/oggmVZi4cbcq1L8kzyQhnaG8OUvKuhFaQCLcBGAsYHQ/s1600/radiosunrise.png",
+					"stationLink": "http://streaming.hamropatro.com:8601",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Tarai",
+					"stationDetail": "MHz | Birgunj, Parsa",
+					"stationimage": "https://2.bp.blogspot.com/-L_X9YbYaq4Y/Xi6gRmBAYYI/AAAAAAAABBg/GC6ZOE6EbJk1STSfHkr-0ZdbVEHC-l_kgCLcBGAsYHQ/s1600/radiotarai.jpg",
+					"stationLink": "http://live.itech.host:9114/stream",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Terhathum",
+					"stationDetail": "92.4 MHz | Myanglung-1, Terhathum",
+					"stationimage": "https://4.bp.blogspot.com/-NgGBGPMmx7Y/Xi6gSIWJqvI/AAAAAAAABBo/R1uSux8pS50F8R-rOYVfKrdaTLnWh5J0QCLcBGAsYHQ/s1600/radioterhathum.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8309",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Shakti FM",
+					"stationDetail": "103.4 MHz | Hetauda 4, Makawanpur",
+					"stationimage": "https://3.bp.blogspot.com/-DP1RgK8jZkU/Xi6gZBaOeII/AAAAAAAABDU/BLYfDGLi4R4c_i55wBLW-qU-ohvbO74uwCLcBGAsYHQ/s1600/shaktifm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8709",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Shreenagar FM",
+					"stationDetail": "93.2 MHz | Tansen, Palpa",
+					"stationimage": "https://3.bp.blogspot.com/-CoI0_JmBY2w/Xi6gakHegnI/AAAAAAAABDg/yfP3NH5l8nMZ3hzV9lOD_Keq6kWqDCsDACLcBGAsYHQ/s1600/shreenagarfm.jpg",
+					"stationLink": "http://live.itechnepal.com:9593/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Sunakhari Radio Live",
+					"stationDetail": "Online | Khandbari-1, Sankhuwasabha",
+					"stationimage": "https://3.bp.blogspot.com/-pi61tuPAQdw/Xi6geClxcqI/AAAAAAAABEU/f8vWEs5TSBIVxJYUfUNs6e6y-9sfD_q3ACLcBGAsYHQ/s1600/sunakhariradionline.jpg",
+					"stationLink": "http://radio.itechnepal.net:8080",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Arpan",
+					"stationDetail": "104.5 MHz | Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-pcTWuhQwUJU/Xi6fdN9uReI/AAAAAAAAA1Q/HfqRZ8hiNNQ79y6TCS1-2PmaXeJEaj5pwCLcBGAsYHQ/s1600/radioarpan.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8138",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Rajmarga",
+					"stationDetail": "92.1 MHz | Dharke, Dhading",
+					"stationimage": "https://3.bp.blogspot.com/-iAZDFaCQZ9Q/Xi6gCEC2MYI/AAAAAAAAA98/hFVXobbk-XAiZvHlQdxHTSn9W5Ts_ZOvgCLcBGAsYHQ/s1600/radiorajmarga.png",
+					"stationLink": "http://streaming.hamropatro.com:8012/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Fm Red Star",
+					"stationDetail": "95.3 MHz | Lamki, Kailali",
+					"stationimage": "https://fmredstar.com.np/assets/images/redstar.png",
+					"stationLink": "http://live.itechnepal.com:7052/live?type=.mp3",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Palung",
+					"stationDetail": "107.2 MHz | Palung-4, Makawanpur",
+					"stationimage": "https://3.bp.blogspot.com/-ZvmQiMxJBiU/Xi6f-gqi5xI/AAAAAAAAA9I/bIi2_94NW6cOmmd5xlnOrietV8ebxz7-ACLcBGAsYHQ/s1600/radiopalung.png",
+					"stationLink": "http://streaming.hamropatro.com:8084",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Bindas",
+					"stationDetail": "94.8 MHz | Birgunj-10, Parsa",
+					"stationimage": "https://3.bp.blogspot.com/-aoJ1mRRCosk/Xi6fhohCggI/AAAAAAAAA2U/lDrUUsm_oVAdD5fyPs2k7lbnefjRZHdWACLcBGAsYHQ/s1600/radiobindas.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8615",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Simrik",
+					"stationDetail": "96.5 MHz | Pathari, Morang",
+					"stationimage": "https://2.bp.blogspot.com/--9LZ3Tzg_fk/Xi6gOgANrrI/AAAAAAAABA0/Ih9r7fQvB9wwDle0XLYD-LvUA6ZuHdj_ACLcBGAsYHQ/s1600/radiosimrik.png",
+					"stationLink": "http://192.190.84.25:9984",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Sarangi",
+					"stationDetail": "Online | Biratchok, Morang",
+					"stationimage": "https://1.bp.blogspot.com/-r1JFaIBR0Fs/Xi6gLpCimmI/AAAAAAAAA_8/RGRu34ytXAMEVP_kEjVBGoh3TI2wrxqCQCLcBGAsYHQ/s1600/radiosarangi.jpg",
+					"stationLink": "http://streaming.softnep.net:8107",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Saipal FM",
+					"stationDetail": "Online | Bajhang",
+					"stationimage": "https://3.bp.blogspot.com/-OB0PnL_sAbc/Xi6gXSpvE3I/AAAAAAAABC8/YwUE2ED4i2cPDJV81bO1XIg-0Jeqtyx-gCLcBGAsYHQ/s1600/saipalfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8231",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Darchula FM",
+					"stationDetail": "90.0 MHz | Khalanga-5, Darchula",
+					"stationimage": "https://3.bp.blogspot.com/-kHxi2hInr1M/Xi6fEUUdUyI/AAAAAAAAAvQ/p9bdAOAO6ocY-q_5exDjdwJIsDS_XO-CQCLcBGAsYHQ/s1600/darchulafm.jpg",
+					"stationLink": "http://streaming.softnep.net:8075",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Khasyauli FM",
+					"stationDetail": "91.8 MHz | Butwal",
+					"stationimage": "https://4.bp.blogspot.com/-bI-0Wex3A2Y/Xi6fPI0hwNI/AAAAAAAAAx4/75vKIrBdkB4uBYc04KnN65c51H5uBPcBACLcBGAsYHQ/s1600/khsyaulifm.jpg",
+					"stationLink": "http://streaming.softnep.net:8167",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Palpa",
+					"stationDetail": "97.1 MHz | Palpa",
+					"stationimage": "https://3.bp.blogspot.com/-uBvBQekklzY/Xi6f-ZrCW8I/AAAAAAAAA9E/VI0iq6K8aAAtl5B2s5aVgQ8FwoLMvlALgCLcBGAsYHQ/s1600/radiopalpa.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8467/",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Galkot FM",
+					"stationDetail": "102.4 MHz | Hatiya-3, Galkot, Baglung",
+					"stationimage": "https://2.bp.blogspot.com/-FJwalgtPKAo/Xi6fHt2jAjI/AAAAAAAAAwA/NsHePQ9Cr7YzuB2g-vtSsn2MfoN_WpcegCLcBGAsYHQ/s1600/galkotfm.png",
+					"stationLink": "http://live.itech.host:1260/stream?type=.mp3",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Simara",
+					"stationDetail": "106 MHz | Simara, Bara",
+					"stationimage": "https://4.bp.blogspot.com/-qOLSxYYuGUk/Xi6gOtiefRI/AAAAAAAABAw/lG2091eQJ0AfdyGGyra0urJCFfpKb29kACLcBGAsYHQ/s1600/radiosimara.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8096",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Hamro FM",
+					"stationDetail": "Online | Bharatpur, Chitwan",
+					"stationimage": "https://1.bp.blogspot.com/-T2Teagev7ps/Xi6fJYdI51I/AAAAAAAAAwg/GVDlVL20pnQ36h7awri4ZpaL1VwvchNCwCLcBGAsYHQ/s1600/hamrofmonline.png",
+					"stationLink": "http://streaming.hamropatro.com:8142",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Megha FM",
+					"stationDetail": "95.4 MHz | Kaski, Pokhara",
+					"stationimage": "https://3.bp.blogspot.com/-iDBkyBxw6pY/Xi6fR8_qpjI/AAAAAAAAAyc/3DtOyiLfsScvb6AkWRAc1RWiRuKqqZnTQCLcBGAsYHQ/s1600/meghafm.jpg",
+					"stationLink": "http://fm.mymediaworld.net:5118/",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Betana",
+					"stationDetail": "97.1 MHz | Belbari-2, Morang",
+					"stationimage": "https://2.bp.blogspot.com/-3vVEhdhPIlE/Xi6fgNVtALI/AAAAAAAAA2A/5KaybB2ZkqAoQp3yQxL6IzOTPBc2w-1oACLcBGAsYHQ/s1600/radiobetana.jpg",
+					"stationLink": "http://streaming.softnep.net:8123",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Headlines & Music FM",
+					"stationDetail": "Online | Pulchowk, Lalitpur",
+					"stationimage": "https://1.bp.blogspot.com/-fnnGIAwcz5s/Xi6fKO8xVFI/AAAAAAAAAws/y8lHAri7fPQ7gNFJqRfed-y6-RwPqJenACLcBGAsYHQ/s1600/headlinesmusicfm.png",
+					"stationLink": "http://streaming.hamropatro.com:8246/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Kawasoti",
+					"stationDetail": "102.6 MHz | Kawasoti, Nawalparasi",
+					"stationimage": "https://4.bp.blogspot.com/-yNZwrZwICxc/Xi6fxo2Bv1I/AAAAAAAAA6I/Cm61AJ89A4g5j3lv3ZJmLpOexJL0qKQIACLcBGAsYHQ/s1600/radiokawasoti.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8435/",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Derby",
+					"stationDetail": "Online | Kathmandu, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-sUOLIlP9T10/Xi6fmi2oT_I/AAAAAAAAA3U/PcI2TVBaZ0w-c0WX2dwaVRf1u0zs0cpsgCLcBGAsYHQ/s1600/radioderbyonline.jpg",
+					"stationLink": "http://37.59.42.207:8226",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Sangam",
+					"stationDetail": "Online | Kolhavi-8, Bara",
+					"stationimage": "https://2.bp.blogspot.com/-9EBBjsaKHjI/Xi6gKuW41DI/AAAAAAAAA_o/n-e_gdEZAtIb_5GLZHrJKMKObeGz_MgBACLcBGAsYHQ/s1600/radiosangam.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8415",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Ekta",
+					"stationDetail": "92.4 MHz | Lalbandi, Sarlahi",
+					"stationimage": "https://1.bp.blogspot.com/-6tkJvROV7mg/Xi6fonlEfBI/AAAAAAAAA4A/pCqyS5Sw4BkLgVmRVLcTYOwK-nE5KR2dQCLcBGAsYHQ/s1600/radioekta.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8515",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Baadal",
+					"stationDetail": "89 MHz | Simraungadh, Bara",
+					"stationimage": "https://2.bp.blogspot.com/-dFetmnxfGRM/Xi6feNjG7FI/AAAAAAAAA1g/EupsNi5Yl_AAjH0pvA8TH8J8tyPWpq3CQCLcBGAsYHQ/s1600/radiobaadal.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8188",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Sanskaar FM",
+					"stationDetail": "Online | Kalaiya, Bara",
+					"stationimage": "https://1.bp.blogspot.com/-VjprR9dEbJg/Xi6gYKzWsTI/AAAAAAAABDM/uSsdwOY4w6Qua9Cg4vQnaXICsktvqSwnwCLcBGAsYHQ/s1600/sanskaarfm.jpg",
+					"stationLink": "http://radio.canstream.co.uk:8024/live.mp3",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Voice of Youth FM",
+					"stationDetail": "92.0 MHz | Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-MpBSf7TcNeI/Xi6ghZQ7kII/AAAAAAAABFM/hsEv_zBJXp0BuJUiaiBIKoEgfnlBUjMcQCLcBGAsYHQ/s1600/voiceofyouth.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8409",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Dullu FM",
+					"stationDetail": "101.5 MHz | Dullu, Dailekh",
+					"stationimage": "https://4.bp.blogspot.com/-V_MpCGTniXU/Xi6fFkQ_nNI/AAAAAAAAAvk/YsR3u5EZJF0LepfsFTT9fLESULqL8S34QCLcBGAsYHQ/s1600/dullufm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8685",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Pathivara Online Radio",
+					"stationDetail": "Online | Phidim-1, Paanchthar",
+					"stationimage": "",
+					"stationLink": "http://live.itechnepal.com:8744/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Athrai",
+					"stationDetail": "101.2 MHz | Tehrathum",
+					"stationimage": "https://3.bp.blogspot.com/-If7yTZbxBgY/Xi6fdyveAuI/AAAAAAAAA1Y/Jw7FrAcRW7MOqaR7DkViMzetJtnb74TBwCLcBGAsYHQ/s1600/radioathrai.jpg",
+					"stationLink": "http://streaming.softnep.net:8121",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Dhangadhi",
+					"stationDetail": "90.5 MHz | Dhangadhi, Kailali",
+					"stationimage": "https://2.bp.blogspot.com/-stBwFPV3ooo/Xi6fnv8G_II/AAAAAAAAA3s/CWisGHld9FYnI1ZEht-k08jwKSrHT07pwCLcBGAsYHQ/s1600/radiodhangadhi.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8617",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Apostle FM",
+					"stationDetail": "Online | Kaski, Pokhara",
+					"stationimage": "https://4.bp.blogspot.com/-CXs5nr03Q_4/Xi6e9A2oJHI/AAAAAAAAAtk/uxGIaueLLUcdEthEbUYCeYmwour7wv-zwCLcBGAsYHQ/s1600/apostlefm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8176/",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Dhankuta",
+					"stationDetail": "106.2 MHz | Chuliban, Dhankuta",
+					"stationimage": "https://3.bp.blogspot.com/-jba4CSpWUdI/Xi6fngqUc3I/AAAAAAAAA3w/XEggJGB5_FISm08nW2fs7ybAJMnLTecBgCLcBGAsYHQ/s1600/radiodhankuta.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8066",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Jalpa",
+					"stationDetail": "104.5 MHz | Kakani-3, Nuwakot",
+					"stationimage": "https://1.bp.blogspot.com/-W-oh3vz9HGo/Xi6fuAvydoI/AAAAAAAAA5I/FRb5A1KrQcIFkJ6ZL_85MkgX8KgUmJTFQCLcBGAsYHQ/s1600/radiojalpa.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8377",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Deurali",
+					"stationDetail": "101.0 MHz | Arghakhachi",
+					"stationimage": "https://3.bp.blogspot.com/-k8GjwDhIo9w/Xi6fnDaZ7UI/AAAAAAAAA3g/pgeGloxI6esNFR0htkLLGKnqd-xU0PB3QCLcBGAsYHQ/s1600/radiodeurali.jpg",
+					"stationLink": "http://streaming.softnep.net:8078/;",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Koseli FM",
+					"stationDetail": "97.0 MHz | Kailali",
+					"stationimage": "https://2.bp.blogspot.com/-cY02Cmo1N-8/Xi6fyS6lkGI/AAAAAAAAA6U/KkIAvkJ2SbARrl0nSFxO7svV1oYZl7uTACLcBGAsYHQ/s1600/radiokoseli.jpg",
+					"stationLink": "http://streaming.softnep.net:8149/",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Tinjure",
+					"stationDetail": "Online | Basantapur, Therathum",
+					"stationimage": "https://1.bp.blogspot.com/-l46RtPmJMAc/Xi6gTfj9ZpI/AAAAAAAABB8/6om3J19-FJEbb_B4aQSuplTPkoPPpsRAQCLcBGAsYHQ/s1600/radiotinjure.jpg",
+					"stationLink": "http://streaming.softnep.net:8183",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Sajha Chautari",
+					"stationDetail": "MHz | Japan",
+					"stationimage": "https://4.bp.blogspot.com/-0D_KGB0Eu1I/Xi6gHcz50GI/AAAAAAAAA_A/Zb4MLt3bcG4hNeSJNBetnv55Hl4BXME3QCLcBGAsYHQ/s1600/radiosajhachautari.jpg",
+					"stationLink": "http://51.15.152.81:8790",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Radio Miteri",
+					"stationDetail": "Online | Bajhang",
+					"stationimage": "https://1.bp.blogspot.com/-jpiRHmiOvUY/Xi6f6gW0Z3I/AAAAAAAAA8E/NJh_qkv8XrsCgAKS9PXMa2B6JsIonPYTACLcBGAsYHQ/s1600/radiomiteri.jpg",
+					"stationLink": "http://streaming.softnep.net:8053/streaming.mp3",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Shringeshor",
+					"stationDetail": "104.4 MHz | Chhatrakot, Gulmi",
+					"stationimage": "https://1.bp.blogspot.com/-KTZSyT9DNCo/Xi6gOGpHINI/AAAAAAAABAo/0UFxXIUgHpUu9U2dnCtrj4Tn2tyMumKSgCLcBGAsYHQ/s1600/radioshringeshor.jpg",
+					"stationLink": "http://148.66.135.69:9332",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Times",
+					"stationDetail": "94.8 MHz | Sainamaina-2 Rupandehi",
+					"stationimage": "https://2.bp.blogspot.com/-3a9RYhx7zTY/Xi6gTAFLGjI/AAAAAAAABB4/qQYzaCvIQZgP3Fpu8NWeCBMHyIte2Q4-wCLcBGAsYHQ/s1600/radiotimes.png",
+					"stationLink": "http://streaming.softnep.net:8173",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Malmala",
+					"stationDetail": "88.6 MHz | Sainamaina 2 , Kalikachowk",
+					"stationimage": "https://1.bp.blogspot.com/-AGbhSaZLU0s/Xi6f4A4WMkI/AAAAAAAAA7c/9Lwp58K6T9I5dFjT9nTxIIu_jYJE7q8ywCLcBGAsYHQ/s1600/radiomalmala.jpg",
+					"stationLink": "http://radio.itech.host:9072/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Mustang",
+					"stationDetail": "| Jomsom, Mustang",
+					"stationimage": "https://2.bp.blogspot.com/-ZlNGkfK6eFQ/Xi6f7ywT5PI/AAAAAAAAA8Y/6qBmKHTe39Q-Ulp7ytGsBgdllwd7hu0UgCLcBGAsYHQ/s1600/radiomustang.png",
+					"stationLink": "http://streaming.softnep.net:8193",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Star FM",
+					"stationDetail": "92 MHz | Damak-8, Jhapa, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-5313aKKFwBk/Xi6gdsWAV6I/AAAAAAAABEI/vOjRzHbV3q83QALVpHqO6XXu_crcEuyeACLcBGAsYHQ/s1600/starfm92.jpg",
+					"stationLink": "http://live.itechnepal.com:7121/stream?type=.mp3",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Star",
+					"stationDetail": "93.2 MHz | Biratnagar, Morang",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Star-93.2-100x47.jpg",
+					"stationLink": "http://live.websoftitnepal.com:9730/;",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Akala",
+					"stationDetail": "105.3 MHz | Lamachour-16, Pokhara",
+					"stationimage": "https://1.bp.blogspot.com/-v2aUyymKS_w/Xi6fb_QMKrI/AAAAAAAAA04/rqIX1TXXzWcHX63PPvMUJrLqsPtfjfxswCLcBGAsYHQ/s1600/radioakala.jpg",
+					"stationLink": "http://streaming.softnep.net:8233",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Sawal",
+					"stationDetail": "| Damak, Jhapa",
+					"stationimage": "https://3.bp.blogspot.com/-fh3QvRQ_xIg/Xi6gNS1pxWI/AAAAAAAABAc/gdUaP-h_bJQAFWeB5W7k2T2StEuBMC10wCLcBGAsYHQ/s1600/radiosawal.png",
+					"stationLink": "http://streaming.softnep.net:8189",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Daunne",
+					"stationDetail": "103.4 MHz | Bardaghat-4, Bardaghat, Nawalparasi",
+					"stationimage": "https://1.bp.blogspot.com/-fcDmGcZPxKE/Xi6fmks1egI/AAAAAAAAA3Y/Ny6ojmlwAVIiohBAwPLolhN7wzofcQLswCLcBGAsYHQ/s1600/radiodaunne.png",
+					"stationLink": "http://streaming.softnep.net:8257",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Shepherd FM",
+					"stationDetail": "89.2 MHz | Bharatpur, Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-S2W4UXuZ2E0/Xi6gZmjz6wI/AAAAAAAABDY/63bFU4TH_PAQ26i6-N3cOqozga2aZAmFgCLcBGAsYHQ/s1600/shepherdfm.png",
+					"stationLink": "http://streaming.softnep.net:8235",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "A One FM",
+					"stationDetail": "99 MHz | Khudunabari Jhapa",
+					"stationimage": "https://4.bp.blogspot.com/-yqQG020wFDI/Xi6e8dP8eeI/AAAAAAAAAtg/JQS_OwwR2C4dT4tLLGtJrZfxiNglPmibwCLcBGAsYHQ/s1600/aonefm.jpg",
+					"stationLink": "http://148.66.135.69:9336",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Entertainment Radio",
+					"stationDetail": "Online | Biratnagar, Morang",
+					"stationimage": "https://2.bp.blogspot.com/-okYD_e-laKQ/Xi6fGWR438I/AAAAAAAAAvw/-SFpRkCw5xIuubZpTZ7w9oCATfc5UD0LQCLcBGAsYHQ/s1600/entertainmentradio.pngs",
+					"stationLink": "http://live.websoftitnepal.com:9966",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio MBC",
+					"stationDetail": "96.4 MHz | Tilottama-5, Manigram, Rupandehi",
+					"stationimage": "https://2.bp.blogspot.com/-c-N0ov3_TWc/Xi6f48k3jOI/AAAAAAAAA7o/KaBv0qOiN_YGPoM25J7vmOh6g4sG7xQ8gCLcBGAsYHQ/s1600/radiombc.pngs",
+					"stationLink": "http://live.itechnepal.com:7164/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Bhimad FM",
+					"stationDetail": "100.9 MHz | Tanahun",
+					"stationimage": "https://2.bp.blogspot.com/-WZDR34CG8_k/Xi6e-TyNq4I/AAAAAAAAAuA/_iv7__qurn4E0AdGrOqiL7DOkXhrTOm2ACLcBGAsYHQ/s1600/bhimadfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8197",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio pallawee",
+					"stationDetail": "95.2 MHz | Triveni -7 Rolpa",
+					"stationimage": "https://4.bp.blogspot.com/-HPmpt4DYhiA/Xi6f-MUykHI/AAAAAAAAA9A/k-YGCmjOpQcPS1zTamkYZ_5ctgntG0powCLcBGAsYHQ/s1600/radiopallawee.jpg",
+					"stationLink": "http://live.itech.host:7053/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Janapriya",
+					"stationDetail": "102.4 MHz | Saphebagar, Achham",
+					"stationimage": "https://4.bp.blogspot.com/-m7ZWMnlvI1Y/Xi6fvKce9XI/AAAAAAAAA5U/pdRfp2AbnDsrxK-JoH7r9DA2yxT-JZk6ACLcBGAsYHQ/s1600/radiojanapriya.jpg",
+					"stationLink": "http://live.itech.host:8792/stream",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Rapti",
+					"stationDetail": "98.4 MHz | Rapti Gaupalika- 2, Lalmatiya",
+					"stationimage": "https://1.bp.blogspot.com/-0DyjJOajRLU/Xi6gDP0ihBI/AAAAAAAAA-M/c1X1mIdrBpgogDDwO21-0W2DCZLLO_drgCLcBGAsYHQ/s1600/radiorapti.png",
+					"stationLink": "http://streaming.softnep.net:8191",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Neelkantha FM",
+					"stationDetail": "98.5 MHz | Neelkantha Municipality-3, Dhading",
+					"stationimage": "https://1.bp.blogspot.com/-Xjd-BfmmUCA/Xi6fUrK_9PI/AAAAAAAAAzM/Scm7WOMYJSU_fiqH5ag7slB-oxVRtRYMACLcBGAsYHQ/s1600/neelkanthafm.jpg",
+					"stationLink": "http://streaming.softnep.net:8251",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Madhyapaschim",
+					"stationDetail": "91.4 MHz | Ghorahi- Dang",
+					"stationimage": "https://1.bp.blogspot.com/-Xjd-BfmmUCA/Xi6fUrK_9PI/AAAAAAAAAzM/Scm7WOMYJSU_fiqH5ag7slB-oxVRtRYMACLcBGAsYHQ/s1600/neelkanthafm.jpg",
+					"stationLink": "http://live.itech.host:9006/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Muktinath",
+					"stationDetail": "90.8 MHz | Palpa,Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-698pXjz5pnI/Xi6f7aFyDoI/AAAAAAAAA8Q/xJSwUpjViGgt-MI7lIlu_6LkAojj_TWtwCLcBGAsYHQ/s1600/radiomuktinath.png",
+					"stationLink": "http://live.itechnepal.com:9180/stream?type=.mp3",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Ramdhuni",
+					"stationDetail": "91.9 MHz | Ramdhuni-1, Sunasari",
+					"stationimage": "https://3.bp.blogspot.com/-Y4gbV56NAjY/Xi6gCIWLSOI/AAAAAAAAA94/FpevrYl5MHo9J3AepBgpm1BzhGq6zPk1QCLcBGAsYHQ/s1600/radioramdhuni.jpg",
+					"stationLink": "http://148.66.135.69:9320/;",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Taranga",
+					"stationDetail": "Online | Kaski, Pokhara",
+					"stationimage": "https://3.bp.blogspot.com/-7j0LjqrNmak/Xi6gR78BLvI/AAAAAAAABBk/rRdlxGc6o9kbnNdZYG-JIXnY_Kt8e4EUwCLcBGAsYHQ/s1600/radiotaranga.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8266",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Today",
+					"stationDetail": "Online | Janakpur-1, Dhanusha",
+					"stationimage": "https://3.bp.blogspot.com/-aZFYAP_0Ovo/Xi6gUTS9DjI/AAAAAAAABCM/1FK2AhsCtywQQDtvA3hGIlqXD41OVzEQQCLcBGAsYHQ/s1600/radiotoday.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8228/",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Kohalbi",
+					"stationDetail": "Online |",
+					"stationimage": "https://4.bp.blogspot.com/-Dx2K4eE2a0E/Xi6fyIqB59I/AAAAAAAAA6Q/MFcGuuRQubI18wV8XGF_SCrdF0D-QIaowCLcBGAsYHQ/s1600/radiokohalbionline.jpg",
+					"stationLink": "http://109.169.23.243:15216",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Kochila FM",
+					"stationDetail": "91.5 MHz | Duhabi municipality 3, Sunsari",
+					"stationimage": "https://3.bp.blogspot.com/-iKuqxTnk1Y4/XmhbJ5EAZhI/AAAAAAAABH0/HkgiVh59lH4WQ7nLyw-41XYTT1BMwC_KwCLcBGAsYHQ/s1600/Kochila%2BFm.png",
+					"stationLink": "http://streaming.softnep.net:8307/",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Rampur",
+					"stationDetail": "Online |",
+					"stationimage": "https://4.bp.blogspot.com/-H-Hn1sL7jT4/Xi6gC2ii0MI/AAAAAAAAA-E/xJ1kr927COQH6XhWEjwduc9SXRZV8iDPwCLcBGAsYHQ/s1600/radiorampur.jpg",
+					"stationLink": "http://live.itech.host:2030/stream",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Radio Jugal",
+					"stationDetail": "98.1 MHz | Sindhupalchowk, Sildhunga, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-Ll5gAiwMojs/XmhbKhBYpeI/AAAAAAAABIA/E8KSId8lD0M_PI_fNL06kxid757JtJXUgCLcBGAsYHQ/s1600/Radio%2BJugal.png",
+					"stationLink": "http://live.itechnepal.com:2160/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Ganpati",
+					"stationDetail": "106.8 MHz | Bankul,Rautahat Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-wdFbx-g67IQ/Xi6fpv3r5eI/AAAAAAAAA4I/t3Ca2zf9nTEsNi7-U85WwwNryUAkAlDqgCLcBGAsYHQ/s1600/radioganpati.jpg",
+					"stationLink": "http://online.radioganpati.com:8702",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Madhyabindu",
+					"stationDetail": "Online | Kawasoti-5, Nawalparasi",
+					"stationimage": "https://1.bp.blogspot.com/-SNZ9iJsIYRo/Xi6f1MyUqHI/AAAAAAAAA64/IPVC_mtZouI9iwIKN09YINEPV1_Fhk9nwCLcBGAsYHQ/s1600/radiomadhyabindu.jpg",
+					"stationLink": "http://streaming.softnep.net:8209",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Sunaulo FM",
+					"stationDetail": "105.6 MHz | Masuriya, Kailali",
+					"stationimage": "https://1.bp.blogspot.com/-WrPE-iTVz2I/Xi6gPz9XkVI/AAAAAAAABBI/B1z4sMegSEMQeXK8Rzjpg7pFQoIlku5tgCLcBGAsYHQ/s1600/radiosunaulo.jpg",
+					"stationLink": "http://live.itech.host:8014/live",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Parshuram",
+					"stationDetail": "91.2 MHz | Parshuram Municipality-12 Jogbuda",
+					"stationimage": "https://1.bp.blogspot.com/-Yr9cRdatPR0/Xi6f_KGRO5I/AAAAAAAAA9U/3eVIgaZHMU4onDupxQAeFWiRo5xD305LQCLcBGAsYHQ/s1600/radioparshuram.png",
+					"stationLink": "http://streaming.softnep.net:8171",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Power FM",
+					"stationDetail": "95.6 MHz | Bandipur-1, Tanahu",
+					"stationimage": "https://1.bp.blogspot.com/-XtvyHOSJQds/Xi6fZdRH-TI/AAAAAAAAA0U/IZMZD3Ba7vsxTzojCDOG32rMG9f1VwY_QCLcBGAsYHQ/s1600/powerfm.jpg",
+					"stationLink": "http://live.itech.host:7146/live",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Chiyabari FM",
+					"stationDetail": "88.2 MHz | Ilam, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-ZdsG1umXneI/Xi6fB81SPJI/AAAAAAAAAuw/IcBsU7qU-qIP9fAqUl-jM1c_LoapD92RQCLcBGAsYHQ/s1600/chiyabarifm.png",
+					"stationLink": "http://live.itech.host:1730/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Gochali FM",
+					"stationDetail": "90 MHz | Tikapur, Kailali",
+					"stationimage": "https://2.bp.blogspot.com/-sBuCXE-dk8Q/Xi6fH40Wo9I/AAAAAAAAAwE/Qz-ZPbVYyiUFUBVS74A8rRC0TW6Qj-oyACLcBGAsYHQ/s1600/gochalifm.jpg",
+					"stationLink": "http://streaming.softnep.net:8185",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Shivaraj FM",
+					"stationDetail": "106.8 MHz | Shivaraj Nagarpalika 5, Chandrautaa",
+					"stationimage": "https://2.bp.blogspot.com/-ZY2P2fbnqes/Xi6gaL3BUbI/AAAAAAAABDc/JZRT-DTuckoin-5qr5QEUbPDNjtPc-45QCLcBGAsYHQ/s1600/shivrajdfm.png",
+					"stationLink": "http://streaming.softnep.net:8213",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Mahabharat",
+					"stationDetail": "Online | Sunkoshi-5, Sindhuli",
+					"stationimage": "https://1.bp.blogspot.com/-vtb8Z5fRkmY/Xi6f2_XxDYI/AAAAAAAAA7I/v-XGq_Vki-QZMvrf4FkmU-YufX5BRMTFgCLcBGAsYHQ/s1600/radiomahabharat.png",
+					"stationLink": "http://live.itech.host:2130/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Chitwan",
+					"stationDetail": "Online | Tandi , Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-P8UmZMbmuLo/Xi6flin7_iI/AAAAAAAAA3I/i_7rk53dGWcixkJVoTmBh1n1aloxsChngCLcBGAsYHQ/s1600/radiochitwanonline.jpg",
+					"stationLink": "http://live.itech.host:2270/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Bhanu FM",
+					"stationDetail": "106.9 MHz | Myagde, Tanahun",
+					"stationimage": "https://3.bp.blogspot.com/-N2vN_lmBN-4/Xi6e-cVcBZI/AAAAAAAAAt8/Oibn4LjnwSsd5F1g9KKpzEo59SBq98ZWACLcBGAsYHQ/s1600/bhanufm.jpg",
+					"stationLink": "http://streaming.softnep.net:8211",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Mulpati Online",
+					"stationDetail": "Online | Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-KTf88SulAOs/Xi6fTD2gtvI/AAAAAAAAAyw/SPYNFMwIYAk4twecbw-k6k3memkq_O7BgCLcBGAsYHQ/s1600/mulpationline.png",
+					"stationLink": "http://streaming.softnep.net:8237",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Chautari",
+					"stationDetail": "Online | Kathmandu, Nepal",
+					"stationimage": "https://2.bp.blogspot.com/-abV0ouZExWI/Xi6fkw6bA2I/AAAAAAAAA28/tn0EqmOm4js9JvljcCyOTneNkli2VQmggCLcBGAsYHQ/s1600/radiochautari.jpg",
+					"stationLink": "http://192.240.102.133:12122/live",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Great FM",
+					"stationDetail": "106.4 MHz | Khairahani-8, Parsa, Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-TVEFduFDBW0/Xi6fIXrMMvI/AAAAAAAAAwQ/KrHeP-94uz8kcxjW9LrvvlY8TggDsOxugCLcBGAsYHQ/s1600/greatfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8253",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Suchana Dainik",
+					"stationDetail": "| Kathmandu, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-BboU8OpVFr0/Xi6gduVcEII/AAAAAAAABEM/MdHNy15U1w46ycL_Wn-IwKtrnqhvcJjiwCLcBGAsYHQ/s1600/suchanadainik.jpg",
+					"stationLink": "http://streaming.softnep.net:8215",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Classic FM",
+					"stationDetail": "Online | Jawalakhel, Lalitpur",
+					"stationimage": "https://4.bp.blogspot.com/-cMNHckN9pRY/Xi6fCtTtPbI/AAAAAAAAAu8/szmkX56b8OwW8f3E2NjZLZv7qj5QiUkpgCLcBGAsYHQ/s1600/classicfmonline.jpg",
+					"stationLink": "http://live.itechnepal.com:8530/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Ilam FM",
+					"stationDetail": "93 MHz | Tarakuti, Ilam - 2, Ilam",
+					"stationimage": "https://3.bp.blogspot.com/-t5VHa-w5RO4/Xi6fLmd59KI/AAAAAAAAAxE/JJitSocWcDIpI4kAe05GcOeiL7XOrT9ngCLcBGAsYHQ/s1600/ilamfm.jpg",
+					"stationLink": "http://live.itechnepal.com:9635/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Himal FM",
+					"stationDetail": "Online | Solukhumbu",
+					"stationimage": "https://4.bp.blogspot.com/-B_8vqMUsymk/Xi6fK-P0qRI/AAAAAAAAAw4/5cCwSjp37iQGTeYL6_2XDnKKYz429WMWgCLcBGAsYHQ/s1600/himalfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8224",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Karnali FM",
+					"stationDetail": "105.2 MHz | Jumla",
+					"stationimage": "https://4.bp.blogspot.com/-Jd2vg6hK2LU/Xi6fxDgDtBI/AAAAAAAAA58/7IdgHiLBKioxR7OFrLEXHsuehGLlV2bVACLcBGAsYHQ/s1600/radiokarnali.jpg",
+					"stationLink": "http://streaming.softnep.net:8101",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Radio Artha Sarokar",
+					"stationDetail": "Online | Koteshwor, Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-zRIklVcmjUI/Xi6fayXSGfI/AAAAAAAAA0w/vHEHSa77Sp8f273WPnXn-9VPSwqpkn82QCLcBGAsYHQ/s1600/radioaarthasarokar.jpg",
+					"stationLink": "http://live.itech.host:2430/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Mix FM",
+					"stationDetail": "Online | Bidur Municipality -4, Nuwakot",
+					"stationimage": "https://4.bp.blogspot.com/-I9X06neqrFQ/XmhbJy8yKzI/AAAAAAAABH4/pwnvYM2QsS0ow1FyrBY1ndBG952cwH-qgCLcBGAsYHQ/s1600/Mix%2BFm.png",
+					"stationLink": "http://live.itech.host:2460/stream",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Suryodaya FM",
+					"stationDetail": "94 MHz | Sandhikharka -1, Argakhanchi",
+					"stationimage": "https://2.bp.blogspot.com/-Sg74mMyvhN0/Xi6geYY8HkI/AAAAAAAABEY/zGZz2UC_2UE-_M2I-ByS5Q4Zf9VOT7jfgCLcBGAsYHQ/s1600/suryodayafm.png",
+					"stationLink": "http://live.itechnepal.com:7165/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Sambridha Nepal",
+					"stationDetail": "92 MHz | kusma,Parbat",
+					"stationimage": "https://1.bp.blogspot.com/-CmpgxFDcYS8/XmhbMPjQakI/AAAAAAAABIQ/7Yp5KRJnSXMifNY9KBV5ttpKfHwSrpdJQCLcBGAsYHQ/s1600/Radio%2BSambridha%2BNepal.png",
+					"stationLink": "http://live.itech.host:2240/stream",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Sworgadwari FM",
+					"stationDetail": "88.4 MHz | Pyuthan",
+					"stationimage": "https://4.bp.blogspot.com/-V4HUotAsg_8/Xi6gQl28eHI/AAAAAAAABBU/1yvPYo0gzQwq1s78-l_oSSMh897Ylhf9ACLcBGAsYHQ/s1600/radiosworgadwri.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8743",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Malarani",
+					"stationDetail": "95.7 MHz | Arghakhanchi",
+					"stationimage": "https://2.bp.blogspot.com/-UDDPuAQ-RRg/Xi6f36FaVTI/AAAAAAAAA7Y/a9zi2hVs-lwjA8A18R7R01yW1EPnzg8rwCLcBGAsYHQ/s1600/radiomalarani.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8755",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Muskan",
+					"stationDetail": "96.5 MHz | Siraha,Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-f_SO4Nc6bgw/Xi6f7h6txWI/AAAAAAAAA8U/ELATmJfTFnAYQMy89K5FVo7_eMQlOtNlACLcBGAsYHQ/s1600/radiomuskan.jpg",
+					"stationLink": "http://rstream.abgroupnepal.com:8078/radiomuskan",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Sarlahi",
+					"stationDetail": "105.7 MHz |",
+					"stationimage": "https://1.bp.blogspot.com/-ymEe7Bl8Lpk/Xi6gLx2X_dI/AAAAAAAABAE/QROE_pqy4L4BON0QYl-kYtXGJZnytmnTQCLcBGAsYHQ/s1600/radiosarlahi.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8419",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Nikesh",
+					"stationDetail": "93.4 MHz | Hetauda, Makawanpur",
+					"stationimage": "http://radionikas.com/images/logo.png",
+					"stationLink": "http://radio.itech.host:8756/stream",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Makalu",
+					"stationDetail": "Online | Dhankuta",
+					"stationimage": "https://1.bp.blogspot.com/-2giGB1uGvuQ/Xi6f3JUUzdI/AAAAAAAAA7M/agYq7TsT6y8K3sA8w9AlNornSMF_x9JsQCLcBGAsYHQ/s1600/radiomakalu.png",
+					"stationLink": "http://live.websoftitnepal.com:9912/;",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Rastriya",
+					"stationDetail": "Online | Kanchanpur,Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-XWBrhEQ7_vE/XmhbK0lTbkI/AAAAAAAABII/S17FaAkXtfQIa9SiEL9KER2Cyj_4VkPTACLcBGAsYHQ/s1600/Radio%2BRastriya.png",
+					"stationLink": "http://37.59.42.207:8232/;",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Rajdevi",
+					"stationDetail": "93.2 MHz | Gaur, Rautahat",
+					"stationimage": "",
+					"stationLink": "http://streaming.hamropatro.com:8379",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Sampada",
+					"stationDetail": "90.5 MHz | Chowkbazar Chitwan",
+					"stationimage": "https://3.bp.blogspot.com/-fSRniC4DDqA/Xi6gJPfNg-I/AAAAAAAAA_c/hYdfnV_ZGvcmPixBuuKVlBp26hL1FItpgCLcBGAsYHQ/s1600/radiosampada.jpg",
+					"stationLink": "http://streaming.softnep.net:8311/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Ruru FM",
+					"stationDetail": "94.8 MHz | Gulmi",
+					"stationimage": "https://3.bp.blogspot.com/-rz0HPFaLzSo/Xi6gXZGdmwI/AAAAAAAABC4/e_3GbmFyRPY5T_uNI9GxRoK7Nz0zk6qVQCLcBGAsYHQ/s1600/ruruf.jpg",
+					"stationLink": "http://148.66.135.69:9324/;",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Unique FM",
+					"stationDetail": "90 MHz | Gajuri-1, Dhading, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-nx-ufr2G2t8/Xi6ggBD4SgI/AAAAAAAABE0/9B-2iDOWgoUEYSAJwnHLbdRO6ch03oLXACLcBGAsYHQ/s1600/uniquefm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8461",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Narayani FM",
+					"stationDetail": "103.8 MHz | Birgunj, Parsa",
+					"stationimage": "https://2.bp.blogspot.com/-wjwQMmh7fmU/Xi6fUemTjGI/AAAAAAAAAzI/8zuwJeZKXSsHTn0GjrsB_lqufb7e-0I8gCLcBGAsYHQ/s1600/narayanifm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8272",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Kalinchowk FM",
+					"stationDetail": "106.4 MHz | Dolakha",
+					"stationimage": "https://2.bp.blogspot.com/-mXysuS1mMco/Xi6fNhu_vHI/AAAAAAAAAxk/MfcisyDL3ggAHBOrCXikJEDEkXVECSz7wCLcBGAsYHQ/s1600/kalinchowk.jpg",
+					"stationLink": "http://streaming.softnep.net:8109",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Antenna Foundation Nepal",
+					"stationDetail": "Online | Kathmandu, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-UecbSn5f6eU/Xi6e8TQXiQI/AAAAAAAAAtc/HcBFHWQzf_It91NAsrSvAVpykzKrPAX4QCLcBGAsYHQ/s1600/antennafoundation.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8290",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Unity FM",
+					"stationDetail": "92.2 MHz | Amargadhi Municipality 5, Dadeldhura",
+					"stationimage": "https://3.bp.blogspot.com/-ZmUFu_5q8M4/Xi6ggQw4F7I/AAAAAAAABE8/iywp42gYpxgPYDrG7zKLtE_oqWkvQQLQACLcBGAsYHQ/s1600/unityfm.jpg",
+					"stationLink": "http://144.76.110.138:9390/;",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Chapakot",
+					"stationDetail": "Online | Chapakot-4, Syangja, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-rpoDptXH-xI/XmhbJ7wIe2I/AAAAAAAABH8/JW4AhapljbsFm83pLeULmPlTabtTGBr_QCLcBGAsYHQ/s1600/Radio%2BChapakot.png",
+					"stationLink": "http://live.itech.host:2320/stream",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Sandesh",
+					"stationDetail": "Online | Sunwal-12,Nawalparasi, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/--au_II8x0g4/XmhbMJPMsdI/AAAAAAAABIY/wXyCeRFTgfIBiSCA476G79mIFulYenLeACLcBGAsYHQ/s1600/Radio%2BSandesh.png",
+					"stationLink": "http://live.websoftitnepal.com:9933",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Devghat",
+					"stationDetail": "Online | Devghat-5, Tanahu",
+					"stationimage": "https://4.bp.blogspot.com/-3ST8vW7Bfk8/XmhbKkDbHWI/AAAAAAAABIE/iV3F-ECLwUInxvITTUGmEt8ypp1URSeNwCLcBGAsYHQ/s1600/Radio%2BDevghat.png",
+					"stationLink": "http://live.itechnepal.com:1830/stream?mp3",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio KMC",
+					"stationDetail": "Online | Kailali Multiple Campus",
+					"stationimage": "https://2.bp.blogspot.com/-0-XrjnxfskE/Xi6fx2qaaMI/AAAAAAAAA6M/aXj_A5X4w-4NCZekHKlLK9SsTrLrWgXqgCLcBGAsYHQ/s1600/radiokmc.jpg",
+					"stationLink": "http://144.76.110.138:9630/;",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Color FM",
+					"stationDetail": "102.4 MHz | Janakpur, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-kOtsf7Y7ITY/Xi6fDCH5WHI/AAAAAAAAAvA/Ald3UNXOUncJ3oHQG_kWDWb-CdoK-DZlwCLcBGAsYHQ/s1600/colorfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8481",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio kamal",
+					"stationDetail": "Online | Kamalngaupalika, Jhapa",
+					"stationimage": "https://1.bp.blogspot.com/-Blbah2LV8HM/Xi6fwVlpRaI/AAAAAAAAA5w/mexaBx-Yq243arszuCaxqQJXNwvhR6a6ACLcBGAsYHQ/s1600/radiokamal.png",
+					"stationLink": "https://streaming.hamropatro.com:8761",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Hindu Jagaran Radio",
+					"stationDetail": "Online | Kathamandu, Nepal",
+					"stationimage": "https://3.bp.blogspot.com/-vXoapQFLlPY/XmhbJPJ4VHI/AAAAAAAABHw/3N77lRGzbyg01ju_uVrmciRpnWVKvKowgCLcBGAsYHQ/s1600/Hindu%2BJagaran%2BRadio.png",
+					"stationLink": "http://hjn.online.org.np:5678/;stream.mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Nepali Radio Network - NRN",
+					"stationDetail": "Online | Kathmandu, Nepal",
+					"stationimage": "https://1.bp.blogspot.com/-IWHb55JuC4U/Xi6fWNIFvKI/AAAAAAAAAzg/bgobhthh2YYhpYI3Ngk6nPHRYxyFFLi8ACLcBGAsYHQ/s1600/nepaliradionetwork.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8387/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Mero FM",
+					"stationDetail": "93.3 MHz | Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-ihUTCoXD98k/Xi6fR5k8LXI/AAAAAAAAAyg/MCkexKEaWW4IKM1PzSInZy8ns7PAGOkQACLcBGAsYHQ/s1600/merofm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8078/;",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Bandipur FM",
+					"stationDetail": "88.8 MHz | Tanahun",
+					"stationimage": "https://3.bp.blogspot.com/-o6rorykLLAA/Xi6ffMlW5PI/AAAAAAAAA1s/Qg4FPF8SIrcWtRLodEXN7VCdnDTk6k2fwCLcBGAsYHQ/s1600/radiobandipur.png",
+					"stationLink": "http://live.itechnepal.com:8368/stream?type=.mp3",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Planet",
+					"stationDetail": "Online | Shindhupalchwok",
+					"stationimage": "",
+					"stationLink": "http://streaming.softnep.net:8275",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Jajarkot",
+					"stationDetail": "Online | Jajarkot, Khalanga",
+					"stationimage": "https://2.bp.blogspot.com/-yoIHuBXfzA8/Xi6ftRbCWxI/AAAAAAAAA5A/CWzDCVOv5sonVKrMbk725ig_VmkubJaqACLcBGAsYHQ/s1600/radiojajarkot.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8036/",
+					"stationLocation": "province6"
+				},
+				{
+					"stationName": "Radio Thaha Sanchar FM",
+					"stationDetail": "Online | Hetauda-9, Makawanpur",
+					"stationimage": "https://4.bp.blogspot.com/-koXPWliWj2c/Xi6gSNruOcI/AAAAAAAABBs/axbRtzMvx8wydKMl8n6JzGYDeT3jCXQBQCLcBGAsYHQ/s1600/radiothahasancar.jpg",
+					"stationLink": "http://streaming.softnep.net:7025",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Rasuwa",
+					"stationDetail": "102.1 MHz | Rasuwa-5, Dhunche",
+					"stationimage": "https://2.bp.blogspot.com/--_t8gD2cKP0/Xi6gDYl-4UI/AAAAAAAAA-U/BZaFtwengcoQeJ2hc42HzsRfUk6CV6COgCLcBGAsYHQ/s1600/radiorasuwa.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8507",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Tikapur FM",
+					"stationDetail": "101 MHz | Tikapur, Kailali",
+					"stationimage": "https://3.bp.blogspot.com/-AA7ud_FkHeU/Xi6ge7o62HI/AAAAAAAABEk/sXzAe29jUPgL3Rx2OV1xf1Z2wp9sYzhqgCLcBGAsYHQ/s1600/tikapurfm.jpg",
+					"stationLink": "http://live.itech.host:9514/live",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Nuwakot FM",
+					"stationDetail": "106.8 MHz | Bidhur-2, Nuwakot",
+					"stationimage": "https://2.bp.blogspot.com/-_a0C2ORaG_I/Xi6fX9hCAqI/AAAAAAAAAz8/T7hE4-qQrGkOc8JcO5aGz3LERUa1RnregCLcBGAsYHQ/s1600/nuwakotfm.jpg",
+					"stationLink": "http://streaming.softnep.net:8283/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Sarada",
+					"stationDetail": "99.2 MHz | Khalanga, Salyan",
+					"stationimage": "https://2.bp.blogspot.com/-sLUDh7CD1hw/Xi6gLZeFVHI/AAAAAAAAA_4/koVl9o-yx8cASnZq6jQHIi-UiRDEElkUQCLcBGAsYHQ/s1600/radiosarada.jpg",
+					"stationLink": "http://live.itech.host:9443/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Dhorpatan",
+					"stationDetail": "104.1 MHz | Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-padSaZS6axg/Xi6foExmPAI/AAAAAAAAA30/34mX2vvpc2AoD_Rxf-Bh0KfyHcQ_foPkgCLcBGAsYHQ/s1600/radiodhorpatan.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8238",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Bihani",
+					"stationDetail": "97.6 MHz | Neelkantha, Dadhing",
+					"stationimage": "https://2.bp.blogspot.com/-eWns0-FazEk/Xi6fhhPOLjI/AAAAAAAAA2Y/cor5LGkU_EwCS9zAurmqaruyeHr9KzXAwCLcBGAsYHQ/s1600/radiobihani97.6.png",
+					"stationLink": "http://streaming.hamropatro.com:8391",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Indreni FM",
+					"stationDetail": "97.6 MHz | Parsa",
+					"stationimage": "https://3.bp.blogspot.com/-15kwWm8nyHg/Xi6fMaibh_I/AAAAAAAAAxQ/zRDX521vomceFRV0DURhtonHbsVwQ_YEgCLcBGAsYHQ/s1600/indrenifm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8429",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Singhalila FM",
+					"stationDetail": "97.3 MHz | Phidim, Panchthar",
+					"stationimage": "https://1.bp.blogspot.com/-ogbHT-zKpF0/Xi6gcMWt1tI/AAAAAAAABD0/0vJ8HBSEuU0GnmmUKM7NMlr8b2ri-oTugCLcBGAsYHQ/s1600/singhalilafm.png",
+					"stationLink": "http://radio.itech.host:7018/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Times FM",
+					"stationDetail": "90.6 MHz | Chabahil, Kathmandu",
+					"stationimage": "https://3.bp.blogspot.com/-XJxm7bi7i3o/Xi6gfNRcsMI/AAAAAAAABEo/brh9eHABdWIBab3_xdcHMWV0ljmF44f2ACLcBGAsYHQ/s1600/timesfm.jpg",
+					"stationLink": "http://144.76.110.138:9999/;tfmpls.m3u",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Gandaki",
+					"stationDetail": "90.2 MHz | Kaski, Pokhara",
+					"stationimage": "https://4.bp.blogspot.com/-XvIYJq9SKBM/Xi6fpLCYhjI/AAAAAAAAA4E/sUUU5i8s1uk8OgE3SmOqBHlnKZkBfrHDwCLcBGAsYHQ/s1600/radiogandaki.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8401/",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Mero Sathi FM",
+					"stationDetail": "107.2 MHz | Tanahu",
+					"stationimage": "https://4.bp.blogspot.com/-cWX9XhFZK78/Xi6fSe0ThgI/AAAAAAAAAyk/OkywQfSHYkQyDtKfyoe0dxaA7-odIb-IACLcBGAsYHQ/s1600/merosathi.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8571",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Sky FM",
+					"stationDetail": "106.6 MHz | Morang",
+					"stationimage": "https://2.bp.blogspot.com/-N4tO530AyT4/Xi6gc42FoBI/AAAAAAAABD8/Pb13cLVCZjsa5Hlm0NlNlXgXRR6ooUjcgCLcBGAsYHQ/s1600/skyfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8058",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Devdaha",
+					"stationDetail": "106.6 MHz | Rupandehi",
+					"stationimage": "https://4.bp.blogspot.com/-NNcflyH-n9g/Xi6fnOSr3WI/AAAAAAAAA3k/xeWCo5ynw-UfsKHATNSyhIsOogBDTWwDACLcBGAsYHQ/s1600/radiodevdaha.jpg",
+					"stationLink": "http://radio.itech.host:9431/stream",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Kites FM",
+					"stationDetail": "91.8 MHz | Tikapur, Kailali",
+					"stationimage": "https://4.bp.blogspot.com/-29gF8hox83Q/Xi6fP1HcAdI/AAAAAAAAAyA/qwhRzRRBG_c3A84Q2ETlLFRXzyZRIa7bgCLcBGAsYHQ/s1600/kitesfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8605",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Ethnic Voice",
+					"stationDetail": "MHz | Online Radio",
+					"stationimage": "https://2.bp.blogspot.com/-9qddnoPFEV4/Xi6fGllfGII/AAAAAAAAAv0/1lpSk5Xwl5c92GtAehs8PDJcdtiO4uvBwCLcBGAsYHQ/s1600/ethnicvoice.jpg",
+					"stationLink": "http://shoutcast.itechnepal.net:8174/",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Radio Namaste",
+					"stationDetail": "Online | Kailali",
+					"stationimage": "https://1.bp.blogspot.com/-GlREbmvsnlU/Xi6f8Ha02pI/AAAAAAAAA8g/aOUJ2USivQs4_ConFWKKjs5iNVSLoD0aQCLcBGAsYHQ/s1600/radionamaste.jpg",
+					"stationLink": "http://live.itechnepal.com:7014/stream?type=.mp3",
+					"stationLocation": "province7"
+				},
+				{
+					"stationName": "Radio Mangsebung",
+					"stationDetail": "MHz | Online Radio",
+					"stationimage": "https://1.bp.blogspot.com/-nGnPFbLiexI/Xi6f473enhI/AAAAAAAAA7s/-VdRI1qPuGgZ2Q1Slemy55tR91ULUdv5ACLcBGAsYHQ/s1600/radiomangsebung.png",
+					"stationLink": "http://shoutcast.itechnepal.net:8212/",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Radio Jiri",
+					"stationDetail": "94.0 MHz | Jiri",
+					"stationimage": "https://4.bp.blogspot.com/-u8UwX0u7QjY/Xi6fvx3rM1I/AAAAAAAAA5k/AWqNnMbfmNsrsK-qS3bGwRVx5K2IJPGUgCLcBGAsYHQ/s1600/radiojiri.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8727",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Himal",
+					"stationDetail": "Online | Nepalgunj, Banke",
+					"stationimage": "https://3.bp.blogspot.com/-x-7DLulRY8w/Xi6fs4IauoI/AAAAAAAAA40/yMxQ3oGovnAJo3ytfJuaP509_nFyTciSwCLcBGAsYHQ/s1600/radiohimalonline.jpg",
+					"stationLink": "http://radio.itechnepal.net:8080/radiohimal/;",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Kushum",
+					"stationDetail": "90 MHz | Kusma, Parbat",
+					"stationimage": "https://4.bp.blogspot.com/-4SPyjgzlRAY/Xi6fy7tZRyI/AAAAAAAAA6Y/wxZp3xwwg0UgfnZGSBrOTyeNSAmZMeqEQCLcBGAsYHQ/s1600/radiokushum.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8056",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Taplejung",
+					"stationDetail": "Online | Taplejung",
+					"stationimage": "https://4.bp.blogspot.com/-I5Yeqdf6S0Y/Xi6gRenUdnI/AAAAAAAABBc/IIHzjIcI8A4b4O9t2B2GWoToGbGhyIHuACLcBGAsYHQ/s1600/radiotaplejung.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8303",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Myagdi Kali FM",
+					"stationDetail": "88.2 MHz | Beni",
+					"stationimage": "https://4.bp.blogspot.com/-WgI3pWJ_Q6A/Xi6fTrq1_EI/AAAAAAAAAy8/EgHuXs_KnAA4_fmGQPWutJm419fuyHyYgCLcBGAsYHQ/s1600/myagdikali.png",
+					"stationLink": "http://streaming.softnep.net:8141/",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Hapure",
+					"stationDetail": "89.4 MHz | Dang",
+					"stationimage": "https://3.bp.blogspot.com/-jy25iYw-xB0/Xi6frqo8FpI/AAAAAAAAA4g/Xpbn5KxqMF0kjkqNGPSE6QGICLfWCGsbgCLcBGAsYHQ/s1600/radiohapure.png",
+					"stationLink": "http://streaming.softnep.net:8155",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Bulletin",
+					"stationDetail": "Online | Hetauda-5, Makwanpur",
+					"stationimage": "",
+					"stationLink": "http://live.itech.host:2650/stream?mp3",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Sahino",
+					"stationDetail": "Online |",
+					"stationimage": "",
+					"stationLink": "http://streaming.hamropatro.com:8731",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Asal Sathi Radio",
+					"stationDetail": "Online | Pokhara, Kaski",
+					"stationimage": "https://2.bp.blogspot.com/-R5dBXw5-Xys/XmhbIQf_mGI/AAAAAAAABHs/7JK7atSE1h45fZOEv3OUt4mzSCBAacSFACLcBGAsYHQ/s1600/Asal%2BSathi%2BRadio.png",
+					"stationLink": "http://stream.zeno.fm/52brgcg51mzuv",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Sindhu FM",
+					"stationDetail": "102.8 MHz |",
+					"stationimage": "https://1.bp.blogspot.com/-qoveZuE4NDY/Xi6gb9TENKI/AAAAAAAABDw/loX4ktO9tDgmAZnzdvkTdwvY76XqT3_2wCLcBGAsYHQ/s1600/sindhu.jpg",
+					"stationLink": "http://streaming.softnep.net:8291",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "24 Nepali Online Radio",
+					"stationDetail": "Online |",
+					"stationimage": "https://3.bp.blogspot.com/-prh6vRPYRyc/Xi6e5ljR_lI/AAAAAAAAAs4/l4pAp16IP98ANPYiPLZRkvzveObATcmRwCLcBGAsYHQ/s1600/24onlineradioonline.jpg",
+					"stationLink": "https://stream.zenolive.com/v3e78tqm5gruv.aac",
+					"stationLocation": "province"
+				},
+				{
+					"stationName": "Great Plus FM",
+					"stationDetail": "88.5 MHz | Rapti Municipality-5 Bhandara Chitwan, Nepal",
+					"stationimage": "https://4.bp.blogspot.com/-4rJ8CCKYpf0/Xi6fIjaOxqI/AAAAAAAAAwU/kkQtaqN34QU5FxfWGROysbpDNlQ-LLa4ACLcBGAsYHQ/s1600/greatplus.jpg",
+					"stationLink": "http://streaming.softnep.net:8255",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Resunga",
+					"stationDetail": "Online | Tamghas-1 Gulmi",
+					"stationimage": "https://3.bp.blogspot.com/-FjrvMl3nCjE/XmhbLQSTIiI/AAAAAAAABIM/sn8U9WlkzgQovJyvuSTPbdRBCrDB9q-jQCLcBGAsYHQ/s1600/Radio%2BResunga.png",
+					"stationLink": "http://streaming.hamropatro.com:8046",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Pakhribas FM",
+					"stationDetail": "104 MHz | Sankhuwasabha",
+					"stationimage": "https://4.bp.blogspot.com/-Z4oXEHAFi94/Xi6fYX0smMI/AAAAAAAAA0E/JFC4COPRETs-5Dyx5XH5mJZr3bQ3n2UCQCLcBGAsYHQ/s1600/pakhribasfm.png",
+					"stationLink": "http://live.itech.host:7046/stream",
+					"stationLocation": "province1"
+				},
+				{
+					"stationName": "Big FM",
+					"stationDetail": "Online | Kaski, Pokhara",
+					"stationimage": "https://4.bp.blogspot.com/-LXOOkPDg2uY/Xi6e_Rv9fKI/AAAAAAAAAuI/o9oV-SbqWa8nt_5tGn--Rjeu-jkI0zxOACLcBGAsYHQ/s1600/bigfm.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8595",
+					"stationLocation": "province4"
+				},
+				{
+					"stationName": "Radio Samagra",
+					"stationDetail": "107.0 MHz | Lahan-6, Siraha",
+					"stationimage": "https://1.bp.blogspot.com/-JkROK_NE_r4/Xi6gPdI4yAI/AAAAAAAABA8/ZkqYNCyHww4w_MBYZ10Z_4uvtmPsf7g1gCLcBGAsYHQ/s1600/radiosmagra.jpg",
+					"stationLink": "http://live.itechnepal.com:9389/stream?type=.mp3",
+					"stationLocation": "province2"
+				},
+				{
+					"stationName": "Radio Baglung FM",
+					"stationDetail": "96.4 MHz | Baglung",
+					"stationimage": "https://2.bp.blogspot.com/-W2rSLjZXulo/Xi6feUcHu8I/AAAAAAAAA1k/1_lthR53GFYkeqH6RLeTJ3lLyYdLbLf0wCLcBGAsYHQ/s1600/radiobaglung.jpg",
+					"stationLink": "http://streaming.hamropatro.com:8317",
+					"stationLocation": "province5"
+				},
+				{
+					"stationName": "Radio Mero Khabar",
+					"stationDetail": "Online | Kathmandu",
+					"stationimage": "https://2.bp.blogspot.com/-fIiyHJhk6kQ/Xi6f5mMKVwI/AAAAAAAAA74/Yb7-GDkezokNKYc2zk6F4dFxEEUUkGr_QCLcBGAsYHQ/s1600/radiomerokhabar.jpg",
+					"stationLink": "http://shoutcast.itechnepal.net:8160/",
+					"stationLocation": "province3"
+				},
+				{
+					"stationName": "Radio Rhythm",
+					"stationDetail": "Online | Morang",
+					"stationimage": "https://2.bp.blogspot.com/-EdcQRvbdGU4/XmhbMN0WwVI/AAAAAAAABIU/oeI_LuPpOHIegTRNTyaDzAWPvunvyTUUACLcBGAsYHQ/s1600/Radio%2BRhythm.png",
+					"stationLink": "http://live.itech.host:2000/stream",
+					"stationLocation": "province1"
+				}
+			]
+		}
+	]
+}

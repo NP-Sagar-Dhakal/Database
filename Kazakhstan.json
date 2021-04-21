@@ -1,0 +1,337 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Aktobe Radio 101.4",
+					"stationLink": "http://85.29.144.124:8000/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Aktobe-Radio-101.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alau",
+					"stationLink": "http://ne.fm/mp3/alau",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Alau.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Astana FM",
+					"stationLink": "http://ne.fm/mp3/astana",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Astana-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Avtoradio Kazakhstan",
+					"stationLink": "http://95.56.234.40:8080/AVTORADIO_256",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Avtoradio-Kazakhstan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BulBul",
+					"stationLink": "http://stream.laut.fm/radiobulbul",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/BulBul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Da Music Radio",
+					"stationLink": "http://damusic.info:8000/damusic?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Da-Music-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Da Music Techno",
+					"stationLink": "http://91.239.65.100:8002/techno?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Da-Music-Techno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Da Music Trance",
+					"stationLink": "http://91.239.65.100:8001/trance?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Da-Music-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy FM 102.2",
+					"stationLink": "http://89.219.34.117:8008/NEWENERGY_aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Energy-FM-102.2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gakku FM",
+					"stationLink": "https://stream.gakku.tv/radio/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Gakku-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Geometry FM",
+					"stationLink": "https://geometryfm.ru/player.php",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/geometry-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kaz Radio",
+					"stationLink": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Kaz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kazakh Radio",
+					"stationLink": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Kazakh-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Love Radio KZ",
+					"stationLink": "http://stream2.n340.com/12_love_28_reg_23737?type=.aac&UstationDetail=AC26841392938F60AC5FB1534F8A95A5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Love-Radio-KZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NE FM HIT",
+					"stationLink": "http://ps.ne.fm/HIT",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/NE-FM-HIT.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NE FM LOUNGE",
+					"stationLink": "http://ne.fm/mp3/LOUNGE",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/NE-FM-LOUNGE.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NE FM Rock",
+					"stationLink": "http://ps.ne.fm/ROCK_256k",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/NE-FM-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NE FM Urban",
+					"stationLink": "http://ne.fm/mp3/URBAN",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/NE-FM-Urban.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Palmera Blanca Radio Ambient Stream",
+					"stationLink": "https://ambient.palmerablanca.com/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Palmera-Blanca-Radio-Ambient-stream.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Palmera Blanca Radio Indie Stream",
+					"stationLink": "https://indie.palmerablanca.com/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Palmera-Blanca-Radio-Indie-Stream.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Palmera Blanca Radio Latino Stream",
+					"stationLink": "https://latino.palmerablanca.com/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Palmera-Blanca-Radio-Latino-Stream.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Palmera Blanca Radio Main Stream",
+					"stationLink": "https://main.palmerablanca.com/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Palmera-Blanca-Radio-Main-Stream.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 102 KZ",
+					"stationLink": "http://fm.kiwi.kz/radio102",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-102-KZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1945",
+					"stationLink": "http://78.46.66.184:1945/256",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-1945.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 7 Kz",
+					"stationLink": "http://listen4.myradio24.com:9000/8334?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-7-Kz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aksai",
+					"stationLink": "http://51.158.21.33:8000/radiohay",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-Aksai.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alau",
+					"stationLink": "http://109.248.236.142:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Radio-Alau.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ice",
+					"stationLink": "http://onair.radioice.ru:8000/mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Ice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Klab FM",
+					"stationLink": "http://s3.radioboss.fm:8015/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Klab-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio KN",
+					"stationLink": "http://radiokn.ddns.net:7000/efir",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-KN.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nostalgie Taldykorgan",
+					"stationLink": "http://live.radionostalgie.kz:8777/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Nostalgie-Taldykorgan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio NS",
+					"stationLink": "http://89.106.235.181/radions",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Radio-NS.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio NS Lounge",
+					"stationLink": "http://ne.fm/mp3/radions-lounge",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-NS-Lounge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio NS Russian Heath",
+					"stationLink": "http://ne.fm/mp3/radions-russian",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-NS-Russian-Heath.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rauan 104 FM",
+					"stationLink": "http://aska.ru-hoster.com:8025/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Rauan-104-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sana 103.3",
+					"stationLink": "http://46.105.180.202:8021/stream.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Sana-103.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tekc",
+					"stationLink": "http://live26.kiwi.kz:8000/tekc?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Radio-Tekc.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Teos",
+					"stationLink": "http://radioteos.ru:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Teos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tex",
+					"stationLink": "http://www.texfm.ro:8000/rnbhiphop",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-Tex.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro FM 70s",
+					"stationLink": "http://retro70.hostingradio.ru:8025/retro70-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Retro-FM-70s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro FM 80s",
+					"stationLink": "http://retro80.hostingradio.ru:8026/retro80-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Retro-FM-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro FM 90s",
+					"stationLink": "http://retro90.hostingradio.ru:8027/retro90-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Retro-FM-90s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shalkar FM",
+					"stationLink": "http://onradio.kaztrk.kz:8000/shalkar",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Shalkar-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TEKS Radio",
+					"stationLink": "http://ne.fm/mp3/teks",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/TEKS-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tengri FM",
+					"stationLink": "http://91.201.214.229:8000/tengrifm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Tengri-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TMK Tatar Radio",
+					"stationLink": "http://stream7.radiostyle.ru:8007/radio-tmk?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/TMK-Tatar-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Umax FM",
+					"stationLink": "http://ne.fm/mp3/kazradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Umax-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

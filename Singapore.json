@@ -1,0 +1,428 @@
+{
+  "NepalNews": [
+    {
+      "NepaliRadios": [
+        {
+          "stationName": "18.9 RSFM Singapore",
+          "stationLink": "https://antares.dribbcast.com/proxy/rsfmsg?mp=/stream&1614071204514",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2021/02/18.9-rsfm-singapore.jpeg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "5@5 Radio",
+          "stationLink": "http://stream.radio.co/s488489799/low",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2017/09/5@5-Radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "88.3JIA",
+          "stationLink": "https://21423.live.streamtheworld.com/883JIAAAC.aac?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTk4MTYwNTc1LCJ0ZC1yZWciOmZhbHNlfQ.ozCV_U5-GOeG7Hf0c32JSJ6qloyqIX2t6S6osAqk2X8",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/11/88.3jia.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "938 Now",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/02/938-Now.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "938LIVE",
+          "stationLink": "https://22393.live.streamtheworld.com/938NOW_PREM.aac",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/938LIVE.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "96.3 FM",
+          "stationLink": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/01/96.3-fm.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "973FM",
+          "stationLink": "http://c16.radioboss.fm:8115/stream",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2016/11/973FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "987FM",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/02/987FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Alt Project Radio 102.3",
+          "stationLink": "http://c6icy.prod.playlists.ihrhls.com/7189_icy",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2017/07/Alt-Project-Radio-102.3.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "AXR Asia Expat Radio",
+          "stationLink": "http://singaporestreammp3.axr.online",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2017/11/AXR-Asia-Expat-Radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Barnone Radio",
+          "stationLink": "http://sg2.fastcast4u.com/proxy/barnoneradio?mp=/1",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2019/03/barnone-radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Capital 95.8 FM",
+          "stationLink": "https://22393.live.streamtheworld.com/CAPITAL958FM_PREM.aac",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2011/06/Capital-95.8-FM.png",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Choco Radio SG",
+          "stationLink": "http://listen.radionomy.com/chocoradiosingapore",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2017/04/Choco-Radio-SG.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Class 95 FM",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2011/06/class-95-fm.jpeg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Club Play",
+          "stationLink": "mms://a1109.l11459635108.c114596.g.lm.akamaistream.net/D/1109/114596/v0001/reflector:35108",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/Club-Play.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Clubby Radio",
+          "stationLink": "http://stream.radiojar.com/kk0afqvhv6duv",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/04/Clubby-Radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Desa FM",
+          "stationLink": "http://192.198.106.163:8080/;",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2011/09/desa-fm-1.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Desi Dance",
+          "stationLink": "http://usa6.fastcast4u.com:5029/autodj",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/11/Desi-Dance1.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "DesiNetworks",
+          "stationLink": "http://192.99.8.192:3224/;",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/DesiNetworks.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "DjMixes99 Radeo",
+          "stationLink": "https://au1.fastcast4u.com/proxy/xzyegiqs?mp=/1",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/10/djmixes99-radeo.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Edm House Radio",
+          "stationLink": "https://eu1.fastcast4u.com/proxy/edmhouseradio?mp=/1",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2019/05/edm-house-radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "EDMDroid FM Asia",
+          "stationLink": "http://198.49.66.136:8000",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2015/01/EDMDroid-FM-Asia.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Gold 90.5 FM",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/Gold-90.5-FM-1.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Hitz FM Singapore",
+          "stationLink": "http://38.107.243.226:8920/;",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2017/11/Hitz-FM-Singapore.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Hot FM 91.3",
+          "stationLink": "https://22283.live.streamtheworld.com/ONE_FM_913_SC",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/11/Hot-FM-91.3.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Kinternational Radio",
+          "stationLink": "http://infinite.kih.asia:1234",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/kinternational-radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Kiss 92",
+          "stationLink": "http://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/11/Kiss-92.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Kopitiam FM",
+          "stationLink": "https://freeuk11.listen2myradio.com/live.mp3?typeportmount=s2_14380_stream_46188923",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2021/01/kopitiam-fm-1.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Love 97.2FM",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2013/11/Love-97.2FM-1.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Media Mixx Music Radio",
+          "stationLink": "http://albireo.shoutca.st:9759/stream",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2019/11/media-mixx-music-radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Mix Music Radio",
+          "stationLink": "https://duke.radioca.st/stream",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/08/mix-music-radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "MME Radio",
+          "stationLink": "https://mpc.mediacp.eu/stream/mixxmusic",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2021/02/mme-radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Money FM 89.3",
+          "stationLink": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/01/Money-FM-89.3.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Mukai Radio",
+          "stationLink": "https://s4.radio.co/s2f4e526b5/listen",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2020/06/mukai-radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "MyHitMusic FM",
+          "stationLink": "http://stream.myhitmusic.fm/128k_stream.mp3?type=.mp3",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/07/MyHitMusic-FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Naga FM",
+          "stationLink": "http://songs.nagafm.com:8006/stream/1/",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/12/Naga-FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Oli 96.8 FM",
+          "stationLink": "https://22393.live.streamtheworld.com/OLI968FM_PREM.aac",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/11/Oli-96.8-FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Oli FM 96.8",
+          "stationLink": "https://22393.live.streamtheworld.com/OLI968FMAAC.aac?dist=radiosingapore",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2013/12/Oli-FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "One FM 91.3",
+          "stationLink": "http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2015/01/One-FM-91.3.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Only House Music",
+          "stationLink": "https://eu1.fastcast4u.com/proxy/onlyhousemusic?mp=/1",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2019/04/only-house-music.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Orion Station",
+          "stationLink": "http://188.165.192.5:8528/;",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2020/02/orion-station.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Ottoman Room",
+          "stationLink": "http://musicinxite.com:8132/stream",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2017/11/Ottoman-Room.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Pop Rock Dance Radio",
+          "stationLink": "https://sg1.fastcast4u.com/proxy/poprockdanceradio?mp=/1",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2019/11/pop-rock-dance-radio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Power 98 Love Songs",
+          "stationLink": "https://18443.live.streamtheworld.com/POWER98_LOVESONGS_SC",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/power-98-love-songs.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Power 98 RAW",
+          "stationLink": "https://14073.live.streamtheworld.com/POWER_98_RAW_S01.mp3",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2021/02/power-98-raw.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Power 98 Retro",
+          "stationLink": "https://22283.live.streamtheworld.com/POWER_98_HITS_S01_SC",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2021/02/power-98-retro.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Radio Chutney",
+          "stationLink": "https://streamer.radio.co/sf30c61bda/listen",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2020/10/radio-chutney.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Radio Melody Singapore",
+          "stationLink": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/Radio-Melody.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "RadioChat Indie Digital",
+          "stationLink": "http://c6icy.prod.playlists.ihrhls.com/7189_icy",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/03/RadioChat-Indie-Digital.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "RadioChat Singer Songwriter Digital",
+          "stationLink": "http://c1icy.prod.playlists.ihrhls.com/6698_icy",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/03/RadioChat-Singer-Songwriter-Digital.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "RadioChat Y2K Digital",
+          "stationLink": "http://c1icy.prod.playlists.ihrhls.com/6850_icy",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2018/03/RadioChat-Y2K-Digital.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Ria 89.7FM",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/Ria-89.7FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Singapore 98.7 FM",
+          "stationLink": "https://22253.live.streamtheworld.com/987FMAAC.aac?dist=radiosingapore",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2011/06/singapore-98.7-fm.jpeg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Symphony 92.4 FM",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2013/12/symphony-92.4-fm-1.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "The Live Radio",
+          "stationLink": "http://s3.viastreaming.net:8530/;",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2013/07/the-live-radio-1.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "UFM 100.3",
+          "stationLink": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/11/UFM-100.3.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Warna 94.2 FM",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/Warna-94.2FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "XFM 96.3",
+          "stationLink": "https://19183.live.streamtheworld.com/CLASS95_PREM.aac",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2014/05/96.3-XFM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "XRadio Live",
+          "stationLink": "http://xradio.zone:9420/;",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2020/08/xradio.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        },
+        {
+          "stationName": "Yes 93.3 FM",
+          "stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac?dist=liveonlineradio",
+          "stationimage": "https://liveonlineradio.net/wp-content/uploads/2011/06/Yes-93.3-FM.jpg",
+          "stationDetail": "",
+          "stationLocation": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1926 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "90.9 Jazzy",
+					"stationLink": "http://94.199.183.186/jazzy.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/90.9-jazzy-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Aktiv Radio",
+					"stationLink": "http://aktivradio.hu:8000/aktiv.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/aktiv-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All In Classic",
+					"stationLink": "http://adas.allinparty.hu:8430/hq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/All-In-Classic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All In Music Radio",
+					"stationLink": "http://s02.diazol.hu:10240/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/all-in-music-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All In Party Radio",
+					"stationLink": "http://adas3.allinparty.hu:8430/hq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/All-In-Party-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alpha Radio 88.9",
+					"stationLink": "http://188.142.225.205:8760/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Alpha-Radio-88.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Amadeus Radio 102.4",
+					"stationLink": "http://87.229.73.156:8004/stream192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Amadeus-Radio-102.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Apocalypto FM",
+					"stationLink": "http://stream3.virtualisan.net:7030/mobile",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Apocalypto-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Aqua Radio",
+					"stationLink": "http://hosting.42netmedia.com:13070/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Aqua-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Argentine Tango Radio",
+					"stationLink": "http://listen.argentinetangoradio.com",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Argentine-Tango-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bajai Radio",
+					"stationLink": "http://92.61.114.195:9950",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Bajai-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Balaton Radio",
+					"stationLink": "http://wssgd.gdsinfo.com:8200/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Balaton-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bartok Radio",
+					"stationLink": "http://mr-stream.mediaconnect.hu/4741/mr3.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Bartok-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Beat Bird FM Plus",
+					"stationLink": "http://94.23.169.250:2020/beat_live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Beat-Bird-FM-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Best FM 104.6",
+					"stationLink": "http://stream.webthings.hu:8000/fm95-x-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Best-FM-104.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BitHang-Yoo Radio",
+					"stationLink": "http://stream.diazol.hu:35160/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/bithang-yoo-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bravo Hits Radio",
+					"stationLink": "http://listen.radionomy.com/BravoHitsRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Bravo-Hits-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Budaors Radio",
+					"stationLink": "http://109.74.55.54:8000/budaorsradio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Budaors-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Callisto Radio",
+					"stationLink": "http://ns.newfruits.org:8086/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/callisto-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CEU Medieval Radio",
+					"stationLink": "http://37.221.209.189:9920/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/CEU-Medieval-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Citromix Radio",
+					"stationLink": "http://78.31.65.20:8300/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Citromix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "City Radio Hungary",
+					"stationLink": "http://stream.zenolive.com/n4ys5uyffseuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/city-radio-hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Hang Radio",
+					"stationLink": "http://79.172.212.230:8000/ch",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Civil-Hang-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio",
+					"stationLink": "http://civilradio.hu:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/civil-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc",
+					"stationLink": "http://cirmi.org:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Alternativ 2000s",
+					"stationLink": "http://cirmi.org:8000/alter2000s",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-alternativ-2000s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Alternativ 80s90s",
+					"stationLink": "http://cirmi.org:8000/alter80s90s",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-alternativ-80s90s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Classic Goa Trance",
+					"stationLink": "http://cirmi.org:8000/goa",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-classic-goa-trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Dark wave",
+					"stationLink": "http://cirmi.org:8000/dark",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-dark-wave.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Folklor",
+					"stationLink": "http://cirmi.org:8000/folk",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-folklor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Hardcore",
+					"stationLink": "http://cirmi.org:8000/hard",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-hardcore.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Indie",
+					"stationLink": "http://cirmi.org:8000/indie",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-indie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Jazz",
+					"stationLink": "http://cirmi.org:8000/jazz?1546963234084",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - New Wave",
+					"stationLink": "http://cirmi.org:8000/newwave",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-new-wave.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Punk",
+					"stationLink": "http://cirmi.org:8000/punk",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-punk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Ska",
+					"stationLink": "http://cirmi.org:8000/ska",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-ska.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Civil Radio Miskolc - Synth wave",
+					"stationLink": "http://cirmi.org:8000/synth",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/civil-radio-miskolc-synth-wave.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Class FM",
+					"stationLink": "http://radio.zamarproductions.com:5030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/class-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cool FM 107.3",
+					"stationLink": "http://mediagw.e-tiger.net:8000/stream/coolfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/cool-fm-107.3.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Crazy FM 88.7",
+					"stationLink": "http://crazyfm.hu:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/crazy-fm-88.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Credo Radio",
+					"stationLink": "http://hosting2.42netmedia.com:10100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Credo-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Csaba Radio",
+					"stationLink": "http://online.csabaradio.hu:8000/64kbps",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/csaba-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Csillagpont Radio",
+					"stationLink": "http://streamer1.borsodweb.hu:48000/csillagpont",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Csillagpont-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Click Family",
+					"stationLink": "http://198.245.61.161:8056/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/dance-click-family.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Wave",
+					"stationLink": "http://dancewave.online/dance.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Dance-Wave.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Danko Radio",
+					"stationLink": "http://mr-stream.mediaconnect.hu/4748/mr7.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/danko-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Debrecen Radio",
+					"stationLink": "http://91.82.85.44:8080/debrecenradiofm95",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Debrecen-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Diablo Radio",
+					"stationLink": "http://live.diabloradio.net:4000/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Diablo-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Discos Hits Radio",
+					"stationLink": "http://212.108.220.147:1039/stream.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Discos-Hits-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Duna World Radio",
+					"stationLink": "http://stream002.radio.hu/mr8.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Duna-World-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Enying FM",
+					"stationLink": "http://enyingfm.com:8080/efm_high",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/enying-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eper Radio",
+					"stationLink": "http://radio.elte.hu:8000/eper2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Eper-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Erdely Radio",
+					"stationLink": "http://listen.radionomy.com/jamendolounge",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/erdely-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Euro Five Radio",
+					"stationLink": "http://94.23.169.250:4010/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Euro-Five-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eurodance Clasik 90 Only",
+					"stationLink": "http://s2.free-shoutcast.com:18444/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/eurodance-clasik-90-only.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ez az a nap Rádió",
+					"stationLink": "https://www.radioking.com/play/ez-az-a-nap-radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/ez-az-a-nap-rádió.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fehervar Radio",
+					"stationLink": "http://81.93.193.35:8945/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Fehervar-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fezen Radio",
+					"stationLink": "http://fezenradio.ddns.net:10290/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/fezen-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM 7 Hungary",
+					"stationLink": "http://hosting.42netmedia.com:10070/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/FM-7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM1 Radio",
+					"stationLink": "http://fm1radio.ubinet.hu:6742",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/FM1-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Folk Radio",
+					"stationLink": "http://stream1.virtualisan.net/6140/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/folk-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Forras Radio",
+					"stationLink": "http://91.82.85.44:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Forras-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fortuna Radio",
+					"stationLink": "http://streamer.impressive.hu:8000/fortuna_paks_live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Fortuna-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fortuna Radio Bonyhad",
+					"stationLink": "http://streamer.impressive.hu:8000/fortuna_paks_live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/fortuna-radio-paks-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fortuna Radio Cece",
+					"stationLink": "http://streamer.impressive.hu:8000/fortuna_paks_live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/fortuna-radio-cece.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fortuna Radio Paks",
+					"stationLink": "http://streamer.impressive.hu:8000/fortuna_paks_live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/fortuna-radio-paks-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fresh Music Radio",
+					"stationLink": "http://us4.internet-radio.com:8077/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/fresh-music-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FreshFM Hungary",
+					"stationLink": "http://137.74.85.85:8000/freshfm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/FreshFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Friss Radio",
+					"stationLink": "http://89.37.193.62:8000/frissfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Friss-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Frisss FM",
+					"stationLink": "http://77.221.39.23:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Frisss-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gazdasagi Radio",
+					"stationLink": "http://radio.nordtelekom.hu:8000/gazdasagiradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/gazdasagi-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gong Radio",
+					"stationLink": "http://85.90.162.35:8000/gong-fm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/gong-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gyor Plusz",
+					"stationLink": "http://hosting.42netmedia.com:9620",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Gyor-Plusz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gyor Radio",
+					"stationLink": "http://hosting.42netmedia.com:9620/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Gyor-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hard Rock Radio Hungary",
+					"stationLink": "http://stream.hardrockradio.hu:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Hard-Rock-Radio-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Helikon Radio",
+					"stationLink": "http://217.113.59.10:8010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/helikon-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hello Radio Hungary",
+					"stationLink": "http://srv.hellomedia.hu:8000/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Hello-Radio-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hobby Radio",
+					"stationLink": "http://www.hobbyradio.hu:8000/hobbyradio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/hobby-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "iGaming Radio",
+					"stationLink": "http://85.25.237.157:8042/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/iGaming-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Info Radio 95.8",
+					"stationLink": "http://stream.infostart.hu/lejatszo/index.html",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/info-radio-95.8.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Italo Disco Hungary",
+					"stationLink": "http://s2.free-shoutcast.com:18392/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Italo-Disco-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazz Radio",
+					"stationLink": "http://194.38.105.21:8000/jazzradio_192.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/jazz-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazzy Fm",
+					"stationLink": "http://94.199.183.186/jazzy.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/90.9-jazzy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazzy Groove",
+					"stationLink": "http://94.199.183.186:8000/jazzy-groove.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Jazzy-Groove.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazzy Soul",
+					"stationLink": "http://94.199.183.186:8000/jazzy-soul.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Jazzy-Soul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Juventus Radio",
+					"stationLink": "http://92.61.114.159:7812/slagerfm64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/juventus-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Karakter",
+					"stationLink": "http://167.86.107.72:8012/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/karakter-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Karc FM",
+					"stationLink": "http://92.61.114.191:13100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Karc-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KEK DUNA HOT",
+					"stationLink": "http://gyor2.kekduna.hu:8006/;stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/KEK-DUNA-HOT.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kek Duna Radio",
+					"stationLink": "http://webradio2.ev2.hu:8006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/kek-duna-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kerepes Radio",
+					"stationLink": "http://91.121.82.33:7026/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/kerepes-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Klasszik Radio",
+					"stationLink": "http://online.klasszikradio.hu/klasszik.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/klasszik-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Klub Radio",
+					"stationLink": "http://stream.klubradio.hu:8080/bpstream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/klub-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kontakt Radio 87.6 FM",
+					"stationLink": "http://37.221.209.146:7000/live.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Kontakt-Radio-87.6-FM-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Korona Radio",
+					"stationLink": "http://82.141.165.6:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Korona-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kult FM Hungary",
+					"stationLink": "http://kult.fm:1620",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Kult-FM-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lakihegy Radio",
+					"stationLink": "http://stream.composeit.hu:8300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Lakihegy-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lakodalmas Radio",
+					"stationLink": "http://radio.ilovepecs.hu:8200/ilp.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Lakodalmas-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "LanchstationDetail Radio",
+					"stationLink": "http://91.82.85.44:9004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/lanchstationDetail-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Laza Radio",
+					"stationLink": "http://stream.lazaradio.com/techno.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/laza-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Laza Radio Drum And Bass",
+					"stationLink": "http://stream.lazaradio.com/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Laza-Radio-Drum-And-Bass.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Laza Radio Mulatos",
+					"stationLink": "http://stream.lazaradio.com/mulatos.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/laza-radio-mulatos-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Laza Radio Retro",
+					"stationLink": "http://stream.lazaradio.com/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Laza-Radio-Retro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Leo Music Radio",
+					"stationLink": "http://stream11.shoutcastsolutions.com:8017/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Leo-Music-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lepes Radio",
+					"stationLink": "http://stream.lepesradio.hu:8000/live128kbps.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Lepes-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lounge Radio Hungary",
+					"stationLink": "http://188.227.230.62:9976",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Lounge-Radio-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Luxfunk Blackmix",
+					"stationLink": "http://188.165.11.30:5000/luxfunkblackmix.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Luxfunk-Blackmix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Luxfunk Dance",
+					"stationLink": "http://188.165.11.30:5000/luxfunkdance.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Luxfunk-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Luxfunk Radio",
+					"stationLink": "http://188.165.11.30:5000/luxfunkradio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/Luxfunk-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magyar Evangeliumi Radio",
+					"stationLink": "https://stream.radio.co/s3fd8d173f/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/magyar-evangeliumi-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Maxi Radio",
+					"stationLink": "http://stream3.virtualisan.net:7280/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Maxi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Media Kapu",
+					"stationLink": "http://81.93.193.14:8002",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Media-Kapu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega Dance Radio",
+					"stationLink": "http://188.134.10.11:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mega-dance-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega Dance Radio",
+					"stationLink": "http://188.134.10.11:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/mega-dance-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega Hits Radio",
+					"stationLink": "http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/mega-hits-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega Radio 98.4",
+					"stationLink": "http://213.157.112.64:8984/megaradio.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Mega-Radio-98.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Megapiac Radio",
+					"stationLink": "http://stream3.virtualpro.hu:7172",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Megapiac-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mez Radio",
+					"stationLink": "http://79.172.209.223:9204/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Mez-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix FM Radio",
+					"stationLink": "http://systream.hu:8000/mixfm?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mix-fm-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MNO Radio Blues",
+					"stationLink": "http://91.82.85.44:9004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/MNO-Radio-Blues.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Momo Radio",
+					"stationLink": "http://37.221.209.146:6550/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Momo-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR1 Kossuth Radio",
+					"stationLink": "http://mr-stream.mediaconnect.hu/4736/mr1.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mr1-kossuth-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR2 Petofi Radio",
+					"stationLink": "http://mr-stream.mediaconnect.hu/4738/mr2.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mr2-petofi-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR3 Bartok Radio",
+					"stationLink": "http://mr-stream.mediaconnect.hu/4741/mr3.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mr3-bartok-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR5 Parlamanti Radio",
+					"stationLink": "http://stream001.radio.hu:8080/mr5.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/MR5-Parlamanti-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR6 Radio Debrecen",
+					"stationLink": "http://stream002.radio.hu:80/mr6d.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mr6-radio-debrecen-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR6 Radio Gyor",
+					"stationLink": "http://stream002.radio.hu:80/mr6g.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mr6-radio-gyor-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR6 Radio Miskolc",
+					"stationLink": "http://stream002.radio.hu:80/mr6m.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mr6-radio-miskolc-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR6 Radio Pecs",
+					"stationLink": "http://stream002.radio.hu:80/mr6p.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mr6-radio-pecs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR6 Radio Szeged",
+					"stationLink": "http://stream002.radio.hu:80/mr6s.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/mr6-radio-szeged-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MR7 Dalok Es Dallamok",
+					"stationLink": "http://mr-stream.mediaconnect.hu/4748/mr7.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/MR7-Dalok-es-Dallamok.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Music FM 89.5",
+					"stationLink": "http://stream.radioszerver.com/musicfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Music-FM-89.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mustar FM",
+					"stationLink": "http://193.138.125.14:8500/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Mustar-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mustar Haz Fm",
+					"stationLink": "http://193.138.125.14:8500/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Mustar-Haz-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Muzsikus Radio",
+					"stationLink": "http://212.40.96.44:8011",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Muzsikus-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "N Joy FM Magyar Zene",
+					"stationLink": "http://50.7.173.162:8016/njoyfmmagyar",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/n-joy-fm-magyar-zene.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "N Joy FM Retro",
+					"stationLink": "http://50.7.173.162:8017/njoyfmretro",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/n-joy-fm-retro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nap Radio",
+					"stationLink": "http://napradio.hu:8000/napradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/nap-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nóta FM Hungary",
+					"stationLink": "http://live.notafm.hu:8000/notafm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/nóta-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nota Radio",
+					"stationLink": "http://212.237.6.97:8020/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Nota-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NST Music FM",
+					"stationLink": "http://80.211.203.79:8010/nstmusicfm?type=mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/nst-music-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Open Air Radio",
+					"stationLink": "http://79.172.209.223:9200/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/open-air-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Opera Radio Budapest",
+					"stationLink": "http://musorcsere.hu:8130/;stream.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Opera-Radio-Budapest.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pannon Radio",
+					"stationLink": "http://breddstream.unrealhosting.hu:4120/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Pannon-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pannonia Radio",
+					"stationLink": "http://stream.diazol.hu:35200/stream?1528785659231",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Pannonia-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Papageno Radio",
+					"stationLink": "http://onair7.xdevel.com:7102/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/papageno-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Part FM",
+					"stationLink": "http://87.229.53.9:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Part-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pecs Radio",
+					"stationLink": "http://stream.diazol.hu:35200/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Pecs-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Periszkop Radio",
+					"stationLink": "http://sztrim.periszkopradio.hu:8088/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Periszkop-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Picur Radio",
+					"stationLink": "http://188.213.162.137:8030",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Picur-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pont Radio",
+					"stationLink": "http://fixip.actor.hu:7039/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Pont-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Poptarisznya HU",
+					"stationLink": "http://adas.poptarisznya.hu:8200/mobil.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Poptarisznya-HU.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Prog Beat Radio",
+					"stationLink": "http://asvanyviz.ddns.net:9220/pb_hi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Prog-Beat-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rabakoz Radio",
+					"stationLink": "http://82.141.138.201:8099/radiorabakozq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Rabakoz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 hu",
+					"stationLink": "http://91.82.85.44:9004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-1-hu-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Szeged",
+					"stationLink": "http://adas.radio1szeged.hu:8441/radio1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-1-Szeged.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 24 Dunaujvaros",
+					"stationLink": "http://37.221.209.189:7202/hq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-24-dunaujvaros-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 451",
+					"stationLink": "http://91.82.85.44:9006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-451.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 7 FM",
+					"stationLink": "http://radio7stream.wwdh.hu:8000/test.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-7-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 88",
+					"stationLink": "http://stream.radio88.hu:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-88-1.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 88 Club",
+					"stationLink": "http://stream2.radio88.hu:8400/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-88-club-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 88 Retro",
+					"stationLink": "http://stream1.radio88.hu:8300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-88-retro-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 88 Top",
+					"stationLink": "http://stream3.radio88.hu:8500/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-88-top-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 90 Hajdukovoa",
+					"stationLink": "http://streaming.live365.com/b0555_128mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-90-hajdukovoa.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antritt",
+					"stationLink": "http://stream.radioantritt.hu:8000/Antritt?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Antritt.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Budapest",
+					"stationLink": "http://stream.radio1.hu/high.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Budapest.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D GRAMOFON",
+					"stationLink": "http://radio-d.hu/s/gramofon/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-GRAMOFON.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D JAZZ",
+					"stationLink": "http://radio-d.hu/s/jazz/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-JAZZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D KLASSZIKUSOK",
+					"stationLink": "http://radio-d.hu/s/klasszikusok/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-KLASSZIKUSOK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D KONNYUZENE",
+					"stationLink": "http://radio-d.hu/s/konnyuzene/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-KONNYUZENE.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D MADE IN HUNGARY",
+					"stationLink": "http://ample-zeno-13.radiojar.com/3352ysfm9neuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-MADE-IN-HUNGARY.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D MAGYAR NOTA",
+					"stationLink": "http://radio-d.hu/s/magyar-nota/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-MAGYAR-NOTA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D MUSICAL",
+					"stationLink": "http://radio-d.hu/s/musical/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-MUSICAL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D OPERA",
+					"stationLink": "http://radio-d.hu/s/opera/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-OPERA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D OPERETT",
+					"stationLink": "http://radio-d.hu/s/operett/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-OPERETT.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D Pop Rock",
+					"stationLink": "http://radio-d.hu/s/pop-rock/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-Pop-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D SWING",
+					"stationLink": "http://radio-d.hu/s/swing/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-SWING.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio D TANCDALOK",
+					"stationLink": "http://radio-d.hu/s/tancdalok/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-D-TANCDALOK.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dabas",
+					"stationLink": "http://37.221.209.189:7093/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-dabas.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eger",
+					"stationLink": "http://stream.radioeger.hu:18000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-eger-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eger Club",
+					"stationLink": "http://stream.radioeger.hu:18000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Eger-Club.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eger Light",
+					"stationLink": "http://stream.radioeger.hu:18000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Eger-Light.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eger Magyar Csatorna",
+					"stationLink": "http://stream.radioeger.hu:8130",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Eger-Magyar-Csatorna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eger Oldies",
+					"stationLink": "http://stream.radioeger.hu:8140",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Eger-Oldies.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eger Retro",
+					"stationLink": "http://stream.radioeger.hu:8150",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Eger-Retro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eger Top Hits",
+					"stationLink": "http://stream.radioeger.hu:8160",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Eger-Top-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Face",
+					"stationLink": "http://144.217.84.144:8034/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-face-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FM95",
+					"stationLink": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-fm95-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus FM 100.4",
+					"stationLink": "http://streamhost110.gtk.hu:9050",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Focus-100.4-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio HereWeGo",
+					"stationLink": "http://streaming.live365.com/a20334",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-herewego-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio InsstationDetaile Hungary",
+					"stationLink": "http://stream3.virtualisan.net:7110/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Radio-InsstationDetaile-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio M 101.6",
+					"stationLink": "http://hosting2.42netmedia.com:10060/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-M-101.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MAX Debrecen",
+					"stationLink": "http://megadanceradio.hopto.org:8000/livemega.mp3\r\n",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-max-debrecen-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MAX FM",
+					"stationLink": "http://r2.maxfm.hu:80/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-MAX-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mi",
+					"stationLink": "http://stream.radiomi.hu/rmi160.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Mi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Most",
+					"stationLink": "http://stream.radiomost.hu:8200/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Most.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MR4 Nemzetisegi Adasok",
+					"stationLink": "http://stream002.radio.hu:80/mr4.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-mr4-nemzetisegi-adasok.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MR7",
+					"stationLink": "http://online.klasszikradio.hu/klasszik.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-mr7-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Oranzs",
+					"stationLink": "https://streaming.radionomy.com/JamendoLounge",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-oranzs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pecs",
+					"stationLink": "http://s8.pop-stream.de:8120/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Pecs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pecs International",
+					"stationLink": "http://s8.pop-stream.de:8120/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-pecs-international-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plusz",
+					"stationLink": "http://radioplusz.allinpartyradio.com:8072",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Plusz1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Q 99.5",
+					"stationLink": "http://radioszerver.hu:8300",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-q-99.5.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rakospalota",
+					"stationLink": "http://5.133.182.164:10439/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Rakospalota.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rock 95.8",
+					"stationLink": "http://92.61.114.191:13150/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Radio-Rock-95.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sansz",
+					"stationLink": "http://91.82.85.44:9054/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Sansz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Scoop",
+					"stationLink": "http://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/radio-scoop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Smile 89.9",
+					"stationLink": "http://92.61.114.195:8010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Smile-89.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Szarvas",
+					"stationLink": "http://91.82.85.71:8090/radio_szarvas?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Radio-Szarvas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Szentendre",
+					"stationLink": "http://92.61.114.195:13040/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Szentendre.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Szombathely 97.1",
+					"stationLink": "http://87.229.45.44:8200",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-szombathely-97.1-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Top 88.8",
+					"stationLink": "http://www.radiotop.hu:888/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radio-top-88.8-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio X Online",
+					"stationLink": "http://airtime.radiox.online:8000/hq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-x-hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zora Chill",
+					"stationLink": "http://chill.out.airtime.pro:8000/chill_a?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/radiO-zora-Chill.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zora Trance",
+					"stationLink": "http://trance.out.airtime.pro:8000/trance_a?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/radiO-zora-trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radioseven",
+					"stationLink": "http://sc5.radioseven.se:80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radioseven.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro Music Radio",
+					"stationLink": "http://s2.free-shoutcast.com:18138/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/retro-music-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro Radio 103.9",
+					"stationLink": "http://stream.retrofm.hu:8000/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/retro-radio-103.9-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro Radio Szeged",
+					"stationLink": "http://s3.free-shoutcast.com:18292/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Retro-Radio-Szeged-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rise FM",
+					"stationLink": "http://stream.radioszerver.com/risefm_lq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/rise-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Box Radio HU",
+					"stationLink": "https://streaming.radionomy.com/RockBoxRadiohu",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/rock-box-radio-hu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Records Radio",
+					"stationLink": "http://91.82.85.58:8069/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Rock-Records-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rocker Radio",
+					"stationLink": "http://rockerradio.online/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/rocker-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RoyalMusic Radio",
+					"stationLink": "http://mscp3.live-streams.nl:8120/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/royalmusic-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sarvar Radio",
+					"stationLink": "http://92.61.114.191:9651/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Sarvar-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Serepente Retro Club Radio",
+					"stationLink": "http://de1.internet-radio.com:8204/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/serepente-retro-club-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SilverRose Radio",
+					"stationLink": "http://us2.internet-radio.com:8288/SilverRose_Radio_from_Sandorro",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/SilverRose-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sirius Radio",
+					"stationLink": "http://siriusradio.hu:8500/relay_911.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/sirius-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sirius Radio Rock",
+					"stationLink": "http://siriusradio.hu:8500/relay_911.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/sirius-radio-rock-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Slager FM",
+					"stationLink": "http://92.61.114.159:7812/slagerfm256.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Slager-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Soul Station Radio Hungary",
+					"stationLink": "http://199.180.75.75/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Soul-Station-Radio-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Speed FM",
+					"stationLink": "http://s02.diazol.hu:10080/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Speed-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Studio FM",
+					"stationLink": "http://studiofm.hu:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Studio-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Style FM Hungary",
+					"stationLink": "http://adas.style-fm.hu:8070/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Style-FM-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sub Radio",
+					"stationLink": "http://radioszerver.hu:8090/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Sub-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sunshine Radio 99.4",
+					"stationLink": "http://195.56.193.129:8100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/99.4-Sunshine-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Szent Istvan Radio",
+					"stationLink": "http://online.szentistvanradio.hu:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Szent-Istvan-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Szent Korona Radio",
+					"stationLink": "http://radio.szentkoronaradio.com:8048/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/szent-korona-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Szinva Radio",
+					"stationLink": "http://87.229.26.113:7260/live.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Szinva-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Szunet Radio",
+					"stationLink": "http://92.61.114.191:1101/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Szunet-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "T Radio",
+					"stationLink": "http://host2.radioszerver.hu:8026",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/T-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamasi Radio",
+					"stationLink": "http://92.61.114.195:10030/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Tamasi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Taska Radio",
+					"stationLink": "http://79.172.209.223:7070/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/taska-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tavirozsa Radio",
+					"stationLink": "http://157.181.47.204:9010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Tavirozsa-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Techno Style Radio",
+					"stationLink": "http://212.108.220.119:1039/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Techno-Style-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Thai Budapest Radio",
+					"stationLink": "http://eper.elte.hu/bp3/mp3/hanglemezekbol.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Thai-Budapest-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tilos Mese Radio",
+					"stationLink": "http://stream.tilos.hu:8000/mese",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/tilos-mese-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tilos Radio",
+					"stationLink": "http://stream.tilos.hu:80/tilos_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/tilos-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tilos Radio Jazz is Dead",
+					"stationLink": "http://stream.tilos.hu:8000/jazzisdead",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/tilos-radio-jazz-is-dead.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tilos Szoveges Radio",
+					"stationLink": "http://stream.tilos.hu:8000/szoveg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/tilos-szoveges-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TOP FM Base",
+					"stationLink": "http://live.topfm.hu:8000/base.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/top-fm-base.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TOP FM comedy",
+					"stationLink": "http://live.topfm.hu:8000/comedy.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/top-fm-comedy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TOP FM oldies",
+					"stationLink": "http://live.topfm.hu:8000/oldies.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/top-fm-oldies.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TOP FM Rádió",
+					"stationLink": "http://live.topfm.hu:8000/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/top-fm-rádió.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Topaz Disco Radio",
+					"stationLink": "http://listen.radionomy.com/atopazdiscoradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/topaz-disco-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Torony Radio",
+					"stationLink": "http://37.221.209.105:8040",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Torony-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Trend FM",
+					"stationLink": "http://radio.nordtelekom.hu:8000/gazdasagiradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Trend-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Trio Radio",
+					"stationLink": "http://79.172.217.50:9090/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/trio-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Up and Down Party Radio",
+					"stationLink": "http://listen.radionomy.com/up-downpartyradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Up-and-Down-Party-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Up and Down Radio",
+					"stationLink": "http://listen.radionomy.com/up-downradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Up-and-Down-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Up and Down Rock Radio",
+					"stationLink": "http://listen.radionomy.com/up-downrockradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Up-and-Down-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Up&Down 4Ever Rock Radio",
+					"stationLink": "http://listen.radionomy.com/up-down4everrockradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/updown-4ever-rock-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Up&Down Disco Radio",
+					"stationLink": "http://listen.radionomy.com/up-downdiscoradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/updown-disco-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Up&Down Music Radio",
+					"stationLink": "http://listen.radionomy.com/up-downmusicradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/updown-music-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Up&Down Top Rock Radio",
+					"stationLink": "https://streamingv2.shoutcast.com/Up-DownTopRockRadio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/updown-top-rock-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vindornya FM",
+					"stationLink": "http://vindornyafm.ddns.net:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/vindornya-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vip Radio Mulatos",
+					"stationLink": "http://mediastreaming.x64.me:8000/vipradio.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Vip-Radio-Mulatos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vorosmarty Radio",
+					"stationLink": "http://qt.istenek.info:8000/vorosmarty_mstationDetail.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Vorosmarty-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "X Radio Hungary",
+					"stationLink": "http://89.43.31.37:7774/listen.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/x-radio-hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XT Radio",
+					"stationLink": "http://37.221.209.146:7000/live.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/XT-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yo Radio Hungary",
+					"stationLink": "http://192.99.37.181:8030/;stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Yo-Radio-Hungary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yoko FM Megamusic",
+					"stationLink": "http://s30.myradiostream.com:31164/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/yoko-fm-megamusic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zene Attila Radio7 Kanizsaval",
+					"stationLink": "http://stream.diazol.hu:35090/radio7kanizsa.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Zene-Attila-Radio7-Kanizsaval.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zenesziget Party Dj Radio",
+					"stationLink": "http://79.172.194.189:20040/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Zenesziget-Party-Dj-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

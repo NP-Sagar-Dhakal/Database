@@ -1,0 +1,358 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "60s Galaxy 105",
+					"stationLink": "http://ca7.rcast.net:8056/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/60s-Galaxy-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "70s Galaxy 105",
+					"stationLink": "http://streaming.radionomy.com/70sGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/70s-Galaxy-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "80s Galaxy 105",
+					"stationLink": "http://streaming.radionomy.com/80s105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/80s-Galaxy-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "89.7 Bay Radio",
+					"stationLink": "https://stream.v3.network:18022/;stream.mp3?_=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/89.7-bay-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "90s Galaxy 105",
+					"stationLink": "http://streaming.radionomy.com/Lradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/90s-Galaxy-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All Rock Malta",
+					"stationLink": "http://209.95.50.189:8296/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/All-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bast Janizi FM",
+					"stationLink": "http://bfmlive.ddns.net:88/broadwavehigh.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Bast-Janizi-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bay Easy",
+					"stationLink": "http://178.32.161.194:8018/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Bay-Easy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bay Retro Malta",
+					"stationLink": "http://178.32.161.194:8014/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Bay-Retro-Malta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BKR Radio",
+					"stationLink": "http://majestic.wavestreamer.com:8209/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/bkr-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Calypso Radio",
+					"stationLink": "http://s9.voscast.com:8128/;stream1507706115570/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Calypso-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Calypso Radio 101.8",
+					"stationLink": "http://s9.voscast.com:8128/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/calypso-radio-101.8-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Classical Galaxy 105",
+					"stationLink": "http://streaming.radionomy.com/ClassicalGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Classical-Galaxy-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Comedy Rock Radio",
+					"stationLink": "http://65.60.4.142:80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Comedy-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Darradio",
+					"stationLink": "https://freeuk20.listen2myradio.com/live.mp3?typeportmount=s1_24831_stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/darradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fortune Flash Radio",
+					"stationLink": "http://eu3.fastcast4u.com:5882",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Fortune-Flash-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy 105 Centocinque",
+					"stationLink": "http://streaming.radionomy.com/CentocinueGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-105-Centocinque.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy 105 Festa",
+					"stationLink": "http://streaming.radionomy.com/105FestaGalaxy?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-105-Festa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy 105 International",
+					"stationLink": "http://streaming.radionomy.com/RadioGalaxyInternational?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Galaxy-105-International.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy 105 Maltin",
+					"stationLink": "http://streaming.radionomy.com/Dis--Cover-Radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-105-Maltin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy Base 105",
+					"stationLink": "http://streaming.radionomy.com/Base105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-Base-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy Country",
+					"stationLink": "http://streaming.radionomy.com/CountryGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-Country.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy Hits 105",
+					"stationLink": "http://streaming.radionomy.com/GalaxyHits105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-Hits-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy Rock",
+					"stationLink": "http://streaming.radionomy.com/RockGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy Romantics",
+					"stationLink": "http://streaming.radionomy.com/RomanticsGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-Romantics.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Galaxy Soul",
+					"stationLink": "http://streaming.radionomy.com/SoelGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Galaxy-Soul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazz Galaxy 105",
+					"stationLink": "http://streaming.radionomy.com/JazzGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Jazz-Galaxy-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latin 105 Galaxy",
+					"stationLink": "http://streaming.radionomy.com/Latin105Galaxy?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Latin-105-Galaxy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Madferret Radio",
+					"stationLink": "http://listen.radionomy.com/madferret?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Untitled.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Malta 91.7",
+					"stationLink": "http://s46.myradiostream.com:6076/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Magic-Malta-91.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Malta Sunshine Radio",
+					"stationLink": "http://78.129.185.84:17227/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/malta-sunshine-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mics Radio 93.3 FM",
+					"stationLink": "http://micsradio.ddns.net:90/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/mics-radio-93.3-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One Radio",
+					"stationLink": "http://s10.voscast.com:8202/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/one-radio-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Albatro Web",
+					"stationLink": "http://37.187.93.104:8307/stream?1518952380695",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-Albatro-Web.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Patata",
+					"stationLink": "http://daniel.torontocast.com:1080/stream?1585037906803",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/radio-patata.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio101 FM",
+					"stationLink": "http://s3.viastreaming.net:8930/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio101-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radju Hompesch Radio",
+					"stationLink": "http://janus2.cdnstream.com:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radju-Hompesch-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radju Lehen il Belt Victoria",
+					"stationLink": "http://hubble.shoutca.st:8641/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radju-Lehen-il-Belt-Victoria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radju Luminaria",
+					"stationLink": "http://direct.radjuluminaria.com:8000/radjuluminaria?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radju-luminaria-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radju Malta",
+					"stationLink": "http://s38.myradiostream.com:6982/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/Radju-Malta-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radju Malta",
+					"stationLink": "http://s38.myradiostream.com:6982/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/Radju-Malta-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radju Malta 2",
+					"stationLink": "http://s11.myradiostream.com:4954/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radju-Malta-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radju Marija",
+					"stationLink": "http://dreamsiteradiocp.com:8102/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/radju-marija-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radju Prekursur",
+					"stationLink": "http://78.129.187.73:27150/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radju-Prekursur.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Reggae Galaxy 105",
+					"stationLink": "http://streaming.radionomy.com/ReggaeGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Reggae-Galaxy-105.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTK Radio",
+					"stationLink": "https://s2.radio.co/s955b1ced9/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/rtk-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SOLstationDetail 100.2",
+					"stationLink": "http://s10.voscast.com:7866",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/SOLstationDetail-100.2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Trance Galaxy 105",
+					"stationLink": "http://streaming.radionomy.com/TranceGalaxy105?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Trance-Galaxy-105.png",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibe FM 88.7",
+					"stationLink": "https://s9.voscast.com:7825/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/vibe-fm-88.7.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XFM 100.2",
+					"stationLink": "http://162.252.85.85:7866/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/XFM-100.2-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

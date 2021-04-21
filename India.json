@@ -1,0 +1,1799 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "22G Radio",
+					"stationLink": "https://streaming.radio.co/s3aaa20a5e/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/22G-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "24 Hour Kirtan Radio",
+					"stationLink": "http://icecast.24hourkirtan.fm:8000/128k.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/24-Hour-Kirtan-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "8D VanavilFM",
+					"stationLink": "http://s3.yesstreaming.net:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/8d-vanavilfm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "91.9 Sarthak FM",
+					"stationLink": "http://sarthakfm.out.airtime.pro:8000/sarthakfm_b",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/91.9-sarthak-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "A TamilRadio5",
+					"stationLink": "http://69.46.24.226:7188/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/a-tamilradio5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Aalayam FM",
+					"stationLink": "http://stream.zeno.fm/rc0zvhnbkbruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/aalayam-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AIR Assamese",
+					"stationLink": "https://radioindia.net/radio/air_assamese_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/AIR-Assamese.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AIR Gujarati",
+					"stationLink": "https://radioindia.net/radio/air_gujarati_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/AIR-Gujarati.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AIR Kannada",
+					"stationLink": "https://radioindia.net/radio/air_kannada_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/AIR-Kannada.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AIR Malayalam",
+					"stationLink": "https://radioindia.net/radio/air_malayalam_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/AIR-Malayalam.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AIR Marathi",
+					"stationLink": "https://radioindia.net/radio/air_marathi_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/AIR-Marathi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AIR Odia",
+					"stationLink": "https://radioindia.net/radio/air_odia_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/AIR-Odia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AIR Punjabi",
+					"stationLink": "https://radioindia.net/radio/air_punjabi_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/AIR-Punjabi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AIR Telugu",
+					"stationLink": "https://radioindia.net/radio/air_telugu_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/AIR-Telugu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Airbhuj",
+					"stationLink": "https://radioindia.net/radio/air_bhuj_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/airbhuj.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ajith Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/AJITHRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/ajith-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Akaash FM",
+					"stationLink": "https://sg1.fastcast4u.com/proxy/dzcwbfih?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Akaash-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ama Radio",
+					"stationLink": "https://19293.live.streamtheworld.com/SP_R2658893_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Ama-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ananthapuri FM 101.9",
+					"stationLink": "http://59.90.28.91:88/broadwavehigh.mp3?src=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Ananthapuri-FM-101.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Anbu FM",
+					"stationLink": "http://stream.zeno.fm/5csru2np4bruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/anbu-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Anirudh Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANIRUDHRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/anirudh-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "APNA RADIO",
+					"stationLink": "http://ca.rcast.net:8048/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/APNA-RADIO.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AR Rahman Hindi",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARRAHMANRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/ar-rahman-hindi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AR Rahman Lite",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARRAHMANLITE_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/ar-rahman-lite-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arijitsingh Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/AJITHRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/arijitsingh-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arrahmanliteradio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARRAHMANLITE_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/arrahmanliteradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Astrology FM",
+					"stationLink": "http://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC013_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Astrology-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Aural Radio",
+					"stationLink": "http://stream.zeno.fm/pnafwp8atwzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/aural-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Awaz e Haq World Radio",
+					"stationLink": "http://s3.viastreaming.net:8520/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Awaz-e-Haq-World-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Babaji FM",
+					"stationLink": "http://192.95.39.65:5351/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/babaji-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BBC Hindi",
+					"stationLink": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/bbc-hindi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Big FM 98",
+					"stationLink": "http://streaming.radionomy.com/BigFm98",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Big-FM-98.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Big FM Lucknow",
+					"stationLink": "http://sc-bb.1.fm:8017/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Big-FM-Lucknow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bol Punjabi Radio",
+					"stationLink": "http://149.56.195.94:8322/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Bol-Punjabi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BollyHits Radio",
+					"stationLink": "http://hoth.alonhosting.com:1080/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/bollyhits-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bollywood Music Radio",
+					"stationLink": "http://64.71.79.181:5124/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/bollywood-music-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bollywood Punjabi Radio",
+					"stationLink": "http://stream.zeno.fm/1k0y9f0cm0quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/bollywood-punjabi-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bollywood Radio and Beyond",
+					"stationLink": "http://96.31.83.86:8084/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Bollywood-Radio-and-Beyond.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bombay Beats",
+					"stationLink": "http://strm112.1.fm/bombaybeats_mobile_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/bombay-beats.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bombay Hott Radio",
+					"stationLink": "http://198.245.62.16:8300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Bombay-Hott-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bongonet-Folk Nama",
+					"stationLink": "http://radio.bongonet.net:8004/folknama",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Bongonet-Folk-Nama.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bongonet-Go YesterYears",
+					"stationLink": "http://radio.bongonet.net:8016/goyesteryears",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Bongonet-Go-YesterYears.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},{
+					"stationName": "Bongonet-RHI",
+					"stationLink": "http://radio.bongonet.net:8012/rhi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Bongonet-RHI.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bongonet-Robichhaya",
+					"stationLink": "http://radio.bongonet.net:8032/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Bongonet-Robichhaya.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Boxout FM",
+					"stationLink": "http://boxoutfm.out.airtime.pro:8000/boxoutfm_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/boxout-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Charity Radio",
+					"stationLink": "https://streams.radio.co/sbd36225b4/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/charity-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chimes Radio",
+					"stationLink": "https://s3.radio.co/s4f575900e/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/chimes-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Craze FM Radio",
+					"stationLink": "http://strm112.1.fm/top40_mobile_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/craze-fm-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cuddalore Thedal FM",
+					"stationLink": "http://pollux.shoutca.st:9052/stream_medium",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/cuddalore-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Desi Music Mix",
+					"stationLink": "http://desimusicmix.com:8000/HQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/desi-music-mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Desi Radio",
+					"stationLink": "http://desi.canstream.co.uk:8001/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/desi-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Deva Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/DEVARADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/deva-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dharmapuri Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8944/stream?listening-from-radio-garden=1592040267176",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/dharmapuri-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dhol Radio",
+					"stationLink": "http://144.91.75.79:8000/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Dhol-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dindugal Thedal FM",
+					"stationLink": "http://pollux.shoutca.st:9094/stream_medium",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/dindugal-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DiscoBani Kolkata",
+					"stationLink": "http://radio.bongonet.net:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/DiscoBani-Kolkata.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Divyavani FM",
+					"stationLink": "http://epsilon.shoutca.st:8070/autodj?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Divyavani-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dj Upendra RaX",
+					"stationLink": "http://ample-zeno-10.radiojar.com/e8456c0619duv?rj-ttl=4&rj-token=AAABZC3iS9TEv3R-2oaMSUFPPB_4jWogyo297T3ZJlP7hgKoJmHHEQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Dj-Upendra-RaX.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DLH Virtual",
+					"stationLink": "http://listen.radionomy.com/DLHVirtualOnairRadio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/DLH-Virtual.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Easy 96",
+					"stationLink": "http://ice8.securenetsystems.net/EASY96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/easy-96.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "EdmMix  Radio",
+					"stationLink": "http://fr1.1mix.co.uk:8060/320",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/EdmMix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FEBA Online",
+					"stationLink": "https://stream.radio.co/s383f50ab3/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/feba-online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM Punjabi",
+					"stationLink": "http://198.178.123.5:7016/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/FM-Punjabi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Football Corner",
+					"stationLink": "https://securestreams2.autopo.st:1079/sportsflashes_football",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/football-corner.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Friends Tamil MP3",
+					"stationLink": "http://usa15.fastcast4u.com/proxy/tammus00?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Friends-Tamil-MP3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Golden Southradios",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLDEN_SOUTHRADIOS_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/golden-southradios.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Golden VanavilFM",
+					"stationLink": "http://s3.vanavilfm.com:9000/vanavilfm9000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/golden-vanavilfm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gurbani Kirtan",
+					"stationLink": "http://radio.gurbanikirtan247.com:8006/start",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Gurbani-Kirtan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hariharan Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/HARIHARA_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/hariharan-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Harris Jayaraj Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/HARRISJAYARAJ_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/harris-jayaraj-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hello FM 106.4",
+					"stationLink": "https://hellofmstore.s3.amazonaws.com/playout/SONG-92.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Hello-FM-106.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hits Of Bollywood",
+					"stationLink": "http://node-14.zeno.fm:80/8ty8szwpwfeuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/hits-of-bollywood-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hosur Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8575/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/hosur-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Houston KI Jaan",
+					"stationLink": "http://ice8.securenetsystems.net/SGTRADIO",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/houston-ki-jaan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ilaya Ragam Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ILAYARAGAM_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/ilaya-ragam-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ilayamaan Lite Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ILAYAMAANLITE_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/ilayamaan-lite-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ilayamaan Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ILAYAMAAN_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/ilayamaan-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ilayaraja Super Beats Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ILAYARAJASUPERBEATS_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/ilayaraja-super-beats-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ilayarajaliteradio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ILAYARAJALITE_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/ilayarajaliteradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ilmus Salaf",
+					"stationLink": "http://equinox.shoutca.st:9023/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Ilmus-Salaf.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "In10 Radio",
+					"stationLink": "http://s8.voscast.com:7738",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/In10-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Indian Echoes FM",
+					"stationLink": "http://streaming.radionomy.com/JamendoLounge",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Indian-Echoes-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Indifun Radio",
+					"stationLink": "http://www.indifun.net:7000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Indifun-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "International Mixtapes",
+					"stationLink": "http://listen.radionomy.com/internationalmixtapes",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/International-Mix-tapes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Isaiaruvi FM",
+					"stationLink": "http://79.143.187.96:8049/;?1592041781959",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Isaiaruvi-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Isaignani Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ISAIGNANIRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/isaignani-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ishara Fm",
+					"stationLink": "http://nickerie.webhop.net:8000/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/ishara-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ITR Tamil Radio",
+					"stationLink": "http://91.121.77.43:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/ITR-Tamil-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "IUML Kerala Cyber Radio",
+					"stationLink": "http://s4.voscast.com:8068/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/IUML-Kerala-Cyber-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "iWiFM",
+					"stationLink": "http://94.23.23.97:29270/listen.mp3?0.6208716554432034",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/iWiFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JehovahRapha FM",
+					"stationLink": "https://azura.shoutca.st/radio/8180/jehovahrapha.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/JehovahRapha-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JilJil Radio",
+					"stationLink": "http://149.56.157.81:8487/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/jiljil-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JOichens Radio",
+					"stationLink": "https://streamingv2.shoutcast.com/joichens-radio1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/joichens-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Just Punjabi Radio",
+					"stationLink": "http://stream.zeno.fm/s4e0u5bqhtzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/just-punjabi-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kalighat Radio",
+					"stationLink": "http://198.178.123.14:8216/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/kalighat-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kancheepuram Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8575/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/kancheepuram-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Karur Thedal FM",
+					"stationLink": "http://play.karur.thedalfm.com/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/karur-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kathir FM",
+					"stationLink": "http://node-34.zeno.fm/nwga0bxxnrquv?rj-ttl=5&rj-tok=AAABcJB6cGEAF2uKv4ln4Ig_2g",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/kathir-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kera Radio",
+					"stationLink": "http://listen.radionomy.com/keraradio-original-",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Kera-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kerala Malabar Islamic Classroom",
+					"stationLink": "http://s4.voscast.com:8068/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Kerala-Malabar-Islamic-Classroom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kerala Radio",
+					"stationLink": "http://radio.hostonnet.com:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Kerala-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Khas Haryanvi",
+					"stationLink": "http://khasharyanvi.com:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Khas-Haryanvi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kismat Radio",
+					"stationLink": "http://direct.sharp-stream.com/sunrise.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/kismat-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kj Yesudas Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/KJYESUDAS_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/kj-yesudas-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kovilpatti Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8936/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/kovilpatti-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KS Chithra Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/KSCHITHRA_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/ks-chithra-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latest IR",
+					"stationLink": "http://s20.myradiostream.com:17266/listen.m4a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/latest-ir.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Letz Go Stereo",
+					"stationLink": "http://eu4.radioboss.fm:8158/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Letz-Go-Stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Life FM",
+					"stationLink": "http://stream1.liferadio.at",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/life-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Likexa FM",
+					"stationLink": "http://167.114.64.181:8803/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Likexa-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lost in Music Radio",
+					"stationLink": "http://listen.radionomy.com/lostinmusicradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Lost-in-Music-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Love Junction",
+					"stationLink": "http://stream.zeno.fm/d9mbtnhd8tzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/love-junction-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Luminous Radio",
+					"stationLink": "http://192.111.140.6:8601/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Luminous-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Madras Radio",
+					"stationLink": "http://stream.zenolive.com/h0k9ckth1rquv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/madras-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Madura Malli FM",
+					"stationLink": "http://live.tamilkuyilradio.com:8030/maduramallifm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/madura-malli-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Malaysia Vasudevan Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/MVASUDEVANRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/malaysia-vasudevan-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Marconi Malayalam",
+					"stationLink": "http://ample-zeno-04.radiojar.com/051bvhgvwa5tv?rj-ttl=5&rj-token=AAABYGlRUhGmWakXCuGtiy0BikEmdfwC5NkSxG3hnRYpyjv0qTahnA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Marconi-Malayalam.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Masala 101",
+					"stationLink": "https://stream.radio.co/s9f46a9bb1/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/masala-101.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mohabbat Radio",
+					"stationLink": "http://stream.zeno.fm/ueag5fnrarzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/mohabbat-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mohammed Rafi Radio",
+					"stationLink": "https://mp3-128.jango.com/music/04/81/26/0481260134.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Mohammed-Rafi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mohan Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/MOHANRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/mohan-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nagapattinam Nanbargal Radio",
+					"stationLink": "http://node-25.zeno.fm/xyw4mnd8ntzuv.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/nagapattinam-nanbargal-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nagercoil Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8952/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/nagercoil-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Namakkal Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8968/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/namakkal-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nanma Malayalam",
+					"stationLink": "https://listen.radionomy.com/nanmaradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Nanma-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "New Hits of Bollywood",
+					"stationLink": "http://node-14.zeno.fm:80/rqqps6cbe3quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/NEW-HITS-OF-BOLLYWOOD.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Non Stop Hindi Radio",
+					"stationLink": "https://radioindia.net/radio/non_stop_hindi_radio/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Non-Stop-Hindi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "North Eastern Service",
+					"stationLink": "https://radioindia.net/radio/air_north/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/North-Eastern-Service.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Paasam FM",
+					"stationLink": "http://stream.zeno.fm/nkb65rhqbrzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/paasam-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Paigam E Haq",
+					"stationLink": "http://listen.radionomy.com/paigamehaq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Paigam-E-Haq.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Palaiya Paadal Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/PALAIYAPAADAL_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/palaiya-paadal-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planet Radio city",
+					"stationLink": "http://prclive1.listenon.in:9960/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/planet-radio-city-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pollachi Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8956/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/pollachi-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pray To Praise",
+					"stationLink": "http://ample-zeno-05.radiojar.com/c7tgtp1f9neuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Pray-To-Praise.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Psalms Radio",
+					"stationLink": "http://viadj.viastreaming.net:7084/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Psalms-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pudukkottai Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8972/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/pudukkottai-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Punjabi Beats",
+					"stationLink": "http://stream.zeno.fm/qe3kbywg65quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/Punjabi-Beats.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Punjabi Junction Punjabi FM",
+					"stationLink": "http://www.punjabijunction.com/music/DinCharhiJaanda.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Punjabi-Junction-Punjabi-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Puthu Paadal Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/PUDHUPAADAL_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Puthu-Paadal-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raajankam 3D",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAAJANKAMHDAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/raajankam-3d.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 88 India",
+					"stationLink": "http://stream.zeno.fm/qk5gr16529duv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-88-India.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Active 96 Fm",
+					"stationLink": "http://s1.voscast.com:7918/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-active-96-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Afsana",
+					"stationLink": "http://209.95.35.49:7058/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/radio-afsana-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amor Fm",
+					"stationLink": "http://media155.streampartner.nl:8012/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-amor-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Beat Extra",
+					"stationLink": "http://listen.openstream.co/4172/audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/radio-beat-extra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Beat India",
+					"stationLink": "http://listen.openstream.co/3372/audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/radio-beat-india.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Beat RETRO",
+					"stationLink": "https://str2b.openstream.co/1520",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/radio-beat-retro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bhubaneswar",
+					"stationLink": "https://cdn.webrad.io/images/countries/india.ico",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/radio-bhubaneswar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bongonet",
+					"stationLink": "http://188.166.176.244:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Radio-Bong-Onet.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Brisvaani",
+					"stationLink": "https://ssl.aloncast.com:1513/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-brisvaani.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Asha Bhosle Radio",
+					"stationLink": "https://prclive1.listenon.in/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Radio-City-Asha-Bhosle-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Bollywood Mix",
+					"stationLink": "https://prclive4.listenon.in/Hindi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-City-Bollywood-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Dance",
+					"stationLink": "https://prclive4.listenon.in/Dance",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-City-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Electronica",
+					"stationLink": "https://prclive4.listenon.in/Electronica",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-City-Electronica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Freedom",
+					"stationLink": "https://prclive4.listenon.in/Freedom",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-City-Freedom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Ghazal",
+					"stationLink": "https://prclive4.listenon.in/Ghazal",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-City-Ghazals.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Gujarati",
+					"stationLink": "https://prclive4.listenon.in/Gujarati",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/radio-city-Gujarati.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Hindi",
+					"stationLink": "https://prclive4.listenon.in/Hindi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-City-Hindi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City International",
+					"stationLink": "http://94.228.133.6:8381/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-City-International.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Ishq",
+					"stationLink": "http://prclive1.listenon.in:8808/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-City-Ishq.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Kannada",
+					"stationLink": "http://prclive1.listenon.in:8870",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-City-Kannada-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Kishore Kumar Radio",
+					"stationLink": "https://prclive1.listenon.in/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Radio-City-Kishore-Kumar-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Lata Mangeshkar Radio",
+					"stationLink": "https://prclive1.listenon.in/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Radio-City-Lata-Mangeshkar-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Love",
+					"stationLink": "https://prclive4.listenon.in/Ishq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-City-Love.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Love Guru",
+					"stationLink": "http://prclive1.listenon.in:8808/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/radio-city-love-guru.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Lucknow",
+					"stationLink": "http://prclive1.listenon.in:9960/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radii-City-Lucknow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Malayalam",
+					"stationLink": "http://prclive1.listenon.in:9908",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-City-Malayalam.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Metal",
+					"stationLink": "http://prclive1.listenon.in:8820",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-City-Metal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Smaran",
+					"stationLink": "http://prclive1.listenon.in:9950",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-City-Smaran.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Tamil",
+					"stationLink": "http://prclive1.listenon.in:9948/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-City-Tamil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Wellness",
+					"stationLink": "http://prclive1.listenon.in:8810",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Radio-City-Wellness.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Daijiworld",
+					"stationLink": "http://18193.live.streamtheworld.com/SAM08AAC013_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/RADIO-daijiworld.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Delhi Malayalam",
+					"stationLink": "http://46.105.124.113:8097/rdm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Delhi-Malayalam.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dhaakad",
+					"stationLink": "http://radiodhaakad.com:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Dhaakad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dil Apna Punjabi",
+					"stationLink": "http://my.radiodap.ca:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Dil-Apna-Punjabi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Haryanvi",
+					"stationLink": "http://weareharyanvi.com:8000/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Haryanvi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio India",
+					"stationLink": "http://162.244.80.52:4614/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-india.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Islam India",
+					"stationLink": "http://radioislamin.out.airtime.pro:8000/radioislamin_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/RADIO-ISLAM-INDIA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio JSR",
+					"stationLink": "http://198.7.59.28:8078/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/radio-jsr.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Madurai",
+					"stationLink": "http://192.95.39.65:5328/;stream.mp3&13202692901",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-madurai.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Media Village",
+					"stationLink": "http://184.154.43.106:8145/stream/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Media-Village.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Namkin",
+					"stationLink": "http://stream.zeno.fm/sgkeutfbaw5tv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/radio-namkin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Neythal FM",
+					"stationLink": "http://91.121.82.33:64420/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/radio-neythal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Noida",
+					"stationLink": "http://streaming.radionomy.com/Elium-Rock?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Noida.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio NRI",
+					"stationLink": "http://96.31.83.86:8084/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/radio-nri.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio NRI Classic",
+					"stationLink": "http://96.31.83.86:8084/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-nri-classic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Onattukara",
+					"stationLink": "http://perseus.shoutca.st:8175/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-Onattukara.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Paramankurichi Tamil",
+					"stationLink": "https://vpmurugun.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-paramankurichi-tamil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Punjabi Mehak",
+					"stationLink": "http://stream.zenolive.com/0xsvm1nr7a5tv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-Punjabi-Mehak.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SBS FM",
+					"stationLink": "https://443.sslradio.com/14/radiosbs",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-sbs-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Schizoid Dub Techno",
+					"stationLink": "http://94.130.113.214:8000/dubtechno",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/radio-schizoid-dub-techno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sharda",
+					"stationLink": "http://stream.zenolive.com/g4ua0b105eeuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Sharda.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sindhi",
+					"stationLink": "http://139.59.119.157:8261/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Sindhi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Srinagar",
+					"stationLink": "http://streaming01.x-6.nl:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Srinagar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Teen Taal",
+					"stationLink": "http://s1.voscast.com:9484/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-teen-taal.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Theeram",
+					"stationLink": "http://titan.shoutca.st:8647/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Theeram.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Udaan",
+					"stationLink": "http://173.212.234.220/radio/8000/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Udaan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Umang",
+					"stationLink": "http://streaming.radio.co/s3aaa20a5e/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Radio-Umang.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Varaha",
+					"stationLink": "http://str2b.openstream.co/673?aw_0_1st.stationid=3372&aw_0_1st.publisherid=697&aw_0_1st.serverid=str2b",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-varaha.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Virsa",
+					"stationLink": "http://s8.voscast.com:7992/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Virsa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio XL",
+					"stationLink": "http://sc18.strictlyhosting.co.uk:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-xl.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioBollyFM",
+					"stationLink": "http://stream.radiobollyfm.in:8201/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Bolly-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioTaj",
+					"stationLink": "http://live.radiotaj.com:9484/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/radiotaj.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rafa Radio",
+					"stationLink": "http://37.59.47.192:8596/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Rafa-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raja Melody - HD",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/ILAYARAGAM_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/raja-melody-hd.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rangilo Gujarat",
+					"stationLink": "http://s9.voscast.com:7402/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Rangilo-Gujarat.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Red FM Lucknow",
+					"stationLink": "http://prclive1.listenon.in:8808/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Red-FM-Lucknow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro Bollywood",
+					"stationLink": "http://64.71.79.181:5124/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Retro-Bollywood.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Royal Radios",
+					"stationLink": "http://195.154.217.103:8175/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/royal-radios.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "S Janaki Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/JANAKIRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/s-janaki-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SA Rajkumar Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/SARAJKUMAR_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/sa-rajkumar-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SA Tamil FM",
+					"stationLink": "http://live.tamilkuyilradio.com:9010/satamilfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/sa-tamil-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sad Songs Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/SADSONGS_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/sad-songs-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sanskar News FM",
+					"stationLink": "http://radio.canstream.co.uk:8024/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Sanskar-News-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sanskar Radio",
+					"stationLink": "http://radio.canstream.co.uk:8024/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/sanskar-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sayaji FM",
+					"stationLink": "https://sayajifm.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Sayaji-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shahimsha Radio",
+					"stationLink": "http://radio.knpinfotech.co.in:8000/stream/3/?1560927512825",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/shahimsha-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shaivam Radio",
+					"stationLink": "https://19293.live.streamtheworld.com/SP_R2923580_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Shaivam-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shakthi Radio",
+					"stationLink": "http://live.trusl.com:1160/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Shakthi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sher E Punjab Radio",
+					"stationLink": "http://16643.live.streamtheworld.com/KRPIAMAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Sher-E-Punjab-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shripad Radio",
+					"stationLink": "http://janus.shoutca.st:8112/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Shripad-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SKICR Radio",
+					"stationLink": "http://radio.skicrtv.in:10302/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/skicr-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sound Asia FM",
+					"stationLink": "http://41.72.210.222:88/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Sound-Asia-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SPB Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/SPBRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/spb-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Spectrum",
+					"stationLink": "http://indiespectrum.com:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/spectrum.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sportsflashes All Sports Radio",
+					"stationLink": "https://securestreams2.autopo.st:1079/sportsflashes_allsports",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/sportsflashes-all-sports-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sportsflashes Bangla Radio",
+					"stationLink": "https://securestreams2.autopo.st:1079/sportsflashes_bangla_live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/sportsflashes-bangla-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sri Harmandir Sahib",
+					"stationLink": "http://sgpc.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Sri-Harmandir-Sahib.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sri Ramanasramam FM",
+					"stationLink": "http://78.129.159.25:8121/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/sri-ramanasramam-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sunnah Channel",
+					"stationLink": "http://mediaserver2.islamicity.com:8000/SaudiTVEnglish",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Sunnah-Channel.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Suvidha Radio",
+					"stationLink": "http://79.143.187.96:8053/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/suvidha-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swachh Radio Navi Mumbai",
+					"stationLink": "http://stream.zeno.fm/tnsnhhkrzwzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/swachh-radio-navi-mumbai.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamil 2K Radio",
+					"stationLink": "https://16643.live.streamtheworld.com/2KRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/2k-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamil 80's Hits Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAMIL80S_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/tamil-80s-hits-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamil 90's Hits Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAMIL90RADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/tamil-90s-hits-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamil Hits Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAMIL_HITS_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/tamil-hits-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamil Melody Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAMIL_MELODY_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/tamil-melody-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamil Oli",
+					"stationLink": "http://91.121.165.41:9035/stream.mp3?1552213360709",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/tamil-oli.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tamilpop",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/TAMILPOP_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/tamilpop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TcrLive",
+					"stationLink": "https://eu1.fastcast4u.com/proxy/tcrliveradio?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Tcr-live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Teen Taal",
+					"stationLink": "http://s1.voscast.com:9484/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2010/11/radio-Teen-Taal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Telangana Radio",
+					"stationLink": "http://198.178.123.5:12682/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Telangana-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Thala Thalapathy Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/THALATHALAPATHY_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/Thala-Thalapathy-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Leader FM",
+					"stationLink": "http://stream.zeno.fm/wg4b845c2wzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/the-leader-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Thiruvannamalai Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8575/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/thiruvannamalai-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tiruppur Thedal FM",
+					"stationLink": "http://pollux.shoutca.st:9118/stream_medium",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/tiruppur-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Travel World Online",
+					"stationLink": "http://radiomaska.out.airtime.pro:8000/radiomaska_a?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Travel-World-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Umachi FM",
+					"stationLink": "http://streaming.radionomy.com/JamendoLounge",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Umachi-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Unnikirishnan Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/UNNIKIRISHNAN_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/unnikirishnan-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UrumiMelam FM",
+					"stationLink": "http://62.210.10.4:8285/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/urumimelam-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vijay Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIJAYRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/vijay-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Virudhunagar Thedal FM",
+					"stationLink": "http://dione.shoutca.st:8976/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/virudhunagar-thedal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Voice of Chennai",
+					"stationLink": "http://149.56.234.136:9928/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/voice-of-chennai.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VV Radio",
+					"stationLink": "http://music2.vvradio.co.in:2802/stream2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/VV-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "YSR Radio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/YSRRADIO_S01.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/ysr-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yuwave Tamil Radio Online",
+					"stationLink": "http://yuwaveradio.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Yuwave-Tamil-Radio-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

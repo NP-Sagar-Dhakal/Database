@@ -1,0 +1,1163 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "AB Radio Club Beat",
+					"stationLink": "http://mp3stream4.abradio.cz:8000/clubbeat128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/AB-Radio-Club-Beat.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bachata Radio",
+					"stationLink": "http://listen.radionomy.com/radio-bachata?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/bachata-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Blanik cz",
+					"stationLink": "http://ice.abradio.cz:8000/blanikcz128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/blanik-cz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Blanik Radio CZ",
+					"stationLink": "http://ice.abradio.cz:8000/blanikfm128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Blanik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bus Radio",
+					"stationLink": "http://130.185.144.199:16964/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/bus-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cesky Impuls",
+					"stationLink": "http://icecast6.play.cz/cesky-impuls.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Cesky-Impuls.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cesky Rozhlas Dvojka",
+					"stationLink": "http://icecast5.play.cz/cro2-32.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Cesky-Rozhlas-Dvojka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cesky Rozhlas Jazz",
+					"stationLink": "http://icecast2.play.cz/crojazz32.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Cesky-Rozhlas-Jazz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cesky Rozhlas Radio",
+					"stationLink": "http://icecast1.play.cz/crobrno32.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Cesky-Rozhlas-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cesky Rozhlas Vltava",
+					"stationLink": "http://icecast5.play.cz/cro3-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Cesky-Rozhlas-Vltava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Classic Praha",
+					"stationLink": "http://icecast8.play.cz/classic128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Classic-Praha.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Club Radio",
+					"stationLink": "http://radio.ipip.cz:7996",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/club-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Color Music Radio",
+					"stationLink": "http://icecast8.play.cz/color128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Color-Music-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Coop Tip Radio",
+					"stationLink": "http://ice4.abradio.cz/coop128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Coop-Tip-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Country Radio",
+					"stationLink": "http://icecast4.play.cz/country128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/country-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Country Radio cz",
+					"stationLink": "http://icecast4.play.cz/country128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/country-radio-cz-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Ceske Budeiovice",
+					"stationLink": "http://icecast2.play.cz/crocb128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro-ceske-budeiovice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cro D dur",
+					"stationLink": "http://icecast5.play.cz/croddur-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/cro-d-dur-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Hradec Kralove",
+					"stationLink": "http://icecast1.play.cz/crohk32.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/CRo-Hradec-Kralove.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cro Olomouc",
+					"stationLink": "http://icecast2.play.cz/crool128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/cro-olomouc-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Ostrava",
+					"stationLink": "http://icecast1.play.cz/croov64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro-ostrava-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Pardubice",
+					"stationLink": "http://icecast1.play.cz/cropardubice64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro-pardubice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Plus",
+					"stationLink": "http://icecast1.play.cz/croplus32.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/CRo-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Plzen",
+					"stationLink": "http://icecast3.play.cz/croplzen64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro-plzen-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cro Radio Junior",
+					"stationLink": "http://icecast5.play.cz/crojuniormaxi32.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Junior.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Radio Wave",
+					"stationLink": "http://icecast3.play.cz/crowave-256.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/cro-radio-wave.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Regina 92.6",
+					"stationLink": "http://icecast2.play.cz/croregina128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro-regina-92.6-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Sever",
+					"stationLink": "http://icecast6.play.cz/crosever64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro-sever-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Stredni Cechy",
+					"stationLink": "https://ice7.radia.cz/croregion128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro-stredni-cechy.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo Vysocina",
+					"stationLink": "http://icecast2.play.cz/crovysocina128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro-vysocina-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo1 Radiozurnal",
+					"stationLink": "http://icecast5.play.cz/cro1-32.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/cro1-radiozurnal-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo2 Praha",
+					"stationLink": "https://ice3.abradio.cz/cro2-128.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro2-praha-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo3 Vltava",
+					"stationLink": "http://icecast5.play.cz/cro3-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/cro3-vltava-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo4 Radio Wave",
+					"stationLink": "http://icecast6.play.cz/crowave-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro4-radio-wave-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRo7 Praha",
+					"stationLink": "https://ice7.radia.cz/crowave256.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cro7-praha.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Radio",
+					"stationLink": "https://17873.live.streamtheworld.com/DANCEAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/dance-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Radio CZ",
+					"stationLink": "https://21313.live.streamtheworld.com/DANCEAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Dance-Radio-CZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Radio House",
+					"stationLink": "http://pool.cdn.lagardere.cz/web-dr-house",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Dance-radio-house.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Radio Pure Trance",
+					"stationLink": "http://pool.cdn.lagardere.cz/web-dr-trance",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Dance-radio-Pure-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dandy Radio",
+					"stationLink": "http://149.56.147.197:8588/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/dandy-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dj Linux",
+					"stationLink": "http://46.36.35.34:8010/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Dj-Linux.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Euro Jazz",
+					"stationLink": "http://icecast1.play.cz/crojazz128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/euro-jazz.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Expres FM",
+					"stationLink": "http://icecast8.play.cz/expres128mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Expres-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fajn North Music",
+					"stationLink": "http://ice.abradio.cz/fajnnorth128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Fajn-North-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fajn Radio",
+					"stationLink": "http://ice.abradio.cz:8000/fajn128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/fajn-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fajn Radio Agara",
+					"stationLink": "http://ice.abradio.cz:8000/fajnagara128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/fajn-radio-agara-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fajn Radio Hity",
+					"stationLink": "http://ice.abradio.cz:8000/fajnhity128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/fajn-radio-hity-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fajn Radio Life",
+					"stationLink": "http://ice.abradio.cz:8000/fajnlife128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/fajn-radio-life-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Free Radio 107 FM",
+					"stationLink": "http://icecast8.play.cz/freeradio128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/free-radio-107-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FREERAVE",
+					"stationLink": "http://8.38.78.173:8061/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/freerave.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Funkstar Radio",
+					"stationLink": "https://funkstar.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Funkstar-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Helax 93.7",
+					"stationLink": "http://ice.abradio.cz:8000/helax128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/helax-93.7-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hip Hop Stage",
+					"stationLink": "https://rautemusik-de-hz-fal-stream11.radiohost.de/blackbeats",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hip-hop-stage-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit Radio Magic",
+					"stationLink": "http://ice.abradio.cz/magic128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Hit-Radio-Magic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit Radio Orion",
+					"stationLink": "http://ice.abradio.cz:8000/orion128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Hit-Radio-Orion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio 80tka",
+					"stationLink": "http://ice.abradio.cz:8000/magicbrno64.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-80tka.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio 90tka",
+					"stationLink": "http://ice.abradio.cz:8000/magicbrno128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-90tka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitradio City",
+					"stationLink": "http://ice.abradio.cz:8000/magicbrno64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Hitradio-City.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitradio Devadesatka",
+					"stationLink": "http://ice.abradio.cz/hit90128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Hitradio-Devadesatka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio Dragon",
+					"stationLink": "http://ice.abradio.cz:8000/dragon128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-dragon.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio Faktor",
+					"stationLink": "http://ice.abradio.cz:8000/faktor128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-faktor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitradio Faktor",
+					"stationLink": "http://ice.abradio.cz:8000/faktor128.mp3? type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Hitradio-Faktor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitradio FM",
+					"stationLink": "http://ice.abradio.cz:8000/magicbrno128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Hitradio-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio FM Plus",
+					"stationLink": "http://ice.abradio.cz:8000/fmplus128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-fm-plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio Magic",
+					"stationLink": "http://ice.abradio.cz:8000/magic128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-magic-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio Magic Brno",
+					"stationLink": "http://ice.abradio.cz:8000/magicbrno64.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-magic-brno-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio Magic Brno",
+					"stationLink": "http://ice.abradio.cz:8000/magicbrno128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-magic-brno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitradio Orion",
+					"stationLink": "http://ice.abradio.cz:8000/orion128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Hitradio-Orion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitrádio Pop&Rock",
+					"stationLink": "http://ice.abradio.cz/hitpoprock128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hitrádio-poprock.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitradio Zona Lasky",
+					"stationLink": "http://ice.abradio.cz:8000/hitzl128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Hitradio-Zona-Lasky.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hradec Kralove",
+					"stationLink": "http://icecast1.play.cz/crohk32.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/CRo-Hra-Kra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hradec Kralove FM",
+					"stationLink": "http://icecast2.play.cz/crohk128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/hradec-kralove-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Karlovy Vary",
+					"stationLink": "http://icecast2.play.cz/crokv128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Karlovy-Vary.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss 98 FM",
+					"stationLink": "http://icecast4.play.cz/kiss128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/kiss-98-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss Delta",
+					"stationLink": "http://icecast1.play.cz/kiss128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/kiss-delta-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss Hady",
+					"stationLink": "http://icecast1.play.cz:8000/kisshady64.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Kiss-Hady.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss Jizni Cechy",
+					"stationLink": "http://icecast4.play.cz:443/kissjc128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Kiss-Jizni-Cechy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss Morava",
+					"stationLink": "http://icecast4.play.cz/kissmorava128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Kiss-Morava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss Proton",
+					"stationLink": "http://icecast1.play.cz/kissproton128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/kiss-proton-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss Publikum",
+					"stationLink": "http://icecast8.play.cz/kisspublikum128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Kiss-Publikum.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Merkur Casino Radio",
+					"stationLink": "http://ice4.abradio.cz/merkur-casino128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Merkur-Casino-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Metal Heart Radio",
+					"stationLink": "http://fr.radio-streamhosting.com:8000/metalheartradio128mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/metal-heart-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Oldies Radio 103.7",
+					"stationLink": "http://ice.abradio.cz/oldiesradio128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Oldies-Radio-103.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 cz",
+					"stationLink": "http://icecast2.play.cz/radio1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-1-cz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 23",
+					"stationLink": "http://r23.cz:80/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-23.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 23 Breakbeat",
+					"stationLink": "http://r23.cz:80/breaks",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-23-breakbeat-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bachata",
+					"stationLink": "http://perseus.shoutca.st:8312/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-bachata-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Beat",
+					"stationLink": "http://icecast2.play.cz/radiobeat128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-beat.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio BendecstationDetaila",
+					"stationLink": "http://listen.radionomy.com/radiobendecstationDetaila?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-BendecstationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Blanik",
+					"stationLink": "http://ice.abradio.cz:8000/blanikfm128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-blanik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bonton",
+					"stationLink": "https://20133.live.streamtheworld.com/BONTONAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-bonton-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Boxx",
+					"stationLink": "http://beatzone.eu:10862/;stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-boxx.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cas",
+					"stationLink": "http://icecast6.play.cz/casradio128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/cas-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cas Ostravsko",
+					"stationLink": "http://icecast7.play.cz/casradio64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Cas-Ostravsko.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cas Rock",
+					"stationLink": "http://icecast7.play.cz/casrock128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Cas-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cas Zlinsko",
+					"stationLink": "http://icecast6.play.cz/casradio128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-cas-zlinsko-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cerna Hora",
+					"stationLink": "https://19993.live.streamtheworld.com/HITRADIO_CERNAHORA_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Cerna-Hora-87.6-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cesky Jukebox",
+					"stationLink": "http://sc.ipip.cz:8032/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-Cesky-Jukebox.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chillout",
+					"stationLink": "http://mp3stream4.abradio.cz/chillout64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Radio-Chillout.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City 93.7",
+					"stationLink": "http://ice.abradio.cz:8000/cityzl128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-City-93.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Devadesatk",
+					"stationLink": "http://ice.abradio.cz/city90128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-City-Devadesatk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Milenium",
+					"stationLink": "http://ice.abradio.cz/citymi128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-City-Milenium.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Osmdesatk",
+					"stationLink": "http://ice.abradio.cz/city80128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-City-Osmdesatk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Zona lasky",
+					"stationLink": "http://ice.abradio.cz/cityzl128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-City-Zona-lasky.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Contact Liberec",
+					"stationLink": "http://icecast1.play.cz/contact64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-contact-liberec-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio CRo Brno",
+					"stationLink": "http://icecast2.play.cz/crobrno128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-cro-brno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio CRo6",
+					"stationLink": "http://icecast1.play.cz/croplus128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-cro6.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dechovka",
+					"stationLink": "http://icecast5.play.cz:8000/dechovka128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-dechovka.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Depeche Mode",
+					"stationLink": "http://mp3stream4.abradio.cz:8000/depeche128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-depeche-mode.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Diana",
+					"stationLink": "https://westradio.cz/radio/8000/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/radio-diana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dyje",
+					"stationLink": "http://icecast7.play.cz/dyje128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/Radio-Dyje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Folk CZ",
+					"stationLink": "http://mp3stream2.abradio.cz:8000/folk320.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-folk-cz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio G6",
+					"stationLink": "http://89.221.210.76:12016/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/radio-g6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Good Water",
+					"stationLink": "http://sky1.torontocast.com:9092/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Radio-Good-Water.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hana",
+					"stationLink": "http://icecast8.play.cz/hana160.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/radio-hana-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Helax",
+					"stationLink": "http://ice.abradio.cz:8000/helax128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-helax-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hey Praha",
+					"stationLink": "http://icecast4.play.cz/country128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Hey-Praha.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Humor",
+					"stationLink": "http://mp3stream4.abradio.cz:8000/humor128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Humor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Impuls cz",
+					"stationLink": "http://icecast5.play.cz/impuls128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Impuls-cz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jih",
+					"stationLink": "http://icecast6.play.cz/jih128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-jih-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jihlava",
+					"stationLink": "http://icecast3.play.cz/radiojihlava128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Jihlava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jizera",
+					"stationLink": "http://icecast1.play.cz/signal192.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-jizera.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Krokodyl",
+					"stationLink": "http://icecast4.play.cz/krokodyl32.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-krokodyl-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kromeriz",
+					"stationLink": "http://icecast6.play.cz/radio-kromeriz128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-kromeriz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Liberty Cz",
+					"stationLink": "http://rfe-channel-10.akacast.akamaistream.net/7/372/229660/v1/ibb.akacast.akamaistream.net/rfe_channel_10.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Liberty-Cz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Madonna",
+					"stationLink": "http://mp3stream4.abradio.cz/madonna128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Madonna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Orion",
+					"stationLink": "http://ice.abradio.cz:8000/orion128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-orion-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Proglas",
+					"stationLink": "http://icecast2.play.cz/proglas128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/radio-proglas-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio R",
+					"stationLink": "http://radior.vstationDetaileo.muni.cz:8000/FSS_mp3-256.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-R.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Relax",
+					"stationLink": "http://icecast7.play.cz/relax128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-relax.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rubi",
+					"stationLink": "http://icecast8.play.cz/radiorubi128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-rubi.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Samson",
+					"stationLink": "http://icecast8.play.cz/samsonfm128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-samson.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sazava",
+					"stationLink": "http://icecast3.play.cz/hey-radio128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-sazava-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Server Liberec",
+					"stationLink": "http://icecast1.play.cz/croliberec32.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Server-Liberec.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Spin",
+					"stationLink": "http://icecast4.play.cz/spin128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-spin-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vambi",
+					"stationLink": "https://node-32.zeno.fm/8uz9a35rckeuv.aac?rj-ttl=5&rj-tok=AAABcjB-ppAACvN2_5fMeZgTGw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Vambi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vltava",
+					"stationLink": "http://icecast5.play.cz/cro3-128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Vltava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vysocina",
+					"stationLink": "http://ice5.abradio.cz/hitvysocina128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Vysocina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zlin",
+					"stationLink": "http://212.111.2.151:8000/radiozlin_128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-zlin-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio zurnal",
+					"stationLink": "http://icecast7.play.cz/cro1-128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-zurnal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioCast",
+					"stationLink": "http://mpc.mediacp.eu:8042/;type=mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/radiocast.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rebel Radio Brod",
+					"stationLink": "http://radio.ipip.cz:7988/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/rebel-radio-brod-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Region Vysocin",
+					"stationLink": "http://icecast1.play.cz/crovysocina32.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Region-Vysocin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Jam Metal",
+					"stationLink": "http://ice.abradio.cz/rockradio128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/rock-jam-metal-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Max Hard",
+					"stationLink": "http://212.111.2.151:8000/rm_hard_256.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Rock-Max-Hard.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Max Oldies",
+					"stationLink": "http://212.111.2.151:8000/rm_old_256.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/rock-max-oldies.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio Gold",
+					"stationLink": "http://ice.abradio.cz/rockradio128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/rock-radio-gold-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio Metalomanie",
+					"stationLink": "http://ice.abradio.cz:8000/metalomanie128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Rock-radio-Metalomanie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio Prachen",
+					"stationLink": "http://ice.abradio.cz:8000/prachen128.mp3? type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Rock-Radio-Prachen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio Rockova Zabava",
+					"stationLink": "http://ice.abradio.cz/rockzabava128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Rock-radio-Rockova-zabava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio Sumava",
+					"stationLink": "http://ice.abradio.cz/sumava128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Sumava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Radio Znamka Punku",
+					"stationLink": "http://ice.abradio.cz/znamkapunku128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Rock-Radio-Znamka-Punku.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock Zone",
+					"stationLink": "http://icecast5.play.cz/rockzone128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/rock-zone-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RockZone 105.9",
+					"stationLink": "http://icecast5.play.cz/rockzone128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/rockzone-105.9-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rozhlas D Dur",
+					"stationLink": "http://icecast5.play.cz/croddur-32.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Rozhlas-D-Dur.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTI FM",
+					"stationLink": "http://s32.myradiostream.com:10486/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/RTI-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Seejay Radio",
+					"stationLink": "http://mp3stream.abradio.cz:8000/seejay128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/seejay-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SiggiSound",
+					"stationLink": "http://78.129.234.163:5685/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/siggisound.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Signal Radio",
+					"stationLink": "http://icecast1.play.cz/signal192.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Signal-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Solar Walk Radio",
+					"stationLink": "http://188.165.192.5:8193/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Solar-Walk-Radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Svit Zlin Radio",
+					"stationLink": "http://78.24.9.110:9490/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Svit-Zlin-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "THIS IS RADIO",
+					"stationLink": "http://ice3.abradio.cz/this_is_radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/THIS-IS-RADIO.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "We House Radio",
+					"stationLink": "http://stream.wehouseradio.com/stream/3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/We-House-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Web Radio Epigon",
+					"stationLink": "http://ice3.abradio.cz/epigon128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Web-Radio-Epigon.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZFK Radio",
+					"stationLink": "http://stream.zeno.fm/u6un3qyp5tzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/zfk-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

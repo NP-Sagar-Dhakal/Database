@@ -1,0 +1,533 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "1 Business Radio",
+					"stationLink": "http://a.1br.lv:8000/1BusinessRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/1-Business-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ambiance Groove",
+					"stationLink": "http://streaming.radionomy.com/Ambiance-Groove?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Ambiance-Groove.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Autozinas FM",
+					"stationLink": "http://r.rigaradio.lv:8000/mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Autozinas-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Capital FM Latvia",
+					"stationLink": "http://radio2.capitalfm.lv:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Capital-FM-Latvia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Pop Music",
+					"stationLink": "http://stream.zenolive.com/gndv95c6rfeuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/dance-pop-music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Emka Lv",
+					"stationLink": "http://emka.lv:8000/emka_aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Emka-Lv.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Europa Plus 99.5",
+					"stationLink": "http://91.90.255.111:80/995",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Europa-Plus-99.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "European Hit Radio",
+					"stationLink": "http://stream.europeanhitradio.com:8000/ehr64?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/european-hit-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FUTURE BASS MIX",
+					"stationLink": "http://ample-zeno-06.radiojar.com/am16uk1f4k5tv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/future-bass-mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hiti Rossii",
+					"stationLink": "http://stream.europeanhitradio.com:8000/khr.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/hiti-rossii.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hits Collection",
+					"stationLink": "http://hitscollection.no-ip.org:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Hits-Collection.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jumor FM",
+					"stationLink": "http://91.90.255.111:80/jumorfm_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Jumor-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Just FM",
+					"stationLink": "http://lifemedia.cloud.makonix.com:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Just-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kurzemes Radio",
+					"stationLink": "http://80.70.23.50:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Kurzemes-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "L Radio Latvia",
+					"stationLink": "https://radio.lradiostation.com/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/L-Radio-Latvia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latgolys Radeja",
+					"stationLink": "http://195.13.253.51:8000/128_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Latgolys-Radeja.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latgolys Radejis",
+					"stationLink": "http://195.13.253.51:8000/128_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Latgolys-Radejis.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latvian Music Room",
+					"stationLink": "http://streaming.radionomy.com/Latvian-Music?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Latvian-Music-Room.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latvijas Kristigais Radio",
+					"stationLink": "http://91.203.71.10:8006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/latvijas-kristigais-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latvijas Radio",
+					"stationLink": "http://lr1mp1.latvijasradio.lv:8012",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Latvijas-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latvijas Radio 2",
+					"stationLink": "http://lr2mp1.latvijasradio.lv:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/latvijas-radio-2-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latvijas Radio 3 Klasika",
+					"stationLink": "http://lr3mp0.latvijasradio.lv:8004",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/Latvijas-Radio-3-Klasika-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Latvijas Radio 4",
+					"stationLink": "http://lr4mp0.latvijasradio.lv:8018/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/Latvijas-Radio-4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lomop 88.6 FM",
+					"stationLink": "http://91.90.255.111:80/jumorfm?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Lomop-88.6-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "LR Radio",
+					"stationLink": "http://195.13.253.51:8000/128_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/LR-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Merkurs Radio",
+					"stationLink": "http://87.226.55.105:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Merkurs-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix FM 102.7",
+					"stationLink": "https://radio.mixnews.lv/MixFM",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/mix-fm-102.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix News",
+					"stationLink": "http://91.90.255.111:80/baltkom?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Mix-News.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix News 99.5 FM",
+					"stationLink": "http://radio.995.lv/995?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/mix-news-99.5-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Neon Club FM",
+					"stationLink": "http://128.neonclub.lv:8005/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Neon-Club-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Neverland Radio",
+					"stationLink": "http://streaming.radionomy.com/Neverlandradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Neverland-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nordic Beat Radio",
+					"stationLink": "http://5.39.71.159:8915/stream?type=http&nocache=856",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/nordic-beat-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PARADOX",
+					"stationLink": "http://185.58.205.244:9110/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/PARADOX-RADIO-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pieci 5 Atklajumi",
+					"stationLink": "http://live.pieci.lv:8000/live5-hq.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Pieci-5-Atklajumi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pieci 5 Baltic Music",
+					"stationLink": "http://live.pieci.lv:8000/live18-hq.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Pieci-5-Baltic-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pieci 5 Domnica",
+					"stationLink": "http://live.pieci.lv:8000/live13-hq.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Pieci-5-Domnica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pieci 5 Hiti",
+					"stationLink": "http://live.pieci.lv:8000/live17-hq.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Pieci-5-Hiti.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pieci 5 Latgaliesi",
+					"stationLink": "http://live.pieci.lv:8000/live22-hq.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Pieci-5-Latgaliesi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pieci 5 Latviesi",
+					"stationLink": "http://live.pieci.lv:8000/live7-hq.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Pieci-5-Latviesi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pieci 5 Riti",
+					"stationLink": "http://live.pieci.lv:8000/live11-hq.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Pieci-5-Riti.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 7 Latvija",
+					"stationLink": "http://185.8.60.118:8024/Radio7",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-7-Latvija.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 8 Latvia",
+					"stationLink": "http://listen.radionomy.com/8radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio A16 Latvia",
+					"stationLink": "http://radioa16lv.ddns.net:8000/listen.mp3?18464276",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-A16-Latvia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Atmosferix",
+					"stationLink": "http://stream.atmosferix.net:8100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Atmosferix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Baltkom",
+					"stationLink": "http://91.90.255.111:80/baltkom?type=.flash",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Baltkom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clubber FM",
+					"stationLink": "http://103.18.108.75:9992",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Clubber-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio DanceMusic",
+					"stationLink": "http://stream.zenolive.com/43s27w8enpeuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/radio-dancemusic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Larocca",
+					"stationLink": "http://www.larocca.lv:8000/larocca",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Larocca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Merkurs",
+					"stationLink": "http://89.201.5.115:8000/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Merkurs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Naba",
+					"stationLink": "http://nabamp0.latvijasradio.lv:8008",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Naba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Oira",
+					"stationLink": "http://195.13.253.51:8000/128_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Oira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pik",
+					"stationLink": "http://stream.radiopik.pl:9006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Pik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RU FM",
+					"stationLink": "https://live.retrofm.lv/russkoeretro128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/ru-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Skonto",
+					"stationLink": "http://skonto.ls.lv:8002/mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/radio-skonto-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sliptrick",
+					"stationLink": "http://listen.radionomy.com/radiosliptrick",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-Sliptrick.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SWH",
+					"stationLink": "http://80.232.162.149:8000/swh96mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-SWH.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SWH Gold",
+					"stationLink": "http://80.232.162.149:8000/swhgold?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-SWH-Gold.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SWH Kurzeme",
+					"stationLink": "http://80.232.162.149:8000/kurz96mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-SWH-Kurzeme.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SWH Plus",
+					"stationLink": "http://80.232.162.149:8000/plus96mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-SWH-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SWH Rock",
+					"stationLink": "http://80.232.162.149:8000/rock96mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-SWH-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio TEV",
+					"stationLink": "http://stream.radiotev.lv:8002/radiov",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-TEV.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Valmiera",
+					"stationLink": "http://85.254.49.110:8002/radiov?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Valmiera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio1 Latvia",
+					"stationLink": "http://lr1mp1.latvijasradio.lv:8012",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio1-Latvia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioNSM",
+					"stationLink": "http://stream.radionsm.net:8000/radionsm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radionsm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Real Station Radio",
+					"stationLink": "http://realstation.org:8002",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Real-Station-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rietumu Radio",
+					"stationLink": "http://85.254.49.118:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Rietumu-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Riga Radio",
+					"stationLink": "http://r.rigaradio.lv:8000/mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Riga-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Saldus Radio",
+					"stationLink": "http://80.232.219.194:8080/klausies?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Saldus-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Schlager Time Radio",
+					"stationLink": "http://159.148.27.137:8760/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Schlager-Time-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Spin FM 90.0",
+					"stationLink": "http://80.232.162.149:8000/spin96mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Spin-FM-90.0.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SuperFM",
+					"stationLink": "http://stream.superfm.lv:8000/sfm.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/SuperFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Top Radio",
+					"stationLink": "http://195.13.200.164:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/Top-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Travel Mix Radio",
+					"stationLink": "http://188.40.32.140:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Travel-Mix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XO FM",
+					"stationLink": "https://live.xo.fm/xofm48",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/xo-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XRadio Latvia",
+					"stationLink": "http://185.8.60.5:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/XRadio-Latvia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

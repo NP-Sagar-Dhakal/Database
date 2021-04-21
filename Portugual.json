@@ -1,0 +1,3046 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Ams Radio",
+					"stationLink": "http://185.32.188.17:8027/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Ams-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Another BC Radio",
+					"stationLink": "http://195.154.167.62:9896/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/another-bc-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antena 1",
+					"stationLink": "https://antenaone.crossradio.com.br/stream/1;?type=mp4",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antena-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antena 1 Fado",
+					"stationLink": "http://radiocast.rtp.pt/antena1fado80a.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antena-1-Fado.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antena 1 Madeira",
+					"stationLink": "http://radiocast.rtp.pt/antena1madeira80a.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antena-1-Madeira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antena 2 Opera",
+					"stationLink": "http://radiocast.rtp.pt/antena2opera80a.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Antena-2-Opera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antena Minho",
+					"stationLink": "http://stream.radio.com.pt:9464/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Antena-Minho.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antena Mirobriga Radio",
+					"stationLink": "http://5.9.14.150:8320/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Antena-Mirobriga-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AOR Radio",
+					"stationLink": "http://listen.radionomy.com/adultorientedrockradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/AOR-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AORock Radio",
+					"stationLink": "http://listen.radionomy.com/adultorientedrockradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/AORock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ArpeggioRadio",
+					"stationLink": "http://nl1.streamingpulse.com:7113/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/ArpeggioRadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Azemeis FM",
+					"stationLink": "http://azfm.no-ip.biz:8080",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Azemeis-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bb New Kizomba",
+					"stationLink": "http://5.9.17.103:9338/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/bb-new-kizomba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Beach Radio Portugal",
+					"stationLink": "http://stream.laut.fm/beach-radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/beach-radio-portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Benedita FM",
+					"stationLink": "http://176.9.88.190:8024/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Benedita-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cabriz Radio",
+					"stationLink": "http://listen.radionomy.com/cabriz-radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Cabriz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cantinho Da Madeira",
+					"stationLink": "http://109.71.41.6:8129/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/cantinho-da-madeira-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CC Radio Portugal",
+					"stationLink": "http://rlcbdance.no-ip.org:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/CC-Radio-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CstationDetailade Hoje",
+					"stationLink": "http://centova.radio.com.pt:8119/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/CstationDetailade-Hoje.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Costa Verde Web Radio",
+					"stationLink": "https://sonic1.transmissaodigital.com:7031/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/costa-verde-web-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Days of Metal Radio",
+					"stationLink": "http://listen.radionomy.com/daysofmetalradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Days-of-Metal-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Diana FM",
+					"stationLink": "http://link.radios.pt/dianafm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Diana-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Digital FM Portugal",
+					"stationLink": "http://digitalfm.dynu.com:8000/digitalfm64?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Digital-FM-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dom Fuas FM",
+					"stationLink": "http://centova.radios.pt:8503/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Dom-Fuas-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Emissora Das Beiras Radio",
+					"stationLink": "http://centova.radios.pt:8465/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Emissora-Das-Beiras-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "En Mode Portugal",
+					"stationLink": "https://listen.radioking.com/radio/6469/stream/63283",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/En-Mode-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Engenharia Radio",
+					"stationLink": "http://engenhariaradio.pt:8080/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Engenharia-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ERA FM 92.7",
+					"stationLink": "http://shaincast.caster.fm:44498/listen.mp3?type=.flv&authnc5069f5076406e841445e2c75b1a2494",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/ERA-FM-92.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Esporoes Web Radio",
+					"stationLink": "http://silveradio.b0ne.com/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Esporoes-Web-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Esposende Radio",
+					"stationLink": "http://109.71.41.230:8560/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Esposende-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Estacao Diaria 96.8 FM",
+					"stationLink": "http://centova.radios.pt:9430",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Estacao-Diaria-96.8-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "EVS Radio",
+					"stationLink": "http://78.47.96.202:8050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/EVS-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Exotica Radio",
+					"stationLink": "https://solstationDetail67.streamupsolutions.com/proxy/repadnom?mp=/;type=mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/exotica-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Extagy NET",
+					"stationLink": "http://188.37.186.237/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Extagy-NET.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fest Eventos",
+					"stationLink": "http://webradio.festeventos.pt:9998/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/fest-eventos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "First Class Radio",
+					"stationLink": "https://streamingv2.shoutcast.com/First-Class-Radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/First-Class-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FmTuga Radio",
+					"stationLink": "http://stream.zenolive.com/gwtyhw1b4rquv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/fmtuga-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gold Web Radio Portugal",
+					"stationLink": "http://listen.radionomy.com/goldwebradioportugal",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/gold-web-radio-portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Golo FM",
+					"stationLink": "http://play.golo.fm:8020/stream?1519808269675",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Golo-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hard and Heavy Metal Hits Radio",
+					"stationLink": "http://listen.radionomy.com/hard-heavymetalhits",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Hard-and-Heavy-Metal-Hits-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hard Waves Radio",
+					"stationLink": "https://c22.radioboss.fm:18034/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/hard-waves-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Heavy Rock Radio",
+					"stationLink": "http://streaming.radionomy.com/HeavyRockRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Heavy-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hiper FM",
+					"stationLink": "http://195.23.85.126:9500/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Hiper-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hits of 80 and 90",
+					"stationLink": "https://streamingv2.shoutcast.com/Hitsof80and90",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/hits-of-80-and-90.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "House Box",
+					"stationLink": "http://stream.housebox.pt:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/House-Box.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Iris FM",
+					"stationLink": "http://centova.radios.pt:8529/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Iris-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Iris FM Portugal",
+					"stationLink": "http://centova.radios.pt:8529/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Iris-FM-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jams and Kooks",
+					"stationLink": "http://stream.zenolive.com/0vqtrtyzg4duv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/jams-and-kooks.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JDS Radio",
+					"stationLink": "http://208.79.210.11:9962/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/jds-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss FM Algarve",
+					"stationLink": "http://213.239.218.99:7027/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Kiss-FM-Algarve.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KSQQ Radio",
+					"stationLink": "http://war.str3am.com:8490/ksqq2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/KSQQ-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KUL Radio",
+					"stationLink": "http://185.32.188.17:8073/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/KUL-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Let It Be Radio",
+					"stationLink": "http://185.11.164.106:8002/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Let-It-Be-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Liz FM 101.3",
+					"stationLink": "http://213.239.218.99:7110/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Liz-FM-101.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "LUNA FM Portugal",
+					"stationLink": "http://lunaworld.lunabroadcasting.net/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/luna-fm-portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Luso Mix",
+					"stationLink": "http://94.23.159.187:9980/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Luso-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Luso Radio",
+					"stationLink": "http://178.32.239.25:8139/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Luso-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "M80 Radio Portugal",
+					"stationLink": "http://mcrscast.mcr.iol.pt/m80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/M80-Radio-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Marcoense FM",
+					"stationLink": "http://137.74.160.250:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Marcoense-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega FM",
+					"stationLink": "https://19593.live.streamtheworld.com/MEGA_HITSAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Mega-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mehefil Radio",
+					"stationLink": "http://mehefil.no-ip.com/mehefil",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Mehefil-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MKLab FM",
+					"stationLink": "https://streamlive2.hearthis.at:8000/26450.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/mklab-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Netfm Radio",
+					"stationLink": "https://streaming.shoutcast.com/NetfmRadio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Netfm-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Noite FM",
+					"stationLink": "http://live.noite.pt:8080/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/noite-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nova Energia FM",
+					"stationLink": "http://46.4.94.39:9896",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Nova-Energia-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "nRP Radio",
+					"stationLink": "http://nrp.selfip.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/nRP-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "O Mundo Da Flor",
+					"stationLink": "http://144.76.58.102:9624/;stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/o-mundo-da-flor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "On Move FM",
+					"stationLink": "http://stm18.voxstream.com.br:24526/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/On-Move-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Onda 80 Minho",
+					"stationLink": "http://streaming.radionomy.com/onda80minho?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Onda-80-Minho.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Paivense FM",
+					"stationLink": "http://paivense.no-ip.info:8080/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Paivense-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Palmeira Digital",
+					"stationLink": "http://streaming.radionomy.com/100-HARD-ROCK?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Palmeira-Digital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Passion Love Radio",
+					"stationLink": "http://streaming.radionomy.com/PassionLoveRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Passion-Love-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PlayerWebRadio",
+					"stationLink": "http://195.154.176.199:8091/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/playerwebradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Popular FM",
+					"stationLink": "http://195.8.58.150:32281/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Popular-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Portugal Star",
+					"stationLink": "http://185.118.112.12:8028/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Portugal-Star.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Posto Emissor do Funchal FM",
+					"stationLink": "http://centova.radios.pt:9422/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/posto-emissor-do-funchal-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 5 Portugal",
+					"stationLink": "http://centova.radios.pt:9438",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-5-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 7 Portugal",
+					"stationLink": "http://stream.solutionsweb.us:8006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Radio-7-portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 80 Portugal",
+					"stationLink": "http://mcrscast.mcr.iol.pt/m80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-80-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 93.7 FM",
+					"stationLink": "http://5.189.189.245:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/radio-93.7-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 94 FM",
+					"stationLink": "http://195.8.58.150:35022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-94-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 94.8 FM",
+					"stationLink": "http://centova.radios.pt:9450/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-94.8-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 95fm",
+					"stationLink": "http://213.239.218.99:7027/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-95fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Afurada",
+					"stationLink": "http://5.9.17.124:9324/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Afurada.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio AgitAgueda",
+					"stationLink": "https://s2.radio.co/s28e1a105c/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-agitagueda.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Agui Azul",
+					"stationLink": "http://94.23.76.235:9962",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Agui-Azul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alive 89.9",
+					"stationLink": "http://centova.radios.pt:9468/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Alive-89.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alpendorada",
+					"stationLink": "http://radio.radioalpendorada.net:9316/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Alpendorada.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alta Voltagem",
+					"stationLink": "http://88.198.72.46:9932/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Radio-Alta-Voltagem.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alto Ave",
+					"stationLink": "http://link.radios.pt/radioaltoave",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-alto-ave-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alto Minho",
+					"stationLink": "http://212.13.41.100:11000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Alto-Minho.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alvalade",
+					"stationLink": "http://176.9.43.216:8056/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-alvalade.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amalia",
+					"stationLink": "http://link.radios.pt/radioamalia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-amalia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amor E Carinho",
+					"stationLink": "http://176.9.43.216:8380/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Radio-Amor-E-Carinho.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amor Eterno",
+					"stationLink": "http://176.9.139.147:9938/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Amor-Eterno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amor Fogo Paixao",
+					"stationLink": "http://212.129.34.67:9862/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Amor-Fogo-Paixao.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ancorensis",
+					"stationLink": "http://node-11.zeno.fm/9pu32kh70zquv?rj-ttl=5&rj-token=AAABam1X_62bqqw6CIn4yOJw9jRLkBTnVEACXwD9SqTbEuLDH4FlEQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/radio-ancorensis.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ansiaes",
+					"stationLink": "http://centova.radios.pt:8419/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Ansiaes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antena Livre",
+					"stationLink": "http://stream.radio.com.pt:8571/antenalivre.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Antena-Livre.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antena Livre Gouveia",
+					"stationLink": "http://centova.radios.pt:9456/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Antena-Livre-Gouveia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antena Sul Alentejo",
+					"stationLink": "http://213.239.218.99:7116",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Antena-Sul-Alentejo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antena Tejo",
+					"stationLink": "https://player.xcast.com.br/proxy/12780",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-antena-tejo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Arremesso",
+					"stationLink": "http://94.23.1.151:8001",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Arremesso.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Artmadeira",
+					"stationLink": "https://listen.radioking.com/radio/127183/stream/166975",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Radio-Artmadeira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Asas do Atlantico",
+					"stationLink": "http://centova.radios.pt:9538/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/radio-asas-do-atlantico.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Astarplay",
+					"stationLink": "http://streaming.radionomy.com/aplay",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Astarplay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio AtlantstationDetaila",
+					"stationLink": "http://94.23.76.235:9926/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-AtlantstationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio AtlantstationDetaila Acores",
+					"stationLink": "http://195.154.62.41/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-atlantstationDetaila-acores.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Autonoma",
+					"stationLink": "http://109.71.41.250:8072",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-Autonoma.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio AV",
+					"stationLink": "http://46.105.172.166:8026",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-AV.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Azul 98.9 FM",
+					"stationLink": "http://sado.radioazul.pt:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Azul-98.9-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Baia",
+					"stationLink": "http://centova.radios.pt:8193/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Baia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Barca",
+					"stationLink": "http://centova.radios.pt:8483/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-barca-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Barcelos",
+					"stationLink": "http://centova.radios.pt:8563/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Barcelos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Barreirinha",
+					"stationLink": "http://hts02.kshost.com.br:8904/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Barreirinha.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Beira Interior",
+					"stationLink": "http://centova.radios.pt:9462/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-beira-interior.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bit 106.8",
+					"stationLink": "http://streaming.radionomy.com/RADIOBIT-BackinTime?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Bit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Boa Nova",
+					"stationLink": "http://213.239.218.99:7036",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-boa-nova.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bons Sons",
+					"stationLink": "http://88.198.72.46:9994/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Bons-Sons.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Botareu",
+					"stationLink": "http://213.239.218.99:7022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Botareu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Braga",
+					"stationLink": "http://stream.radiojar.com/0kzmnspqr8vtv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-braga-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Breca",
+					"stationLink": "http://radiobreca.ddns.net:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-breca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Brigantia",
+					"stationLink": "http://centova.radios.pt:8491/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-brigantia-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Calheta",
+					"stationLink": "http://62.28.58.2/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Calheta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Caminha",
+					"stationLink": "http://212.13.41.101:11008/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Caminha.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Campanario",
+					"stationLink": "http://stream.radio.com.pt:8425/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Campanario1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Campo Maior",
+					"stationLink": "http://radios.dotsi.pt:8018/stream?1558865881120",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Campo-Maior.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cantinho da Madeira",
+					"stationLink": "http://109.71.41.6:8129/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Cantinho-da-Madeira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cantinho do Paraiso",
+					"stationLink": "http://95.217.75.38:9250/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-cantinho-do-paraiso.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Canto Universal",
+					"stationLink": "http://173.212.203.18:8082/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-canto-universal-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cardal",
+					"stationLink": "http://94.63.131.210:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Cardal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Caria",
+					"stationLink": "http://stream.radio.com.pt:8521/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Caria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Carlos Amaral Mix",
+					"stationLink": "http://176.9.139.147:9976/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Carlos-Amaral-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cascais",
+					"stationLink": "http://streaming.radionomy.com/radio-p?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Cascais.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Castrense",
+					"stationLink": "http://centova.radio.com.pt:8431/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Castrense.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio CstationDetailade Azul",
+					"stationLink": "http://195.154.176.199:8097/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-cstationDetailade-azul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cister",
+					"stationLink": "http://link.radios.pt/radiocister",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Cister.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clube",
+					"stationLink": "http://91.134.147.168:9812/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Clube.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clube da Feira",
+					"stationLink": "http://centova.radios.pt:9544",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Clube-da-Feira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clube de Angra",
+					"stationLink": "http://162.210.196.217:8142/stream.mp3?1519023356876",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Clube-de-Angra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clube De Grandola",
+					"stationLink": "http://centova.radios.pt:9474/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Clube-De-Grandola.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clube De Lamego",
+					"stationLink": "http://109.71.41.6:8110/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Clube-De-Lamego.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clube Do Dao",
+					"stationLink": "http://176.9.43.216:8003/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Radio-Clube-do-Dao.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clube Penafiel",
+					"stationLink": "http://link.radios.pt/radioclubedepenafiel",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Clube-Penafiel.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clube Santa Marta",
+					"stationLink": "http://185.32.188.17:8005/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-clube-santa-marta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Comercial",
+					"stationLink": "http://mcrscast1.mcr.iol.pt/comercial.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-comercial-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Condestavel",
+					"stationLink": "http://stream.radio.com.pt:8427/;stream.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-condestavel.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Confrades da Poesia",
+					"stationLink": "http://176.9.43.216:8087/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-confrades-da-poesia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Contemporania",
+					"stationLink": "http://188.165.218.137:9986",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Contemporania.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Coracao Do Alentejo",
+					"stationLink": "https://sonic.servsonic.com:7021/;/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/radio-coracao-do-alentejo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Coracao Madeirense",
+					"stationLink": "https://sp0.redeaudio.com:7153/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Coracao-Madeirense.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Coracao Musical",
+					"stationLink": "http://5.9.17.124:9776/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Radio-Coracao-Musical.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cordial",
+					"stationLink": "http://51.38.239.206/radio/9090/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-cordial.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Corval",
+					"stationLink": "http://centova.radios.pt:9184/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Corval.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cova Da Beira",
+					"stationLink": "http://centova.radio.com.pt:8467/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Cova-Da-Beira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cultural de Cerveira",
+					"stationLink": "http://centova.radios.pt:8543/stream/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Cultural-de-Cerveira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Despertar",
+					"stationLink": "http://radios.dotsi.pt:8000/radiodespertar?1558866544725",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Despertar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Diana FM",
+					"stationLink": "http://144.76.58.102:9694/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-diana-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio DISK FM",
+					"stationLink": "http://62.210.82.20:7100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-disk-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Do Artista",
+					"stationLink": "http://62.210.79.179:8012",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Radio-Do-Artista.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio do Concelho de Mafra",
+					"stationLink": "http://centova.radios.pt:8551/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-do-Concelho-de-Mafra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Douro Afuradense",
+					"stationLink": "http://s1.xps-ip.eu:8048/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Douro-Afuradense.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Douro Nacional",
+					"stationLink": "http://95.217.75.38:9796/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-douro-nacional.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dueca",
+					"stationLink": "http://109.71.41.6:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Dueca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Elmo",
+					"stationLink": "http://centova.radios.pt:8463/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Elmo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Elvas",
+					"stationLink": "http://radios.dotsi.pt:8025/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Elvas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ESCALA",
+					"stationLink": "http://78.47.96.202:8112/index.html/;stream.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-ESCALA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Europa",
+					"stationLink": "http://shout2.lunabroadcasting.net:8050/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Europa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio EuroPub",
+					"stationLink": "http://servstationDetailor27.brlogic.com:8590/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/radio-europub-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio F",
+					"stationLink": "http://centova.radio.com.pt:8579/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-f-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex 5",
+					"stationLink": "https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_24137_stream_162136628",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Faustex-5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Bands",
+					"stationLink": "http://listen.radionomy.com/radiofaustexbands",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Faustex-Bands.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Oldies",
+					"stationLink": "http://listen.radionomy.com/radiofaustexoldies",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Faustex-Oldies.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Oldies 2",
+					"stationLink": "https://freeuk10.listen2myradio.com/live.mp3?typeportmount=s1_17777_stream_470056224",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-faustex-oldies-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Orchestres",
+					"stationLink": "http://listen.radionomy.com/radiofaustexorchestres",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Faustex-Orchestres.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Orchestres 2",
+					"stationLink": "http://78.129.222.70:18254/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/radio-faustex-orchestres-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Party",
+					"stationLink": "http://listen.radionomy.com/radiofaustexparty",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-faustex-party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Party 2",
+					"stationLink": "https://freeuk7.listen2myradio.com/live.mp3?typeportmount=s1_25813_stream_417935851",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-faustex-party-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Portuguese Music",
+					"stationLink": "http://listen.radionomy.com/radiofaustexportuguesemusic",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Faustex-Portuguese-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Portuguese Music 2",
+					"stationLink": "https://freeuk6.listen2myradio.com/live.mp3?typeportmount=s1_14926_stream_453116176",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-faustex-portuguese-music-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Relax",
+					"stationLink": "http://listen.radionomy.com/radiofaustexrelax",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Faustex-Relax.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faustex Relax 2",
+					"stationLink": "https://freeuk2.listen2myradio.com/live.mp3?typeportmount=s1_13105_stream_39854078",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-faustex-relax-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Felgueiras",
+					"stationLink": "http://centova.radios.pt:8459/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Felgueiras.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Festival",
+					"stationLink": "http://centova.radios.pt/proxy/520?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Festival.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Festival do Norte",
+					"stationLink": "http://centova.radios.pt/proxy/520?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-festival-do-norte-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Filhos Da Escola",
+					"stationLink": "http://176.9.43.216:8021/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-filhos-da-escola.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FM Hits Musical",
+					"stationLink": "http://176.9.43.216:8081/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-FM-Hits-Musical.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FM Viriato",
+					"stationLink": "http://centova.hostingfull.eu:2199/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/radio-fm-viriato.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Foia",
+					"stationLink": "http://link.radios.pt/radiofoia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-foia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Folclore",
+					"stationLink": "http://stm28.djhost.info:19164/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-folclore-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Forum Boticas",
+					"stationLink": "http://159.69.119.125:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Forum-Boticas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Foz Do Mondego",
+					"stationLink": "http://s5.myradiostream.com:16356/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-foz-do-mondego.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fundacao",
+					"stationLink": "http://46.105.172.166:8044/;stream.nsv&type=mp3&volume=100&autostart=true",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Fundacao.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Geice",
+					"stationLink": "http://centova.radios.pt:9448",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Geice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gilao",
+					"stationLink": "http://stream.radio.com.pt:9440/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Gilao.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gira O Mundo",
+					"stationLink": "http://46.4.94.39:9910/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-gira-o-mundo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gondomar Mix",
+					"stationLink": "http://95.217.75.38:9964/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/radio-gondomar-mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gospel Mais",
+					"stationLink": "http://hts03.kshost.com.br:8804/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/radio-gospel-mais-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Graciosa",
+					"stationLink": "http://178.32.239.25:8025/stream?1434190713538.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Graciosa1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Granada Portugal",
+					"stationLink": "http://centova.radios.pt:8549/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Granada-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Guadiana",
+					"stationLink": "http://95.217.75.38:9844/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-guadiana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio H2O",
+					"stationLink": "http://176.9.43.216:8314/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-h2o.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hitz",
+					"stationLink": "http://174.142.196.188:8018/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Hitz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Horizonte",
+					"stationLink": "http://195.8.58.150:35000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Horizonte.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio stationDetailA",
+					"stationLink": "http://79.143.184.242:9300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-stationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio stationDetaileias",
+					"stationLink": "http://stm30.srvstm.com:15018",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-stationDetaileias.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Imagens Do Fado",
+					"stationLink": "https://node-13.zeno.fm/tw7120m71mzuv.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/radio-imagens-do-fado.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rádio JM Jorginho Moreira",
+					"stationLink": "http://213.136.92.8:8042/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/rádio-jm-jorginho-moreira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jornal",
+					"stationLink": "http://stream.radio.com.pt:8537",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Jornal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio kapa",
+					"stationLink": "http://185.32.188.17:8036/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-kapa-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lafoes",
+					"stationLink": "http://centova.radios.pt:9564/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Lafoes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lagoa",
+					"stationLink": "http://centova.radios.pt:9488/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Lagoa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lando Music",
+					"stationLink": "http://144.76.58.102:9630/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Radio-Lando-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Latina mx",
+					"stationLink": "http://s1.xps-ip.eu:8050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/radio-latina-mx.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Leziria 89.1",
+					"stationLink": "http://213.136.92.8:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Leziria-89.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Liberdade Dili",
+					"stationLink": "http://sgp2.onlivestreaming.net:8132/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Liberdade-Dili.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Limite",
+					"stationLink": "http://centova.radio.com.pt:9408/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Limite.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Linear",
+					"stationLink": "http://213.136.92.8:8022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Linear.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lisbon RL1",
+					"stationLink": "http://se.fo:8000/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-lisbon-rl1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Litoral Oeste",
+					"stationLink": "http://94.23.76.235:9988/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Litoral-Oeste.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lousada",
+					"stationLink": "http://5.9.17.103:9992/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-lousada.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lumena",
+					"stationLink": "http://178.32.239.25:8018/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Lumena.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lusitania",
+					"stationLink": "http://rlcbdance.no-ip.org:8092/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Lusitania.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lusitania CB",
+					"stationLink": "http://rlcbdance.no-ip.org:8092/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Lusitania-CB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Luso Brasileira FM",
+					"stationLink": "http://176.9.43.216:8105/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-luso-brasileira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Madeira",
+					"stationLink": "http://87.117.201.152:20050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-madeira-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mais Musica",
+					"stationLink": "http://185.32.188.17:8012/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Radio-Mais-Musica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Manobras",
+					"stationLink": "http://stream.radiozero.pt:8000/radiomanobrasonlive.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/radio-manobras.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Marginal",
+					"stationLink": "http://centova.radios.pt:8499/stream?1434185875725.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/Radio-Marginal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Marinhais",
+					"stationLink": "http://213.136.92.8:8062/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Marinhais.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Marte Madeira",
+					"stationLink": "http://37.187.93.104:8010/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-marte-madeira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Medley",
+					"stationLink": "http://streaming.brazink.com:8010/;?ver=346137",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Medley.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mega FM",
+					"stationLink": "http://centova.hostingfull.eu:5878/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-mega-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mega Hits",
+					"stationLink": "http://19593.live.streamtheworld.com:3690/MEGA_HITSAAC_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Mega-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mega Sucesso FM",
+					"stationLink": "http://188.165.182.30:9984/;s.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Mega-Sucesso-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Megalusa",
+					"stationLink": "http://94.23.159.187:9994/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-megalusa.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MEO Music",
+					"stationLink": "http://centova.radios.pt/proxy/495?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-MEO-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Meo Sudoeste",
+					"stationLink": "http://centova.radios.pt:8495/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-Meo-Sudoeste.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Meruge",
+					"stationLink": "http://stream.zeno.fm/xcb8ph6thnruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-meruge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO METAL ON",
+					"stationLink": "http://radiometalon.com:8020/mp3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/radio-metal-on-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Metal On 80s HNH",
+					"stationLink": "http://radiometalon.com:8030/;80s128mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-metal-on-80s-hnh.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Metal On The Brutal",
+					"stationLink": "http://radiometalon.com:8010/aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-metal-on-the-brutal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Metal On The Heavy",
+					"stationLink": "http://radiometalon.com:8000/aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-metal-on-the-heavy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Metal On The Thrasher",
+					"stationLink": "http://radiometalon.com:8020/aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-metal-on-the-thrasher.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Metal On Total",
+					"stationLink": "http://radiometalon.com:8050/;total128mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-metal-on-total.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Metal On Toxic",
+					"stationLink": "http://radiometalon.com:8040/toxic128mp3/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/Radio-Metal-On-Toxic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mira FM",
+					"stationLink": "http://stream.codigosur.org:8000/radiomira.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Mira-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Miradouro",
+					"stationLink": "http://radio.miradouro.pt:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Miradouro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Miudos",
+					"stationLink": "http://109.71.41.6:8038/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-Miudos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Montalegre",
+					"stationLink": "http://link.radios.pt/radiomontalegre",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Montalegre.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Movimento Lisboa",
+					"stationLink": "http://ca5.rcast.net:8048/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-movimento-lisboa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mundo Da Dama",
+					"stationLink": "http://5.189.135.181:8050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/radio-mundo-da-dama.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO MUNDO RICKY FM",
+					"stationLink": "http://46.4.94.39:9434/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/radio-mundo-ricky-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Musica a Seu Gosto",
+					"stationLink": "http://s1.xps-ip.eu:8042/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radio-Musica-a-Seu-Gosto.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio My Place",
+					"stationLink": "http://5.9.17.124:9360/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-my-place.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nacional Portugal",
+					"stationLink": "http://94.23.76.235:9996",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Nacional-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio NFM Portugal",
+					"stationLink": "http://176.9.88.190:9992",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-NFM-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nine",
+					"stationLink": "http://66.7.214.22:8084/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/11/radio-nine-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio No Fear",
+					"stationLink": "http://88.198.72.46:9900",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-No-Fear.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Noar",
+					"stationLink": "http://centova.radio.com.pt:9472/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Noar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nostalgia Lisboa",
+					"stationLink": "http://link.radios.pt/nostalgia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Nostalgia-Lisboa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nostalgia Porto",
+					"stationLink": "http://centova.radios.pt:8435/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Nostalgia-Porto.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nova 98.9",
+					"stationLink": "http://centova.radios.pt:9528/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Nova-98.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nova Antena",
+					"stationLink": "http://radios.dotsi.pt:8023/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Nova-Antena.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nova CstationDetailade",
+					"stationLink": "http://94.23.76.235:9878/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Nova-CstationDetailade.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nova Era",
+					"stationLink": "http://centova.radios.pt:9478/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Nova-Era.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nove3Cinco",
+					"stationLink": "http://stream.radio.com.pt:9522",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Nove3Cinco.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Onda Lusa",
+					"stationLink": "http://95.217.75.38:9474/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-onda-lusa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Onda Mega",
+					"stationLink": "http://195.154.240.160:8006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Onda-Mega.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Onda Viva",
+					"stationLink": "http://link.radios.pt/radioondaviva",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Onda-Viva.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ondas de Portugal",
+					"stationLink": "http://144.76.58.102:9538/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/radio-ondas-de-portugal-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ondas Do Lima",
+					"stationLink": "http://centova.radios.pt:8407/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Ondas-Do-Lima.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ondas Na Praia",
+					"stationLink": "http://62.210.139.130:8028/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-ondas-na-praia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Online",
+					"stationLink": "http://185.32.188.17:8051/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Orbital",
+					"stationLink": "http://stream.zeno.fm/0f050ym1zqruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-orbital.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ovos Moles",
+					"stationLink": "http://5.9.17.103:9330/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Ovos-Moles.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Oxigenio",
+					"stationLink": "http://176.9.92.205/oxigenio_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Oxigenio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Paixao Secreta",
+					"stationLink": "http://5.135.59.46:9302/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Paixao-Secreta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Paraquedistas",
+					"stationLink": "http://46.4.94.39:9756/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-paraquedistas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pax",
+					"stationLink": "http://centova.radio.com.pt:9484/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Pax.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pico 100.2",
+					"stationLink": "http://centova.radios.pt:9420/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Pico-100.2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pinhoense",
+					"stationLink": "http://144.76.58.102:9464/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-pinhoense.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO PLACARD",
+					"stationLink": "http://213.239.218.99:7098/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/RADIO-PLACARD.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Planicie",
+					"stationLink": "http://109.71.41.250:8024",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Planicie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PMA",
+					"stationLink": "http://185.32.188.17:8018/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-PMA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Popular Afifense",
+					"stationLink": "http://centova.radios.pt:8471/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Popular-Afifense.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Porto FM",
+					"stationLink": "http://195.154.176.199:8129/mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Porto-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Portuense Online",
+					"stationLink": "http://88.198.72.46:9848/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Portuense-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Portugal Alem Mar",
+					"stationLink": "http://85.25.217.30:80/afr128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/radio-portugal-alem-mar-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Praia",
+					"stationLink": "http://radiopraia.no-ip.biz:8080/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Praia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Promove Portugal",
+					"stationLink": "https://www.evsportugal.com/radiopromoveportugal/player.php/mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Promove-Portugal-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Radar",
+					"stationLink": "https://scast1.evspt.com/radar_aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Radar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RCS",
+					"stationLink": "http://link.radios.pt/clubedesintra/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-RCS.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Record FM",
+					"stationLink": "http://213.239.218.99:7025",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/RecordFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Recoveiro",
+					"stationLink": "http://50.7.130.2:13044/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Recoveiro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Refugio Do Emigrante",
+					"stationLink": "http://88.198.72.46:9878/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Refugio-Do-Emigrante.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regiao de Basto",
+					"stationLink": "http://46.105.172.166:8104",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Regiao-De-Basto.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Braganca",
+					"stationLink": "http://streaming.radioregional.pt:8012/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-Braganca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Chaves e Mirandela",
+					"stationLink": "http://streaming.radioregional.pt:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-Chaves-e-Mirandela.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Dance and DJs",
+					"stationLink": "http://streaming.radioregional.pt:8064/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-Dance-and-DJs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional de Arouca",
+					"stationLink": "http://link.radios.pt/regionaldearouca",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-regional-de-arouca.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Love Songs",
+					"stationLink": "http://streaming.radioregional.pt:8058/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-Love-Songs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional National",
+					"stationLink": "http://streaming.radioregional.pt:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-National.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Oldies 80s",
+					"stationLink": "http://streaming.radioregional.pt:8052/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-Oldies-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Portugal",
+					"stationLink": "http://streaming.radioregional.pt:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Regional-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Portuguse Tematica",
+					"stationLink": "http://streaming.radioregional.pt:8040/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-Portuguse.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Rock",
+					"stationLink": "http://streaming.radioregional.pt:8046/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Regional Vila Real",
+					"stationLink": "http://streaming.radioregional.pt:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Regional-Vila-Real.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Renaissance",
+					"stationLink": "http://7719.live.streamtheworld.com/RADIO_RENASCENCAAAC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-renaissance-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Renascenca",
+					"stationLink": "https://21283.live.streamtheworld.com/RADIO_RENASCENCA.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-renascenca.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Riba Tavora",
+					"stationLink": "http://centova.radios.pt:9542/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-riba-tavora.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ritmos FM",
+					"stationLink": "http://192.99.18.13:8233/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Ritmos-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ritmos Kalientes de Portugal",
+					"stationLink": "http://192.99.18.13:8233/autodj",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-ritmos-kalientes-de-portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RLCB Tuga",
+					"stationLink": "http://stm40.srvstm.com:8272/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-RLCB-Tuga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rock",
+					"stationLink": "http://148.251.253.98:9820/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-rock-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Santiago LD",
+					"stationLink": "http://195.154.176.199:8044/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Santiago-LD.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Satao",
+					"stationLink": "http://centova.radios.pt:9468/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/radio-satao.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Saturno",
+					"stationLink": "http://radiosaturno.dyndns.org:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-saturno-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sensacoes",
+					"stationLink": "http://centova.hostingfull.eu:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-sensacoes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SFM",
+					"stationLink": "http://94.23.76.235:9976",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-SFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SIM",
+					"stationLink": "https://19553.live.streamtheworld.com/RADIO_SIM_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-sim.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sines",
+					"stationLink": "http://176.9.88.190:9580/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-sines-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sintonia Total",
+					"stationLink": "http://5.9.17.124:9360/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Radio-Sintonia-Total.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sintra Clube",
+					"stationLink": "http://46.105.172.166:9300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Sintra-Clube.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Solar 94 FM",
+					"stationLink": "http://5.189.189.245:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-solar-94-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Som Do Alentejo",
+					"stationLink": "http://s1.xps-ip.eu:8082/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Som-Do-Alentejo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sons do Sul",
+					"stationLink": "http://hts04.kshost.com.br:10106/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Sons-do-Sul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Star Mix FM",
+					"stationLink": "http://5.9.17.124:9360/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-star-mix-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Super Mundo Paulo Pintao",
+					"stationLink": "http://95.217.75.38:9392/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-super-mundo-paulo-pintao.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Susanense",
+					"stationLink": "http://s1.xps-ip.eu:8068/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Susanense.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ta Ligado",
+					"stationLink": "http://5.9.14.150:9316/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-ta-ligado.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio TerraNova",
+					"stationLink": "http://centova.radios.pt:9404/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-TerraNova.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Terras De Portugal",
+					"stationLink": "http://109.71.41.230:9968/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-terras-de-portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Top 60 Olhao",
+					"stationLink": "http://95.217.75.38:9658/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/radio-top-60-olhao-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Triangulo",
+					"stationLink": "http://streaming.radionomy.com/Triangulo?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Triangulo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tuga Team",
+					"stationLink": "http://s1.xps-ip.eu:8032/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Tuga-Team.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tuga Twist",
+					"stationLink": "http://46.4.94.39:9510/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/radio-tuga-twist.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tulipas Do Amor",
+					"stationLink": "http://46.4.94.39:9306/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Tulipas-Do-Amor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio UniversstationDetailade de Coimbra",
+					"stationLink": "http://ruc2.cstationDetailadedecoimbra.com:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-UniversstationDetailade-de-Coimbra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Universo Top 10",
+					"stationLink": "http://95.217.75.38:9346/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/radio-universo-top-10.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Utopia",
+					"stationLink": "http://109.71.41.6:8034/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-utopia.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Valdevez",
+					"stationLink": "http://centova.radios.pt:9508/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Valdevez.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Valenca",
+					"stationLink": "http://centova.radios.pt:9508/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Valenca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vertente",
+					"stationLink": "http://46.105.172.166:6014",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Vertente.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio VstationDetailigueira",
+					"stationLink": "http://centova.radios.pt:8567/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-VstationDetailigueira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Virus do Amor",
+					"stationLink": "http://88.198.72.46:9854",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Virus-do-Amor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Viva Portugal",
+					"stationLink": "http://88.198.72.46:9920/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/RADIO-VIVA-PORTUGAL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vizela",
+					"stationLink": "http://109.71.41.6:8100/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Vizela.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz Da Planicie",
+					"stationLink": "http://centova.radios.pt:8441/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-voz-da-planicie-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz da Ria",
+					"stationLink": "http://centova.radios.pt:8541/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Voz-da-Ria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz de Alenquer",
+					"stationLink": "http://centova.radios.pt:8479",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Voz-de-Alenquer.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz do Caima",
+					"stationLink": "http://ample-zeno-21.radiojar.com/qm4yc4zkkuquv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Voz-do-Caima.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz Do Marao",
+					"stationLink": "http://213.136.92.8:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Voz-Do-Marao.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz Do Sorraia",
+					"stationLink": "http://centova.radios.pt:8511/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-voz-do-sorraia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz Lusitana",
+					"stationLink": "http://162.210.196.142:31043/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Voz-Lusitana-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz Lusitana RVL",
+					"stationLink": "http://01.streamingcast.com.br:27962/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/radio-voz-lusitana-rvl-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Voz Santo Tirso",
+					"stationLink": "http://213.136.92.8:8034/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/radio-voz-santo-tirso.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vozes Portuguesas",
+					"stationLink": "http://eu2.fastcast4u.com:4312/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Radio-Vozes-Portuguesas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Xonados Por Musica",
+					"stationLink": "http://62.210.139.130:8090/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-Xonados-Por-Musica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zero",
+					"stationLink": "http://stream.radiozero.pt:8000/zero128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Zero.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zero FM 104.1",
+					"stationLink": "http://stream.radiozero.pt/zero128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-zero-fm-104.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadiOeste",
+					"stationLink": "http://176.9.88.190:9500/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/RadiOeste.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radiomar",
+					"stationLink": "http://centova.radios.pt:9438/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radiomar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raia FM",
+					"stationLink": "http://94.23.62.189:5308/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Raia-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RC Mafra",
+					"stationLink": "http://centova.radios.pt:8551/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/RC-Mafra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RCL FM",
+					"stationLink": "http://178.32.239.25:8128/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/RCL-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RCP FM",
+					"stationLink": "http://94.23.76.235:9980/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/RCP-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rcp Var",
+					"stationLink": "http://rcpvar.org:8558/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Rcp-Var.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RD Zonline Radio",
+					"stationLink": "http://listen.radionomy.com/rdzonline?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/RD-Zonline-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDP Acores",
+					"stationLink": "http://radiocast.rtp.pt/antena1acores80a.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RDP-Acores.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDP Internacional",
+					"stationLink": "http://radiocast.rtp.pt/rdpint80a.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RDP-Internacional.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDP Madeira 1",
+					"stationLink": "http://radiocast.rtp.pt/antena1madeira80a.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/RDP-Madeira-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDS Radio 87.6",
+					"stationLink": "http://51.255.118.192:8020/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RDS-Radio-87.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Refugio Do Emigrante",
+					"stationLink": "http://95.217.75.38:9888/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/refugio-do-emigrante-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Remember Dance Radio",
+					"stationLink": "http://listen.radionomy.com/rememberdanceradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Remember-Dance-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Res Fm",
+					"stationLink": "http://109.71.41.6:8139/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Res-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFM 80s",
+					"stationLink": "http://19613.live.streamtheworld.com/GR80SRFM_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RFM-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFM Clubbing",
+					"stationLink": "http://19553.live.streamtheworld.com/RFMAAC_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RFM-Clubbing.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFM Oceano Pacifico",
+					"stationLink": "http://19553.live.streamtheworld.com:3690/OCEANPACIFIC_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RFM-Oceano-Pacifico.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFM Radio",
+					"stationLink": "http://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/RFM-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ribatejo FM",
+					"stationLink": "http://46.105.172.166:9302/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Ribatejo-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RLCB Dance",
+					"stationLink": "http://lusitaniacb.duckdns.org:8431/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RLCB-Dance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RnB Hits Radio",
+					"stationLink": "https://streamingv2.shoutcast.com/rnb-hits-radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/RnB-Hits-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rodinhas e Amigos",
+					"stationLink": "http://94.23.76.235:9984",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Rodinhas-e-Amigos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rossio Radio",
+					"stationLink": "http://listen.radionomy.com/rossio-radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Rossio-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Roxx 2 Metal",
+					"stationLink": "https://listen6.myradio24.com/6359",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Roxx-2-Metal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RPB Radio Portugal Brasil",
+					"stationLink": "http://mcrscast1.mcr.iol.pt/comercial.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/RPB-Radio-Portugal-Brasil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RRS 88.1",
+					"stationLink": "http://centova.radios.pt:8117",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/RRS-88.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RUA FM",
+					"stationLink": "http://centova.radios.pt:9536/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/RUA-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RUC Radio",
+					"stationLink": "http://ruc.mstationDetaili-club.net:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/RUC-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RUM Radio",
+					"stationLink": "http://link.radios.pt/rum",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/RUM-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RVE 93.1 FM",
+					"stationLink": "http://188.93.234.135:8001/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/RVE-93.1-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sagres FM",
+					"stationLink": "http://www.sagresfm.pt:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Sagres-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Santiago FM",
+					"stationLink": "http://94.23.36.117:5002/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Santiago-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sesimbra FM",
+					"stationLink": "http://centova.radios.pt:9444/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Sesimbra-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Setubal Web Radio",
+					"stationLink": "http://78.47.96.202:8172",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Setubal-Web-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Silver Radio Portugal",
+					"stationLink": "http://b0ne.hopto.org:8443/silveradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/silver-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Singa FM",
+					"stationLink": "http://centova.radio.com.pt:8487",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Singa-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sobrosa Radio Net",
+					"stationLink": "http://stream.zeno.fm/rne47pxm5bruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/sobrosa-radio-net.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Soulful Chic Classics",
+					"stationLink": "http://178.32.239.25:8187/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Soulful-Chic-Classics.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Soulful Chic Radio",
+					"stationLink": "http://178.32.239.25:8193/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Soulful-Chic-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sounds of 80 and 90",
+					"stationLink": "http://shaincast.caster.fm:20113/listen.mp3?authn557e727a67afb350ab014924d20f8e7c",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/sounds-of-80-and-90.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Street Life",
+					"stationLink": "http://listen.radionomy.com/streetlife",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Street-Life.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sunshine Radio Portugal",
+					"stationLink": "http://lunasunshine.lunabroadcasting.net/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Sunshine-Radio-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super FM Portugal",
+					"stationLink": "http://5.9.14.150:9302/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Super-FM-104.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tejo Radio Jornal",
+					"stationLink": "http://centova.radio.com.pt:8531/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/tejo-radio-jornal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Terra Nova FM",
+					"stationLink": "http://centova.radios.pt:9404/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Terra-Nova-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Terra Quente FM",
+					"stationLink": "http://centova.radio.com.pt:9402/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Terra-Quente-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Fashion Radio",
+					"stationLink": "https://servstationDetailor18-2.brlogic.com:7682/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/the-fashion-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Vibe Dancefloor Radio",
+					"stationLink": "http://109.71.41.6:8046/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/The-VIBE-Dancefloor-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TLA Radio",
+					"stationLink": "http://centova.radio.com.pt:8545/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/TLA-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Top FM Sao Miguel",
+					"stationLink": "http://195.8.58.150:35006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Top-FM-Sao-Miguel.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Top FM Terceira",
+					"stationLink": "http://212.83.138.48:8636/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Top-FM-Terceira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Torres Novas FM",
+					"stationLink": "http://centova.radios.pt:8475/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Torres-Novas-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Total FM",
+					"stationLink": "http://176.61.144.80:9300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Total-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tropical FM 95.3",
+					"stationLink": "http://radio1.suaradionanet.net:10308/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Tropical-FM-95.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TSF Radio",
+					"stationLink": "http://tsfdirecto.tsf.pt/tsfdirecto.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/tsf-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ultra FM",
+					"stationLink": "http://centova.radios.pt:9506/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Ultra-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Underground Rotations Radio",
+					"stationLink": "https://stream.zenolive.com/da7tkbmwnwzuv.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Underground-Rotations-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UniversstationDetailade FM",
+					"stationLink": "http://centova.radios.pt:8405/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/UniversstationDetailade-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Urban Designs",
+					"stationLink": "http://87.98.131.132:9000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Urban-Designs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vagos FM",
+					"stationLink": "http://213.239.218.99:7010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Vagos-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VFM 94.6",
+					"stationLink": "http://46.105.172.166:8093",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/VFM-94.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibe FM Portugal",
+					"stationLink": "http://212.129.43.63:9310/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Vibe-FM-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VstationDetaila FM 97.1",
+					"stationLink": "http://centova.radios.pt:9482",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/VstationDetaila-FM-97.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VIVA 80 Radio",
+					"stationLink": "http://streaming.radionomy.com/VIVA80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/VIVA-80-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vodafone FM",
+					"stationLink": "http://195.23.102.207/vodafone?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Vodafone-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Warfare Radio",
+					"stationLink": "http://109.71.41.250:8195",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Warfare-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WaveFM",
+					"stationLink": "http://176.9.43.216:8300/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Wave-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Web Radio Portugal Mix",
+					"stationLink": "http://78.47.96.202:8007/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Web-Radio-Portugal-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Web Radio Tuga Tech",
+					"stationLink": "http://listen.radionomy.com/tugatech",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Web-Radio-Tuga-Tech.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "World of Metal",
+					"stationLink": "http://188.165.237.19:8270/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/World-of-Metal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XFM Portugal",
+					"stationLink": "http://streaming.radionomy.com/XFMPortugal?lang=pt-PT%2cpt%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7%2cro%3bq%3d0.6%2ces%3bq%3d0.5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/XFM-Portugal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Xtrabeat Radio",
+					"stationLink": "http://streaming.radionomy.com/Xtrabeatradiocom",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Xtrabeat-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

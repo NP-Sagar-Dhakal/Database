@@ -1,0 +1,155 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Afghan Radio",
+					"stationLink": "https://streamingv2.shoutcast.com/afghan-radio--station",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Afghan-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arakozia FM",
+					"stationLink": "http://158.69.225.238:4723/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/arakozia-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ariana FM",
+					"stationLink": "https://streams.radio.co/sa3345aaa8/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/ariana-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arman FM",
+					"stationLink": "http://158.69.225.238:3953/Live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/arman-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ATN News FM",
+					"stationLink": "https://streams.radio.co/sb55071395/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/ATN-News-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bakhtar Radio",
+					"stationLink": "http://uk3-pn.webcast-server.net:8424/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/bakhtar-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BBC Pashto",
+					"stationLink": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-pasha",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/BBC-pashto-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BFBS Afghanistan",
+					"stationLink": "http://icy-e-01-cr.sharp-stream.com/ssvcbfbs9.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/bfbs-afghanistan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Enikass Radio",
+					"stationLink": "http://103.116.25.214:8000/enikassradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/enikass-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hamsada Afghan Radio",
+					"stationLink": "http://50.7.77.114:8416/;?.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Hamsada-Afghan-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nawa Radio",
+					"stationLink": "http://nawaradio.primcast.com:4098/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/nawa-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Neshat FM",
+					"stationLink": "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s2_34826_stream_119142550",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/neshat-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pamir Radio",
+					"stationLink": "http://radio.pamir.cloud:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/pamir-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio KillstationDetail",
+					"stationLink": "http://s1.voscast.com:7886/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/radio-killstationDetail.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Salam Watandar",
+					"stationLink": "http://s10.myradiostream.com:12238/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/radio-salam-watandar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sedaye Zandegi",
+					"stationLink": "https://afghanradio.org:9443/stream/1;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-sedaye-zandegi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Srood",
+					"stationLink": "http://stream.cloud.radiosrood.com:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-Srood.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Spogmai Radio",
+					"stationLink": "http://ca10.rcast.net:8026/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Spogmai-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Taleemul Islam Farah",
+					"stationLink": "http://ice31.securenetsystems.net/TMR",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Taleemul-Islam-Farah.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Taleemul Islam Radio",
+					"stationLink": "http://ice31.securenetsystems.net/TMR",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Taleemul-Islam-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Taleemul Quran Radio",
+					"stationLink": "http://aradio.aryanict.com:9332/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Taleemul-Quran-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

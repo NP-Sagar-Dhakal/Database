@@ -1,0 +1,2381 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "101.1 Lite FM",
+					"stationLink": "http://live.litefm.se:8000/stream_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/101.1-Lite-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "102.6 Guldkanalen",
+					"stationLink": "http://stream.dbmedia.se/gk96?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/102.6-Guldkanalen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "24/7 Continuous Music",
+					"stationLink": "http://198.101.15.90:8037/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/247-Continuous-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "88OR",
+					"stationLink": "http://streaming.radionomy.com/88OR",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/88OR.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ADELE FROM 19 TO 25",
+					"stationLink": "http://wr19-icecast.mtg-r.net/wr19_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/adele-from-19-to-25.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alfdeejay Radio",
+					"stationLink": "http://us3.ishout.net:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/alfdeejay-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Allswell Radio",
+					"stationLink": "http://198.100.145.185:8592/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Allswell-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AreRadio",
+					"stationLink": "http://radio.aremedia.se:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/AreRadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AssyrianMp3 Radio",
+					"stationLink": "http://79.142.67.91:9998/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/assyrianmp3-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bananradion",
+					"stationLink": "http://bananradion.bananklubben.se:8086/radio/8000/bananradion.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/bananradion-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bandit Classic Rock",
+					"stationLink": "https://wr11-ice.stream.khz.se/wr11_mp3?platform=web&aw_0_1st.playerstationDetail=mtgradio-web&aw_0_1st.skey=1592302494",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/bandit-classic-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bandit Classics",
+					"stationLink": "http://wr11-ice.stream.khz.se/wr11_mp3?platform=web&aw_0_1st.playerstationDetail=mtgradio-web&aw_0_1st.skey=1576574706",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Bandit-Classics.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bandit Metal",
+					"stationLink": "http://fm02-icecast.mtg-r.net/fm02_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Bandit-Metal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bandit Rock",
+					"stationLink": "https://fm02-ice.stream.khz.se/fm02_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Bandit-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Best Music Ever",
+					"stationLink": "http://193.234.205.212:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Best-Music-Ever.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BitJam Radio",
+					"stationLink": "http://marmalade.scenesat.com:8086/bitjam.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/BitJam-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BollywoodBio LIVE",
+					"stationLink": "http://cora.cdnstream.com/1925_192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/bollywoodbio-live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Boras Narradio",
+					"stationLink": "http://lyssna.fnf.nu:8080/radioboras.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Boras-Narradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Boz Radio",
+					"stationLink": "http://edge2-b.exa.live365.net/a80252",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/boz-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BPM Malmo",
+					"stationLink": "https://streamer.radio.co/sac2d40aab/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/bpm-malmo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BRPSA Radio",
+					"stationLink": "http://www.live365.com/play/brpsaradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/BRPSA-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "C&S Radio",
+					"stationLink": "http://streaming.radionomy.com/JamendoLounge",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/CS-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cannonball Rock Radio",
+					"stationLink": "http://91.121.157.114:8421",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Cannonball-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cityradion",
+					"stationLink": "http://83.209.34.106:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Cityradion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Clubalicious Radio",
+					"stationLink": "https://listen.radioking.com/radio/319832/stream/367451",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/clubalicious-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Country Classics",
+					"stationLink": "https://wr14-ice.stream.khz.se/wr14_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/country-classics.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Country Rocks Radio",
+					"stationLink": "http://stream.dbmedia.se/crr96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Country-Rocks-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Countrykanalen Radio",
+					"stationLink": "http://eu2.fastcast4u.com:3326/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/countrykanalen-radio-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Crystal One Talk",
+					"stationLink": "http://neptune.crystalone.net:8000/music.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Crystal-One-Talk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dagnys Jukebox",
+					"stationLink": "http://streaming2.nordblommedia.se:443/dagny.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Dagnys-Jukebox.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance 88.3",
+					"stationLink": "http://radio.itconnect.se/rb3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/dance-88.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dansbands Favoriter",
+					"stationLink": "https://wr15-ice.stream.khz.se/wr15_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/dansbands-favoriter.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dansbandsdax",
+					"stationLink": "http://sc.dbd.nu:8358/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Dansbandsdax.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dansbandskanalen",
+					"stationLink": "http://stream.dbmedia.se/dbk96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/dans-bands-kanalen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dansbandskanalen Julmusik",
+					"stationLink": "http://stream.dbmedia.se/dbkjul96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Dansbandskanalen-Julmusik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dansbandsradio",
+					"stationLink": "http://lyssna.vimla-tipslank.se:80/320.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/dansbandsradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Din Gata",
+					"stationLink": "http://http-live.sr.se/dingata-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Din-Gata.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Din Gata 100.6",
+					"stationLink": "http://http-live.sr.se/dingata-aac-96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Din-Gata-100.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Direkt Fran Betongen",
+					"stationLink": "http://51.255.129.13:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Direkt-Fran-Betongen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DistFM Web Rock Radio",
+					"stationLink": "http://185.80.220.12/proxy/distfmsam192?mp=/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/distfm-web-rock-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dixie Radio 107.9",
+					"stationLink": "http://stream.radiojar.com/szhd6x2wb3vtv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/dixie-radio-107.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dj Lobo Radio",
+					"stationLink": "http://streaming.xtservers.com:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/dj-lobo-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dunken FM 108.5",
+					"stationLink": "http://stream.nsp.se:8000/DFM_MP3_Hi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/dunken-fm-108.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "East FM",
+					"stationLink": "http://stream.dbmedia.se/eastfm96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/East-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Electro Lounge",
+					"stationLink": "https://wr16-ice.stream.khz.se/wr16_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/electro-lounge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Finlandia Radio",
+					"stationLink": "http://musiikki.finlandiaseura.com:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Finlandia-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FK FM",
+					"stationLink": "http://streaming.radionomy.com/FKFM?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/FK-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FMiV",
+					"stationLink": "http://46.17.184.39:8000/airtime_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/fmiv.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FMSS Radio",
+					"stationLink": "http://stream.radio.co/scb933782f/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/FMSS-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fun Radio 95.3",
+					"stationLink": "http://stream.funradio.se:81/live192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Fun-Radio-95.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gamla Favoriter",
+					"stationLink": "https://wr09-ice.stream.khz.se/wr09_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/gamla-favoriter.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GBS-FM Goon Radio",
+					"stationLink": "https://gbs.fm/256",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/gbs-fm-goon-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gimme Indie",
+					"stationLink": "http://217.115.44.177:8000/07.mp3.indie?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Gimme-Indie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GNF Radio",
+					"stationLink": "http://lyssna.fnf.nu:8080/gnf094.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/GNF-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gold 102.4",
+					"stationLink": "http://gold24.xnk.nu:8080",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Gold-102.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GrstationDetail Stream Productions",
+					"stationLink": "https://listen.sonixcast.com/CSNX-8100",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/GrstationDetail-Stream-Productions.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guldkanalen 60 tal",
+					"stationLink": "http://stream.dbmedia.se/gk60tal96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Guldkanalen-60-tal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guldkanalen 70 tal",
+					"stationLink": "http://stream.dbmedia.se/gk70tal96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Guldkanalen-70-tal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guldkanalen 80 tal",
+					"stationLink": "http://stream.dbmedia.se/gk80tal96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Guldkanalen-80-tal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guldkanalen 90 tal",
+					"stationLink": "http://stream.dbmedia.se/gk90tal96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Guldkanalen-90-tal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guldkanalen Fm",
+					"stationLink": "http://stream.dbmedia.se/gkMP3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Guldkanalen-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hallsta Sura Narradio",
+					"stationLink": "http://s16.myradiostream.com:6630",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Hallsta-Sura-Narradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Halmstad NarRadio",
+					"stationLink": "http://81.233.31.238:8000/;?",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Halmstad-NarRadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Halmstad Sommarradio",
+					"stationLink": "http://192.165.96.9:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Halmstad-Sommarradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HamsafarRadio",
+					"stationLink": "http://streaming.shoutcast.com/Hamsafarradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/hamsafarradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Helsingborgs Narradio",
+					"stationLink": "http://server.pmradio.se:8010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Helsingborgs-Narradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit 24 Fm",
+					"stationLink": "http://192.184.9.158:8309",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Hit-24-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit City Radio",
+					"stationLink": "http://89.160.63.63/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Hit-City-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HitNet",
+					"stationLink": "http://78.31.65.20:8080/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/hitnet.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitz FM 97.8",
+					"stationLink": "http://85.8.35.213:88/broadwavehigh.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Hitz-FM-97.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hoganas Narradio",
+					"stationLink": "http://server.pmradio.se:10000/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/hoganas-narradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ICPRM Radio Sweden",
+					"stationLink": "https://node-29.zeno.fm/kybydz65sfeuv?rj-ttl=5&rj-tok=AAABbyzsvoYArZ1WbODYjO4ceA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/icprm-radio-sweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Indie 101",
+					"stationLink": "https://wr05-ice.stream.khz.se/wr05_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/indie-101.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jam FM Sweden",
+					"stationLink": "http://listen.jamfm.se/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Jam-FM-Sweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Järfälla Radio",
+					"stationLink": "http://www.jfasandare.se:8000/test.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/järfälla-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jennebo Radio",
+					"stationLink": "http://edge.mixlr.com/channel/atvcm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/jennebo-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JVNF - Järva-Västerorts Närradioförening",
+					"stationLink": "https://14833.live.streamtheworld.com/SAM10AAC134_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/jvnf-järva-västerorts-närradioförening.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "K103",
+					"stationLink": "http://130.241.172.94:8080/icestream96.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/K103.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kanal Rewind",
+					"stationLink": "http://radio.euronet.nu:8000/;stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/kanal-rewind.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kanon FM",
+					"stationLink": "http://85.227.87.176:8000/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Kanon-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss FM Live",
+					"stationLink": "http://andromeda.shoutca.st:8396/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Kiss-FM-Live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "kiss FM Sweden",
+					"stationLink": "https://s9.myradiostream.com/45162/;?type=http&nocache=1581488984?0.45990785856521965",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/kiss-fm-sweden-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KN Radio",
+					"stationLink": "http://85.17.122.32:8013/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/KN-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kohina Radio",
+					"stationLink": "http://www.deliancourt.org:8000/stream.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/kohina-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kurd Mix",
+					"stationLink": "http://solstationDetail55.streamupsolutions.com:32000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/kurd-mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ljungbykanalen",
+					"stationLink": "http://lyssna.ljungbykanalen.se/lkweb",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Ljungbykanalen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lugna Favoriter",
+					"stationLink": "https://fm03-ice.stream.khz.se/fm03_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Lugna-Favoriter.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lugna Klassiker",
+					"stationLink": "https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/lugna-klassiker.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lyve Radio",
+					"stationLink": "http://lyveradio.ml:8888/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Lyve-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mas FM Sweden",
+					"stationLink": "https://studio22.radiolize.com/radio/8090/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/mas-fm-sweden-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mittradion",
+					"stationLink": "http://stream.ueteknik.se:8000/mittradion?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Mittradion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix Megapol",
+					"stationLink": "http://edge-bauersefm-07-cr.sharp-stream.com/mixmegapolgbg_instream_se_mp3?",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Mix-Megapol.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix Megapol Goteborg",
+					"stationLink": "http://194.16.21.227/mix_gbg_se_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Mix-Megapol-Goteborg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix Megapol Malmo",
+					"stationLink": "http://194.16.21.227/mix_gbg_se_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Mix-Megapol-Malmo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MNF Radio",
+					"stationLink": "http://webbradio1.intinor.se:8000/mnf.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/MNF-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MRS 90.5 FM",
+					"stationLink": "http://radiostreamone.mine.nu:9050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/MRS-90.5-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MusikMixense",
+					"stationLink": "https://http-live.sr.se/p3-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/musikmixense.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nacka Rockers Kommunal Radio",
+					"stationLink": "http://81.228.196.20:80/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Nacka-Rockers-Kommunal-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nanan Radio",
+					"stationLink": "http://s1.wohooo.net:8971",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Nanan-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NERadio",
+					"stationLink": "http://bigbrother.dinmamma.be:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/neradio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NERadio Hardstyle",
+					"stationLink": "http://load.hardstyle.nu:443",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/NERadio-Hardstyle.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NERadio House and Trance",
+					"stationLink": "http://fire1.neradio.com",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/NERadio-House-and-Trance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NERadio Nonstop",
+					"stationLink": "http://disc.neradio.fm:5500/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/NERadio-Nonstop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nordic Vibrations",
+					"stationLink": "http://neon.wavestreamer.com:6767",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Nordic-Vibrations.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NRJ Sweden",
+					"stationLink": "http://edge-bauersefm-04-cr.sharp-stream.com/nrj_instreamtest_se_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/NRJ-Sweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One FM Sweden",
+					"stationLink": "http://217.198.148.101:7128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/One-FM-Sweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One Hit Wonders",
+					"stationLink": "https://wr18-ice.stream.khz.se/wr18_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/one-hit-wonders.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P1 Radio",
+					"stationLink": "http://http-live.sr.se/p1-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/P1-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P2 Klassiskt",
+					"stationLink": "https://http-live.sr.se/p2musik-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/P2-Klassiskt.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P2 Musik",
+					"stationLink": "http://http-live.sr.se/p2musik-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/P2-Musik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P2 Riks",
+					"stationLink": "http://http-live.sr.se/p2musik-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P2-Riks.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P3 Din Gata",
+					"stationLink": "http://http-live.sr.se/dingata-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P3-Din-Gata.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P3 Star FM",
+					"stationLink": "http://stm1.rthk.hk/radio2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/p3-star-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P3 Sveriges Radio",
+					"stationLink": "http://http-live.sr.se/p3-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/p3-sveriges-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Blekinge",
+					"stationLink": "http://http-live.sr.se/p4blekinge-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/P4-Blekinge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Goteborg",
+					"stationLink": "http://http-live.sr.se/p4goteborg-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Goteborg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Gotland",
+					"stationLink": "http://http-live.sr.se/p4gotland-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/P4-Gotland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Halland",
+					"stationLink": "http://http-live.sr.se/p4halland-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Halland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Jamtland",
+					"stationLink": "http://http-live.sr.se/p4jamtland-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Jamtland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Jonkoping",
+					"stationLink": "http://http-live.sr.se/p4jonkoping-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Jonkoping.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Kalmar",
+					"stationLink": "http://http-live.sr.se/p4kalmar-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Kalmar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Kristianstad",
+					"stationLink": "http://http-live.sr.se/p4kristianstad-mp3-128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Kristianstad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Kronoberg",
+					"stationLink": "http://http-live.sr.se/p4kronoberg-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Kronoberg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Malmohus",
+					"stationLink": "http://http-live.sr.se/p4malmo-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/P4-Malmohus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Norrbotten",
+					"stationLink": "http://http-live.sr.se/p4norrbotten-mp3-128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Norrbotten.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Orebro",
+					"stationLink": "http://http-live.sr.se/p4orebro-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/P4-Orebro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Ostergotland",
+					"stationLink": "http://http-live.sr.se/p4ostergotland-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/P4-Ostergotland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Plus",
+					"stationLink": "http://http-live.sr.se/srextra17-mp3-128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/P4-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Sjuharad",
+					"stationLink": "http://http-live.sr.se/p4sjuharad-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Sjuharad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Skaraborg",
+					"stationLink": "http://http-live.sr.se/p4skaraborg-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Skaraborg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Sormland",
+					"stationLink": "http://http-live.sr.se/p4sormland-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Sormland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Stockholm",
+					"stationLink": "http://http-live.sr.se/p4stockholm-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/P4-Stockholm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Uppland",
+					"stationLink": "http://http-live.sr.se/p4uppland-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/P4-Uppland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Varmland",
+					"stationLink": "http://http-live.sr.se/p4varmland-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Varmland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Vast",
+					"stationLink": "http://http-live.sr.se/p4vast-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/P4-Vast.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Vasterbotten",
+					"stationLink": "http://http-live.sr.se/p4vasterbotten-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/P4-Vasterbotten.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Vasternorrland",
+					"stationLink": "http://http-live.sr.se/p4vasternorrland-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Vasternorrland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P4 Vastmanland",
+					"stationLink": "http://http-live.sr.se/p4vastmanland-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P4-Vastmanland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "P5 STHLM",
+					"stationLink": "http://http-live.sr.se/p5sthlm-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/P5-STHLM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pirate Rock 95.4 FM",
+					"stationLink": "http://stream.piraterock.se:8101/webradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Pirate-Rock-95.4-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pite FM",
+					"stationLink": "http://pitefmstream.ltu.se:8000/pitefm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Pite-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Playdio",
+					"stationLink": "http://media-kna.playdio.se:80",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Playdio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Polarlicht",
+					"stationLink": "https://polarlicht.stream.laut.fm/polarlicht?t302=2019-03-13_10-27-16&uustationDetail=54be6fc0-3c35-4d69-9e77-5af567ff9eae",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/polarlicht.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pop and Rock",
+					"stationLink": "http://stream.ueteknik.se:8000/poporock",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Pop-and-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pop And Rock Music Radio",
+					"stationLink": "http://listen.radionomy.com/popandrockmusicradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Pop-And-Rock-Music-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power Club",
+					"stationLink": "https://wr06-ice.stream.khz.se/wr06_mp3?platform=web&aw_0_1st.playerstationDetail=mtgradio-web&aw_0_1st.skey=1592300361",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/power-club.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power Millennium",
+					"stationLink": "https://wr19-ice.stream.khz.se/wr19_mp3?platform=web&aw_0_1st.playerstationDetail=mtgradio-web&aw_0_1st.skey=1592307700",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/power-millennium.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power Street",
+					"stationLink": "http://wr07-icecast.mtg-r.net/wr07_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Power-Street.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PowerFM",
+					"stationLink": "http://lys1.soundicradio.com:8100",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/PowerFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pulsefm.se",
+					"stationLink": "http://titan.shoutca.st:8339/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/pulsefm.se_.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Q Music Sverige",
+					"stationLink": "http://centauri.shoutca.st:8354/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/q-music-sverige.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 107.5",
+					"stationLink": "http://194.16.21.227/1075_se_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-107.5-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 45 Gothenburg",
+					"stationLink": "http://streaming2.nordblommedia.se:443/amal.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-45.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 88 Partille",
+					"stationLink": "http://62.209.164.60:8000/mp128.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-88-partille-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 92",
+					"stationLink": "http://s6.voscast.com:8210/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-92.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 94,3",
+					"stationLink": "http://212.105.73.74:8007",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-943.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 94.3",
+					"stationLink": "http://212.105.73.74:8007/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-94.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Active Ystad",
+					"stationLink": "http://stream.dbmedia.se/radioactive96",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Active-Ystad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio AF",
+					"stationLink": "http://live.radioaf.se:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-AF.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alkompis",
+					"stationLink": "http://206.189.14.120:8500/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Alkompis.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Andra",
+					"stationLink": "http://live.radionext.fm:9000/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Andra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Apans Knattekanal",
+					"stationLink": "http://http-live.sr.se/knattekanalen-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Apans-Knattekanal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Arta Stockholm",
+					"stationLink": "http://173.192.207.51:8086/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-arta-stockholm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ava",
+					"stationLink": "http://94.255.179.210",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Ava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Avesta",
+					"stationLink": "http://test.radioavesta.se:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Avesta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ayeneh",
+					"stationLink": "http://83.250.60.214/streampath1.mp3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Ayeneh.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bastad",
+					"stationLink": "http://212.31.164.21:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Bastad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Berg",
+					"stationLink": "http://edge.live.mp3.mdn.newmedia.nacamar.net/radioberg/livestream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-berg-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Boden",
+					"stationLink": "http://5.152.208.98:8020",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Boden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bohuslan",
+					"stationLink": "http://radio.itconnect.se/rb2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Bohuslan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bubb La",
+					"stationLink": "http://live.radio.bubb.la/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Radio-Bubb-La.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bullen",
+					"stationLink": "http://184.107.68.177/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Bullen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Campus Sweden",
+					"stationLink": "http://130.243.117.157:8000/radiocampus",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Campus-Sweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clubzone",
+					"stationLink": "http://server2.radioclubzone.com/128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-clubzone.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eskilstuna",
+					"stationLink": "http://ice-cluster.streaming.xmc.se/radioeskilstuna",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Eskilstuna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eskilstuna Latina 88.6",
+					"stationLink": "http://eskilstunalatina886.ddns.net:88/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/radio-eskilstuna-latina-88.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Estocolmo",
+					"stationLink": "http://78.129.193.82:34369/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/radio-estocolmo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Falkoping",
+					"stationLink": "http://radio.fnf.nu:443/fnf.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Falkoping.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fanous",
+					"stationLink": "http://s1.voscast.com:9614/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Fanous.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fisus",
+					"stationLink": "https://www.radioking.com/play/radiofisus",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Fisus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Floda",
+					"stationLink": "http://streaming.nordblommedia.se:8040/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Floda.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fryksdalen",
+					"stationLink": "http://webradio.radiofryksdalen.se:8000/RF_Live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Fryksdalen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fyris",
+					"stationLink": "http://media.radiofyris.se/Vinny/dodsvantan/ADDavsnittet.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Radio-Fyris.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gagnef",
+					"stationLink": "http://stream.ueteknik.se:8000/gagnef",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-gagnef.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gällivare",
+					"stationLink": "http://stream.imegasystem.se:8000/radiogellivare",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-gällivare.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gävle 102.7",
+					"stationLink": "http://kepler.shoutca.st:8271/;stream?1592393316236",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-gävle-102.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gbg Laganini",
+					"stationLink": "http://studio.isasecret.com:8040/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-gbg-laganini.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gbg Narodna",
+					"stationLink": "http://studio.isasecret.com:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-gbg-narodna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gbg Sevdah",
+					"stationLink": "http://studio.isasecret.com:8030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-gbg-sevdah.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Halgan",
+					"stationLink": "http://smoke.wavestreamer.com:9390",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Halgan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hallefors",
+					"stationLink": "http://www.grythyttan.se:8000/stream/1/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Hallefors.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Halmstad 88.6",
+					"stationLink": "http://81.233.31.238:8000/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-halmstad-88.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hambastegi",
+					"stationLink": "http://hambastegitwo.mine.nu:9600/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/radio-hambastegi.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Haninge Direkt 98.5",
+					"stationLink": "http://213.115.49.175:1157/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-haninge-direkt-98.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hassleholm",
+					"stationLink": "http://87.96.210.54:88/broadwave.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Hassleholm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Iran On Air",
+					"stationLink": "http://iranonairone.mine.nu:9300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/v.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Julius",
+					"stationLink": "http://listen.radionomy.com/Julius?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Julius.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Karlstad Rocks",
+					"stationLink": "http://radio.karlstadrocks.se:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Karlstad-Rocks.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kinnekulle",
+					"stationLink": "http://83.223.7.233:8008/RadioK.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Kinnekulle.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kramfors",
+					"stationLink": "https://http-live.sr.se/p1-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Kramfors.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Krokom",
+					"stationLink": "http://radiokrokom.ddns.net/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Krokom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kungs Backa",
+					"stationLink": "http://212.73.175.58:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Kungs-Backa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio LstationDetailingo",
+					"stationLink": "http://radio-lstationDetailiingo.duckdns.org:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-LstationDetailingo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio LstationDetailkoping",
+					"stationLink": "http://lyssna.fnf.nu:8080/lstationDetailkoping.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-LstationDetailkoping.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Linkoping",
+					"stationLink": "http://www.linkopingsnarradio.se:8000/;.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Linkoping.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Live",
+					"stationLink": "http://stream.radiolive.se:80/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ljungby",
+					"stationLink": "http://217.197.59.86/lkweb?",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-ljungby.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ljusdal",
+					"stationLink": "http://87.249.168.199:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Ljusdal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lyra",
+					"stationLink": "http://streaming.jusahost.com:9986/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/radio-lyra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio M Göteborg",
+					"stationLink": "http://69.175.94.98:8359/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-m-göteborg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Madbone 365",
+					"stationLink": "http://live.noip.me/stream/1/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Madbone-365.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mariestad",
+					"stationLink": "http://89.205.127.244:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Mariestad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Markaryd",
+					"stationLink": "http://87.117.201.22:8400",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-Markaryd.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MRS",
+					"stationLink": "http://radiostreamtwo.no-ip.org:19050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-MRS.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nacka",
+					"stationLink": "http://radiostreamtwo.mine.nu:9990/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/radio-nacka-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nord 98.3",
+					"stationLink": "http://radio.tabyenskilda.se:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Nord-98.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nostalgi",
+					"stationLink": "http://212.73.175.58:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-nostalgi-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nybro",
+					"stationLink": "http://deb.patrikmalmgrenrask.se:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Nybro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ornskoldsvik",
+					"stationLink": "http://webradio.radioovik.se:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Ornskoldsvik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Oskarshamn",
+					"stationLink": "http://moon.wavestreamer.com:4687",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Oskarshamn.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Osteraker",
+					"stationLink": "http://lyssna.osteraker.se/live-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Osteraker.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio P5 Sweden",
+					"stationLink": "http://http-live.sr.se/p5sthlm-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-P5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pasion Latina",
+					"stationLink": "http://radio.fhost.cl:9948/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-rasion-latina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Payam Göteborg",
+					"stationLink": "https://streamingv2.shoutcast.com/RadioPayam",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-payam-göteborg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio pE20",
+					"stationLink": "http://streaming2.nordblommedia.se:443/radiope20.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-pe20.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Play Factory",
+					"stationLink": "http://dab.no:8900",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-Play-Factory.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pontos Stockholm",
+					"stationLink": "http://213.188.154.38:8000/live.mp3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-pontos-stockholm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Prime",
+					"stationLink": "http://berit.createam.se:8000/radioprime.mp3?.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Prime.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rainbow",
+					"stationLink": "https://wr20-ice.stream.khz.se/wr20_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-rainbow.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rangarang 94.6",
+					"stationLink": "http://radiostreamthree.mine.nu:19460",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Rangarang-94.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Record Sweden",
+					"stationLink": "http://streaming.nordblommedia.se:8100",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-Record.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rivendell",
+					"stationLink": "http://rivendell.byte-storm.com:8000/128kbit.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Rivendell.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rockstar Sweden",
+					"stationLink": "http://stream.ueteknik.se:8000/rockstar",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-rockstar-sweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Roslagen",
+					"stationLink": "http://stream.radioroslagen.se:8000/mp3.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Roslagen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sala",
+					"stationLink": "http://test.radioavesta.se:9700",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Sala.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sandviken",
+					"stationLink": "http://rssand.se:4027/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Sandviken.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sedaie Ashena",
+					"stationLink": "https://streamer.radio.co/saa2859a48/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Sedaie-Ashena.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shahrvand",
+					"stationLink": "http://radiostreamone.mine.nu:9100",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Shahrvand.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Siljan",
+					"stationLink": "http://stream.ueteknik.se:8000/siljan?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Siljan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Skelleftea",
+					"stationLink": "http://cast.audiostream.live/radio/8020/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-skelleftea.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sky Rose",
+					"stationLink": "http://shoutcast.radioskyrose.com:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Radio-Sky-Rose-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Soderhamn",
+					"stationLink": "http://80.245.225.96:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Soderhamn.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Södra Station",
+					"stationLink": "https://14833.live.streamtheworld.com/SAM10AAC134_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-södra-station.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sotenas",
+					"stationLink": "http://sc1.radiosotenas.se/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Sotenas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Suomi",
+					"stationLink": "http://108.168.175.149:10033/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Radio-Suomi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sweden P6",
+					"stationLink": "http://http-live.sr.se/srinternational-mp3-64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Sweden-P6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sydvast",
+					"stationLink": "http://50.7.77.114:8426",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Sydvast.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tbone",
+					"stationLink": "http://radiotbone.servebeer.com:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Tbone.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Topp 40 Bara Hits",
+					"stationLink": "https://live-bauerse-fm.sharp-stream.com/topp40_mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-topp-40-bara-hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Treby",
+					"stationLink": "http://stream1.bogalnet.se:443/vargarda.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Treby.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Trelleborg",
+					"stationLink": "http://stream.nsp.se:8000/RaTbg_MP3_Hi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-trelleborg-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Trollhattan",
+					"stationLink": "http://lyssna.fnf.nu:8080/radiotrollhattan.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Trollhattan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Umea",
+					"stationLink": "http://stream.ueteknik.se:8000/poporock",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Umea.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vara",
+					"stationLink": "http://lyssna.fnf.nu:8080/radiovara.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Vara.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vattervag",
+					"stationLink": "http://uk5.internet-radio.com:8199/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Vattervag.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Viking",
+					"stationLink": "http://cdn-live2.crossnet.net:8000/radiovikinglive",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/Radio-Viking.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Wake Up",
+					"stationLink": "http://radiowakeup.falkenberg.se:8000/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Wake-Up.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Wix",
+					"stationLink": "http://soho.wavestreamer.com:9215",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Wix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio-Schweden",
+					"stationLink": "https://radio-schweden.stream.laut.fm/radio-schweden",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-schweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio1 se",
+					"stationLink": "http://fm03-icecast.mtg-r.net/fm03_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio1-se.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radioapans knattekanal",
+					"stationLink": "http://http-live.sr.se/knattekanalen-mp3-64?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radioapans-knattekanal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radiogodis.se",
+					"stationLink": "http://radiogodis.org:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radiogodis.se_.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioHits",
+					"stationLink": "http://john631.serverroom.net:8564/;stream.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/RadioHits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radiosol",
+					"stationLink": "http://live.radiosol.se:8000/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radiosol.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro FM Skane",
+					"stationLink": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerstationDetail=SBS_RP_WEB&aw_0_1st.skey=1581488571&companionAds=true&listenerstationDetail=d6f66169-7d1d-4157-bc73-8308967bef46",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/retro-fm-skane.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RIX FM",
+					"stationLink": "http://fm01-icecast.mtg-r.net/fm01_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/RIX-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rix FM Fresh",
+					"stationLink": "https://wr04-ice.stream.khz.se/wr04_mp3?platform=web&aw_0_1st.playerstationDetail=mtgradio-web&aw_0_1st.skey=1592307544",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/rix-fm-fresh.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rocket 95.3",
+					"stationLink": "http://stream.thsradio.se:8000/rocket_hi.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rocket-95.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rocket FM",
+					"stationLink": "http://stream.thsradio.se:8000/rocket_hi.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Rocket-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rockklassiker",
+					"stationLink": "http://edge-bauersefm-06-gos2.sharp-stream.com/rockklassiker_instream_se_mp3?",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rockklassiker.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rosengards Radio",
+					"stationLink": "http://176.31.159.53:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Rosengards-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Roslagen Live",
+					"stationLink": "https://s3.radio.co/s4e00bd88d/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/roslagen-live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sabor Latino 89 FM",
+					"stationLink": "http://176.31.246.109:8000/saborlatino?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Sabor-Latino-89-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Scene Sat Radio",
+					"stationLink": "http://salyut80.scenesat.com/scenesat",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Scene-Sat-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SDX Synthetic Experience",
+					"stationLink": "http://radio.dawnshadow.se:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/sdx-synthetic-experience.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Selector Radio",
+					"stationLink": "http://streaming.radionomy.com/SelectorRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Selector-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sjobo Narradio",
+					"stationLink": "http://stream.flexitech.se:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Sjobo-Narradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Skargardsradion",
+					"stationLink": "http://sgr.radioprod.se:8000/skargarden_hi",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Skargardsradion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Slay Radio",
+					"stationLink": "http://relay3.slayradio.org:8100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/slay-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Soul Classics",
+					"stationLink": "https://wr08-ice.stream.khz.se/wr08_mp3?platform=web&aw_0_1st.playerstationDetail=mtgradio-web&aw_0_1st.skey=1592307957",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/soul-classics.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Soundic Radio",
+					"stationLink": "http://soundicradio.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/soundic-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SR Dalarna",
+					"stationLink": "http://http-live.sr.se/p4dalarna-mp3-192?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/SR-Dalarna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SR Ekot",
+					"stationLink": "https://http-live.sr.se/ekotsanderdirekt-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/sr-ekot.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SR Extra 9",
+					"stationLink": "http://http-live.sr.se/p4gotland-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/SR-Extra-9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SR Jamtland",
+					"stationLink": "http://http-live.sr.se/p4jamtland-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/SR-Jamtland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SR Kronoberg",
+					"stationLink": "http://http-live.sr.se/p4kronoberg-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/sr-kronoberg-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sr Radio",
+					"stationLink": "http://http-live.sr.se/p4uppland-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/sr-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SR Sapmi",
+					"stationLink": "http://http-live.sr.se/srsapmi-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/SR-Sapmi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SR Sisuradio",
+					"stationLink": "http://http-live.sr.se/sisuradio-mp3-128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/SR-Sisuradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stampus FM",
+					"stationLink": "http://18193.live.streamtheworld.com/SAM05AAC050.mp3?tdsdk=js-2.9&pstationName=TDSdk&pversion=2.9&banners=none&sbmstationDetail=4c0aa941-8149-461b-85fc-32664cbacd10",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Stampus-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Star 70s",
+					"stationLink": "https://wr10-ice.stream.khz.se/wr10_mp3?platform=web&aw_0_1st.playerstationDetail=mtgradio-web&aw_0_1st.skey=1592299202",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/star-70s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Star 80s",
+					"stationLink": "http://wr02-icecast.mtg-r.net/wr02_mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Star-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Star 90s",
+					"stationLink": "https://wr12-ice.stream.khz.se/wr12_mp3?platform=web&aw_0_1st.playerstationDetail=mtgradio-web&aw_0_1st.skey=1592298817",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/star-90s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Star FM Sverige",
+					"stationLink": "https://fm05-ice.stream.khz.se/fm05_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/star-fm-sverige.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stockholm College Radio",
+					"stationLink": "http://radiostreamone.mine.nu:18010/;?1444906179227.mp3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/stockholm-college-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stockholm FM 101.1",
+					"stationLink": "http://radiostreamone.mine.nu:18020",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Stockholm-FM-101.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stockholm FM 95.3 MHz",
+					"stationLink": "http://radiostreamone.mine.nu:18010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/01/stockholm-fm-95.3-mhz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stockholm Narradio",
+					"stationLink": "http://radiostreamfour.mine.nu:18020",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Stockholm-Narradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stockholm University 95.3 FM",
+					"stationLink": "http://radiostreamone.mine.nu:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/stockholm-university-95.3-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stockholmian Radio",
+					"stationLink": "http://217.210.9.84:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/stockholmian.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Strul FM",
+					"stationLink": "http://s1.streamaudio.de:8000/strul-fm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Strul-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Student Radion",
+					"stationLink": "http://130.238.166.180:8004/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Student-Radion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Studentradion 98.9",
+					"stationLink": "http://130.238.166.180:8004/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Studentradion-98.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Subantaba Radio",
+					"stationLink": "http://tachyon.shoutca.st:8128/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Subantaba-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Subtropical Radio Oskarshamn",
+					"stationLink": "https://stream.radio.co/s4dfd01cc3/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/subtropical-radio-oskarshamn.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Svensk Pop",
+					"stationLink": "http://ads-e-bauerse-fm-02-gos.sharp-stream.com/svenskpop_se_mp3?amsparams=playerstationDetail:SBS_RP_WEB;skey:1506942531&awparams=companionAds:true;L1:Lule%C3%A5;USER1:NSI",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Svensk-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Svenska Favoriter",
+					"stationLink": "https://wr13-ice.stream.khz.se/wr13_mp3?platform=web",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/svenska-favoriter.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverige Kanalen 1",
+					"stationLink": "http://109.169.15.20:6079/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Sverige-kanalen-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverige Kanalen 2",
+					"stationLink": "http://109.169.23.95:26965/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Sverige-kanalen-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverige Kanalen 2C",
+					"stationLink": "http://78.129.229.120:37494/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Sverige-Kanalen-2C.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverige Kanalen 3C",
+					"stationLink": "http://s29.myradiostream.com:13242/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Sverige-kanalen-3C.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen 1D",
+					"stationLink": "http://109.169.14.36:21535/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/sverigekanalen-1d.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen 2D",
+					"stationLink": "http://78.129.222.62:15498/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/sverigekanalen-2d.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen 4C",
+					"stationLink": "http://109.169.37.137:16428/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/sverigekanalen-4c.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen 4D",
+					"stationLink": "http://130.185.144.199:35752/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/sverigekanalen-4d.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen 5 Extra",
+					"stationLink": "http://tachyon.shoutca.st:8128/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Sverigekanalen-5-Extra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen 5C",
+					"stationLink": "http://s6.myradiostream.com:7194/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/sverigekanalen-5c.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen Direkt",
+					"stationLink": "http://78.129.150.144:39026/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/sverigekanalen-direkt.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen Direkt 2",
+					"stationLink": "http://109.169.23.99:28391/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/sverigekanalen-direkt-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen Direkt 5",
+					"stationLink": "http://78.129.222.62:27502/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/sverigekanalen-direkt-5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen Kanal 3B",
+					"stationLink": "http://s11.myradiostream.com:13078/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Sverigekanalen-Kanal-3B.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen Lyssna 2",
+					"stationLink": "http://109.169.23.99:36645/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/sverigekanalen-lyssna1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen Lyssna1",
+					"stationLink": "http://78.129.193.82:7470/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/sverigekanalen-lyssna1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen Mix2",
+					"stationLink": "http://78.129.222.62:26712/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/sverigekanalen-mix2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sverigekanalen Mixxx",
+					"stationLink": "http://78.129.222.70:12782/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/sverigekanalen-mixxx.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sveriges Radio",
+					"stationLink": "http://http-live.sr.se/p4kronoberg-mp3-192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/sveriges-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swedish Hit Radio",
+					"stationLink": "http://streaming.radionomy.com/SwedishHitRadiolive",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Swedish-Hit-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Beat Sweden",
+					"stationLink": "http://178.32.62.154:8908/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/the-beat-sweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Voice Sweden",
+					"stationLink": "https://live-bauerse-online.sharp-stream.com/264_se_aacp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/The-Voice-Sweden.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TstationDetailaholm FM",
+					"stationLink": "http://radio.fnf.nu:443/radiotstationDetailaholm.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/TstationDetailaholm-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Trafik Radion",
+					"stationLink": "http://radio.networx-bg.com:8002/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Trafik-Radion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Trucknet Radio",
+					"stationLink": "http://stream.ueteknik.se:8000/trucknetradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Trucknet-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tunnel FM",
+					"stationLink": "http://eu7.fastcast4u.com:8065",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Tunnel-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tyresoradion 91.4",
+					"stationLink": "http://tyresoradion.se:8040/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Tyresoradion-91.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Umea studentradio",
+					"stationLink": "http://webb.umeastudentradio.se:8000/usr.mp3?_=1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Umea-studentradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Valhalla Viking Radio",
+					"stationLink": "http://81.231.106.229:8000/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/valhalla-viking-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Var Radio",
+					"stationLink": "http://46.17.184.39:8000/airtime_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Var-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vinyl Godis Radio",
+					"stationLink": "http://nvradio.info:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Vinyl-Godis-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Wolf FM 88.8",
+					"stationLink": "http://ais-sa1.streamon.fm/7026_48k.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Wolf-FM-88.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,470 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Aisbox Radio",
+					"stationLink": "http://khrieit.com:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Aisbox-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Best Pop Radio",
+					"stationLink": "https://radio.jamvybez.com/radio/8020/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/best-pop-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Blitz Radio 2000",
+					"stationLink": "http://usa12.fastcast4u.com:5080/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Blitz-Radio-2000.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Boneyaad Radio",
+					"stationLink": "http://142.4.217.133:8807",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/boneyaad-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "EAST 96 FM",
+					"stationLink": "https://s3.radio.co/s3cdf9d101/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/east-96-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Endz FM",
+					"stationLink": "http://smoke.wavestreamer.com:5686",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Endz-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fame 95 FM",
+					"stationLink": "http://stream.zenolive.com/d5mn12bchkeuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Fame-95-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FIT FM 96.7",
+					"stationLink": "https://studio25.radiolize.com/radio/8040/radio.mp3?1585981637",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/fit-fm-96.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM Jamaica Radio",
+					"stationLink": "http://us5.internet-radio.com:8487/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/FM-Jamaica-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GGFM 90.1",
+					"stationLink": "http://149.56.175.167/proxy/ggfm/?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/GGFM-90.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hitz 92 FM",
+					"stationLink": "http://stream.zenolive.com/cvuemnkcgy5tv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Hitz-92-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hot 102 FM",
+					"stationLink": "http://142.4.217.133:8762/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Hot-102-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hot102ReggaeGlobal",
+					"stationLink": "http://streaming.live365.com/a73108",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/hot102reggaeglobal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "iRie Rockers FM",
+					"stationLink": "http://174.37.159.206:8118/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/iRie-Rockers-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ja Radio",
+					"stationLink": "http://209.126.108.37:8575/listen.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Ja-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jam Rock One",
+					"stationLink": "http://198.15.124.22:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Jam-Rock-One.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jamaican Roots Radio",
+					"stationLink": "http://streaming.radionomy.com/jamaican-roots-radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Jamaican-Roots-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jamvybez Radio",
+					"stationLink": "https://radio.jamvybez.com/radio/8000/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/jamvybez-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kis Broadcasting Media",
+					"stationLink": "https://usa2.fastcast4u.com/proxy/ikdrwiqm?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/kis-broadcasting-media.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KLAS Sports Radio",
+					"stationLink": "http://stream.zenolive.com/4uw093pbyvduv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/KLAS-Sports-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kool 97 FM",
+					"stationLink": "http://208.163.43.44:8000/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Kool-97-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Krush Yaad Radio",
+					"stationLink": "http://s3.voscast.com:8468",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Krush-Yaad-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Linkz 96 FM",
+					"stationLink": "http://linkzfm.com:8500",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Linkz-96-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Love 101 FM",
+					"stationLink": "http://ample-zeno-16.radiojar.com/y6g5utrtpy5tv?rj-ttl=5&rj-token=AAABZl0aOp89tmfz_GMbFj1FcxKE3dRDeyjKzaAK9f7a5lsI20Y5TA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Love-101-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Megajamz 98FM",
+					"stationLink": "http://ice9.securenetsystems.net/MEGAJAMZ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Megajamz-98FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MekNoise Radio",
+					"stationLink": "http://s6.voscast.com:7864/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/meknoise-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mello FM 88",
+					"stationLink": "http://perstationDetailot.streamguys.com:5660/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Mello-FM-88.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NationwstationDetaile 90FM",
+					"stationLink": "https://node-17.zeno.fm/beymcb350uquv?rj-ttl=5&rj-tok=AAABbqyGyeAAoL9WINN4Hr_R5w",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/nationwstationDetaile-90fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NCU 91 FM",
+					"stationLink": "http://stream.zenolive.com/02wx8qznt1duv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/NCU-91-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "News Talk 93 FM",
+					"stationLink": "http://ample-zeno-02.radiojar.com/4bmfzbcfmxmtv?rj-ttl=5&rj-token=AAABWnOr_55ammnVPvV3fsqt12k5W8Pf5kGzuR1FWnqREq9TOBlbrw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/news-talk-93-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nice Radio Jamaica",
+					"stationLink": "http://91.121.62.104:8380/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Nice-Radio-Jamaica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Parti FM 91.3",
+					"stationLink": "http://ca7.rcast.net:8016/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/parti-fm-91.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pondends Internet Radio",
+					"stationLink": "http://s7.voscast.com:7000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Pondends-Internet-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power 106",
+					"stationLink": "http://war.str3am.com:7550/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/power-106-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power 106 Jamaica",
+					"stationLink": "http://ample-zeno-07.radiojar.com/63qk6h62p6duv?rj-ttl=4&stream%2F1=&rj-token=AAABZr7WKP4FRwZncbKGjwZBANrlq-GmfxdBf7qJayIXJ0q7IVPWIg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/power-106-jamaica-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "R2radio",
+					"stationLink": "http://stream.zeno.fm/qudywhd1mrruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/r2radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lambiek",
+					"stationLink": "http://80.82.65.39:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Lambiek.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Layback",
+					"stationLink": "http://192.241.151.79:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Layback.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ragga Kings",
+					"stationLink": "http://war.str3am.com:7970/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/ragga-kings.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Real Reggae Radio",
+					"stationLink": "http://192.81.248.193:8002",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Real-Reggae-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rebel Radio Link",
+					"stationLink": "http://stardust.wavestreamer.com:5160",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Rebel-Radio-Link.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Reggae 141 Fm",
+					"stationLink": "http://hestia2.cdnstream.com/1301_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/reggae-141-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Reggae141",
+					"stationLink": "http://hestia2.cdnstream.com/1301_128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/reggae141-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RstationDetaildim1 Radio",
+					"stationLink": "http://45.79.186.124/stream/rstationDetaildim1radio.pls?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/rstationDetaildim1-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RJR 94FM",
+					"stationLink": "http://stream.zenolive.com/ebqnzkvyv9duv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/rjr-94fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Roses 88.9 FM",
+					"stationLink": "http://streaming.shoutcast.com/ROSESFMJAMAICA?lang=en-US",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/roses-88.9-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Scotch Bonnet Radio",
+					"stationLink": "https://stream.radio.co/s53f559e41/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Scotch-Bonnet-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Songcast Radio",
+					"stationLink": "http://69.64.92.43:9022",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Songcast-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sound Mine Radio",
+					"stationLink": "http://streamer.radio.co/s6bca01d89/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Sound-Mine-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Starz FM",
+					"stationLink": "http://s2.voscast.com:8148",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Starz-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stylz FM",
+					"stationLink": "http://ice6.securenetsystems.net/STYLZFM?playSessionstationDetail=0D47FF62-0880-D255-8F4F6BF4E8DA96B8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Stylz-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SunCity Radio",
+					"stationLink": "http://streams.suncityradio.fm:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/SunCity-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Supreme Vibz Radio",
+					"stationLink": "http://salt-lake-server.myautodj.com:8116/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Supreme-Vibz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Syndicate Radio 876ix",
+					"stationLink": "http://streaming.radionomy.com/SyndicateRadio-876ix?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Syndicate-Radio-876ix-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Talk Jamaica Radio",
+					"stationLink": "http://38.96.148.254:6640",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Talk-Jamaica-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Thunderdome Radio",
+					"stationLink": "http://99.235.108.223:8000/stream/2/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Thunderdome-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Trillionaire Records Radio",
+					"stationLink": "http://s2.voscast.com:10440/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Trillionaire-Records-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tun It Up Radio",
+					"stationLink": "https://tunitup2020.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Tun-It-Up-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UFDV Radio",
+					"stationLink": "http://104.194.9.142:8031/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/UFDV-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "V-Link Radio",
+					"stationLink": "https://node-20.zeno.fm/y4d4w2hpnfeuv.mp3?ver=254826&rj-tok=AAABcittXOkAh0lbi-Tn_dOYvg&rj-ttl=5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/v-link-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibes Link Radio",
+					"stationLink": "http://ca3.rcast.net:8050/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Vibes-Link-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibes Squad Internet Radio",
+					"stationLink": "http://174.36.232.226:8025/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Vibes-Squad-Internet-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Worl Vybz FM",
+					"stationLink": "https://node-03.zeno.fm/qudywhd1mrruv?rj-ttl=5&rj-tok=AAABc1b-dr0AZWOsF84R5VjkLA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/worl-vybz-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Xume Radio",
+					"stationLink": "http://142.4.217.133:9066/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Xume-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yardy Beats Radio",
+					"stationLink": "http://173.236.41.20:8030/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/yardy-beats-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZIP 103 FM",
+					"stationLink": "https://stream.zeno.fm/8b0hqm93yceuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/ZIP-103-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

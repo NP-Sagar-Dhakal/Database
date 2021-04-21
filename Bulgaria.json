@@ -1,0 +1,1100 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "All In One Music Radio",
+					"stationLink": "http://streaming.radionomy.com/AllInOneMusic?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/All-In-One-Music-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alpha Radio",
+					"stationLink": "http://alpharadio.bg:8000/stream/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Alpha-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Balkansko Radio",
+					"stationLink": "http://balkanskoradio.com/stream/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Balkansko-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BG Hip Hop Radio",
+					"stationLink": "http://play.global.audio/bgradio.opus",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/bg-hip-hop-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BG Radio",
+					"stationLink": "http://149.13.0.80/bgradio128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/BG-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BNR Radio Bulgaria",
+					"stationLink": "http://stream.bnr.bg:8005/sofia.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/BNR-Radio-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BNR Radio Shumen",
+					"stationLink": "http://stream.bnr.bg:8033/radio-shumen.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/BNR-Radio-Shumen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BNR Radio Sofia",
+					"stationLink": "http://stream.bnr.bg:8030/radio-sofia.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/bnr-radio-sofia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BNR Radio Varna",
+					"stationLink": "http://broadcast.masters.bg:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/BNR-Radio-Varna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Breaking Barriers Bulgaria",
+					"stationLink": "http://streaming.radionomy.com/BreakingBarriers",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Breaking-Barriers-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "bTV Radio",
+					"stationLink": "http://live.btvradio.bg/btv-radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/bTV-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bumerang FM",
+					"stationLink": "http://185.20.88.1:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Bumerang-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Classic FM bg",
+					"stationLink": "http://46.10.150.123:80/classic-fm.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Classic-FM-bg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Coda Radio",
+					"stationLink": "http://62.75.208.172:8000/codaradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Coda-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Crynfo Station",
+					"stationLink": "http://streaming.shoutcast.com/CRYNFO?lang=en-US",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Crynfo-Station.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance FolkBG",
+					"stationLink": "http://radio.folkbg.net:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/dance-folkbg-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance Size",
+					"stationLink": "http://streaming.radionomy.com/DanceSize",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Dance-Size.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Darik Nostalgie",
+					"stationLink": "http://darikradio.by.host.bg:8000/Nostalgie",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Darik-Nostalgie.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Darik Radio",
+					"stationLink": "http://darikradio.by.host.bg:8000/S2-128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/darik-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Deep 54 Radio",
+					"stationLink": "http://93.152.140.225:8000/stream/6/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Deep-54-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Deep Lounge BG",
+					"stationLink": "http://93.152.140.225:8000/stream/2/DeepLounge%20BG/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Deep-Lounge-BG.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Deep Radio Europe",
+					"stationLink": "http://93.152.140.225:8000/stream/4/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Deep-Radio-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Deep WAVE Radio",
+					"stationLink": "http://93.152.140.225:8000/stream/6/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/deep-wave-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Deluxe Radio Bulgaria",
+					"stationLink": "http://play.radiomaxxfm.com:8000/deluxe",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Deluxe-Radio-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Diana Oldies Radio",
+					"stationLink": "http://listen.radionomy.com/dianaoldies?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/diana-oldies-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Divsto Radio",
+					"stationLink": "http://87.121.47.117:8000/mpd",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/divsto-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DJ Zone House Radio",
+					"stationLink": "http://192.240.102.133:12279/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/DJ-Zone-House-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dream FM Bulgaria",
+					"stationLink": "http://play.dreamfmbg.eu:8000/dreamfm-high",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/radio-dream-fm-bulgaria-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Ambient and Chill Radio",
+					"stationLink": "http://eilo.org:8000/ambient",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Ambient-and-Chill-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Drum and Bass Radio",
+					"stationLink": "http://eilo.org:8000/drum",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Drum-and-Bass-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Dubstep Radio",
+					"stationLink": "http://eilo.org:8000/dubstep",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Dubstep-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Earth and Beat Radio",
+					"stationLink": "http://stream.eilo.org:8000/earthbeat",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Earth-and-Beat-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Gabbafreakz Radio",
+					"stationLink": "http://eilo.org:8000/gabbafreakz",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Gabbafreakz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Hard Techno Radio",
+					"stationLink": "http://eilo.org:8000/hard",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Hard-Techno-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo House Radio",
+					"stationLink": "http://eilo.org:8000/house",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-House-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Jazz Funk and Soul Radio",
+					"stationLink": "http://eilo.org:8000/jazzfunksoul",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Jazz-Funk-and-Soul-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Minimal Radio",
+					"stationLink": "http://eilo.org/minimal?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Eilo-Minimal-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Mixotic Radio",
+					"stationLink": "http://eilo.org:8000/mixotic",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Mixotic-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Progressive Radio",
+					"stationLink": "http://eilo.org/progressive?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Eilo-Progressive-Radio1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Psychedelic Radio",
+					"stationLink": "http://eilo.org:8000/psychedelic",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Psychedelic-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "EILO Radio",
+					"stationLink": "http://stream.eilo.org:8000/mixotic?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/EILO-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Techno Radio",
+					"stationLink": "http://eilo.org:8000/techno",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Techno-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eilo Trance Radio",
+					"stationLink": "http://eilo.org:8000/trance",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Eilo-Trance-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Focus Sliven",
+					"stationLink": "http://online.focus-radio.net:8100/sofia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Focus-Sliven.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Folk Radio Aleksandrina",
+					"stationLink": "http://radio.aleksandrina.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/folk-radio-aleksandrina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Folk Radio Cult",
+					"stationLink": "http://play.folkradiocult.net:8198/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/folk-radio-cult.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Folk Radio Nazdrave",
+					"stationLink": "http://stream-bg.net:8020/nazdrave",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Folk-Radio-Nazdrave.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hard Techno Radio",
+					"stationLink": "http://eilo.org:8000/techno",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Hard-Techno-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Haskovo Radio Net",
+					"stationLink": "http://195.24.89.6:8000/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Haskovo-Radio-Net.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit FM Bulgaria",
+					"stationLink": "http://play.hitfmbg.com:8000/hitfm-high",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/hit-fm-bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit Radio Relax Dance",
+					"stationLink": "http://79.98.108.170:8060/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/hit-radio-relax-dance-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Horizont Bnr",
+					"stationLink": "http://stream.bnr.bg:8002/horizont.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/horizont-bnr-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Internet Radio Lele Male",
+					"stationLink": "http://79.98.108.170:8332/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/internet-radio-lele-male.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazz FM Lounge",
+					"stationLink": "http://live.btvradio.bg/jazz-fm-lounge.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Jazz-FM-Lounge.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazz FM Radio",
+					"stationLink": "http://live.btvradio.bg/jazz-fm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Jazz-FM-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Metro Dance Radio",
+					"stationLink": "http://54.37.234.12:8000/Metro",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/metro-dance-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mixotic Radio",
+					"stationLink": "http://eilo.org:8000/mixotic?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Mixotic-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mmirojv Radio",
+					"stationLink": "http://79.98.108.170:8277/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/mmirojv-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NJS Radio New Jack Swing",
+					"stationLink": "http://192.240.102.133:11760/stream?sstationDetail=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/njs-radio-new-jack-swing.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nova News 95.7",
+					"stationLink": "http://stream.radioreklama.bg/novanews.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Nova-News-95.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "nRadio",
+					"stationLink": "http://stream.nradio.online:8000/nRadio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/nradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Online DJ Radio",
+					"stationLink": "http://play.onlinedjradio.com:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Online-DJ-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Payner Hit",
+					"stationLink": "http://79.98.108.170:8271/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/payner-hit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Popfolk Radio",
+					"stationLink": "http://87.120.6.86:8000/hq",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/popfolk-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power FM Bulgaria",
+					"stationLink": "http://a1.virtualradio.eu:8000/powerfm.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Power-FM-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Bulgaria",
+					"stationLink": "http://149.13.0.80/radio1128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-1-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Rock",
+					"stationLink": "http://149.13.0.81/radio1rock.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-1-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 33 Ambient and Chill",
+					"stationLink": "http://radio33.org:8160/radio33?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-33-Ambient-and-Chill.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 33 Dubstep",
+					"stationLink": "http://radio33.org:8150/radio33?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-33-Dubstep.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 33 Electro Esthetica",
+					"stationLink": "http://radio33.org:8170/radio33?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-33-Electro-Esthetica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 33 House",
+					"stationLink": "http://radio33.org:8100/radio33?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-33-House.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 33 Progressive",
+					"stationLink": "http://radio33.org:8120/radio33?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-33-Progressive.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 33 Psy and Goa",
+					"stationLink": "http://radio33.org:8140/radio33?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-33-Psy-and-Goa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 33 Techno",
+					"stationLink": "http://www.radio33.org:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-33-Techno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 999",
+					"stationLink": "http://62.204.158.5:8081/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-999.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aura Bulgaria",
+					"stationLink": "http://149.13.0.80/aura?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Aura-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bella",
+					"stationLink": "http://194.146.235.35:9999/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Bella.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Berkk-M",
+					"stationLink": "http://178.254.209.20:800/radioberkk.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Berkk-M.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Burgas",
+					"stationLink": "http://212.95.175.63:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Burgas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chalga Hit",
+					"stationLink": "http://79.98.108.170:8153/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/radio-chalga-hit-3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chanove",
+					"stationLink": "http://radio.chanove.com:8000/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Chanove.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City",
+					"stationLink": "http://149.13.0.80/city64?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-City.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Djedai",
+					"stationLink": "http://79.98.108.170:8062/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Djedai.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio E-Volution",
+					"stationLink": "http://79.98.108.170:8163/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-E-Volution.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Energy Bulgaria",
+					"stationLink": "http://stream.metacast.eu/nrj.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Energy-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FM Plus",
+					"stationLink": "http://193.108.24.21:8000/fmplus",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-FM-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus Kustendil",
+					"stationLink": "http://online.focus-radio.net:8100/sofia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Focus-Kustendil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FOCUS Pazardjik",
+					"stationLink": "http://online.focus-radio.net:8100/pazardjik?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-FOCUS-Pazardjik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus Pazardzhik",
+					"stationLink": "http://online.focus-radio.net:8100/pazardjik",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radio-Focus-Pazardzhik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus Pirin",
+					"stationLink": "http://online.focus-radio.net:8100/pirin?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Focus-Pirin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus Plovdiv",
+					"stationLink": "http://online.focus-radio.net:8100/pld?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Focus-Plovdiv.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus Shumen",
+					"stationLink": "http://online.focus-radio.net:8100/sofia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Focus-Shumen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus Smolian",
+					"stationLink": "http://online.focus-radio.net:8100/sofia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Focus-Smolian.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus Sofia",
+					"stationLink": "http://online.focus-radio.net:8100/sofia?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-focus-sofia-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus Varna",
+					"stationLink": "http://online.focus-radio.net:8100/varna?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Focus-Varna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus VstationDetailin",
+					"stationLink": "http://online.focus-radio.net:8100/sofia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Focus-VstationDetailin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Focus VT",
+					"stationLink": "http://online.focus-radio.net:8100/vt?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Focus-VT.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Folk",
+					"stationLink": "http://83.97.65.98:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Folk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FolkBG",
+					"stationLink": "http://radio.folkbg.net:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-folkbg-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fox BG",
+					"stationLink": "http://foxbg.net:8080/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/radio-fox-bg-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fresh",
+					"stationLink": "http://193.108.24.21:8000/fresh?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Fresh2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Gama VstationDetailin",
+					"stationLink": "http://g5.turbohost.eu:8003/gama128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/radio-gama-vstationDetailin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hristo Botev",
+					"stationLink": "http://stream.bnr.bg:8012/hristo-botev.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Hristo-Botev.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kanon",
+					"stationLink": "http://79.98.108.170:8059/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Kanon.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Katra FM",
+					"stationLink": "http://www.katrafm.net:9000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Katra-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lozenets",
+					"stationLink": "http://listen.shoutcast.com/lozenets?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-Lozenets.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Maia",
+					"stationLink": "http://mail.rntel.com:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Maia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Maxx Fm",
+					"stationLink": "http://play.radiomaxxfm.com:8000/maxx",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/01/radio-maxx-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MaxxFM Deluxe",
+					"stationLink": "http://play.radiomaxxfm.com:8000/deluxe",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Radio-MaxxFM-Deluxe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Maya",
+					"stationLink": "http://mail.rntel.com:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Maya.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Millenium",
+					"stationLink": "http://radiomillenium.radiomillenium.eu:8000/millenium",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/09/Radio-Millenium-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MIXX",
+					"stationLink": "http://83.97.65.98:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-MIXX.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio N JOY bg",
+					"stationLink": "http://46.10.150.243/njoy.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-N-JOY-bg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nikita",
+					"stationLink": "http://radionikita.novahost.bg:8000/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Nikita.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio NOVA Bulgaria",
+					"stationLink": "http://149.13.0.80/nova.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-NOVA-Bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ORV",
+					"stationLink": "http://radio.orvmedia.com:8005/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-ORV1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Paraga",
+					"stationLink": "http://51.77.124.144:8151/mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/radio-paraga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Party Mix BG",
+					"stationLink": "http://79.98.108.170:8256/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/radio-party-mix-bg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PetarDanov",
+					"stationLink": "http://79.98.108.170:8152/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/radio-petardanov.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Plovdiv",
+					"stationLink": "http://stream.bnr.bg:8032/radio-plovdiv.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Plovdiv.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio R1",
+					"stationLink": "http://listen.radionomy.com/radio-r1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-R1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ritmo Folk",
+					"stationLink": "http://live.radioritmo.eu:8085",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Ritmo-Folk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ritmo Mix",
+					"stationLink": "http://live.radioritmo.eu:8090",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Ritmo-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ritmo Romantic",
+					"stationLink": "http://live.radioritmo.eu:8080",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Ritmo-Romantic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio River FM",
+					"stationLink": "http://94.139.215.46:88/broadwave.asx?src=1&kbps=256",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/radio-river-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sevlievo",
+					"stationLink": "http://93.155.136.27:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Sevlievo1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sevtopolis",
+					"stationLink": "http://79.98.108.178:8004",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/radio-Sevtopolis.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shanel Bg",
+					"stationLink": "http://79.98.108.170:8159/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-Shanel-Bg.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Signal",
+					"stationLink": "http://212.36.10.250:8000/signalhigh?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Signal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Stara Zagora",
+					"stationLink": "http://stream.bnr.bg:8034/radio-stara-zagora.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Stara-Zagora.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tangra Mega Rock",
+					"stationLink": "http://stream-03.radiotangra.com/Tangra-mstationDetaildle",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Tangra-Mega-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Targovishte",
+					"stationLink": "http://79.98.108.170:8127/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/radio-targovishte.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio The Big Boss",
+					"stationLink": "http://79.98.108.172:8022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-The-Big-Boss.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio The Big Boss House",
+					"stationLink": "http://79.98.108.172:8022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/01/radio-the-big-boss-house-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio TS",
+					"stationLink": "http://www.globcom.net:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-TS.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ultra",
+					"stationLink": "http://88.80.96.25:40070/ultra.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-ultra-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ultra Pernik",
+					"stationLink": "http://88.80.96.25:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-ultra-pernik-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Varna",
+					"stationLink": "http://broadcast.masters.bg:8000/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/07/radio-varna.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vega Blagoevgrad",
+					"stationLink": "http://88.80.96.25:3050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Vega-Blagoevgrad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vega Sandanski and Petrich",
+					"stationLink": "http://88.80.96.25:8040/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Vega-Sandanski-and-Petrich.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Veronika",
+					"stationLink": "http://149.13.0.80/veronika.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Veronika.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio VstationDetailin",
+					"stationLink": "http://89.106.110.85:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-VstationDetailin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vox Bulgaria",
+					"stationLink": "http://g5.turbohost.eu:8008/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-vox-bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zorana",
+					"stationLink": "http://212.95.165.98:8001/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Zorana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ZRock",
+					"stationLink": "http://live.btvradio.bg/z-rock.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-ZRock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Relax Radio Folk",
+					"stationLink": "http://79.98.108.170:8060/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/relax-radio-folk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro Folk Radio",
+					"stationLink": "https://streamingV2.shoutcast.com/RetroChalga",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Retro-Folk-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sky Radio Bulgaria",
+					"stationLink": "http://93.152.140.225:8000/stream/6",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/sky-radio-bulgaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sweet Radio Bulgaria",
+					"stationLink": "http://cdn.tvoetoradio.net:8000/test",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/sweet-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Taganka Radio",
+					"stationLink": "http://streaming.radio.co/se0886fc22/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Taganka-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Traffic Radio Station",
+					"stationLink": "http://radio.networx-bg.com:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/traffic-radio-station-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tvoeto Radio",
+					"stationLink": "http://79.98.108.173:8010/radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/tvoeto-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vega Plus",
+					"stationLink": "http://88.80.96.25:3050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Vega-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibee Radio",
+					"stationLink": "https://de1se01.v2beat.live/icecast.audio?t=file.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Vibee-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibes Radio Station",
+					"stationLink": "http://185.123.188.62:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Vibes-Radio-Station.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XRaYdio",
+					"stationLink": "http://xraydio.ddns.net:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/XRaYdio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

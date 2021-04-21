@@ -1,0 +1,1527 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "10 Chilli",
+					"stationLink": "http://listen.radionomy.com/10-chilli?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/10-Chilli.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "88.4 The Cheese",
+					"stationLink": "http://thecheese.ddns.net:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/88.4-the-cheese.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "8K NZ",
+					"stationLink": "http://stream.8k.nz:8000/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/8K-NZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "95b FM",
+					"stationLink": "http://streams.95bfm.com/stream32",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/95b-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "95bFM",
+					"stationLink": "http://streams.95bfm.com/stream95?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/95bFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Access Manawatu",
+					"stationLink": "http://live.wizz.co.nz/am?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Access-Manawatu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Access Radio Taranaki",
+					"stationLink": "http://s4.voscast.com:7138/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Access-Radio-Taranaki.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Akaroa Radio",
+					"stationLink": "http://ice9.securenetsystems.net/AKAROA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Akaroa-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "And How FM",
+					"stationLink": "http://stream.andhow.org/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/And-How-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "andHow FM",
+					"stationLink": "https://us4.internet-radio.com/proxy/andhowfm?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/andhow-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arrow FM 92.7",
+					"stationLink": "http://arrowfm.co.nz:443/arrowfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Arrow-FM-92.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Auckland 80s",
+					"stationLink": "http://janus.shoutca.st:8020/auckland",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Auckland-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Badradio",
+					"stationLink": "https://s2.radio.co/s2b2b68744/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/badradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Base FM 107.3",
+					"stationLink": "http://130.216.72.72:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/base-fm-107.3.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Beach FM",
+					"stationLink": "http://www.mcbroadcasting.co.nz:8000/beach.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Beach-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Better Beats",
+					"stationLink": "http://betterbeats.out.airtime.pro:8000/betterbeats_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/better-beats.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Big Rig Country Hits",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/BIG_RIG_S01.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/big-rig-country-hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Big River FM",
+					"stationLink": "http://bigriver.broadcast.co.nz/bigriverfm.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Big-River-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Blur FM New Zealand",
+					"stationLink": "http://stream.blurfm.co.nz:8000/blurfm_128MP3?type=.mp3\r\n",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Blur-FM-New-Zealand.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bollybop 105.4",
+					"stationLink": "http://majestic.wavestreamer.com:7737/Live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Bollybop-105.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bonehead Radio",
+					"stationLink": "http://listen.radionomy.com/boneheadradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Bonehead-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Boosh FM",
+					"stationLink": "http://stream.boosh.fm:8000/boosh128mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Boosh-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Buzz FM 96",
+					"stationLink": "http://103.20.233.2:9999/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/buzz-fm-96.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chase FM",
+					"stationLink": "http://listen.shoutcast.com/ChaseFM",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Chase-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Classic Hits Christchurch",
+					"stationLink": "https://ais-nzme.streamguys1.com/nz_006_aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/classic-hits-christchurch-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Coast",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/coihr.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Coast.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Coast Access Radio",
+					"stationLink": "http://live.wizz.co.nz/car?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Coast-Access-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Coast FM Auckland",
+					"stationLink": "http://s12.myradiostream.com:12364/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/coast-fm-auckland.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Compass FM 104.9",
+					"stationLink": "http://stream.compassfm.org.nz:8000/Compass_FM_104.9",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Compass-FM-104.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cool Blue Radio",
+					"stationLink": "http://37.59.28.208:8166/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Cool-Blue-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Coromandel FM",
+					"stationLink": "http://49.50.253.57:8880/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/coromandel-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Country Radio Dunedin 88.7",
+					"stationLink": "http://countryradio2.no-ip.org:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/country-radio-dunedin-88.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cruize Taranaki FM 105.2",
+					"stationLink": "http://www.mcbroadcasting.co.nz:8000/cruize",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Cruize-Taranaki-105.2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance-Track Radio",
+					"stationLink": "http://78.129.163.129:29306/stream?icy=http",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Dance-Track-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DDD Digital Diggers",
+					"stationLink": "http://equinox.shoutca.st:9011/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/DDD-Digital-Diggers.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DGT ROCK",
+					"stationLink": "http://sip.dgtrock.tk:8528/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/dgt-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dps Soul2.1",
+					"stationLink": "http://188.165.192.5:8532/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Dps-Soul2.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "East FM NZ",
+					"stationLink": "http://listen.eastfm.nz/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/East-FM-NZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Electro Swing Happy Radio",
+					"stationLink": "http://ample-03.radiojar.com/k0y6fdr2a24tv?rj-ttl=5&rj-token=AAABZVGzwmt_bf1rPCxdpQDwy99WaV1MkcU5lNxA5b0IysmjCYbFrQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/electro-swing-happy-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Farming Show",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/fsihr.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Farming-Show.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Flava",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/flavaiHR.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Flava.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM 99.4",
+					"stationLink": "http://122.56.47.229:8000/fm994",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/FM-99.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Free FM 89",
+					"stationLink": "http://live.wizz.co.nz/freefm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Free-FM-89.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fresh FM 104.8",
+					"stationLink": "http://live.wizz.co.nz/ffm?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Fresh-FM-104.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gaia FM",
+					"stationLink": "http://s2.stationplaylist.com:9000/gaiafm.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Gaia-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "George FM",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/georgefm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/george-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Golden Praise",
+					"stationLink": "http://radio.wanderingsheep.tv:8044/goldenpraise",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Golden-Praise.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Groove 107.7 FM",
+					"stationLink": "http://ice1.outcastdigital.com:8000/groove",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Groove-107.7-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hauraki Auckland",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/hkihr.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/hauraki-auckland.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hauraki Wellington",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/hkihr.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/hauraki-wellington-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Heads 106.4 FM",
+					"stationLink": "http://shoutcast.ramsu.co.nz:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Heads-106.4-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hokonui",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/hgihr.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Hokonui.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hope Alive Radio",
+					"stationLink": "http://radio.wanderingsheep.tv:8012/hopealive",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Hope-Alive-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Howick Village Radio",
+					"stationLink": "http://listen.eastfm.nz/stream.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Howick-Village-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Human FM",
+					"stationLink": "http://stream.humanfm.co.nz:8000/streamHigh.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Human-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Humm FM",
+					"stationLink": "http://93.190.141.15:7004/humm_64.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Humm-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jazz Cafe",
+					"stationLink": "http://radio.wanderingsheep.tv:8000/jazzcafe",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Jazz-Cafe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Just FM New Zealand",
+					"stationLink": "http://stream.justfm.co.nz:88/broadwave.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Just-FM-New-Zealand.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Just Jazz",
+					"stationLink": "https://justjazz.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/just-jazz-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KFM 106.9",
+					"stationLink": "http://s6.voscast.com:8768",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/kfm-106.9-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KFM Radio",
+					"stationLink": "http://s6.voscast.com:8768",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/kfm-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss FM 106.9",
+					"stationLink": "http://delicious.wavestreamer.com:5779/Live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Kiss-FM-106.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "KIX FM",
+					"stationLink": "http://209.95.43.30:8308/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/KIX-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "LFM Radio 107.4",
+					"stationLink": "http://stream.lfmonline.co.nz:8028/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/LFM-Radio-107.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Life FM Auckland",
+					"stationLink": "http://rhema-radio.streamguys1.com/rhema-lifefm.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/life-fm-auckland-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Live The 80s",
+					"stationLink": "http://radio.wanderingsheep.tv:8009/80s",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Live-The-80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Local Radio Central",
+					"stationLink": "http://s36.myradiostream.com:15218/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Local-Radio-Central.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Loft FM",
+					"stationLink": "http://pstnet1.shoutcastnet.com:18100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Loft-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "M.A.D. FM",
+					"stationLink": "http://hyades.shoutca.st:8799/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/m.a.d.-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MAD FM WorldwstationDetaile",
+					"stationLink": "http://hyades.shoutca.st:8799/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/mad-fm-worldwstationDetaile.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Maestro",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/MAESTRO_S01.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/maestro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Auckland",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/magic_auckland",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Magic-Auckland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Christchurch",
+					"stationLink": "http://tunein-icecast.mediaworks.nz/magic_christchurch_128kbps",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Magic-Christchurch.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic Music FM",
+					"stationLink": "http://103.8.17.9:9000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/magic-music-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mai FM",
+					"stationLink": "http://tunein-icecast.mediaworks.nz/maifm_128kbps",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/mai-FM-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Maniapoto FM",
+					"stationLink": "http://apple.irirangi.net:8000/R_Maniapoto.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Maniapoto-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Maranui FM",
+					"stationLink": "http://live.wizz.co.nz/maranuifm?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Maranui-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Metropolis Radio",
+					"stationLink": "http://94.23.62.189:6064/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/metropolis-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MIX 98.2",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/mixihr.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/MIX-98.2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix FM Wellington",
+					"stationLink": "https://stream.mixfm.nz/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/mix-fm-wellington-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mocha Fm",
+					"stationLink": "http://listen.radionomy.com/mocha?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Mocha-Fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Auckland",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmakl",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/more-fm-auckland-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Manawatu",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmmtu",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/more-fm-manawatu.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Marlborough",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmblm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/More-FM-Marlborough.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Nelson",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmnel",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/More-FM-Nelson.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Northland",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmwga",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/More-FM-Northland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Taranaki",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmtkn",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/More-FM-Taranaki.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Tauranga",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmtga",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/More-FM-Tauranga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Waikato",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmham?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/more-fm-waikato.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Wairarapa",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmmast",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/More-FM-Wairarapa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "More FM Wellington",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/morefmwgtn",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/More-FM-Wellington.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Most FM",
+					"stationLink": "http://gordon.mostfm.com:8000/high",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/most-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mushroom FM",
+					"stationLink": "http://199.180.75.27/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Mushroom-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MuzzaPower",
+					"stationLink": "https://muzzaradio.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/muzzapower.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "New Zealand Country Music Radio",
+					"stationLink": "http://usa13.fastcast4u.com:5044/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/New-Zealand-Country-Music-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "New Zealand Net Radio",
+					"stationLink": "https://www.nznetradio.net.nz:8443/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/new-zealand-net-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Newstalk ZB Auckland",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/zbakihr.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/newstalk-zb-auckland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nitro Online",
+					"stationLink": "https://stream.nitrotechnology.co.nz:8443/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/nitro-online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Niu FM",
+					"stationLink": "http://19213.live.streamtheworld.com/NIUFM.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/niu-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Noize Radio 88.0",
+					"stationLink": "http://stream.noizeradio.co.nz:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Noize-Radio-88.0.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Oamaru Heritage Radio",
+					"stationLink": "http://freeuk17.listen2myradio.com:13414/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/oamaru-heritage-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "OAR 105.4 FM",
+					"stationLink": "http://live.wizz.co.nz/tr",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/OAR-105.4-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Online Clubber",
+					"stationLink": "http://178.63.1.224:8170/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/online-clubber.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Online Clubber Radio",
+					"stationLink": "http://208.109.90.37:9152/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/online-clubber-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Otago Access Radio",
+					"stationLink": "http://live.wizz.co.nz/tr",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Otago-Access-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Piha Radio 87.7",
+					"stationLink": "http://ghost.wavestreamer.com:7351/Live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Piha-Radio-87.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pirate Radio NZ",
+					"stationLink": "http://uk6.internet-radio.com:8295/autodj",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/pirate-radio-nz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Plains FM",
+					"stationLink": "http://live.wizz.co.nz/pfm?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Plains-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Planet FM 104.6",
+					"stationLink": "http://67.212.165.106:8011/;&type=mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Planet-FM-104.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power Hit FM",
+					"stationLink": "http://listen.powerhitfm.co.nz:16100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Power-Hit-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Puketapu Radio 756 AM",
+					"stationLink": "http://78.129.222.62:31743/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/puketapu-radio-756-am.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pulzar FM",
+					"stationLink": "http://198.105.216.204:8088/pulzarfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Pulzar-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 531pi",
+					"stationLink": "http://19483.live.streamtheworld.com/531PI.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-531pi-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio BurgerFuel",
+					"stationLink": "http://s2.stationplaylist.com:8130/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-burgerfuel.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chill NZ",
+					"stationLink": "http://78.129.224.15/stream.mp3?ipport=78.129.224.15_7578#;rnd=364",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-chill-nz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chinese FM 90.6",
+					"stationLink": "http://184.172.153.2/stream/1129/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Radio-Chinese-FM-90.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Control 99.4 FM",
+					"stationLink": "http://ice1.outcastdigital.com:8000/radiocontrol",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/radio-control-99.4-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Diego",
+					"stationLink": "http://audiostreamen.nl:8090/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Diego.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dunedin",
+					"stationLink": "http://icecast.mediaworks.nz/radio_dunedin",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-dunedin-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio KstationDetailnappers",
+					"stationLink": "http://live.wizz.co.nz/rk?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-KstationDetailnappers.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio KPS",
+					"stationLink": "http://210.54.147.177:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Radio-KPS.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio New Zealand Concert",
+					"stationLink": "http://radionz-ice.streamguys.com/concert.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-new-zealand-concert-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio New Zealand International",
+					"stationLink": "http://radionz-ice.streamguys.com/international.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-new-zealand-international.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio New Zealand National",
+					"stationLink": "http://radionz-ice.streamguys.com/national.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-New-Zealand-National.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio One 91FM",
+					"stationLink": "http://stream.r1.co.nz:8090/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-one-91fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Reading Service",
+					"stationLink": "http://live.wizz.co.nz/rrsnz",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-Reading-Service.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Redwood",
+					"stationLink": "http://116.251.193.29:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-Redwood.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Robotic",
+					"stationLink": "http://radiorobotic.zapto.org:8000/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Robotic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Samoa",
+					"stationLink": "http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Samoa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Schmadio",
+					"stationLink": "https://playerservices.streamtheworld.com/api/livestream-redirect/MELO_S01.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/radio-schmadio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shuffle DnB",
+					"stationLink": "http://s1.radioshuffle.net:8080/stream/3/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Shuffle-DnB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shuffle DnB LiqustationDetail",
+					"stationLink": "http://s1.radioshuffle.net:8080/stream/2/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Shuffle-Dubstep.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shuffle Dubstep",
+					"stationLink": "http://s1.radioshuffle.net:8080/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Shuffle-Dubstep.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sounds",
+					"stationLink": "http://78.129.224.19:22358/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Sounds.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Southland",
+					"stationLink": "http://live.wizz.co.nz/rs",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Southland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Spice NZ",
+					"stationLink": "http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/RadioSpice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sport",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/rsihr.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Sport.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tainui",
+					"stationLink": "http://apple.irirangi.net:8000/F_Tainui.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Tainui.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tarana",
+					"stationLink": "http://perstationDetailot.streamguys.com:7150/Tarana.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Radio-Tarana1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio The Flea",
+					"stationLink": "http://49.50.246.42:8030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-the-flea.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Virsa NZ",
+					"stationLink": "http://s8.voscast.com:7992/;stream.mp3%20type:7992/;stream.mp3?_=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Radio-Virsa-NZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Waatea",
+					"stationLink": "http://apple.irirangi.net:8000/I_Waatea.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Waatea.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Waitaki 104FM",
+					"stationLink": "http://stereo.wavestreamer.com:8411/1/;stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-Waitaki-104FM-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioActive 88.6",
+					"stationLink": "http://streaming.radio.co/s6ef1e80ce/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/RadioActive-88.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioLIVE",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/radiolive?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/RadioLIVE.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rafm NZ",
+					"stationLink": "http://listen1.mixlr.com/a182be92b006d9cc86404b62a00b2206",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Rafm-NZ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RAG-FM 107.7",
+					"stationLink": "http://sc7.shoutcaststreaming.us:8564/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/rag-fm-107.7.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Raglan Community Radio",
+					"stationLink": "http://58.28.153.160/broadwave.mp3?src=1&rate=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/raglan-community-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDU 98.5 FM",
+					"stationLink": "http://live.outcastdigital.com:8000/rdu?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/RDU-98.5-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Reboot Radio",
+					"stationLink": "http://rebootradio.nu:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Reboot-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rep FM",
+					"stationLink": "http://184.107.202.178:8022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Rep-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Retro Hit Radio",
+					"stationLink": "http://gemini.shoutca.st:8293/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Retro-Hit-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock It",
+					"stationLink": "http://203.86.201.203:88/broadwave.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Rock-It.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rough Peel Radio",
+					"stationLink": "http://15913.live.streamtheworld.com/SAM07AAC049_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Rough-Peel-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rush FM",
+					"stationLink": "http://rushbroadcasting.serverroom.us:5204/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Rush-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sachai Radio",
+					"stationLink": "http://radio.wsradio.net:33009/sachairadio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Sachai-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SANZLive Radio",
+					"stationLink": "https://s3.radio.co/s47a56becc/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/sanzlive-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sea FM Coromandel",
+					"stationLink": "http://listen.seafm.co.nz/128k_stream.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Sea-FM-Coromandel.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shed Blenheim 88.0",
+					"stationLink": "http://shed-blenheim.no-ip.net:8882/shed-blenheim128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Shed-Blenheim-88.0.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shed Nelson 88.1",
+					"stationLink": "http://shed-nelson.no-ip.net:8881/shed-nelson128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Shed-Nelson-88.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ski FM",
+					"stationLink": "http://fire.wavestreamer.com:2943/Live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Ski-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sleep Radio",
+					"stationLink": "http://37.59.28.208:8543/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Sleep-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Smooth Soul",
+					"stationLink": "http://radio.wanderingsheep.tv:8003/smoothsoul",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Smooth-Soul.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SolstationDetail Hits",
+					"stationLink": "http://69.197.169.178:33790/listen.mp3?0.9036009257878832",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/SolstationDetail-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Southern Star Radio",
+					"stationLink": "https://rhema-radio.streamguys1.com/rhema-star.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Southern-Star-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Spellbound Radio",
+					"stationLink": "https://s3.radio.co/s3620d3fd0/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Spellbound-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Splash FM Auckland",
+					"stationLink": "http://splashstream.ddns.net:8100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Splash-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Static 88.1fm",
+					"stationLink": "http://artsweb.aut.ac.nz:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Static-88.1fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sub FM Tauranga",
+					"stationLink": "http://stream.subfm.co.nz/live.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Sub-FM-Tauranga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Summit 96.1",
+					"stationLink": "http://nzbsbroadcast.cpit.ac.nz:5000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Summit-96.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sunshine 104.3 FM",
+					"stationLink": "http://radio.tehiku.live:8010/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Sunshine-104.3-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sweet Sounz FM",
+					"stationLink": "http://soho.wavestreamer.com:7333/stream/1/?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Sweet-Sounz-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tai FM",
+					"stationLink": "http://radio.tehiku.live:8020/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Tai-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tautoko FM",
+					"stationLink": "http://apple.irirangi.net:8000/J_Tautoko.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Tautoko-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Te Hiku Radio",
+					"stationLink": "http://apple.irirangi.net:8000/B_Te_Hiku_O_Te_Ika.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Te-Hiku-97.1-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "That 70s Station",
+					"stationLink": "http://radio.wanderingsheep.tv:8006/70s",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/That-70s-Station.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Blenz FM",
+					"stationLink": "http://192.240.102.195:9119/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/The-Blenz-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Breeze Tauranga",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/breezechc?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-breeze-tauranga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Breeze Waikato",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/thebreezeham",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-breeze-waikato-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Breeze Wellington",
+					"stationLink": "http://tunein-icecast.mediaworks.nz/breeze_wellington_128kbps",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-breeze-wellington-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Casual",
+					"stationLink": "http://stream.radiojar.com/yuw2p7b1hrquv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/the-casual.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Cheese Fm",
+					"stationLink": "http://thecheese.ddns.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/The-Cheese-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Flat Radio",
+					"stationLink": "http://stream.theflatfm.co.nz:7000/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-flat-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Flea Radio",
+					"stationLink": "http://49.50.246.42:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-flea-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Freeform Filter",
+					"stationLink": "http://listen.radionomy.com/thefreeformfilter?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-freeform-filter.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Generator 107.7",
+					"stationLink": "http://s1.myradiostream.com:14268/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/The-Generator-107.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Groove",
+					"stationLink": "https://s2.radio.co/s8f365c534/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/the-groove.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Hawk 104.3",
+					"stationLink": "http://219.89.86.91:8003/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/The-HAWK-104.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Heat 99.1 FM",
+					"stationLink": "http://icast1.streamcom.net:8000/The_Heat.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/The-Heat-99.1-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Most FM",
+					"stationLink": "http://gordon.mostfm.com:8000/high",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/The-Most-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Plug 106.9",
+					"stationLink": "http://s2.voscast.com:11614/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/The-Plug-106.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Radio One 91FM",
+					"stationLink": "http://stream.r1.co.nz:8090/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-radio-one-91fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Rock FM",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/therock_128kbps",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-rock-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Shed FM",
+					"stationLink": "http://shed-nelson.no-ip.net:8881/shed-nelson128.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/The-Shed-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Sound",
+					"stationLink": "http://icecast.mediaworks.co.nz:8000/TheSound_128kbps",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/The-Sound.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Sound Garden Radio",
+					"stationLink": "http://188.138.8.78:8181/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/The-Sound-Garden-Radio2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Static FM",
+					"stationLink": "http://artsweb.aut.ac.nz:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/the-static-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Studio FM",
+					"stationLink": "http://s40.myradiostream.com:13922/listen.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/The-Studio-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The VBC 88.3 FM",
+					"stationLink": "http://s2.stationplaylist.com:8190",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/The-VBC-88.3-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Wireless 90.4 FM",
+					"stationLink": "http://144.217.203.184:8045/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/The-Wireless-90.4-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Works Wellington",
+					"stationLink": "http://broadcasting.streamit4.me/theworks.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/The-Works-Wellington.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tumeke FM",
+					"stationLink": "http://apple.irirangi.net:8000/S_Sun.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Tumeke-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Turanga FM",
+					"stationLink": "http://apple.irirangi.net:8000/G_Turanga.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Turanga-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tuwharetoa FM",
+					"stationLink": "http://apple.irirangi.net:8000/H_Tuwharetoa.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Tuwharetoa-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Up 107.5 FM",
+					"stationLink": "http://stream.upfm.dj:8000/upfm_mp3_128",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/Up-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Waiheke Radio",
+					"stationLink": "http://stream.waihekeradio.org.nz:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Waiheke-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WCR West Coast Radio",
+					"stationLink": "http://streaming.alertcomputers.co.nz:5000/wcrfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/WCR-West-Coast-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Wellington Access Radio",
+					"stationLink": "http://live.wizz.co.nz/war?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Wellington-Access-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "World FM",
+					"stationLink": "http://vps.worldfm.co.nz:8882/worldfmstereo.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/world-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "World FM Tawa",
+					"stationLink": "http://vps.worldfm.co.nz:8882/worldfmstereo.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/World-FM-Tawa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WRFN 1025",
+					"stationLink": "http://188.165.192.5:8067/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/WRFN-1025.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Xroads FM",
+					"stationLink": "http://s27.myradiostream.com:13088/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Xroads-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XS80s",
+					"stationLink": "http://s1.myradiostream.com:12508/listen.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/XS80s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XS90s",
+					"stationLink": "http://s39.myradiostream.com:15392/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/XS90s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yeshua Radio",
+					"stationLink": "http://wsradio.net:8015/yeshuaradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Yeshua-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZFM",
+					"stationLink": "http://nebula.shoutca.st:8545/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/ZFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ZM Online",
+					"stationLink": "http://radionetwork-iheart-ice.streamguys1.com/zmihr.aac?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/ZM-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}
