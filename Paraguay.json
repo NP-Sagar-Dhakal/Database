@@ -1,0 +1,1065 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "98.5 Yacyreta FM",
+					"stationLink": "http://192.240.114.58/movyacyreta/movyacyreta.stream/playlist.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/98.5-yacyreta-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ABC Cardinal 730 AM",
+					"stationLink": "http://sc.abc.com.py:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/ABC-Cardinal-730-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ABC FM 98.5",
+					"stationLink": "https://rds3.desdeparaguay.net:8002/abcfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/abc-fm-98.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Albatros Digital",
+					"stationLink": "http://streaming.camaronhosting.com:9822/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Albatros-Digital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ANR PartstationDetailo Colorado",
+					"stationLink": "http://209.133.216.3:7265/stream/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/anr-partstationDetailo-colorado.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Azul Y Oro",
+					"stationLink": "http://aliasdns.info:8064/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Azul-Y-Oro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Black Radio Online PY",
+					"stationLink": "http://209.133.216.3:7107/live?1511255005875",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Black-Radio-Online-PY.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Caazapa Poty FM",
+					"stationLink": "http://108.161.139.194:9302/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Caazapa-Poty-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Canal 100",
+					"stationLink": "http://192.240.114.58/movcanal100/movcanal100.stream/chunklist_w1998076217.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/canal-100.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CFA Radio 99.5",
+					"stationLink": "https://rds3.desdeparaguay.net/movcfa/movcfa.stream/chunklist_w1922980709.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/cfa-radio-99.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chaco Boreal",
+					"stationLink": "http://83.170.105.153:8330/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Chaco-Boreal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chic Radio Paraguay",
+					"stationLink": "http://stream.zeno.fm/ybz4m57t7druv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Chic-Radio-Paraguay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Conquistador FM 89.1",
+					"stationLink": "http://192.240.114.58/movconquistador/movconquistador.stream/chunklist_w1570742377.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/conquistador-fm-89.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cooperativa Universitaria",
+					"stationLink": "http://200.108.136.94:8000/envivo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/cooperativa-universitaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Corazon 99.1 FM",
+					"stationLink": "http://66.55.145.43:7076/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Corazon-99.1-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cumbia Villera (la vieja escuela) Radio",
+					"stationLink": "https://node-24.zeno.fm/0f4cs2u1krruv.aac?rj-ttl=5&rj-tok=AAABcw3_cuEAgBmfI7mKM1-p6A",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/cumbia-villera-la-vieja-escuela-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "D20 Paraguay",
+					"stationLink": "http://198.204.232.221:9316/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/D20-Paraguay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Del Este 94.3",
+					"stationLink": "http://radio.cdehosting.net:8040/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/del-este-94.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Educacion FM 99.7",
+					"stationLink": "http://198.50.206.237:8050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/educacion-fm-99.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Emilio Marin DJ",
+					"stationLink": "http://178.33.116.27:5212/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Emilio-Marin-DJ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Estacion 101.3",
+					"stationLink": "http://46.105.180.202:8053/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/estacion-101.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Esto Es Cerro Con Monchi Bogarin Radio",
+					"stationLink": "http://node-33.zeno.fm/axykfpxcreruv?rj-ttl=5&rj-tok=AAABb1DGs6MA1bpCvWraGGJPUw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/esto-es-cerro-con-monchi-bogarin-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Esto Es Cumbia Con Monchi Bogarin Radio",
+					"stationLink": "https://node-22.zeno.fm/ch1z10swchruv.aac?rj-ttl=5&rj-tok=AAABb1XrEt0AjrEZn4bUDWlmXQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/esto-es-cumbia-con-monchi-bogarin-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM Concert",
+					"stationLink": "http://107.182.231.73:7052",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/FM-Concert.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM del Sur",
+					"stationLink": "http://173.212.242.118:8100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/FM-del-Sur.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM en Vivo",
+					"stationLink": "http://200.58.101.247:8010/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/FM-en-Vivo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM Guaira",
+					"stationLink": "http://stream.aerstreaming.com:3284",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/FM-Guaira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM Horizonte",
+					"stationLink": "http://201.217.38.182:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/FM-Horizonte.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM Popular",
+					"stationLink": "http://66.55.145.43:7079/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/FM-Popular.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM San Fernando",
+					"stationLink": "http://giss.tv:8001/Sanfernando.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/FM-San-Fernando.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM Vive 104.3",
+					"stationLink": "http://108.161.139.194:9312/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/fm-vive-104.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Global Mix 106.5",
+					"stationLink": "http://209.133.216.3:7048/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Global-Mix-106.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Gol Radio",
+					"stationLink": "http://50.7.6.66:9980/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Gol-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guyra Campana",
+					"stationLink": "http://192.240.114.58/mov1420/mov1420.stream/chunklist_w269059659.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/guyra-campana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HEi Musica 91.9",
+					"stationLink": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/chunklist_w689437567_b481072.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/hei-musica-91.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "InoxstationDetailable Web Radio",
+					"stationLink": "http://83.142.226.45:18029/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/InoxstationDetailable-Web-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Itapua Fm",
+					"stationLink": "http://radio.itapuafm.com.py:8000/itapuafm?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Itapua-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Deportiva 1120 AM",
+					"stationLink": "http://142.4.217.133:8750/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/La-Deportiva-1120-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Union R800 AM",
+					"stationLink": "http://83.170.105.153:9772/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/La-Union-R800-SM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Los 40 Paraguay",
+					"stationLink": "http://17973.live.streamtheworld.com:3690/FM92_3_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Los-40-Paraguay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Megaestacion95 FM",
+					"stationLink": "http://192.240.114.58/movmegaestacion95/movmegaestacion95.stream/chunklist_w912545621.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/megaestacion95-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mensajero FM",
+					"stationLink": "http://184.154.90.186:8048/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Mensajero-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Monchi SonstationDetailo Dj Radio",
+					"stationLink": "http://stream.zeno.fm/ytvegfm048quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/monchi-sonstationDetailo-dj-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Musica Paraguaya RS1",
+					"stationLink": "http://198.15.77.50:9978/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/musica-paraguaya-rs1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Norte Comunicaciones 94.5",
+					"stationLink": "http://192.240.114.58/movnortecomunicaciones/movnortecomunicaciones.stream/chunklist_w998970736.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/norte-comunicaciones.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ordentlig Radio",
+					"stationLink": "http://mms-live.online.no/oradio_mp3_m?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Ordentlig-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Palma FM 106.5",
+					"stationLink": "https://18683.live.streamtheworld.com/PALMA_FMAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/palma-fm-106.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PastationNamericana Radio",
+					"stationLink": "http://192.99.148.184:6710",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/PastationNamericana-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pasion Fm",
+					"stationLink": "http://cast.miradio.in:8212/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Pasion-Fm1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Puhoe",
+					"stationLink": "http://questreaming.info:28466/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/puhoe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Quiero Mas Radio",
+					"stationLink": "http://node-05.zeno.fm/bcq18fc059duv?rj-ttl=5&rj-tok=AAABb1Wg7QwA-5HEwdGaBGTuaQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/quiero-mas-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1000 AM",
+					"stationLink": "http://72.29.70.22:8302",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-1000-am-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 970 AM",
+					"stationLink": "http://192.99.16.17:3364/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-970-am-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 970 AM",
+					"stationLink": "http://192.99.16.17:3364/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-970-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aguai Poty",
+					"stationLink": "http://108.161.139.194:9302/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Aguai-Poty.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio America 94.9",
+					"stationLink": "http://184.154.45.106:8114/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-America-94.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio America Paraguay",
+					"stationLink": "http://reseller01.shockmedia.com.ar:9860/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-America-Paraguay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amor 95.9",
+					"stationLink": "http://192.240.114.58/movamor/movamor.stream/chunklist_w318060351.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-amor-95.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio AqustationDetailaban FM",
+					"stationLink": "http://192.240.114.58/movaqustationDetailaban/movaqustationDetailaban.stream/chunklist_w303026186.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-aqustationDetailaban-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Arapy 98.1",
+					"stationLink": "http://192.240.114.58/movvibras/movvibras.stream/chunklist_w1966135078.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-arapy-98.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Canindeyu",
+					"stationLink": "http://stream.aerstreaming.com:3506/;aacp?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Canindeyu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Capital 101.7",
+					"stationLink": "http://192.240.114.58/movcapital/movcapital.stream/chunklist_w1420918339.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-capital-101.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Caraguatay 90.3",
+					"stationLink": "http://192.240.114.58/movcaraguatay/movcaraguatay.stream/chunklist_w625467758.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-caraguatay-90.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Carapegua FM",
+					"stationLink": "http://streaming.soymedios.net:9532/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-carapegua-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cardinal",
+					"stationLink": "http://sc.abc.com.py:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Cardinal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Caritas",
+					"stationLink": "http://200.1.201.244:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Caritas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Carlos Antonio Lopez",
+					"stationLink": "http://195.154.33.87:7582/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-Carlos-Antonio-Lopez.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Centenario 99.5",
+					"stationLink": "http://192.240.114.58/movcentenario/movcentenario.stream/chunklist_w978479593.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-centenario-99.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Colmenar",
+					"stationLink": "http://s9.viastreaming.net:7220",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Colmenar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Continental 95.3",
+					"stationLink": "http://publish.desdeparaguay.net:9220/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-continental-95.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Corpus",
+					"stationLink": "http://198.50.206.237:8024",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Corpus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Encarnacion",
+					"stationLink": "http://s23.myradiostream.com:6646/;stream/1?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Encarnacion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Espiritu Santo",
+					"stationLink": "http://stream.radiios.com:8838/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-espiritu-santo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Estacion 40",
+					"stationLink": "http://14953.live.streamtheworld.com/ESTACION40AAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Estacion-40.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Evolucion FM",
+					"stationLink": "http://192.240.114.58/movevolucion/movevolucion.stream/chunklist_w521646245.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-evolucion-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Exitos De Ayer",
+					"stationLink": "http://node-32.zeno.fm/hvnh6d5uebruv?rj-ttl=5&rj-tok=AAABb1XmccsADYN52vn4meqw0A",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-exitos-de-ayer.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Expresso Minga Guazu",
+					"stationLink": "https://node-20.zeno.fm/w486dkhc2wzuv?rj-ttl=5&rj-tok=AAABcgMOkY4AD8pf5OE3sLsHbQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-expresso-minga-guazu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Farra 101.3",
+					"stationLink": "https://rfs1.farra.com.py:9433/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Farra-101.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fiesta FM 102.9",
+					"stationLink": "http://stream.radiios.com:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-fiesta-fm-102.9.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FM Union",
+					"stationLink": "http://181.123.6.170:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-FM-Union.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Friesland 101.7",
+					"stationLink": "http://108.178.57.196:11133/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-friesland-101.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Frontera 92.5",
+					"stationLink": "http://server.painel-stm.com:7834/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-frontera-92.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Guaira FM",
+					"stationLink": "http://206.190.146.214:3284/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Guaira-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Integracion 104.3",
+					"stationLink": "http://198.50.206.237:8022/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-integracion-104.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Itapiru",
+					"stationLink": "http://radio.cdehosting.net:8002/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-itapiru.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Karapa 89.9 FM",
+					"stationLink": "http://stream.aerstreaming.com:3516/;aacp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-karapa-89.9-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kokue Poty",
+					"stationLink": "http://38.96.148.138:5676",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Kokue-Poty.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Paz 93.3",
+					"stationLink": "http://195.154.33.87:7586/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-La-Paz-93.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio la voz de la Policia",
+					"stationLink": "http://212.83.172.242:8108/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-la-voz-de-la-Policia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Voz Del Nazareno",
+					"stationLink": "http://cast5.servcast.net:7790/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-la-voz-del-nazareno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Laser FM",
+					"stationLink": "http://66.55.145.43:7081/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-laser-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Latina 97.1",
+					"stationLink": "http://192.240.114.58/movlatina/movlatina.stream/chunklist_w1809804399.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-latina-97.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Manduvira FM",
+					"stationLink": "http://stream.aerstreaming.com:7018",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Manduvira-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mangore",
+					"stationLink": "http://giss.tv:8000/radiomangore.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-mangore.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Marandu 88.7",
+					"stationLink": "https://usa6.fastcast4u.com/proxy/gasote03?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-marandu-88.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mas 102.3",
+					"stationLink": "http://stream.radiios.com:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-mas-102.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mburucuya",
+					"stationLink": "http://108.178.57.196:8074/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Mburucuya.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio MDQ",
+					"stationLink": "http://radiomdq.serverroom.us:8254/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-MDQ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Medano",
+					"stationLink": "http://201.217.6.34:8000/live.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Medano.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Montecarlo",
+					"stationLink": "http://192.99.16.17:1968/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Montecarlo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Monumental 1080 am",
+					"stationLink": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONUMENTAL_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Radio-Monumental-1080-am.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mundial FM",
+					"stationLink": "http://suaradio1.dyndns.ws:10040/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Mundial-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nacional Del Paraguay",
+					"stationLink": "http://audio2.radionacional.gov.py:8084/951fm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-nacional-del-paraguay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nanduti",
+					"stationLink": "http://107.182.231.73:7048/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/radio-nanduti-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nasaindy",
+					"stationLink": "http://198.27.64.196:8016/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Nasaindy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Net Yeshua",
+					"stationLink": "http://45.43.200.18:19278/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Net-Yeshua.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Neuland",
+					"stationLink": "http://184.154.202.243:8096/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Neuland.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Obedira",
+					"stationLink": "http://201.222.51.94:8085/obedira.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Obedira.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Panambi Vera",
+					"stationLink": "http://72.29.81.205:9100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Panambi-Vera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Parque AM 550",
+					"stationLink": "http://radio.cdehosting.net:8030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Parque-AM-550.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Parquecde",
+					"stationLink": "http://radio.cdehosting.net:8030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Parquecde.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Piribebuy",
+					"stationLink": "http://192.240.114.58/movpiribebuy/movpiribebuy.stream/playlist.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-piribebuy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Potrerito",
+					"stationLink": "http://108.61.34.50:7450/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-potrerito.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Santa Rita FM",
+					"stationLink": "http://questreaming.info:28466/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-santa-rita-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Satelital",
+					"stationLink": "http://audio.satelitalfm.com:8001/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Satelital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sensacion FM 89.7",
+					"stationLink": "http://mistreaming.com.ve:9832/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Sensacion-FM-89.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sitramis",
+					"stationLink": "http://212.83.172.164:9906/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Sitramis.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SolstationDetailarstationDetailad",
+					"stationLink": "http://201.217.39.18:88/broadwavehigh.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-SolstationDetailarstationDetailad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sonica Paraguay",
+					"stationLink": "http://198.15.77.50:9800/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-sonica-paraguay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Soy",
+					"stationLink": "http://198.15.77.50:9500/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/radio-soy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio StudioFM 92.1",
+					"stationLink": "http://192.240.114.58/movstudio/movstudio.stream/playlist.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-studiofm-92.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Suceso FM",
+					"stationLink": "http://stm11.srvstm.com:7722/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-suceso-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Trom",
+					"stationLink": "http://stream1.servercristianonetwork.com:8198/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-trom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Universal 93.9",
+					"stationLink": "http://publish.desdeparaguay.net:9794/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Universal-93.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Uno Paraguay",
+					"stationLink": "https://rus1.radiouno.com.py:9433/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Uno-Paraguay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Urbana 106.9",
+					"stationLink": "http://15383.live.streamtheworld.com/URBANAAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Urbana-106.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vallenatos Clasicos",
+					"stationLink": "http://stream.zeno.fm/z07vyxbqz8quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/radio-vallenatos-clasicos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio VstationDetaila FM",
+					"stationLink": "http://163.182.175.106:8972/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-VstationDetaila-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio VstationDetaila Online",
+					"stationLink": "http://stream.zeno.fm/prw3kh3pcwzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-VstationDetaila-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ysapy",
+					"stationLink": "http://reseller01.shockmedia.com.ar:9456/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Ysapy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Yuty",
+					"stationLink": "http://s28.myradiostream.com:15480/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Yuty.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Yvytu 97.5 FM",
+					"stationLink": "http://192.240.114.58/movyvytu/movyvytu.stream/chunklist_w1860522350.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-yvytu-97.5-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ZP30",
+					"stationLink": "http://184.154.43.106:8019/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-ZP30.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RCC Radio 101.7",
+					"stationLink": "http://streaming.camaronhosting.com:9526/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/rcc-radio-101.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Realce Design Radio",
+					"stationLink": "http://05.stmip.in:8234/index.html?sstationDetail=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Realce-Design-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock and Pop",
+					"stationLink": "http://107.182.231.73:7044",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Rock-and-Pop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "San Ignacio FM",
+					"stationLink": "http://67.212.166.178:7074",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/San-Ignacio-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Santa Helena FM",
+					"stationLink": "http://91.121.105.181:8054/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Santa-Helena-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Santo Tomas FM",
+					"stationLink": "http://radio.santotomas.cl:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Santo-Tomas-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sound Shine Radio",
+					"stationLink": "http://108.161.130.126:9990",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Sound-Shine-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sturadio FM",
+					"stationLink": "http://stream.zenolive.com/caub45y4d54tv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Sturadio-FM-3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Transamerica FM Paraguay",
+					"stationLink": "http://aparato.desdeparaguay.net:11078",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Transamerica-FM-Paraguay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Unasur FM",
+					"stationLink": "http://83.170.105.153:9764/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Unasur-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Union FM Radio",
+					"stationLink": "http://65.254.54.218:8100/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Union-FM-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Universo 970 AM",
+					"stationLink": "http://192.99.16.17:3364/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/universo-970-am.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vol40",
+					"stationLink": "http://node-19.zeno.fm/ym0qh6zmg1duv?rj-ttl=5&rj-tok=AAABb1XCQnQAglNS18WEeLtunw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/vol40.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VolMix Suena Bien",
+					"stationLink": "https://stream.radiosenpy.net:10895/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/volmix-suena-bien-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yatytay FM 101.9",
+					"stationLink": "http://radios.wilsoft-es.com:8000/yatytayfm.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/yatytay-fm-101.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ycuamandyyu AM 590",
+					"stationLink": "http://192.240.114.58/movycuamandyyu/movycuamandyyu.stream/chunklist_w807940909.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/ycuamandyyu-am-590.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ypane FM 104.3",
+					"stationLink": "http://192.240.114.58/movypane/movypane.stream/playlist.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/ypane-fm-104.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Yvoty FM",
+					"stationLink": "http://134.213.164.215/05f4adcm38vtv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Yvoty-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

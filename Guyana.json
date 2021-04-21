@@ -1,0 +1,211 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "100.1 FRESH FM",
+					"stationLink": "http://198.27.80.205:5468/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/100.1-FRESH-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "104.1 Guyana Lite FM",
+					"stationLink": "http://stream.radiojar.com/nh42m158d4duv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Guyana-Lite-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "93.1 Real FM",
+					"stationLink": "http://ic.streann.com:8000/RealFm.m3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/93.1-Real-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "96.1 Voice FM",
+					"stationLink": "http://stream.radiojar.com/ac81a4b0ufeuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/96.1-voice-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "98.1 Hot FM",
+					"stationLink": "http://ample-08.radiojar.com/nh42m158d4duv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/98.1-Hot-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chwiti Web",
+					"stationLink": "https://listen.radioking.com/radio/190309/stream/232540",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/chwiti-web.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Foreign Link Radio",
+					"stationLink": "http://87.98.219.178:8460/stream;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/foreign-link-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Freedom Radio Guyana",
+					"stationLink": "http://108.35.61.50:9988/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Freedom-Radio-Guyana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GTrstationDetaildim Guyana Radio",
+					"stationLink": "http://www.gtrstationDetaildim.net:8080",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/GTrstationDetaildim-Guyana-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GTrstationDetaildim Radio",
+					"stationLink": "http://gtrstationDetaildim.net:8080",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/GTrstationDetaildim-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guyane 1Ere",
+					"stationLink": "http://radios.la1ere.fr/guyane",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Guyane-1Ere.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HJ Boom FM",
+					"stationLink": "http://192.99.8.192:3630/stream/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/HJ-Boom-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "IRadio Guyana",
+					"stationLink": "http://media.guardian.co.tt:8000/iradiogy?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/IRadio-Guyana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix 90.1 FM",
+					"stationLink": "http://media.guardian.co.tt:8000/iradiogy",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Mix-90.1-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "News-Talk Radio Guyana 103.1 FM",
+					"stationLink": "http://s3.voscast.com:9138/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/news-talk-radio-guyana-103.1-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NTN Radio",
+					"stationLink": "http://auds1.intacs.com/ntnradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/NTN-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ouest FM Guiana",
+					"stationLink": "http://srv2.streaming-ingenierie.fr:8162",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Ouest-FM-Guyane.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 1 Caribbean",
+					"stationLink": "http://cassini.shoutca.st:8778/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Radio-1-Caribbean.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Guyana",
+					"stationLink": "http://titan.shoutca.st:8905/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/03/radio-guyana-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Guyana Inc",
+					"stationLink": "http://knight.wavestreamer.com:7641/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Guyana-Inc.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Guyana International",
+					"stationLink": " http://titan.shoutca.st:8905/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-Guyana-International.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio JAM Guyane",
+					"stationLink": "http://radiojam.ice.infomaniak.ch/radiojam-64.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-JAM-Guyane.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio King",
+					"stationLink": "https://listen.radioking.com/radio/1906/stream/63694",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/Radio-King-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RstationDetaildim Links FM",
+					"stationLink": "http://149.56.147.197:9057",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/RstationDetaildim-Links-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RTL2 Dom",
+					"stationLink": "http://radio-shoutcast.cyber-streaming.com:8090",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/RTL2-Dom.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Seductive Sounds Radio",
+					"stationLink": "http://199.180.75.2:9027/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Seductive-Sounds-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VIP Radio",
+					"stationLink": "http://vip128.streaming.rs:8110",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/03/vip-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VOICE OF GUYANA 102.5FM",
+					"stationLink": "http://gtrstationDetaildim.net:8080/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/VOICE-OF-GUYANA-102.5FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vybez Station",
+					"stationLink": "http://us2.internet-radio.com:8281/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Vybez-Station.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

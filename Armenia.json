@@ -1,0 +1,267 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Activist Radio",
+					"stationLink": "http://216.55.165.146:8000/PRN;audio.mp3?hash=1579164785294",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Activist-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arm Radio",
+					"stationLink": "http://37.252.79.131:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/arm-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ARRadio",
+					"stationLink": "http://199.195.194.92:8029/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/arradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Classic IMusic AM",
+					"stationLink": "https://radio.imusic.am/classic.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Classic-IMusic-AM-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ethno IMusic AM",
+					"stationLink": "https://radio.imusic.am/ethno.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Ethno-IMusic-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fusion IMusic AM",
+					"stationLink": "https://radio.imusic.am/fusion.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Fusion-IMusic-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hay FM",
+					"stationLink": "http://51.158.21.33:8000/fm105.5",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/hay-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit FM 107.4",
+					"stationLink": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/hit-fm-107.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Horovel AM",
+					"stationLink": "http://212.34.233.78:8005/music",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Horovel-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "IMPULS Radio",
+					"stationLink": "http://212.34.233.78:8000/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/impuls-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jammin IMusic AM",
+					"stationLink": "https://radio.imusic.am/jammin.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Jammin-IMusic-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La UFM Estereo",
+					"stationLink": "http://c11.radioboss.fm:8054/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/La-UFM-Estereo-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Voz del Cafe",
+					"stationLink": "https://server2.ejeserver.com:8224/stream?1591859730546",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/la-voz-del-cafe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lav Radio",
+					"stationLink": "https://eu.stream4cast.com:9800/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/lav-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lav Radio Mix",
+					"stationLink": "https://eu.stream4cast.com:9801/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/lav-radio-mix.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "LavRadio FM 106.9",
+					"stationLink": "http://s7.voscast.com:10196/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/LavRadio-FM-106.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MFM Music Radio",
+					"stationLink": "https://eu.stream4cast.com:9802/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/mfm-music-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Online Radio Armenia",
+					"stationLink": "http://onlineradio.out.airtime.pro:8000/onlineradio_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Online-Radio-Armenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Public Radio of Armenia",
+					"stationLink": "http://37.252.79.131:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/public-radio-of-armenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "R Rossii",
+					"stationLink": "http://icecast.vgtrk.cdnvstationDetaileo.ru/rrzonam_mp3_128kbps",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/R-Rossii.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Armenia",
+					"stationLink": "http://direct.radioarmenie.com:9029/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-armenia-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Aurora",
+					"stationLink": "http://am.radioaurora.am:8010/al.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-aurora.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio AYK",
+					"stationLink": "http://64.150.176.42:8117/;listen.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/radio-ayk.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Azalia",
+					"stationLink": "http://radioazalia.out.airtime.pro:8000/radioazalia_b",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Radio-Azalia-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Energy Armenia",
+					"stationLink": "https://eu.stream4cast.com:9803/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-energy-armenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fama Armenia",
+					"stationLink": "https://eu.stream4cast.com:9805/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Fama-Armenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hay",
+					"stationLink": "http://51.158.21.33:8000/radiohay",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Hay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jan 90.7",
+					"stationLink": "http://s7.voscast.com:10258/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Jan-90.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Marshall",
+					"stationLink": "http://eu.stream4cast.com:8030/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Marshall.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mayak Armenia",
+					"stationLink": "http://icecast.vgtrk.cdnvstationDetaileo.ru/mayakfm_mp3_128kbps",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Mayak-Armenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Van",
+					"stationLink": "https://stream.radiovan.fm:8000/96_stereo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-van.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio YAN",
+					"stationLink": "http://83.169.36.75:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/radio-yan.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Yeraz",
+					"stationLink": "http://149.255.59.164:8008/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/radio-yeraz.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sputnik Armenia",
+					"stationLink": "http://icecast-ruvr.cdnvstationDetaileo.ru/rian.voicearm1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Sputnik-Armenia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tropicana FM",
+					"stationLink": "http://19253.live.streamtheworld.com/TROPICANAAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/tropicana-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vem Radio",
+					"stationLink": "http://93.94.223.140:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Vem-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XFM Radio",
+					"stationLink": "https://eu.stream4cast.com:9804/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/xfm-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

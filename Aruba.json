@@ -1,0 +1,155 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "AFM Aruba",
+					"stationLink": "http://ice1.securenetsystems.net/DEMOSTN?playSessionstationDetail=6AEB38B7-CA0F-2F2B-384DB852DD5B857C",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/afm-aruba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Blue FM Aruba",
+					"stationLink": "http://173.245.78.146:8014/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/blue-fm-aruba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BO GUIA FM",
+					"stationLink": "http://whooshserver.net:9880/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/bo-guia-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Caliente FM Aruba",
+					"stationLink": "http://67.225.152.102:8030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/caliente-fm-aruba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Canal 90 FM",
+					"stationLink": "http://198.245.51.58:10879/Canal90",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/canal-90-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Comeback Radio",
+					"stationLink": "http://sc1.sytes.net:9116/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Comeback-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cool FM 98.9",
+					"stationLink": "http://www.coolaruba.com:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/cool-fm-98.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Easy FM Aruba",
+					"stationLink": "https://8793843.com/7896326289/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/easy-fm-aruba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Fresh FM 104.3",
+					"stationLink": "http://www.fresharuba.com:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/fresh-fm-104.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GFM 99.9",
+					"stationLink": "https://securestreams5.autopo.st:1922/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/gfm-99.9.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Heart Music Radio 106.7",
+					"stationLink": "http://67.212.189.122:8119/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Heart-Music-Radio-106.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit 94 FM",
+					"stationLink": "http://hit94fm.serverroom.us:8490/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/hit-94-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magic 96.5 FM",
+					"stationLink": "http://158.69.114.190:8072/;?1476089829845",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/magic-96.5-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Massive 103.5 FM",
+					"stationLink": "http://shoutie.bitklik.com:8001/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/massive-103.5-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega 88 FM",
+					"stationLink": "http://174.123.174.50:8480/;stream.mp3?1523266412907",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/mega-88-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Oldies 99.9",
+					"stationLink": "http://109.169.15.20:24686/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Oldies-99.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Power 101.7 FM",
+					"stationLink": "http://38.96.148.28:11832/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/power-101.7-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super Exitos Aruba",
+					"stationLink": "http://78.129.224.21:31433/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Super-Exitos-Aruba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Top 95 FM",
+					"stationLink": "http://198.245.51.58:10995/topfm?1583569512254",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/top-95-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VIP Radio Aruba",
+					"stationLink": "http://s02.whooshserver.net:8054/vip",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/VIP-Radio-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Youth Fever Radio",
+					"stationLink": "http://s02.whooshserver.net:8054/vip",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/youth-fever-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

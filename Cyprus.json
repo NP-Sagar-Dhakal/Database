@@ -1,0 +1,596 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "50s All Time Greatest",
+					"stationLink": "http://listen.radionomy.com/50salltimegreatest",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/50s-All-Time-Greatest.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "50s Hits Zone",
+					"stationLink": "http://37.59.32.115:5139/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/50s-Hits-Zone.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "60s Chartbusters",
+					"stationLink": "http://listen.radionomy.com/60schartbusters?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/60s-Chartbusters.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "60s Hits Zone",
+					"stationLink": "http://listen.radionomy.com/60schartbusters\\",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/60s-Hits-Zone.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "70s 80s All Time Greatest",
+					"stationLink": "http://5.189.142.165:8032/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/70s-80s-All-Time-Greatest.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "70s 80s Greatest",
+					"stationLink": "http://stream.laut.fm/70s80sgreatest",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/70s-80s-greatest.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "70s Hits Zone",
+					"stationLink": "http://37.59.32.115:5129/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/70s-Hits-Zone.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "80s Chartbusters",
+					"stationLink": "http://listen.radionomy.com/80schartbusters",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/80s-Chartbusters.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "90s All Time Greatest",
+					"stationLink": "http://listen.radionomy.com/90salltimegreatest",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/90s-All-Time-Greatest.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All 00s Radio",
+					"stationLink": "http://51.77.124.144:8038/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/all-00s-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All 50s Radio",
+					"stationLink": "https://streaming.radionomy.com/50sAllTimeGreatest?lang=en-US%2cen%3bq%3d0.9",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/all-50s-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All 60s Radio",
+					"stationLink": "http://185.105.4.100:8151/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/all-60s-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All 70s Radio",
+					"stationLink": "http://185.105.4.100:8073/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/all-70s-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All 80s Radio",
+					"stationLink": "http://185.105.4.100:8133/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/all-80s-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All 90s Radio",
+					"stationLink": "http://51.77.124.144:8083/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/all-90s-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All Hits Zone",
+					"stationLink": "http://listen.openstream.co/3126/audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/All-Hits-Zone.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All Time 70s 80s Greatest",
+					"stationLink": "http://listen.radionomy.com/alltime70s80sgreatest",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/All-Time-70s-80s-Greatest.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "All Time Greatest Radio",
+					"stationLink": "http://listen.radionomy.com/90salltimegreatest",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/All-Time-Greatest-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ant1 FM",
+					"stationLink": "http://r1.cloudskep.com/radio2/ant1fm/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Ant1-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "artFM Radio",
+					"stationLink": "http://192.240.102.198:14012/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/artFM-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Astra 92.8",
+					"stationLink": "http://radio.dialogos.com.cy:8000/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/astra-92.8-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Astra Fm",
+					"stationLink": "http://radio.dialogos.com.cy:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Astra-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bayrak FM",
+					"stationLink": "http://sc.brtk.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Bayrak-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bayrak International",
+					"stationLink": "http://sc.brtk.net:8004/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/bayrak-international-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bayrak Radyosu",
+					"stationLink": "http://sc.brtk.net:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/bayrak-radyosu-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Black Diamond Radio",
+					"stationLink": "http://streaming.radionomy.com/HardRockRadioLiveMetalMeltdown",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Black-Diamond-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Capital Radio",
+					"stationLink": "http://159.253.37.137:9956/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Capital-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chillout Breeze",
+					"stationLink": "http://listen.radionomy.com/chilloutbreeze",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Chillout-Breeze.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chillout Zone",
+					"stationLink": "http://5.189.142.165:2304/stream/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Chillout-Zone.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Choice FM",
+					"stationLink": "http://live3.istoikona.net:8364/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Choice-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Choice FM 104.3",
+					"stationLink": "http://live3.istoikona.net:8364/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/choice-fm-104.3-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chromium Sun",
+					"stationLink": "http://37.187.90.196:8885/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Chromium-Sun.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dance FM 95.5",
+					"stationLink": "http://scserv.nrgplay.com/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/dance-fm-95.5.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DJ Box Radio",
+					"stationLink": "http://eu8.fastcast4u.com:5116",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/DJ-Box-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "First FM",
+					"stationLink": "http://185.110.242.208:8090/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/First-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Greek Choice",
+					"stationLink": "http://live3.istoikona.net:8207/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/greek-choice.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Greek Hits Radio",
+					"stationLink": "http://listen.radionomy.com/greekhitsradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Greek-Hits-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Greek World Radio",
+					"stationLink": "http://5.189.142.165:8140/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Greek-World-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guaba Beach Bar",
+					"stationLink": "http://s7.voscast.com:10508/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/08/guaba-beach-bar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hoi Polloi Radio",
+					"stationLink": "http://192.240.102.198:14184/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Hoi-Polloi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hot 40 Music",
+					"stationLink": "http://listen.radionomy.com/Hot40Music?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Hot-40-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kanali 6 106",
+					"stationLink": "http://stream.dnsgb.net:8012/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/kanali-6-106-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kanali Radio",
+					"stationLink": "http://stream.dnsgb.net:8012/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Kanali-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kanali7 98.4",
+					"stationLink": "http://live.kanali7.com:4012/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Kanali7-98.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss FM 89.0",
+					"stationLink": "http://r1.phileradio.com:8193/89FM",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/kiss-gold-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kiss Gold",
+					"stationLink": "http://r1.phileradio.com:8193/89FM",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/kiss-gold-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Klik FM",
+					"stationLink": "http://eco.onestreaming.com:8310/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Klik-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Klik FM 105.6",
+					"stationLink": "http://eco.onestreaming.com:8310/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/klik-fm-105.6-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Love Zone",
+					"stationLink": "http://5.189.142.165:8108/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Love-Zone.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega Radio Cyprus",
+					"stationLink": "http://s10.voscast.com:10348/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Mega-Radio-Cyprus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Melodia Entexno",
+					"stationLink": "http://eco.onestreaming.com:8031/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Melodia-Entexno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Melody Radio 103.1",
+					"stationLink": "http://livemedia.virtualict.com:8000/test5.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Melody-Radio-103.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix FM 102.3",
+					"stationLink": "http://eco.onestreaming.com:8127/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/mix-fm-102.3-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Music Moments",
+					"stationLink": "https://andreas.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/music-moments.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NRJ Cyprus",
+					"stationLink": "http://shout.kalsedia.com:1045/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/nrj-cyprus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Play FM Cyprus",
+					"stationLink": "http://live.playfm.com.tr:9050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Play-FM-Cyprus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pure 60s",
+					"stationLink": "https://listen.openstream.co/3341/audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/pure-60s.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pure 90s",
+					"stationLink": "http://5.189.142.165:8505/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Pure-90s-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO 99 FM",
+					"stationLink": "http://live3.istoikona.com:8671/;stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/radio-99-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Haji",
+					"stationLink": "http://50.7.99.163:16116/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/radio-haji.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pafos",
+					"stationLink": "http://live.iteam4media.com:1818/.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/Radio-Pafos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pafos 93.7",
+					"stationLink": "http://live.iteam4media.com:1818/.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/radio-pafos-93.7-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Proto",
+					"stationLink": "http://eco.onestreaming.com:8191/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Proto.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Proto 99.3",
+					"stationLink": "http://eco.onestreaming.com:8191/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/radio-proto-99.3-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio TBB",
+					"stationLink": "http://79.98.108.170:8121/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-TBB.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ubuntu",
+					"stationLink": "http://5.189.184.146:8000/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-ubuntu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radyo Cool",
+					"stationLink": "http://yayin3.canlitv.com:6050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radyo-Cool.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radyo Juke",
+					"stationLink": "http://mirasis.acteknik.com:9990",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radyo-Juke.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radyo Mayis FM",
+					"stationLink": "http://216.104.46.130/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radyo-Mayis.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radyo ODTU 103.1",
+					"stationLink": "http://144.122.156.68:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radyo-ODTU.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radyo ODTU Kuzey Kibris",
+					"stationLink": "http://144.122.156.68:8000/stream/1/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/Radyo-ODTU-Kuzey-Kibris.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radyo Vatan Kuzeyin",
+					"stationLink": "http://95.0.173.195:9002/vatan",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Radyo-Vatan-Kuzeyin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock FM 98.5",
+					"stationLink": "http://live3.istoikona.net:8278/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Rock-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rock FM Cyprus",
+					"stationLink": "http://live3.istoikona.net:8456/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Rock-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Russian Wave Radio",
+					"stationLink": "http://shout.kalsedia.com:1057/ruwave1057_64",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Russian-Wave-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sfera 96.8",
+					"stationLink": "http://r1.phileradio.com:8193/sfera",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/sfera-96.8-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sports 1 Radio",
+					"stationLink": "http://eco.onestreaming.com:8486/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Sports-1-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Star FM 93.7",
+					"stationLink": "http://cb.streamguys1.com/wsim.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/star-fm-93.7-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super Club Radio",
+					"stationLink": "http://64.71.79.181:4272/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/super-club-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super FM 104.8",
+					"stationLink": "http://eco.onestreaming.com:8175/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Super-FM-104.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super Sport FM",
+					"stationLink": "http://sportfm-cyprus.live24.gr/sportfm-cyprus",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/super-sport-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super Sport FM 104",
+					"stationLink": "http://sportfm-cyprus.live24.gr/sportfm-cyprus",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/super-sport-fm-104.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Transcendence GustationDetaile Radio",
+					"stationLink": "http://185.80.220.12:8252/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Transcendence-GustationDetaile-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zenith Radio 96.4",
+					"stationLink": "http://eco.onestreaming.com:8023/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/zenith-radio-96.4.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

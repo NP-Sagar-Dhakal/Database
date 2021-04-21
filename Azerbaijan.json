@@ -1,0 +1,260 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "10Line Radio",
+					"stationLink": "http://10line.az:8000/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/10Line-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "90 FM Ictimai Radio",
+					"stationLink": "http://85.132.81.13:8888/2702",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/90-fm-ictimai-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ans Fm",
+					"stationLink": "http://stream.ansradio.ws:8152/ANS-102FM-128k-Online",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/ans-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Araz FM",
+					"stationLink": "http://s39.myradiostream.com:5458/;listen.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Araz-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Asan Radio",
+					"stationLink": "http://94.20.74.206:4448/stream1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Asan-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AVTO FM",
+					"stationLink": "http://85.132.71.10:8000/avtofm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/avto-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Azadliq Radiosu",
+					"stationLink": "https://rfe15.akacast.akamaistream.net/7/897/437773/v1/ibb.akacast.akamaistream.net/rfe15",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Azadliq-Radiosu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BakiRadio",
+					"stationLink": "http://stream.volnorez.com:8001/live-app/848076",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/bakiradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BAKU JUKEBOX",
+					"stationLink": "http://78.109.52.73:8000/bkjbox",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/BAKU-JUKEBOX.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Day Az Radio",
+					"stationLink": "https://radio.day.az:9443/192",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Day-Az-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Europa Plus",
+					"stationLink": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Europa-Plus.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GSR FM",
+					"stationLink": "http://199.180.72.2:8505/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/GSR-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hisset Relaxation Radio",
+					"stationLink": "http://hisset.in:8000/radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Hisset-Relaxation-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "I Republic",
+					"stationLink": "http://www.intervalsignals.net/sounds/aze-z-azr1_261001.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/I-Republic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "iRadio AZERBAIJAN",
+					"stationLink": "http://ample-11.radiojar.com/a80hx0asnzwtv?rj-ttl=5&rj-token=AAABbSSHh-MQ6ZK-gWzRVTK-GGaYa0WR5u8xMQ7Buo-8m9GV6KDWsg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/iradio-azerbaijan-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kepez FM",
+					"stationLink": "http://85.132.78.122:3344/now",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Kepez-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Live And Digital",
+					"stationLink": "http://149.56.147.197:9587/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/live-and-digital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Media FM",
+					"stationLink": "http://85.132.71.10:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Media-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix FM Stepanakert",
+					"stationLink": "http://live.mix.am:8000/mix1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Mix-FM-Stepanakert.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix Radio 105.0",
+					"stationLink": "http://live.mix.am:8000/mix1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Mix-Radio-105.0.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nakhchivan fm",
+					"stationLink": "http://sc6.spacialnet.com:34258",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/nakhchivan-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Naxcivan Muxtar Respublikasi",
+					"stationLink": "http://sc6.spacialnet.com:34258/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Naxcivan-Muxtar-Respublikasi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Naxcivan Radiosu",
+					"stationLink": "http://s33.myradiostream.com:12782/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Naxcivan-Radiosu.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Naxcivanin Sesi Radio",
+					"stationLink": "http://sc6.spacialnet.com:34258/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Naxcivanin-Sesi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "One FM Azerbaijan",
+					"stationLink": "http://557e041d4bdc.sn.mynetstationName.net:8000/onefm.aacp56",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/One-FM-Azerbaijan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "OSC FM",
+					"stationLink": "http://148.251.85.16:8000/stream?type=.mp3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/OSC-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Qafqaz FM",
+					"stationLink": "http://radio.alania.net:8000/kvk",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Qafqaz-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Avropa",
+					"stationLink": "http://radio.avropa.az:9000/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/radio-avropa.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Baijan",
+					"stationLink": "http://thisisbaijan.out.airtime.pro:8000/thisisbaijan_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Baijan-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hay Network",
+					"stationLink": "http://live.mix.am:8000/rhyerevan",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Hay-Network.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shoutaz",
+					"stationLink": "http://free.radioheart.ru:8000/r-heart",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-Shoutaz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tune Azerbaijan",
+					"stationLink": "https://tune.az:8025/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Radio-Tune-Azerbaijan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Smile FM 106.6",
+					"stationLink": "http://live.mix.am:8000/smile?1429079468890.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Smile-FM-106.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stremaz Baku",
+					"stationLink": "http://free.radioheart.ru:8000/r-heart",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Stremaz-Baku.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tunaz",
+					"stationLink": "http://s0.radioheart.ru:8000/RH20728",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/tunaz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Veten Radio",
+					"stationLink": "https://node-16.zeno.fm/0kgkkzanmueuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/veten-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

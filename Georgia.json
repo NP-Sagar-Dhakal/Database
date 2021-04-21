@@ -1,0 +1,134 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Androdesias Rock Radio",
+					"stationLink": "http://eu6.fastcast4u.com:5236/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Androdesias-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Crack Ge Team Radio",
+					"stationLink": "http://crack.ge:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Crack-Ge-Team-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hereti FM",
+					"stationLink": "http://iis.ge:8000/hereti.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Hereti-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HeretiFM",
+					"stationLink": "http://iis.ge:8000/hereti.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/HeretiFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MTC Youth Radio",
+					"stationLink": "http://mtcyouthradio.out.airtime.pro:8000/mtcyouthradio_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/mtc-youth-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pirveli Radio",
+					"stationLink": "http://178.134.47.58:88/broadwave.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Pirveli-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Positive Fm",
+					"stationLink": "https://stream.radiojar.com/sr4vzamzfnruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Positive-Fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 48",
+					"stationLink": "http://streaming.radio.co/s1d876459b/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-48.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio AJARA",
+					"stationLink": "https://listen.mixlr.com/6f3d372de88f947672ee1b21568dcedb",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-AJARA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amra",
+					"stationLink": "https://streamer.radio.co/s34b5469e0/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Amra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio DardiMandi",
+					"stationLink": "http://109.172.182.119:8000/broadwavehigh.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-DardiMandi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio DK 107.9 FM",
+					"stationLink": "http://iis.ge:8000/radiodk.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-DK-107.9-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dzveli Kalaki",
+					"stationLink": "http://iis.ge:8000/radiodk.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-dzveli-kalaki.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio GIPA",
+					"stationLink": "http://217.147.235.142:9080/livemp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Radio-GIPA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Imedi",
+					"stationLink": "http://tv.cdn.xsg.ge/radioimedi/stream01/tracks-v1a1/mono.m3u8",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-imedi-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Palitra",
+					"stationLink": "http://92.241.82.245:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Radio-Palitra.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Star FM 93.9",
+					"stationLink": "http://starfm.stargroup.ge:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Star-FM-93.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tbilisi FM",
+					"stationLink": "http://iis.ge:8000/radiotbilisi.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Tbilisi-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,197 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "3D Radio",
+					"stationLink": "http://sounds.threedradio.com:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/3D-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Amman Net 92.4",
+					"stationLink": "http://ammannet.net:8585/stream/5/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Amman-Net-92.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ani Station",
+					"stationLink": "http://listen.radionomy.com/ani-station?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Ani-Station.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Beat FM",
+					"stationLink": "http://192.184.9.81:8049/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Beat-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bliss 104.3",
+					"stationLink": "http://66.55.145.43:7008",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Bliss-104.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Energy Radio",
+					"stationLink": "http://sharpflow.sharp-stream.com:8000/play996.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/energy-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hayat FM",
+					"stationLink": "http://213.239.218.99:7172/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/hayat-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HD FM 104.2",
+					"stationLink": "http://66.55.145.43:7006",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/HD-FM-104.2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Husna FM 93.4",
+					"stationLink": "http://s2.voscast.com:10444/;stream1534585521293/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Husna-FM-93.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JU FM 94.9",
+					"stationLink": "http://ca4.rcast.net:8050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/JU-FM-94.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JUFM 94.9",
+					"stationLink": "http://37.59.32.115:6122",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/JUFM-94.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mazaj 95.3 FM",
+					"stationLink": "http://ice5.securenetsystems.net:80/MAZAJFM?type=.flv?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Mazaj-95.3-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MCD Radio",
+					"stationLink": "http://mc-doualiya.scdn.arkena.com/mc-doualiya.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/MCD-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Melody FM Jordan",
+					"stationLink": "http://85.17.122.39:8514",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/melody-fm-jordan-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Monte Carlo Doualiya",
+					"stationLink": "http://live02.mc-doualiya.com/mc-doualiya.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Monte-Carlo-Doualiya.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mood FM 92.0",
+					"stationLink": "http://192.184.9.81:8048/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Mood-FM-92.0.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Play 99.6 FM Radio",
+					"stationLink": "http://edge.mixlr.com/channel/hynza",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/play-99.6-fm-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rabee Al Qloub",
+					"stationLink": "http://192.99.149.102:9984/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Rabee-Al-Qloub.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dahab",
+					"stationLink": "http://dahab.ice.infomaniak.ch/dahab-192.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Dahab.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hala",
+					"stationLink": "http://76.164.217.100:7302/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Hala.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sawa Jordan",
+					"stationLink": "http://mbn-channel-06.ng.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Sawa-Jordan1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rotana Radio Jordan",
+					"stationLink": "http://188.247.86.67:8002/3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Rotana-Radio-Jordan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rotana Tarab",
+					"stationLink": "https://node-34.zeno.fm/b10wvksv7mruv.aac?rj-ttl=5&rj-tok=AAABcl6ubE4AQgBPLe3Vg0cTTA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Rotana-Tarab.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sawt El Ghad",
+					"stationLink": "https://edge.mixlr.com/channel/llhwd",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/05/sawt-el-ghad-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SPIN 94.1",
+					"stationLink": "http://s3.viastreaming.net:8670/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/SPIN-94.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "STAR RADIO JORDAN",
+					"stationLink": "http://streaming.radionomy.com/JamendoLounge",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/star-radio-jordan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Watar FM 88.3",
+					"stationLink": "http://192.184.9.81:8388/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Watar-FM-88.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

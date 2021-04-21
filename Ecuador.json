@@ -1,0 +1,2437 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "196.9 Radio",
+					"stationLink": "http://listen.radionomy.com/1969Radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/196.9-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Acelerando FM",
+					"stationLink": "http://streaming.radionomy.com/Acelerando?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Acelerando-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ActualstationDetailad Musical",
+					"stationLink": "http://streaming.radionomy.com/ActualstationDetailadMusical?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/ActualstationDetailad-Musical.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Akari Radio",
+					"stationLink": "http://node-20.zeno.fm/0t952vqukfeuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/akari-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alex Zhapa",
+					"stationLink": "http://streaming.radionomy.com/ALEXZHAPA?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Alex-Zhapa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Amaranto FM",
+					"stationLink": "http://streaming.radionomy.com/Amaranto?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Amaranto-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Amena Radio",
+					"stationLink": "https://amenaradio.com/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Amena-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Antena Uno FM",
+					"stationLink": "http://epsilon.shoutca.st:8207/stream3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Antena-Uno-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Area Deportiva Ecuador",
+					"stationLink": "http://69.64.34.107:8020/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/03/Area-Deportiva-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Audiorama FM",
+					"stationLink": "http://streaming.radionomy.com/AUDIORAMA?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Audiorama-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Aventura FM",
+					"stationLink": "https://securestream.radioshd.info:7062/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/aventura-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bases Populares Radio",
+					"stationLink": "http://listen.radionomy.com/basespopularesradio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Bases-Populares-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Be Full Radio",
+					"stationLink": "http://real2.streaming-co.com:8038/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Be-Full-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Beat 40 Radio",
+					"stationLink": "http://streaming.radionomy.com/beat40-radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Beat-40-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bendicion Stereo",
+					"stationLink": "http://195.154.241.35:7006/stream3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/bendicion-stereo-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bonita FM Ecuador",
+					"stationLink": "http://streaming.hdserver.biz:9306/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Bonita-FM-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Boom Radio Ec",
+					"stationLink": "https://stream.radiojar.com/ab1fdtbd5qruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/boom-radio-ec.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BP Radio",
+					"stationLink": "https://stream.radiojar.com/ab1fdtbd5qruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/bp-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BP Radio Latin",
+					"stationLink": "https://stream.zeno.fm/4783x5nv81zuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/bp-radio-latin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Brisa Stereo 95.3 FM",
+					"stationLink": "http://87.117.201.152:22647/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/brisa-stereo-95.3-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cadena Radial Vision 106.1",
+					"stationLink": "http://rosetta.shoutca.st:8185/visioncuenca",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Cadena-Radial-Vision.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Camarada FM",
+					"stationLink": "http://streaming.radionomy.com/Camarada?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Camarada-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Canela Guayaquil",
+					"stationLink": "http://198.204.234.10:8297/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/canela-guayaquil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Canela Radio",
+					"stationLink": "http://195.154.182.222:25058/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Canela-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Caracol FM",
+					"stationLink": "http://198.15.77.50:9316/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Caracol-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chendo Radio",
+					"stationLink": "http://listen.radionomy.com/chendo?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Chendo-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CNBLUE Ecuador",
+					"stationLink": "http://streaming.radionomy.com/CNBLUEBOICEEcuador?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/CNBLUE-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Coca Cola FM Ecuador",
+					"stationLink": "https://node-16.zeno.fm/fk71xky73mruv?rj-ttl=5&rj-tok=AAABctvsruMAjAlaRC7vvq8yVQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Coca-Cola-FM-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Complice FM",
+					"stationLink": "http://makrodigital.com:8258/Radio_Complice?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Complice-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "COSMOS 973",
+					"stationLink": "http://audiohostingecuador.net:8042/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/COSMOS-973.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cosmos Fm 97.3",
+					"stationLink": "http://audiohostingecuador.net:8042",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Cosmos-Fm-97.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cosmos IR",
+					"stationLink": "http://makrodigital.net:8215/CosmosSoft?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/COSMOS-ir.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Costamar FM",
+					"stationLink": "http://streaming.hdserver.biz:9420/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Costamar-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRE Satelital",
+					"stationLink": "http://ecuastreamhd.com:8040/CREHD",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/CRE-Satelital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CRE Satelital Ecuador",
+					"stationLink": "https://cre.com.ec/wp-content/uploads/2020/06/WhatsApp-Audio-2020-06-09-at-01.13.19-online-audio-converter.com_.mp3?_=1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/CRE-Satelital-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cuellaje Radio HD",
+					"stationLink": "http://streaming.radionomy.com/CuellajeRadioHD?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Cuellaje-Radio-HD.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "CupstationDetailo FM",
+					"stationLink": "http://streamingecuador.net:9318/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/CupstationDetailo-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cyber Atomix DJ",
+					"stationLink": "http://streaming.radionomy.com/CyberAtomixDJ?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Cyber-Atomix-DJ1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Daniel Deejay Radio",
+					"stationLink": "http://streaming.radionomy.com/DanielDeejayRadioOnline?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Daniel-Deejay-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Deportiva 99.3 FM",
+					"stationLink": "http://radio.uncuartocomunicacion.com:8020/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Deportiva-99.3-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Desde Los Andes",
+					"stationLink": "http://vm1.hostingcaminointernet.com:9304/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/desde-los-andes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Diblu FM",
+					"stationLink": "http://streamingecuador.net:9302/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Diblu-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Distrito FM",
+					"stationLink": "http://grupomundodigital.com:8577/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Distrito-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DJ Dixole Chupin",
+					"stationLink": "http://streaming.radionomy.com/Dj-dixole-chupin?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/DJ-Dixole-Chupin.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Djs Radio Latino",
+					"stationLink": "http://streaming.radionomy.com/DJRADIOLATINOFM76?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Djs-Radio-Latino.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Djs UnstationDetailos Ecuador",
+					"stationLink": "http://5.135.183.124:8055/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Djs-UnstationDetailos-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecos De Ruminahui",
+					"stationLink": "http://s44.myradiostream.com:7290/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Ecos-De-Ruminahui.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecua Latina Mix",
+					"stationLink": "http://148.72.176.63:8024/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/ecua-latina-mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecuador En Directo Radio",
+					"stationLink": "http://185.129.248.251:9994",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Ecuador-En-Directo-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecuador Radio NY",
+					"stationLink": "http://198.15.86.218:9362/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Ecuador-Radio-NY.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecuafiesta Radio",
+					"stationLink": "http://107.181.227.250:8256/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Ecuafiesta-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecuafonica Radio",
+					"stationLink": "http://listen.radionomy.com/ecuafonica?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Ecuafonica-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecuamix FM",
+					"stationLink": "http://on.rstreaming.net:7068/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/09/ecuamix-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "ECUAMIXFM",
+					"stationLink": "http://on.rstreaming.net:7068/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/01/ECUAMIXFM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ecuaritmica Radio",
+					"stationLink": "http://node-21.zeno.fm/vmd39tcshtzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/ecuaritmica-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "El Ecuatoriano",
+					"stationLink": "http://66.7.208.170:9996/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/El-Ecuatoriano.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "En Ecuador Hay Musica",
+					"stationLink": "http://listen.radionomy.com/enecuadorhaymusica1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/En-Ecuador-Hay-Musica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "En Ecuador Hay Rock",
+					"stationLink": "http://listen.radionomy.com/enecuadorhayrock",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/En-Ecuador-Hay-Rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "En Todas Online",
+					"stationLink": "http://makrodigital.net:7010/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/en-todas-online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Exa FM Ecuador",
+					"stationLink": "https://17013.live.streamtheworld.com/ECUADOR_SC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/exa-fm-ecuador-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Excelencia Radio",
+					"stationLink": "https://streamingecuador.net:7006/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Excelencia-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FARAVISA",
+					"stationLink": "https://aguila1.netkairos.com:7014/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/faravisa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FEF MZ Radio",
+					"stationLink": "http://streaming.radionomy.com/FEF-MZRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/fef-mz-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Feroz Radio Online",
+					"stationLink": "http://streaming.radionomy.com/FerozRadioEc?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Feroz-Radio-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FLACSO Radio",
+					"stationLink": "http://144.217.67.108:9160/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/FLACSO-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Flashback Music HD",
+					"stationLink": "http://95.154.196.33:20829/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/flashback-music-hd.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM 88 Ecuador",
+					"stationLink": "http://streamingecuador.net:9350/FM_88",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/fm-88-ecuador-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM 88.5",
+					"stationLink": "http://195.154.182.222:3330/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/fm-88.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM Mundo",
+					"stationLink": "http://makrodigital.net:8066/fmmundo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/FM-Mundo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Futbol FM",
+					"stationLink": "http://198.204.234.10:8378/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Futbol-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Genesis FM",
+					"stationLink": "http://node-03.zeno.fm/e11qz43fmzzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Genesis-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Grupo Trak Music",
+					"stationLink": "http://streaming.radionomy.com/GRUPOTRAKMUSIC?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Grupo-Trak-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guala Recors Producciones",
+					"stationLink": "http://streaming.radionomy.com/Guala-Recors-Producciones?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Guala-Recors-Producciones.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Guaytambo Radio",
+					"stationLink": "https://usa17.fastcast4u.com/proxy/oscrubio?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/guaytambo-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Haga Remix",
+					"stationLink": "http://streaming.radionomy.com/hagaRemix?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Haga-Remix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HCJB 2 La Conexion",
+					"stationLink": "https://streamingecuador.net:8013/hcjb2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/HCJB-2-La-Conexion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HCJB 89.3",
+					"stationLink": "https://streamingecuador.net:8287/hcjb",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/HCJB-89.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "HCJB AM",
+					"stationLink": "http://streaming-aacplus.com:8299/hcjb",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/HCJB-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hechicera Fm",
+					"stationLink": "http://play.enhd.co:8094",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Hechicera-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hot 106 Radio",
+					"stationLink": "http://198.204.234.10:8313/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Hot-106-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JC Radio",
+					"stationLink": "http://streamingecuador.net:7010/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/JC-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JM Radio",
+					"stationLink": "http://ecuastreamhd.com:8072/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/JM-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kocodrilo Radio 104.5",
+					"stationLink": "http://209.208.111.122:8000/kocodrilo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/kocodrilo-radio-104.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Farra Estacion 92.9 FM",
+					"stationLink": "http://184.95.57.202:9954/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/La-Farra-Estacion-92.9-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Mega EC",
+					"stationLink": "http://www.grupomundodigital.com:8509/megahd",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/La-Mega-EC.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Mega Hechicera",
+					"stationLink": "https://usa3.lhdserver.es:8091/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/La-Mega-Hechicera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Nueva Ecua Stereo",
+					"stationLink": "https://turbo.2cdn.eu/s1/9590/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/la-nueva-ecua-stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Otra FM",
+					"stationLink": "http://195.154.182.222:25016/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/La-Otra-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Radio De Moda",
+					"stationLink": "https://node-08.zeno.fm/bv5fexg28vzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/La-Radio-De-Moda.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Radio Redonda",
+					"stationLink": "http://195.154.182.222:35074/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/La-Radio-Redonda.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Red 102.1 FM",
+					"stationLink": "http://200.105.233.4:1050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/La-Red-102.1-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Retro Clasic",
+					"stationLink": "https://node-22.zeno.fm/tvmnnzy1kwzuv.aac?rj-ttl=5&rj-tok=AAABcsX2llMA9QMGmUNfvzQ1-g",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/la-retro-clasic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Rumbera FM",
+					"stationLink": "http://69.64.34.107:7670/live?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/La-Rumbera-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Suegra FM Ecuador",
+					"stationLink": "http://node-25.zeno.fm/uawta3vz72quv?rj-ttl=5&rj-tok=AAABcuEXIEcAuHMMRQqMI-e1Hw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/La-Suegra-FM-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Super Mix",
+					"stationLink": "http://usamedios.enhd.co:8766",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/La-Super-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Super Salsera",
+					"stationLink": "https://node-14.zeno.fm/vnd6cwc742quv?rj-ttl=5&rj-tok=AAABcqz66SIAyDXMlk8ZLDM3jg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/la-super-salsera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Suprema Estacion",
+					"stationLink": "http://www.makrodigital.net:7644/radiola961?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/La-Suprema-Estacion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "LA VOZ DE AIIECH",
+					"stationLink": "http://makrodigital.com:8009/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/LA-VOZ-DE-AIIECH.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Voz de su Amigo",
+					"stationLink": "http://ecuastream.com:9088/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/La-Voz-de-su-Amigo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Voz Del Rio Tarqui",
+					"stationLink": "https://compuhome.ovh:9015/tarqui",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/La-Voz-Del-Rio-Tarqui.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Voz del Tomebamba",
+					"stationLink": "http://www.makrodigital.com:8074/lavozdeltomebamba?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/La-Voz-del-Tomebamba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Las Almas Negras Radio",
+					"stationLink": "http://stream.zenolive.com/6gbban4dmvduv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Las-Almas-Negras-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Loarte Stereo",
+					"stationLink": "http://195.154.241.35:7032/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/07/Loarte-Stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lobo Stereo",
+					"stationLink": "http://listen.radionomy.com/lobostereoec?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Lobo-Stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Loja Y Sus Acordes",
+					"stationLink": "http://streaming.radionomy.com/LojaysusAcordes?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Loja-Y-Sus-Acordes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Los 40 Principales (Ecuador)",
+					"stationLink": "https://streamingecuador.net:7051/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Los-40-Principales-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Los Molles",
+					"stationLink": "http://streaming.radionomy.com/LosMolles?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Los-Molles.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "LVC Radio",
+					"stationLink": "http://streaming.hdserver.biz:9368/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/LVC-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "M 9'21",
+					"stationLink": "http://rosetta.shoutca.st:8213/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/m-921.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "M 921 Radio",
+					"stationLink": "http://rosetta.shoutca.st:8213/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/m-921-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Machala TV Radio",
+					"stationLink": "http://streaming.radionomy.com/MachalaTvRadio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Machala-Tv-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Magica FM",
+					"stationLink": "http://rosetta.shoutca.st:8213/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Magica-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Maxima XE Radio",
+					"stationLink": "https://chicho55.radioca.st/maximaxeradio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Maxima-XE-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Medimagen Radio",
+					"stationLink": "http://sv2.globalhostlive.com:7245/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Medimagen-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega FM 103.3",
+					"stationLink": "http://www.grupomundodigital.com:8509/megahd",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Mega-FM-103.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Movimiento Facso Ciable",
+					"stationLink": "http://listen.radionomy.com/movimientofacsociable?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/movimiento-facso-ciable.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mundo Urbano Fm",
+					"stationLink": "http://streaming.radionomy.com/ZONA57Radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Mundo-Urbano-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Musicars Rock",
+					"stationLink": "http://ample-zeno-15.radiojar.com/k1f62hahry5tv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/musicars-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nativa Radio Ec",
+					"stationLink": "http://195.154.241.35:7079/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/nativa-radio-ec.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "New Record Mapasingue",
+					"stationLink": "http://streaming.radionomy.com/NRMONLINE?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/New-Record-Mapasingue.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Neyfar Radio",
+					"stationLink": "http://streaming.radionomy.com/RADIONEYFARMIX979FM?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Neyfar-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nipon Anime",
+					"stationLink": "http://streaming.radionomy.com/NiponAnimeProject",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Nipon-Anime.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Official Ecuador",
+					"stationLink": "http://listen.radionomy.com/officialecuador?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Official-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Omega Radio Online",
+					"stationLink": "http://streaming.radionomy.com/OMEGARADIOONLINEQUITOECUADORAAA-004?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Omega-Radio-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "On Fuego Radio",
+					"stationLink": "http://live.onfuegoradio.com:8000/onfuego_autodj",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/on-fuego-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Onda Azuayas",
+					"stationLink": "http://epsilon.shoutca.st:8207/oazuayas",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Onda-Azuayas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Opem Radio",
+					"stationLink": "http://streaming.radionomy.com/Opem-Radio-R?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Opem-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "PM Studio",
+					"stationLink": "http://streaming.radionomy.com/pmstudio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/PM-Studio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radical FM",
+					"stationLink": "http://142.4.217.133:8875/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/radical-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Activa Latacunga",
+					"stationLink": "http://192.190.87.17:9326/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/radio-activa-latacunga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amazonas 92.1 FM",
+					"stationLink": "http://stream.miradiohd.com:8028/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Amazonas-92.1-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ambato",
+					"stationLink": "http://190.99.72.142:8000/radioambato?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Ambato.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ambato Estereo",
+					"stationLink": "http://usamedios.enhd.co:8762/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Ambato-Estereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio America Estereo",
+					"stationLink": "https://streamingecuador.net:9100/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-America-Estereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amistad Ecuador",
+					"stationLink": "http://streaming.radionomy.com/RADIO-AMISTAD-ECUADOR?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Amistad-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Amor 89.3",
+					"stationLink": "http://streaming.radioamor.com.ec:9030/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Amor-89.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Andina FM",
+					"stationLink": "http://163.182.171.202:9300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Andina-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Antena 3",
+					"stationLink": "http://makrodigital.net:9368/radioantena3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Antena-3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Armonia Ecuador",
+					"stationLink": "http://streaming.radionomy.com/RadioArmonia?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Armonia-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Armonica",
+					"stationLink": "http://195.154.182.222:25194/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/radio-armonica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Atalaya",
+					"stationLink": "http://str.ecuastreaming.com:9978/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Atalaya.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Atenas 95.7 FM",
+					"stationLink": "http://compuhomeastream.ovh:8012/atenas",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Atenas-95.7-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bakana",
+					"stationLink": "http://5.135.183.124:8064/bakana",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Bakana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Boqueron",
+					"stationLink": "http://streaming.radioestacion4.com:9832/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Boqueron.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bsc Sitio Amarillo",
+					"stationLink": "http://streaming.radionomy.com/RadioBscSitioAmarillo?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Bsc-Sitio-Amarillo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cafe Gye",
+					"stationLink": "http://streaming.radionomy.com/RadioCafeGye?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Cafe-Gye.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio CalstationDetailad Ambato",
+					"stationLink": "http://198.204.234.10:8035/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-CalstationDetailad-Ambato.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio CalstationDetailad Musical",
+					"stationLink": "http://streaming.radionomy.com/RadioCalstationDetailadMusical?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-CalstationDetailad-Musical.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Callasay Stereo",
+					"stationLink": "http://104.238.193.114:7140/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Radio-Callasay-Stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Callejon Dijital",
+					"stationLink": "http://192.99.16.17:8834/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Callejon-Dijital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Canar Stereo",
+					"stationLink": "https://turbo.2cdn.eu/s1/9712/stream/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Radio-Canar-Stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Candela",
+					"stationLink": "https://unlimited4-us.dps.live/candela/aac/icecast.audio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Candela.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Canela",
+					"stationLink": "http://195.154.182.222:25058/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Canela.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Canela Azuay",
+					"stationLink": "http://195.154.182.222:25076/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Canela-Azuay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Caravana",
+					"stationLink": "http://streamingecuador.net:9300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Caravana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Caribe FM",
+					"stationLink": "http://5.135.183.124:8135/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Caribe-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Casa De Benjamin",
+					"stationLink": "http://stream.zeno.fm/958dz27hymzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-casa-de-benjamin-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Centinela Del Sur",
+					"stationLink": "http://play.enhd.co:8094/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Radio-Centinela-Del-Sur.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Centro Ambato",
+					"stationLink": "http://streaming.hdserver.biz:9304/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-Centro-Ambato.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Centro Guayaquil",
+					"stationLink": "http://makrodigital.com:8133/RadioCentroGuayaquil",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Centro-Guayaquil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio City Guayaquil",
+					"stationLink": "http://198.15.77.50:9564/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-City-Guayaquil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cocoa",
+					"stationLink": "http://192.188.53.80:8100/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-Cocoa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Colosal",
+					"stationLink": "http://makrodigital.net:9062/radiocolosal?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Colosal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Conexion Latina",
+					"stationLink": "http://ecuamedios.net:7718/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Conexion-Latina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Constelacion",
+					"stationLink": "https://stm1-ssl.painelcast.com:7444/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Constelacion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Corazon",
+					"stationLink": "http://200.31.177.122:8085/radiocorazon.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Corazon.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cristal Guayaquil",
+					"stationLink": "http://str.ecuastreaming.com:9958/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Cristal-Guayaquil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Daross",
+					"stationLink": "http://streaming.radionomy.com/RadioDaross?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Daross.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Democracia EXA",
+					"stationLink": "http://makrodigital.net:9048/radiodemocracia",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Democracia-EXA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Deportiva",
+					"stationLink": "http://node-12.zeno.fm/z1qc2n3p6tzuv?rj-ttl=5&rj-tok=AAABcuVRM7sAF4F4ZXNWnWToCw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Deportiva.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Dinamik",
+					"stationLink": "http://rosetta.shoutca.st:8213/dinamik",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/radio-dinamik-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Disney Ecuador",
+					"stationLink": "https://streamingecuador.net:8001/radiodisney.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Disney-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ecua Ambato",
+					"stationLink": "https://eu3.fastcast4u.com/proxy/huvald02?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/radio-ecua-ambato-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ecua Azogues",
+					"stationLink": "http://usamedios.enhd.co:8752",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-Ecua-Azogues.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ecua Music",
+					"stationLink": "http://37.59.121.120:9335/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Ecua-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ecua Stereo",
+					"stationLink": "http://192.95.18.39:5848/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/radio-ecua-stereo-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ecuador FM Austral",
+					"stationLink": "http://173.212.232.133:8000/radioecuacue.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-ecuador-fm-austral.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio El Mercurio",
+					"stationLink": "http://195.154.56.114:9180",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-El-Mercurio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio El Observador",
+					"stationLink": "http://198.15.77.50:9484/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-el-observador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio El Rocio",
+					"stationLink": "http://makrodigital.net:8215/rocio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-El-Rocio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Elite 99.7",
+					"stationLink": "http://makrodigital.com:8135/radioelite",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Elite-99.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Encanto Fm",
+					"stationLink": "http://streaming.veloturbo.com.br:8000/encanto.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Encanto-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio EnergiaFm",
+					"stationLink": "http://servers58.com:9840/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/radio-energiafm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Equinoccio",
+					"stationLink": "http://listen.radionomy.com/cafe-romantico-radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Equinoccio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eres",
+					"stationLink": "https://sv70.ecuaradiotv.net:8000/eres933",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Eres.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Estelar Costa",
+					"stationLink": "http://grupomundodigital.com:8503/estelarhd",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Radio-Estelar-Costa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Estereo Fonik",
+					"stationLink": "https://sv70.ecuaradiotv.net:8000/sonik",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/radio-estereo-fonik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Estrella 92.1 FM",
+					"stationLink": "https://vivo.miradio.in:7036/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Estrella-92.1-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fiesta Machala",
+					"stationLink": "http://ecuastream.com/medios/mp3/ecuastreamingleinforma_radio_off.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Fiesta-Machala.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Flama Plus",
+					"stationLink": "http://live.hbstreaming.com:2019/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/radio-flama-plus-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Forever 92.5",
+					"stationLink": "http://makrodigital.com:8014/forever",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Forever-92.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Francisco Stereo",
+					"stationLink": "http://streaming-aacplus.com:8004/franciscostereo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Francisco-Stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fuego Guayaquil",
+					"stationLink": "http://makrodigital.com:8040",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Fuego-Guayaquil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Generacion Uno",
+					"stationLink": "http://streaming.radionomy.com/RADIOGENERACIONUNOHDONLINE?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Generacion-Uno.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hechos Ecuador",
+					"stationLink": "http://5.135.183.124:8277/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hola Ecuador",
+					"stationLink": "https://aguila1.netkairos.com:7044/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/radio-hola-ecuador-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Huancavilca 830",
+					"stationLink": "https://streamingecuador.net:7078/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Huancavilca-830.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Iluman",
+					"stationLink": "http://makrodigital.net:9016/radioiluman?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-Iluman-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Incendiaria",
+					"stationLink": "https://garvacu.radioca.st/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-incendiaria.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio IRFEYAL",
+					"stationLink": "http://ecuastream.com/medios/mp3/ecuastreamingleinforma_radio_off.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-IRFEYAL.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Juvenil Criss",
+					"stationLink": "http://listen.radionomy.com/radio-juvenil-criss?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Juvenil-Criss.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio K1",
+					"stationLink": "https://streamingecuador.net:8000/radiok1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-K1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Morlaquita",
+					"stationLink": "http://167.114.173.72:8068/;type=mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-La-Morlaquita.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Poderosa",
+					"stationLink": "http://ecuastream.net:8186/Machdeportes",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-La-Poderosa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Prensa",
+					"stationLink": "https://streamingecuador.net:8279/radiolaprensa",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/radio-la-prensa-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Red",
+					"stationLink": "http://200.105.233.4:1050/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-la-red-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Rumbera",
+					"stationLink": "http://69.64.34.107:7670/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-La-Rumbera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La VstationDetaila",
+					"stationLink": "http://98.142.109.211:8001/autodj",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-La-VstationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Las Chacras Manabi",
+					"stationLink": "https://node-06.zeno.fm/8x0zsv5amzzuv?rj-ttl=5&rj-tok=AAABcq0J1lwAIfwNqFeZOAtY_Q",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-las-chacras-manabi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Latina 102.1",
+					"stationLink": "http://163.182.171.202:9974/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Latina-102.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Latina 88.1",
+					"stationLink": "http://37.59.121.120:9350/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Latina-88.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio LstationDetailer Ambato",
+					"stationLink": "http://198.15.77.50:9448/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-LstationDetailer-Ambato.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Loja 97.7",
+					"stationLink": "http://104.238.193.114:7016/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Loja-97.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Los Lagos",
+					"stationLink": "http://streaming.gcn.com.ec:8000/radioloslagos",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Los-Lagos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Lubakan",
+					"stationLink": "http://www.ecuastream.net:8020/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Lubakan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Luz y VstationDetaila",
+					"stationLink": "https://streamseguro.com/radio/8010/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Luz-y-VstationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Macarena FM",
+					"stationLink": "http://ecuastreamhd.com:8238/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Macarena-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Magica",
+					"stationLink": "http://usa4.fastcast4u.com/proxy/malarrea?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Magica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Magica 87.7",
+					"stationLink": "http://stream.zeno.fm/rvta2gc1cnzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Magica-87.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Majestad",
+					"stationLink": "http://radio.uncuartocomunicacion.com:8021/uio_aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Majestad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Makro Digital",
+					"stationLink": "http://streamingecuador.net:7000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Makro-Digital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mas 95.5",
+					"stationLink": "http://5.135.183.124:8161/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Mas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mega Ecuador",
+					"stationLink": "http://listen.radionomy.com/http---wwwradionomycom-radiomegaecuador?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Mega-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Megaestacion",
+					"stationLink": "http://5.135.183.124:8206/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Megaestacion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mi Barrio",
+					"stationLink": "https://radio.lucarhost.com:7066/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/radio-mi-barrio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Misionarte",
+					"stationLink": "http://streaming.radionomy.com/RADIOMISIONARTE?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Misionarte.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mix 105.7 FM",
+					"stationLink": "https://streamseguro.com/radio/8300/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-mix-105.7-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Morena",
+					"stationLink": "http://ic.streann.com:8000/RadioMorenaAM",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Morena.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mundial 96.1",
+					"stationLink": "https://freeuk10.listen2myradio.com/live.mp3?typeportmount=s1_27002_stream_95826481",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/radio-mundial-96.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Nigga",
+					"stationLink": "https://ypsbiocd.panelstream.live/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/radio-nigga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Okcs",
+					"stationLink": "http://listen.radionomy.com/radiookcs?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Okcs.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Onda Positiva",
+					"stationLink": "https://streamingecuador.net:8011/radioondapositiva",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Onda-Positiva.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Onda Sterio",
+					"stationLink": "http://streaming.radionomy.com/Radiondasterio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Onda-Sterio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ondas Canaris",
+					"stationLink": "http://radio.cedia.org.ec/ucacue",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/radio-ondas-canaris-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ondas de Esperanza",
+					"stationLink": "http://eu1.fastcast4u.com:10936/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Ondas-de-Esperanza.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Online Stop",
+					"stationLink": "http://listen.radionomy.com/radioonlinestop?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Online-Stop.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Otavalo",
+					"stationLink": "http://makrodigital.net:9016/radioiluman",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-Otavalo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pasion",
+					"stationLink": "http://streamingecuador.net:7500/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Pasion.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pasion Ecuador",
+					"stationLink": "http://192.99.0.170:6106/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Pasion-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pichincha Universal",
+					"stationLink": "http://181.196.48.61:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Pichincha-Universal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Planeta Carchi",
+					"stationLink": "http://streaming.radionomy.com/RadioPlanetaCarchi977Fm?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Planeta-Carchi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Platinum",
+					"stationLink": "http://makrodigital.com:8160/Radio_Platinum",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Platinum.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Poder 95.3",
+					"stationLink": "http://184.154.137.162:7044/radiopoder",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Poder-95.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Positiva",
+					"stationLink": "http://makrodigital.com:8046/Radio_Positiva",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Positiva.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Punto Rojo",
+					"stationLink": "https://streamingecuador.net:9086/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Punto-Rojo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Quevedio City Mix",
+					"stationLink": "http://162.210.196.145:32957/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-quevedio-city-mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Quevedo Mix",
+					"stationLink": "http://162.210.196.145:10717/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Quevedo-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Quito",
+					"stationLink": "http://makrodigital.com:8332/radioquito",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/10/radio-quito-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Red SonstationDetailo",
+					"stationLink": "http://streaming.radionomy.com/RadioRedSonstationDetailoEcuador?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Red-SonstationDetailo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rocio",
+					"stationLink": "http://play.enhd.co:7710",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Rocio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Romance",
+					"stationLink": "http://makrodigital.net:9090/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Romance.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Romance 90.1",
+					"stationLink": "http://makrodigital.net:9090/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Romance-90.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rumba Network",
+					"stationLink": "http://makrodigital.com:8078/radiorumbanetwork?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Rumba-Network.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sabrina Entre Libros y Cafe",
+					"stationLink": "http://streaming.radionomy.com/Sabrinaentrelibrosycafe?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Sabrina-Entre-Libros-y-Cafe.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Scandalo",
+					"stationLink": "http://str.manastationDetaileas.com:8000",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Scandalo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Semilla De Belen",
+					"stationLink": "http://78.129.224.21:19068/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/radio-semilla-de-belen.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sensacion Musical",
+					"stationLink": "http://178.33.166.7:7600/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Sensacion-Musical.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sentimientos 96.5",
+					"stationLink": "http://compuhomeastream.ovh:8042/sentimientos",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-sentimientos-96.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shiriculapo Online",
+					"stationLink": "http://184.154.213.108:9312/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/06/Radio-Shiriculapo-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sin Frontera",
+					"stationLink": "http://streaming.radionomy.com/RadioSinFrontera?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Sin-Frontera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sistema 2",
+					"stationLink": "http://makrodigital.com:8052/radiosistema2",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Sistema-2.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sol Y Mar FM",
+					"stationLink": "http://stream.radiosolymarfm.com:9302/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/09/radio-sol-y-mar-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sono Onda",
+					"stationLink": "http://5.135.183.124:8040/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Sono-Onda.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SplendstationDetail",
+					"stationLink": "http://rosetta.shoutca.st:8185/splendstationDetail",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-SplendstationDetail.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sport 1010 AM",
+					"stationLink": "http://190.110.206.70:8000/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Sport-1010-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Stereo Ecuador",
+					"stationLink": "https://streamingecuador.net:7027/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/12/Radio-Stereo-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Stereo Familiar",
+					"stationLink": "http://163.182.171.202:9350/;stream/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Stereo-Familiar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sucesos",
+					"stationLink": "http://192.243.99.117:8001/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Sucesos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sucre",
+					"stationLink": "http://streamingecuador.net:9316/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Sucre.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Super 949",
+					"stationLink": "http://makrodigital.com:8015/super949?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/05/Radio-Super-949.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Super K",
+					"stationLink": "http://37.187.79.153:5620",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Super-K.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Super K800",
+					"stationLink": "http://streamingecuador.net:9332/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Super-K800.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Super Stereo FM",
+					"stationLink": "http://usa14.fastcast4u.com:5146/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-super-stereo-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Talisman",
+					"stationLink": "https://streamingv2.shoutcast.com/talisman",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/radio-talisman.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tia Ecuador",
+					"stationLink": "http://grupomundodigital.com:9170/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-tia-ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Trans Rumba",
+					"stationLink": "http://186.3.223.158:8030/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Trans-Rumba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tricolor",
+					"stationLink": "http://184.107.210.203:7098/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Tricolor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tropicana Guayaquil",
+					"stationLink": "http://streamingecuador.net:9306/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Tropicana-Guayaquil.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tulcan FM Stereo",
+					"stationLink": "http://ecuastreamhd.com:8172/TulcanFM",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Tulcan-FM-Stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Turbo 93.9",
+					"stationLink": "https://sonic.portalfoxmix.cl/8394/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Turbo-93.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ultimito Mix Manta",
+					"stationLink": "http://stream.zenolive.com/8nxfkehdh24tv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Radio-Ultimito-Mix-Manta-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO VICIO",
+					"stationLink": "http://audio.questreaming.com:20202/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/05/radio-vicio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Viva Ecuador",
+					"stationLink": "http://makrodigital.com:8132/radioviva",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Viva-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Wolf Online",
+					"stationLink": "http://streaming.radionomy.com/RadioWolf?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Wolf-Online.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Xplosion Hits",
+					"stationLink": "http://oyotunstream.com:9360/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Xplosion-Hits.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio z1",
+					"stationLink": "https://ecuamedios.net/8024/stream?ver=719122",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-z1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zapotillo",
+					"stationLink": "http://ecuamedios.net:8049/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Zapotillo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zaracay",
+					"stationLink": "http://51.15.160.78:8709/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Zaracay.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zona Estereo",
+					"stationLink": "http://streaming.radionomy.com/RadiioZonaEstereo?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Radio-Zona-Estereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioLatina 89.5 FM",
+					"stationLink": "http://listen.radionomy.com/radiolatina895fm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/RadioLatina-89.5-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rap Style Radio",
+					"stationLink": "http://listen.radionomy.com/RapStyle-Radio?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Rap-Style-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rc Radio Online",
+					"stationLink": "http://162.243.173.18:8151/stream?type=http&nocache=10",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/rc-radio-online-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rcontravia FM",
+					"stationLink": "http://streaming.radionomy.com/rcontravia?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Rcontravia-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Republica Urbana",
+					"stationLink": "http://node-33.zeno.fm/4g1gwrq0etzuv?rj-ttl=5&rj-tok=AAABcvTxSQ0AUTQNc47ss5A_Qw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Republica-Urbana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rescatando Suenos",
+					"stationLink": "http://listen.radionomy.com/rescatandosuenoslatinoamerica?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Rescatando-Suenos.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "REVOLUTEG RADIO",
+					"stationLink": "http://94.23.40.42:8068/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/REVOLUTEG-RADIO.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rg Radio Donde Sea",
+					"stationLink": "http://stream.zeno.fm/7u6yb6zc42quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/rg-radio-donde-sea.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rio Fm",
+					"stationLink": "http://radio.streamingaudio.pro:9700/riofm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Rio-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RML Radio 94.1",
+					"stationLink": "http://184.95.57.202:9310/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/RML-Radio-94.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Roa Radio",
+					"stationLink": "http://streaming.radionomy.com/ROARADIO-ONLINE?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Roa-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rockolera Y Chichera Ecuador",
+					"stationLink": "http://ecuastreaming.enhd.co:8723/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Rockolera-Y-Chichera-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Romantica HD radio",
+					"stationLink": "http://listen.radionomy.com/romanticahdradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/03/romantica-hd-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rumba Radio DJ",
+					"stationLink": "http://streaming.radionomy.com/RumbaRadioDj?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Rumba-Radio-DJ.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rumba Stereo 88.9",
+					"stationLink": "http://198.204.234.10:8375/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Rumba-Stereo-88.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RVT Radio",
+					"stationLink": "http://209.208.111.122:8000/rvtnapo",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/RVT-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Salsa en Linea Radio",
+					"stationLink": "http://node-11.zeno.fm/h7y3unm12tzuv?rj-ttl=5&rj-tok=AAABcvT5h3EAvZobs1cMsym6iQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Salsa-en-Linea-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "San Gregorio Radio",
+					"stationLink": "https://streamingecuador.net:7019/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/San-Gregorio-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "San Miguel De Vichaycocha",
+					"stationLink": "http://listen.radionomy.com/sanmigueldevichaycocha?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/San-Miguel-De-Vichaycocha.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sarta Radio",
+					"stationLink": "http://streaming.radionomy.com/SARTARADIO?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Sarta-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sarta Rock Radio",
+					"stationLink": "http://streaming.radionomy.com/SARTAROCKRADIOFM?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Sarta-Rock-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sentimientos 96.5 FM",
+					"stationLink": "https://compuhome.ovh:9042/sentimientos",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Sentimientos-96.5-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sexo Station",
+					"stationLink": "http://listen.radionomy.com/sexostation?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Sexo-Station.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shaory FM",
+					"stationLink": "http://listen.radionomy.com/shaory?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Shaory-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Shockking Radio",
+					"stationLink": "http://listen.radionomy.com/shockking?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Shockking-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sol 96.5 FM",
+					"stationLink": "http://163.182.171.202:9346/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Sol-96.5-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Songer Stereo",
+					"stationLink": "http://5.79.86.14:8027/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/songer-stereo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "SonstationDetailo 102.1",
+					"stationLink": "https://streamingecuador.net:8074/sonstationDetailo102",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/SonstationDetailo-102.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Soniq FM Ambato",
+					"stationLink": "http://listen.radionomy.com/soniqfmambato?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Soniq-FM-Ambato.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sonorama",
+					"stationLink": "http://stream.miradiohd.com:8067/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/04/sonorama-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sonorama FM",
+					"stationLink": "http://www.ecuamedios.net:8067/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Sonorama-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stereo Buenas Novas",
+					"stationLink": "http://plus.miradiohd.com:8044/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Stereo-Buenas-Novas.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stereo Fiesta Ambato",
+					"stationLink": "http://198.204.234.10:8433/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Stereo-Fiesta-Ambato.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stereo Latacunga",
+					"stationLink": "http://aler.org:8000/FMlatacunga?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Stereo-Latacunga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stereo Saquisili",
+					"stationLink": "https://securestream.hdserver.biz:9326/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Stereo-Saquisili.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stream Latina FM",
+					"stationLink": "http://usamedios.enhd.co:8729/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Stream-Latina-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super FM 94.9",
+					"stationLink": "http://makrodigital.com:8015/Super_949",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/super-fm-94.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super FM Ecuador",
+					"stationLink": "http://makrodigital.com:8015/super949",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Super-FM-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Super Laser FM",
+					"stationLink": "http://online.radiodifusion.net:8052/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Super-Laser-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Swing Latino Ec",
+					"stationLink": "http://streaming.radionomy.com/Swing-Latino-Ec?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Swing-Latino-Ec.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "The Musical Project",
+					"stationLink": "http://listen.radionomy.com/themusicalproject-tmp-ltp?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/The-Musical-Project.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "TokaRadio",
+					"stationLink": "http://5.135.183.124:8063/toka?1574073984369",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/tokaradio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tu Onda Musical",
+					"stationLink": "http://listen.radionomy.com/tuondamusical?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Tu-Onda-Musical.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tu Radio En Moto",
+					"stationLink": "http://listen.radionomy.com/turadioenmoto?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Tu-Radio-En-Moto.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Urbe Mix Radio",
+					"stationLink": "http://198.24.165.180:9988/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Urbe-Mix-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "UTM Radio Ecuador",
+					"stationLink": "http://186.46.160.211:8085/utmradio1.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/UTM-Radio-Ecuador.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vega Mega FM",
+					"stationLink": "http://198.7.59.204:13652/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Vega-Mega-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vega Radio",
+					"stationLink": "http://streaming.radionomy.com/VegaRadioStationEcuador?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Vega-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vero Silva",
+					"stationLink": "http://listen.radionomy.com/verosilva?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Vero-Silva.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vigia La Voz de la Policia",
+					"stationLink": "http://ecuastream.com:9058",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/Vigia-La-Voz-de-la-Policia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Viva Catamayo",
+					"stationLink": "https://streamseguro.com/radio/8160/stream?1563457877",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/viva-catamayo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Voz Amazonica",
+					"stationLink": "http://listen.radionomy.com/vozamazonica?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Voz-Amazonica.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Wilar RDS",
+					"stationLink": "http://listen.radionomy.com/wilarrds?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Wilar-RDS.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WK Radio",
+					"stationLink": "http://streaming.radionomy.com/WK-RADIO?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/WK-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Wow Machine Radio",
+					"stationLink": "http://listen.shoutcast.com/wow-machine-radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/10/Wow-Machine-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WQ Radio",
+					"stationLink": "http://makrodigital.com:8163/wqradio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/WQ-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XYZ Radio",
+					"stationLink": "http://www.xyz-radio.com:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/XYZ-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zona Del Remix",
+					"stationLink": "http://streaming.radionomy.com/ZONADELREMIXPORHENRYRMX?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Zona-Del-Remix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

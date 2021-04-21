@@ -1,0 +1,442 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Afrika Poulaar Radio",
+					"stationLink": "https://node-19.zeno.fm/v8mudg66n0quv.aac?rj-ttl=5&rj-tok=AAABbsXNMKEABau2RsOxXPn7uQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Afrika-poulaar-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AL Imane Radio",
+					"stationLink": "http://listen.radionomy.com/djolof24?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/AL-Imane-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Al Khadimiyyah FM",
+					"stationLink": "http://78.129.190.50:25801/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Al-Khadimiyyah-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Allodakar radio",
+					"stationLink": "http://68.168.101.146:8520/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/01/Allodakar-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "At7Radio",
+					"stationLink": "https://www.radioking.com/play/at7radio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/at7radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bambilor FM",
+					"stationLink": "http://192.99.35.93:6310/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Bambilor-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Chaine Nationale",
+					"stationLink": "http://shout.audionow.com:8000/ANRTSChaineNationale?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Chaine-Nationale.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "City FM Senegal",
+					"stationLink": "https://www.radioking.com/play/cityfm",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/city-fm-senegal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dakar FM",
+					"stationLink": "https://stream.zenolive.com/cbff588f03duv.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Dakar-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dakar Musique",
+					"stationLink": "http://listen.senemultimedia.net:5266/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Dakar-Music-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Darmanko FM",
+					"stationLink": "http://192.227.85.169:4464/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/darmanko-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Diourbel FM",
+					"stationLink": "http://shout.audionow.com:8000/ANRTSDiourbel?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Diourbel-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "DjstationDetaila FM",
+					"stationLink": "http://hostheberge.net:2400/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/DjstationDetaila-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Djolof 24",
+					"stationLink": "http://listen.radionomy.com/djolof24?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/08/Djolof-24.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FULBE FM",
+					"stationLink": "https://listen.radioking.com/radio/20674/stream/53398",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/FULBE-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "H24 Senegal",
+					"stationLink": "https://listen.senemultimedia.net/proxy/h24senegal?mp=/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/h24-senegal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Houda Fm",
+					"stationLink": "http://91.121.153.12:9050/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/02/Houda-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "JistationDetaila FM Dakar",
+					"stationLink": "http://50.7.129.122:8142/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/JistationDetaila-FM-Dakar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Jikke FM",
+					"stationLink": "http://198.154.106.104:8482/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Jikke-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Junior Zik",
+					"stationLink": "http://juniorprod.net:9012/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/Junior-Zik.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kaffrine FM 88.5",
+					"stationLink": "http://stream.zenolive.com/4t22u3hu4ueuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/kaffrine-fm-88.5.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kaolack FM",
+					"stationLink": "http://shout.audionow.com:8000/ANRTSKaolack?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Kaolack-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Konu Radio",
+					"stationLink": "http://stream.zenolive.com/wu8g8g8pgvduv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Konu-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lamp Fall FM",
+					"stationLink": "http://ample-zeno-25.radiojar.com/ay2qtfx62neuv?rj-ttl=5&rj-token=AAABab8EgNTenzJzB2P6hp5CfG3G-udejVqHzmiUI1DYqZfIEnnpug",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Lamp-Fall-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lamp FM Kaolack",
+					"stationLink": "http://206.190.135.28:8230/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Lamp-FM-Kaolack.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lamp FM Touba",
+					"stationLink": "http://206.190.135.28:8026/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Lamp-FM-Touba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Maack FM",
+					"stationLink": "http://maackvision1.com:8847/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/05/Maack-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Medinabaye FM",
+					"stationLink": "http://stream.zenolive.com/w4v1hckvewwtv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/09/Medinabaye-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Na FM Senegal",
+					"stationLink": "http://listen.senemultimedia.net:8041/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/04/na-fm-senegal.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ore Fonde FM",
+					"stationLink": "http://orefm.out.airtime.pro:8000/orefm_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/10/ore-fonde-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pakala FM 104.6",
+					"stationLink": "http://stream.zeno.fm/26uh7uh1mrruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/pakala-fm-104.6.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pikine Biz Radio",
+					"stationLink": "https://node-12.zeno.fm/xvnmmwvk74zuv?rj-ttl=5&rj-tok=AAABc4sIf58A3ce0tNBT-ty3WA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Pikine-Biz-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Pikine Diaspora Radio",
+					"stationLink": "http://s8.voscast.com:8252",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Pikine-Diaspora-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Afia",
+					"stationLink": "http://s2.e-monsite.com/2010/04/05/46631632afia-fm-mp3.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Afia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Alfayda",
+					"stationLink": "https://usa5.fastcast4u.com/proxy/lyartech?mp=/1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Alfayda.png",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Carrefour FM",
+					"stationLink": "https://node-23.zeno.fm/dm1hymk3qzzuv?rj-ttl=5&rj-tok=AAABcmo2cyAA3kNY5TNQX2fdFQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-carrefour-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FaydatstationDetailianiya",
+					"stationLink": "http://listen.senemultimedia.net:5526/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-FaydatstationDetailianiya.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Futurs Medias",
+					"stationLink": "http://ample-zeno-19.radiojar.com/8b0eacw4vewtv?rj-ttl=5&rj-token=AAABYzScWWcpiU3_W6HNx7Va-rfANn3IcOylSfcomPF2mdPN4oqO2Q",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Futurs-Medias.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kawande",
+					"stationLink": "http://node-18.zeno.fm/7ns6amt68qruv?rj-ttl=5&rj-tok=AAABcjB9IJcAP5BpcLZUOdWuLw",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/05/radio-kawande.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kepaar FM",
+					"stationLink": "http://76.164.209.245:8000/kepaar",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Kepaar-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Koolaado Senegal",
+					"stationLink": "http://ample-zeno-01.radiojar.com/qwsghdmd5s5tv?rj-ttl=5&rj-token=AAABZC5RFpK1pTeHzBRteial0s-2QnjGndI4easB7tmZWpWHQqLQhA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Koolaado-Senegal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pakao FM",
+					"stationLink": "http://192.95.39.65:5144/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Pakao-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Rewmi",
+					"stationLink": "https://stream.zenolive.com/2u1zn4sghsmtv.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Rewmi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Senegal International",
+					"stationLink": "http://node-01.strongradiohost.com/wxuuqgvn2d5tv?rj-ttl=5&rj-token=AAABYdtopQt-XdBS23GKXcAntZfMgXaS49hlQZ0GzYSdBFstxYV0Ow",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-Senegal-International.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sunuker",
+					"stationLink": "http://radiosunuker223.primcast.com:6042",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/06/radio-sunuker.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Thiossane",
+					"stationLink": "http://listen.senemultimedia.net:5601",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-Thiossane.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Urum Bi",
+					"stationLink": "http://www.radioking.com/play/urumu-soodaan/63217",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Radio-Urum-Bi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Xiisa",
+					"stationLink": "http://node-17.zeno.fm/cynrezdwtzzuv?rj-ttl=5&rj-tok=AAABcni_zGAAe7s-6VwbBVm5QA",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/radio-xiisa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rail Bi FM 101.3",
+					"stationLink": "http://206.190.135.28:8086/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Rail-Bi-FM-101.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rap Djolof",
+					"stationLink": "http://listen.radionomy.com/rapdjoloffsenegal?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Rap-Djolof.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDI Senegal",
+					"stationLink": "http://listen.senemultimedia.net:5235/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/RDI-Senegal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sama Radio",
+					"stationLink": "https://streamingv2.shoutcast.com/SamaRadio",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/10/Sama-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sen Radio",
+					"stationLink": "http://radios.xalimasn.com:9024/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Sen-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Seneweb Radio",
+					"stationLink": "http://node-05.strongradiohost.com/2psy4xc99p5tv?rj-ttl=5&rj-token=AAABbML2Nc1q263J-IfUL6a2JLebD6VHKk8HAJg-fmMG5LAhwryv6w",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Seneweb-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sud FM",
+					"stationLink": "https://node-17.zeno.fm/rq40edfn3reuv.mp3?rj-ttl=5&rj-token=AAABbML5-u4TvvZL6lokmwhJ3mq0pKF0kMuvUb-uzILc8HXroHyfow",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/Sud-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Thienal FM 87.6 Kaffrine",
+					"stationLink": "http://stream.zeno.fm/w05mp3ha1mzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/thienal-fm-87.6-kaffrine.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vibe Radio Senegal",
+					"stationLink": "http://217.182.132.137:8000/viberadio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/vibe-radio-senegal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WADR",
+					"stationLink": "http://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/WADR.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Walf FM 89.7",
+					"stationLink": "http://50.7.68.251:9712/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Walf-FM-89.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Xalima Radio",
+					"stationLink": "http://radiosunuker221.primcast.com:7148/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/06/xalima-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "XEWXEW FM",
+					"stationLink": "http://radios.xalimasn.com:9012/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/09/XEWXEW-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zik FM",
+					"stationLink": "https://node-10.zeno.fm/vtxarcfpmnruv?rj-ttl=5&rj-tok=AAABbsXMXP0ANZB90J1pkEF71A",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Zik-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

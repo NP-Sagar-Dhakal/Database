@@ -1,0 +1,519 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Abdelbari Al-Toubayti",
+					"stationLink": "http://live.mp3quran.net:9870/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdelbari-Al-Toubayti.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdul Aziz Al-Ahmad",
+					"stationLink": "http://live.mp3quran.net:9862/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdul-Aziz-Al-Ahmad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulbari Mohammad",
+					"stationLink": "http://live.mp3quran.net:9868/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulbari-Mohammad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulbasit Abdulsamad (Warsh A'n Nafi') Radio",
+					"stationLink": "http://live.mp3quran.net:9956/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulbasit-Abdulsamad-Warsh-An-Nafi-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulbasit Abdulsamad Mjawoad Radio",
+					"stationLink": "http://live.mp3quran.net:9974/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulbasit-Abdulsamad-Mjawoad-Radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulbasit Abdulsamad Radio",
+					"stationLink": "http://live.mp3quran.net:9980/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulbasit-Abdulsamad-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulhadi Kanakeri",
+					"stationLink": "http://live.mp3quran.net:9850/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulhadi-Kanakeri.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdullah Al-Kandari",
+					"stationLink": "http://live.mp3quran.net:9860/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdullah-Al-Kandari.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdullah Al-Mattrod",
+					"stationLink": "http://live.mp3quran.net:9858/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdullah-Al-Mattrod.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdullah Aljohani",
+					"stationLink": "http://live.mp3quran.net:9944/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdullah-Aljohani.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdullah Basfer",
+					"stationLink": "http://live.mp3quran.net:9954/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdullah-Basfer.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdullah Khayyat",
+					"stationLink": "http://live.mp3quran.net:9948/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdullah-Khayyat.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulmohsen Al-Qasim",
+					"stationLink": "http://live.mp3quran.net:9852/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulmohsen-Al-Qasim.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulmohsin Al-Harthy",
+					"stationLink": "http://live.mp3quran.net:9856/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulmohsin-Al-Harthy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulmohsin Al-Obaikan",
+					"stationLink": "http://live.mp3quran.net:9854/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulmohsin-Al-Obaikan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulrahman Al-Majed",
+					"stationLink": "http://live.mp3quran.net:9726/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrahman-Al-Majed.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulrahman Alsudaes Radio",
+					"stationLink": "http://live.mp3quran.net:9988/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrahman-Alsudaes-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulrasheed Soufi Khalaf A'n Hamzah",
+					"stationLink": "http://live.mp3quran.net:9864/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrasheed-Soufi-Khalaf-An-Hamzah.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulrasheed Soufi-Assosi A'n Abi Amr",
+					"stationLink": "http://live.mp3quran.net:9866/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrasheed-Soufi-Assosi-An-Abi-Amr.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulwadood Haneef",
+					"stationLink": "http://live.mp3quran.net:9848/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulwadood-Haneef.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Addokali Mohammad Alalim",
+					"stationLink": "http://live.mp3quran.net:9916/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Addokali-Mohammad-Alalim.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Adel Al-Khalbany",
+					"stationLink": "http://live.mp3quran.net:9874/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Adel-Al-Khalbany.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Adel Ryyan",
+					"stationLink": "http://live.mp3quran.net:9872/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Adel-Ryyan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Al-Ajmy",
+					"stationLink": "http://live.mp3quran.net:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Al-Ajmy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Al-Hawashi",
+					"stationLink": "http://live.mp3quran.net:9928/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Al-Hawashi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Khader Al Tarabulsi",
+					"stationLink": "http://live.mp3quran.net:9924/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Khader-Al-Tarabulsi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Nauina",
+					"stationLink": "http://live.mp3quran.net:9904/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Nauina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Saber",
+					"stationLink": "http://live.mp3quran.net:9922/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Saber.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulmohsin Al-Obaikan",
+					"stationLink": "http://live.mp3quran.net:9854/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulmohsin-Al-Obaikan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulrahman Al-Majed",
+					"stationLink": "http://live.mp3quran.net:9726/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrahman-Al-Majed.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulrahman Alsudaes Radio",
+					"stationLink": "http://live.mp3quran.net:9988/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrahman-Alsudaes-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulrasheed Soufi Khalaf A'n Hamzah",
+					"stationLink": "http://live.mp3quran.net:9864/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrasheed-Soufi-Khalaf-An-Hamzah.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulrasheed Soufi-Assosi A'n Abi Amr",
+					"stationLink": "http://live.mp3quran.net:9866/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulrasheed-Soufi-Assosi-An-Abi-Amr.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Abdulwadood Haneef",
+					"stationLink": "http://live.mp3quran.net:9848/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Abdulwadood-Haneef.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Addokali Mohammad Alalim",
+					"stationLink": "http://live.mp3quran.net:9916/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Addokali-Mohammad-Alalim.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Adel Al-Khalbany",
+					"stationLink": "http://live.mp3quran.net:9874/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Adel-Al-Khalbany.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Adel Ryyan",
+					"stationLink": "http://live.mp3quran.net:9872/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Adel-Ryyan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Al-Ajmy",
+					"stationLink": "http://live.mp3quran.net:8008/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Al-Ajmy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Al-Hawashi",
+					"stationLink": "http://live.mp3quran.net:9928/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Al-Hawashi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Khader Al Tarabulsi",
+					"stationLink": "http://live.mp3quran.net:9924/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Khader-Al-Tarabulsi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Nauina",
+					"stationLink": "http://live.mp3quran.net:9904/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Nauina.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmad Saber",
+					"stationLink": "http://live.mp3quran.net:9922/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmad-Saber.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ahmed Amer",
+					"stationLink": "http://live.mp3quran.net:9920/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Ahmed-Amer.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Akram Alalaqmi",
+					"stationLink": "http://live.mp3quran.net:9918/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Akram-Alalaqmi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Al Jasra Culture",
+					"stationLink": "http://54.39.239.242:9318/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Aljasra-Culture.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Al Quran",
+					"stationLink": "http://66.45.232.131:9994/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/08/al-quran-1.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Al Quran MP3",
+					"stationLink": "http://184.173.185.71:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/07/al-quran-mp3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Al-Quran Live",
+					"stationLink": "http://quraan.us:9944/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/al-quran-live.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alafasy Radio",
+					"stationLink": "http://streams4.museter.com:8444/stream.ogg",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/07/Alafasy-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Allahu Akbar Radio",
+					"stationLink": "http://66.45.232.132:9996/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/allahu-akbar-radio-1.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Arabic Music Radio",
+					"stationLink": "http://188.247.86.67:8002/stream/3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/arabic-music-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BBC Arabic",
+					"stationLink": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/bbc-arabic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Beautiful Recitations",
+					"stationLink": "http://live.mp3quran.net:9992/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Beautiful-Recitations.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Eman City Radio",
+					"stationLink": "http://206.72.199.180:9990/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/eman-city-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hala FM 102.7",
+					"stationLink": "http://s8.viastreaming.net:7850/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Hala-FM-102.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Islam 2 Day Quran Recitation",
+					"stationLink": "http://islam2day.tv:3000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/08/islam-2-day-quran-recitation.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Layl Radio",
+					"stationLink": "https://listen.radioking.com/radio/190186/stream/232405",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/01/layl-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mazaj FM",
+					"stationLink": "http://ice5.securenetsystems.net/MAZAJFM?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/mazaj-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Misrfone Radio",
+					"stationLink": "http://s2.voscast.com:8612/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/misrfone-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mix FM Arabic",
+					"stationLink": "http://21303.live.streamtheworld.com/MIXFM_LEBANONAAC",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/mix-fm-arabic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "MP3 Quran",
+					"stationLink": "http://live.mp3quran.net:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/MP3-Quran.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nawras Radio 93.5 FM",
+					"stationLink": "http://217.66.226.47:8024/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/10/Nawras-Radio-93.5-FM1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Play 99.6 FM",
+					"stationLink": "http://108.61.34.50:7102/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/play-99.6-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Quran Radio",
+					"stationLink": "http://www.quran-radio.org:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/08/quran-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Quran Radio Tafsir",
+					"stationLink": "http://206.72.199.179:9992/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/03/quran-radio-tafsir-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Izlam",
+					"stationLink": "http://66.45.232.133:9998",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/01/radio-izlam.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Quraan",
+					"stationLink": "http://66.45.232.131:9994/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/01/radio-quraan.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sawa",
+					"stationLink": "https://ample-04.radiojar.com/mzw8z62r92quv?rj-ttl=5&rj-tok=AAABc39V9u0AicZLrbp8Ng58JQ",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/radio-sawa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rotana Radio",
+					"stationLink": "http://188.247.86.67:8002/stream/3/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/Rotana-Radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sanaa Radio",
+					"stationLink": "http://93.190.141.15:7183/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/06/sanaa-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sawt Beirut",
+					"stationLink": "http://212.83.138.48:8346/,stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/Sawt-Beirut-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Surah Al-Baqarah-Many Reciters",
+					"stationLink": "http://live.mp3quran.net:9722/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/05/Surah-Al-Baqarah-Many-Reciters.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "صوت الإسلام",
+					"stationLink": "http://node-23.zeno.fm:80/t5gkwva794zuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/صوت-الإسلام.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,358 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Alrasheed FM Musal",
+					"stationLink": "http://alrasheedmedia.com:9990",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Alrasheed-FM-Musal.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Atalanta FM",
+					"stationLink": "http://live.atalantafm.nl:6074",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/atalanta-fm-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AVA Radio",
+					"stationLink": "http://stream.avaradio.com/radio/8000/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/AVA-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bia2 Radio",
+					"stationLink": "http://199.58.163.15:8002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Bia2-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hamsafar Radio",
+					"stationLink": "http://ice2.securenetsystems.net:80/HUMSAFAR",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/11/hamsafar-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Iranian Radio",
+					"stationLink": "http://37.59.47.192:8200/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/12/iranian-radio.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Iranian Radio Traditional",
+					"stationLink": "https://streaming.shoutcast.com/IranianRadioTraditionalSonati",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/05/Iranian-Radio-Traditional.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "IranOnAir",
+					"stationLink": "http://iranonairone.mine.nu:9300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/11/iranonair-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Irib Radio Mashad",
+					"stationLink": "http://77.36.163.107/mashhad/mosighi/1394/Neynav_13940912.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Irib-Radio-Mashad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Music Planet",
+					"stationLink": "http://streaming.radionomy.com/PersianMusicPlanet?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/07/Music-Planet.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Nava7 Radio",
+					"stationLink": "http://5.39.71.159:8578/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Nava7-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Niaz Play",
+					"stationLink": "http://niazplay.se:8000/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Niaz-Play.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Persian Dance Party",
+					"stationLink": "http://listen.shoutcast.com/IranianRadioDance",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Persian-Dance-Party.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Persian Energy Radio",
+					"stationLink": "http://listen.radionomy.com/radiohamseda?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/08/Persian-Energy-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Persian Radio",
+					"stationLink": "mms://shared.streamwebtown.com/epersianwww",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/persian-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Persian Rap Radio",
+					"stationLink": "http://node-15.zeno.fm:80/edu18fr0xqzuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/02/persian-rap-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Persian Traditional Sonati",
+					"stationLink": "http://listen.shoutcast.com/IranianRadioTraditionalSonati",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/Persian-Traditional-Sonati.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 0098",
+					"stationLink": "http://radio.radio0098.com:8000/radio1",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/09/Radio-0098.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio 6o8",
+					"stationLink": "http://radio6o8.com:8000/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-6o8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ali",
+					"stationLink": "http://192.184.9.79:8348",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/02/radio-ali.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Arman Iran",
+					"stationLink": "http://148.251.187.85:8313",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/08/Radio-Arman-Iran1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Eram",
+					"stationLink": "http://37.59.47.192:8200",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/12/Radio-Eram.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Faloode",
+					"stationLink": "http://206.221.187.151:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/Radio-Faloode.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Farda",
+					"stationLink": "https://ample-11.radiojar.com/cp13r2cpn3quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/10/radio-farda-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio GEM",
+					"stationLink": "http://77.67.106.13:10407",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-GEM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hamdam",
+					"stationLink": "http://37.187.79.153:5566/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-Hamdam.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Hamseda",
+					"stationLink": "http://listen.radionomy.com/rtstereo?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/radio-hamseda.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Iran",
+					"stationLink": "http://ice41.securenetsystems.net/KIRN",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Iran.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Iran - KIRN",
+					"stationLink": "http://ice41.securenetsystems.net/KIRN?&type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Iran-KIRN.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Iran International",
+					"stationLink": "https://radio.iraninternational.app/iintl_c",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-iran-international.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Iran LA",
+					"stationLink": "http://ice41.securenetsystems.net/KIRN",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/09/radio-iran-la-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jadeed",
+					"stationLink": "http://50.7.70.66:8705",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Jadeed.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Javan",
+					"stationLink": "http://rj1.rjstream.com/",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2011/06/radio-javan.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jazznot",
+					"stationLink": "http://s7.streammonster.com:8343/stream?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/Radio-Jazznot.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mahoor",
+					"stationLink": "http://38.99.146.102:8000/mahoor.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/01/radio-mahoor.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Melody",
+					"stationLink": "http://78.69.242.58:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-melody-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shady",
+					"stationLink": "http://198.178.123.17:9274",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Radio-Shady.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shemroon Persian",
+					"stationLink": "http://stream.zenolive.com/845mwpfnhvduv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/04/Radio-Shemroon-Persian.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Shoma 93.4",
+					"stationLink": "https://19373.live.streamtheworld.com/RADIO_SHOMAAAC.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Radio-Shoma-93.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Simorgh",
+					"stationLink": "http://78.129.187.57:15169/mp3:Radiosimorgh",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-simorgh.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tehroon",
+					"stationLink": "https://radiotehroon.out.airtime.pro/radiotehroon_a",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/07/radio-tehroon-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tondar",
+					"stationLink": "http://88.198.35.138:8000/128?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Tondar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Tooka",
+					"stationLink": "http://stream.radio.co/s46656a3af/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-Tooka.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Zamaneh",
+					"stationLink": "http://icecast.xs4all.nl:8000/zamaneh?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-zamaneh-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadioMo",
+					"stationLink": "http://protostar.shoutca.st:9167/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/radiomo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RadiYol",
+					"stationLink": "http://188.165.232.7:8524/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/03/RadiYol.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Rodio",
+					"stationLink": "https://stream.rodio.ir/radio/8000/radio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/rodio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sarzamine Eshgh",
+					"stationLink": "http://getall.info:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/sarzamine-eshgh.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Sedaye Ashna",
+					"stationLink": "http://sedayeashna.irib.ir/documents/366574/1124415/goftemane-farhangi.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/sedaye-ashna-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "VOA News",
+					"stationLink": "http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/VOA-News.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

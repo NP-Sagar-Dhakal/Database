@@ -1,0 +1,673 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "91.9 Radio Activa",
+					"stationLink": "http://streamserver.ml:7002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/91.9-Radio-Activa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ambana Bolivia",
+					"stationLink": "http://stm13.srvstm.com:14540/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Ambana-Bolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "America FM",
+					"stationLink": "http://204.197.245.100:8236/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/America-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "AtlantstationDetaila FM 102.7",
+					"stationLink": "http://radios.ispbolivia.com:7514/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/AtlantstationDetaila-FM-102.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Black Rabbit",
+					"stationLink": "http://streamer.radio.co/sc70f66113/listen",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/08/Black-Rabbit.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "BOLIVIA Radio Okey",
+					"stationLink": "http://ample-zeno-17.radiojar.com/tvwuyaaqskeuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/bolivia-radio-okey.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Bolivia Tierra QuerstationDetaila",
+					"stationLink": "http://67.212.179.138:7084/;?_=0.5385439631600635",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Bolivia-Tierra-QuerstationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Capital FM 105.7",
+					"stationLink": "http://radios.imd.com.bo:7801/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Capital-FM-105.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Carlos Valverde",
+					"stationLink": "http://radios.bolivianservers.net:8010",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/02/Carlos-Valverde.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cesar Radio Rock",
+					"stationLink": "https://node-19.zeno.fm/sb1x2nz6s9duv?rj-ttl=5&rj-token=AAABa1C31PR4DWnqZr6IVZIClcvnaFLREgSmufFYBs5J6y3kvC7K9A",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/cesar-radio-rock.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Cesar The Classic",
+					"stationLink": "http://stream.zenolive.com/n5amqahevreuv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/cesar-the-classic.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Classica FM",
+					"stationLink": "http://classicafm.scbbs.net:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/03/Classica-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dj Edwin Bolivia",
+					"stationLink": "http://stream.zeno.fm/ug92g38xbhruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/dj-edwin-bolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "El SonstationDetailo De La VstationDetaila",
+					"stationLink": "http://realserver2.megalink.com:8120",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/06/El-SonstationDetailo-De-La-VstationDetaila.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Electra Radio Bolivia",
+					"stationLink": "http://stream.zenolive.com/rrza6s5h22quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/electra-radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Enlace FM",
+					"stationLink": "http://streaming.radionomy.com/1-Radio-Dance",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Enlace-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Erbol Digital",
+					"stationLink": "http://208.85.5.254:7223/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Erbol-Digital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Erbol Radio",
+					"stationLink": "http://108.170.61.114:7223/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/10/erbol-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Estelar FM",
+					"stationLink": "http://91.121.220.14:9960/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/12/estelar-fm.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "FM La Paz",
+					"stationLink": "http://icecasthd.net:45019/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/FM-La-Paz.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "GALAXIA FM 98",
+					"stationLink": "http://iplinea.com:9890/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/GALAXIA-FM-98.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Hit FM 99.1",
+					"stationLink": "http://stm10.nshcast.in:16252/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Hit-FM-99.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Chiwana 92.2 FM",
+					"stationLink": "http://giss.tv:8001/radiolachiwana.mp3?1512639657127",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/La-Chiwana-92.2-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Poderosa 100.3",
+					"stationLink": "http://stm32.srvstm.com:9842/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/La-Poderosa-100.3.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "La Radio Activa",
+					"stationLink": "http://radioserver1.us:7002/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/La-Radio-Activa.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Lobo Del Aire Radio",
+					"stationLink": "https://radio.accesopanel.com:7064/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/11/lobo-del-aire-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Majestad FM",
+					"stationLink": "http://realserver2.megalink.com:8130/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Majestad-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mediterraneo FM",
+					"stationLink": "http://206.217.207.207:8100/mediterraneo?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Mediterraneo-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Mega dj 89.8",
+					"stationLink": "http://servers58.com:7538/;?_=0.8696308019080243",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Mega-dj-89.8.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Melodia Fm 99.3",
+					"stationLink": "http://195.154.182.222:27148/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/10/melodia-fm-99.3.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO ACHIRI SATELITAL",
+					"stationLink": "http://stm7.xcast.com.br:10924/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/08/radio-achiri-satelital.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ACLO Chuquisaca",
+					"stationLink": "http://212.83.172.247:8024/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-ACLO-Chuquisaca.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio ACLO Tarija",
+					"stationLink": "http://188.95.248.116:9930/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-ACLO-Tarija.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ancoraimes",
+					"stationLink": "http://45.43.200.50:23904/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Ancoraimes.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Arce",
+					"stationLink": "http://108.163.229.102:8014/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-arce.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Betania",
+					"stationLink": "http://icecast.radiobetania.com:8000/betania.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Betania.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bolivia En Tu Corazon",
+					"stationLink": "http://107.161.127.202:23262/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/01/Radio-Bolivia-En-Tu-Corazon.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bolivia Mix",
+					"stationLink": "http://stm30.srvstm.com:32600/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/09/Radio-Bolivia-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Caliente Cochabamba",
+					"stationLink": "http://stm8.srvstm.com:9088/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Caliente-Cochabamba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio CEPJA",
+					"stationLink": "http://192.190.87.194:9414/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-CEPJA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio CEPRA",
+					"stationLink": "http://192.190.87.194:9396/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-CEPRA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Chacaltaya",
+					"stationLink": "http://realserver2.megalink.com:8110",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Chacaltaya.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Ciudad 91.3",
+					"stationLink": "http://66.7.222.98:9304/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Ciudad.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Clasica FM",
+					"stationLink": "http://radios.istbolivia.com:9976/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Clasica-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Compotosi",
+					"stationLink": "http://server.streambolivia.com:9880/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Compotosi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Copacabana Bolivia",
+					"stationLink": "http://stm49.srvstm.com:24040/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Radio-Copacabana-Bolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Cordillera",
+					"stationLink": "http://82.145.41.107:39898/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Cordillera.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Del Valle Bolivia",
+					"stationLink": "http://icecasthd.net:26274/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Radio-Del-Valle-Bolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Deseo",
+					"stationLink": "http://195.154.56.114:9166/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Deseo.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio DJTV 107.1 FM",
+					"stationLink": "http://stream.zeno.fm/f4z7a40zh3quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/radio-djtv-107.1-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO EL ALTO BOLIVIA FM",
+					"stationLink": "http://stm10.spro.es:10910/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/10/RADIO-EL-ALTO-BOLIVIA-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Estrella",
+					"stationLink": "http://37.59.121.120:9485/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Estrella.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FstationDetailes",
+					"stationLink": "http://192.99.17.12:6358",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2012/10/radio-fstationDetailes.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio FmBolivia",
+					"stationLink": "http://radios.boliviastreaming.net:7002",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-FmBolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fresh Bolivia",
+					"stationLink": "http://89.39.189.27:9900/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/12/radio-fresh-bolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Genial Bolivia",
+					"stationLink": "http://node-04.zeno.fm/u1q9epfp0xquv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/radio-genial-bolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio HD",
+					"stationLink": "http://server.streambolivia.com:9890/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-HD.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio stationDetaileal 104.9 FM",
+					"stationLink": "http://stm20.srvstm.com:19628/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/11/Radio-stationDetaileal-104.9-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Infinita FM",
+					"stationLink": "http://stm3.netstreambolivia.com:7446/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/09/radio-infinita-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO INQUISIVI BOLIVIA",
+					"stationLink": "http://200.stm-ip.com:8524/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/radio-inquisivi-bolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Integracion AM 640",
+					"stationLink": "http://stream.nepsum.com:9000/radiointegracion.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/07/radio-integracion-am-640.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Jr Digital FM",
+					"stationLink": "http://stm26.srvstm.com:20268/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/04/Radio-Jr-Digital-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Kantuta",
+					"stationLink": "http://45.43.200.82:23128/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Kantuta.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Cruz del Sur",
+					"stationLink": "http://stm4.srvstm.com:23490/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-La-Cruz-del-Sur.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio La Tremenda",
+					"stationLink": "http://antonioph.enhd.co:7080",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-La-Tremenda.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio LaBruja",
+					"stationLink": "http://91.121.220.14:9952/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-LaBruja.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Maritima",
+					"stationLink": "http://radiomaritima.streamakaci.com/radiomaritima.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/03/Radio-Maritima.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Maya Andino",
+					"stationLink": "http://fox1.streamjei.com.br:7340/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/radio-maya-andino.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Melodia Yunguena",
+					"stationLink": "http://icecasthd.net:25517/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Melodia-Yunguena.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mix 93.1",
+					"stationLink": "http://37.48.73.96:9996/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Mix-93.1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Next 91.7",
+					"stationLink": "http://212.83.172.242:8183/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Next-91.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pachamama",
+					"stationLink": "http://184.154.45.106:8011/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Pachamama.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PastationNamericana",
+					"stationLink": "http://stream.zeno.fm/pnwpbyfambruv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/02/Radio-PastationNamericana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Pasion Boliviana",
+					"stationLink": "http://realserver2.megalink.com:8140",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Pasion-Boliviana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Patria Nueva",
+					"stationLink": "http://190.129.90.43:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Patria-Nueva.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio PIO XII Cochabamba",
+					"stationLink": "http://aler.org:8000/pio12cbba.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/12/radio-pio-xii-cochabamba.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO POPULAR 89.9",
+					"stationLink": "http://stm47.srvstm.com:13846/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/RADIO-POPULAR-89.9.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sabor y Candela",
+					"stationLink": "http://195.154.182.222:25609/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Sabor-y-Candela.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SD",
+					"stationLink": "http://realserver2.megalink.com:8120/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-SD.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Show Oruro",
+					"stationLink": "http://radios.istbolivia.com:9984/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Show-Oruro.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Silver Mix",
+					"stationLink": "http://stm28.srvstm.com:14024/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Silver-Mix.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SM Huachi",
+					"stationLink": "http://centova.svdns.com.br:25349/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/11/radio-sm-huachi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sonic FM 89.1",
+					"stationLink": "http://online.radiodifusion.net:8020",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/12/Radio-Sonic-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio SplendstationDetail AM",
+					"stationLink": "http://www.boliviastreaming.com:7010/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-SplendstationDetail-AM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Stereo FM",
+					"stationLink": "https://s18.maxcast.com.br:8068/live?stationDetail=724993640455",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/radio-stereo-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Sterio 108.0 FM",
+					"stationLink": "http://stream.zeno.fm/e8trwxbut5quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/radio-sterio-108.0-fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Top 90.7",
+					"stationLink": "http://radioserver10.profesionalhosting.com:45443/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/02/radio-top-90.7.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Transamericana",
+					"stationLink": "http://server.laradio.online:8233/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/Radio-Transamericana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Uchumachi",
+					"stationLink": "http://www.boliviastreaming.com:7006/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Uchumachi.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Virtual Bolivia",
+					"stationLink": "http://stream.zeno.fm/nrmw40y0h3quv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/07/radio-virtual-bolivia.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RADIO WARA",
+					"stationLink": "http://stm13.srvstm.com:30448/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/RADIO-WARA.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Stereo 97",
+					"stationLink": "http://195.154.182.222:27147/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Stereo-97.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "THE NEW HOT 99.3 FM",
+					"stationLink": "http://149.56.185.83:8526/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/THE-NEW-HOT-99.3-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "WKM Radio",
+					"stationLink": "http://radio.mediastre.am/wkmradio.flv?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/04/WKM-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Zoy Milton",
+					"stationLink": "http://icepool.silvacast.com/GAYFM.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/06/zoy-milton.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}

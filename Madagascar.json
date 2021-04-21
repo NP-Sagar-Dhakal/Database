@@ -1,0 +1,225 @@
+{
+	"NepalNews": [
+		{
+			"NepaliRadios": [
+				{
+					"stationName": "Alefa Music",
+					"stationLink": "https://listen.radioking.com/radio/20/stream/635",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Alefa-Music.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Alliance 92 Fm",
+					"stationLink": "http://41.188.43.211:8000/alliance92.mp3?type=.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/07/Alliance-92-Fm.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dago Radio",
+					"stationLink": "http://flux-radio.dagoradiosound.info:8006/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/dago-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Dago Radio Sound",
+					"stationLink": "http://51.75.24.191:8011/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Dago-Radio-Sound.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Emmanuel Radio Madagascar",
+					"stationLink": "http://91.121.148.49:5777",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/01/Emmanuel-Radio-Madagascar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Kolo FM 88.8",
+					"stationLink": "http://176.223.135.69:8000/stream/2/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Kolo-FM-88.8-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "NetPro Mada Radio",
+					"stationLink": "https://radio.netpro.mg/arretbus23.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/10/netpro-mada-radio-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Ocean Music Madagascar",
+					"stationLink": "http://162.244.80.118:9444/;stream.nsv",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2019/04/ocean-music-madagascar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Oloaraiky Radio Faniry",
+					"stationLink": "http://91.121.67.95:9038/stream",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/04/Oloaraiky-Radio-Faniry.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Agape",
+					"stationLink": "http://91.121.148.49:9777/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-agape.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Bitsika",
+					"stationLink": "http://sv1.vestaradio.com:4730/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/03/Radio-Bitsika.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Des Jeunes",
+					"stationLink": "http://176.31.109.115:8000/rdj966.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-des-jeunes-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Don Bosco FM 93.4",
+					"stationLink": "http://onair15.xdevel.com:9248/;stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Don-Bosco-FM-93.4.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fahasoavana Mahagaga",
+					"stationLink": "http://78.129.187.57:8258/shoutcast.com",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Mahagaga.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Fahazavana",
+					"stationLink": "http://212.83.172.22/radio/3657/stream/11144",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Fahazavana.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Feonny Vahoaka FM 105.0",
+					"stationLink": "http://197.158.86.230:8000/live",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/02/Radio-Feonny-Vahoaka-FM-105.0.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Mtv Madagascar",
+					"stationLink": "http://176.223.135.69:8000/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/radio-mtv-madagascar.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Paradisagasy",
+					"stationLink": "http://195.154.116.117:8020",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-paradisagasy.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RNA",
+					"stationLink": "http://drs-live-rna.gasy-internet.info:9001",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/11/radio-rna.jpeg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio RNA Antalaha",
+					"stationLink": "http://drs-live-rna.gasy-internet.info:9001/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/11/Radio-RNA-Antalaha.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Taratra FM",
+					"stationLink": "http://41.188.43.211:8000/taratraradio.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2017/12/Radio-Taratra-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vazo Gasy",
+					"stationLink": "http://stream.radiovazogasy.com:8001",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/radio-vazo-gasy-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Radio Vazogasy",
+					"stationLink": "http://stream.radiovazogasy.com:8001",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2015/11/Radio-Vazogasy.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RDJ FM",
+					"stationLink": "http://176.31.109.115:8000/rdj966.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/RDJ-FM.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFA Radio Fanambarana",
+					"stationLink": "http://serveur.wanastream.com:21300/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Radio-Fanambarana-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RFI Musique",
+					"stationLink": "http://live02.rfi.fr/rfimusiquemonde-64k.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2014/05/RFI-Musique.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RLI FM 106",
+					"stationLink": "http://41.188.46.57:8000/stream.mp3",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/RLI-FM-106.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "RVM Radio Vaovao Mahasoa",
+					"stationLink": "http://91.121.148.49:7777/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2013/06/RVM-FM-1.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Soa i Madagasikara",
+					"stationLink": "http://streaming.hemera-media.com:8080/soaimadagasikara",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2020/03/soa-i-madagasikara.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Tiako Be",
+					"stationLink": "http://tiakobe.ice.infomaniak.ch/tiakobe-64.aac",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2016/11/Tiako-Be.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				},
+				{
+					"stationName": "Vahiniala Radio",
+					"stationLink": "http://176.31.187.194:8000/;",
+					"stationimage": "https://www.liveonlineradio.net/wp-content/uploads/2018/02/Vahiniala-Radio.jpg",
+					"stationDetail": "",
+					"stationLocation": ""
+				}
+			]
+		}
+	]
+}
